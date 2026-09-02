@@ -1,0 +1,20 @@
+{
+  "resource_id": "AIHE-PY29",
+  "title": "AI-HED Decision-Provenance and Lifecycle-Trigger Audit",
+  "primary_chapter": 12,
+  "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
+  "purpose": "Audit a versioned AI-HED for missing authoritative records, conflicting intervention identities, overdue review, unresolved lifecycle triggers, and missing accountable authority without producing a composite approval score.",
+  "related_resources": [
+    "AIHE-D02",
+    "AIHE-D03",
+    "AIHE-D04",
+    "AIHE-D05",
+    "AIHE-CASE12",
+    "AIHE-CASE09B"
+  ],
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current analytical resource",
+  "synthetic_data_notice": "The bundled data are synthetic. Replace with authorized local evidence before institutional use.",
+  "authorization_effect": "None"
+}

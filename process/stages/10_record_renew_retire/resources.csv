@@ -1,11 +1,11 @@
-﻿resource_id,title,role,primary_chapter,tier,folder
+resource_id,title,role,primary_chapter,tier,folder
 AIHE-D02,"Lifecycle Decision State, Staged Evidence, and AI-HED Status",primary,12,Core,chapters/12/core/AIHE-D02
-AIHE-D05,Material Change, Reauthorization, Renewal, Replacement, and Retirement Record,primary,12,Core,chapters/12/core/AIHE-D05
+AIHE-D05,"Material Change, Reauthorization, Renewal, Replacement, and Retirement Record",primary,12,Core,chapters/12/core/AIHE-D05
 AIHE-P,AI-HED Dossier Template,primary,12,Supplemental specialist tool,chapters/12/core/AIHE-D02/supp/AIHE-P
 AIHE-AE,AI-HED Completeness and Decision-Quality Review,primary,12,Supplemental specialist tool,chapters/12/core/AIHE-D02/supp/AIHE-AE
 AIHE-C03,Integrated Institutional-Risk Review,supporting,10,Core,chapters/10/core/AIHE-C03
-AIHE-E03,Supported Supported Asset-Life Decision Record,supporting,14,Core,chapters/14/core/AIHE-E03
+AIHE-E03,Supported Asset-Life Decision Record,supporting,14,Core,chapters/14/core/AIHE-E03
 AIHE-E04,Circularity-Adjusted Evaluation Record,supporting,15,Core,chapters/15/core/AIHE-E04
 AIHE-E05,"Environmental, Circularity, and Disposition Dashboard",supporting,15,Core,chapters/15/core/AIHE-E05
-AIHE-PY29,AI-HED completeness and institutional decision-quality audit,supporting,12,Python analytics,chapters/12/py/PY29_decision_audit
-AIHE-CASE12,"Model Update, Incident Response, and Renewal Decision",supporting,12,Worked case,worked_examples/CASE12_update_renew
+AIHE-PY29,AI-HED Decision-Provenance and Lifecycle-Trigger Audit,supporting,12,Python analytics,chapters/12/python_analytics/PY29_decision_audit
+AIHE-CASE12,"Model Update, Incident Response, and Renewal Decision",supporting,12,Worked case,worked_examples/AIHE-CASE12_model_update_incident_response_and_renewal_decision

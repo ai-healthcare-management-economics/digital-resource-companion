@@ -1,0 +1,4 @@
+vendor,weighted_score,confidence_adjusted_score,safeguards_pass,minimum_domain_score,recommendation
+Vendor Beta,74.55,63.3675,True,64,REVISE OR DELAY
+Vendor Alpha,74.5,63.324999999999996,True,68,REVISE OR DELAY
+Vendor Gamma,69.05,48.334999999999994,False,48,STOP: mandatory safeguard failed

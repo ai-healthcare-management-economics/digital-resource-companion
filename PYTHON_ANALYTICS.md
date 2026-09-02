@@ -1,5 +1,16 @@
-﻿# Python Analytics
+# Python Analytics
 
-The repository contains 39 chapter-aligned analytical modules. Each module provides a script, Jupyter notebook, synthetic input, spreadsheet template, documentation, and example output where applicable.
+The V1.0 Canonical Source contains **40 catalogued Python analytical modules**. Select a module because it matches the decision question, not because a method is technically available.
 
-Use the [Python Analytics browser](https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/python-analytics.html) to select a module by chapter, method, decision question, or related worked case. Synthetic inputs must be replaced with authorized evidence before institutional use.
+The modules cover data quality, model development and validation, calibration, decision utility, lifecycle cost, financial recognition, cost-effectiveness, budget impact, sensitivity analysis, probabilistic analysis, value of information, simulation, causal evaluation, forecasting, optimization, monitoring, decision provenance, circular resource accounting, supported asset life, circularity-adjusted economic evaluation, rebound, burden transfer, and lifecycle decision-state review.
+
+Each module should be used with:
+
+- a clearly defined decision problem and comparator
+- versioned, authorized input data
+- documented assumptions and limitations
+- appropriate verification and validation
+- preserved code, environment, inputs, and outputs; and
+- interpretation by people with relevant clinical, economic, methodological, technical, and institutional expertise.
+
+See `catalogs/PYTHON_MODULE_CATALOG.xlsx` or the Web Companion for the complete module list.

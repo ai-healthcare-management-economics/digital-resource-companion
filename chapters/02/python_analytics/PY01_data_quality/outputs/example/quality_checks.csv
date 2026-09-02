@@ -1,0 +1,6 @@
+check,count
+duplicate rows,0
+duplicate patient identifiers,0
+required mappings incomplete,0
+age outside 0-120,0
+negative cost,0

@@ -1,0 +1,32 @@
+{
+  "id": "AIHE-CASE09B",
+  "chapter": 9,
+  "title": "Upstream Model-Provider Change During a Vendor Contract",
+  "decision_question": "How should an institution respond when a contracted AI service changes an upstream model or hosting dependency?",
+  "objectives": [
+    "Assess continuing supplier disclosure.",
+    "Classify material change and affected evidence.",
+    "Define revalidation and interim controls.",
+    "Reach a documented renewal, restriction, replacement, or exit decision."
+  ],
+  "related_resources": [
+    "AIHE-D01",
+    "AIHE-D02",
+    "AIHE-D05"
+  ],
+  "related_python_modules": [
+    "AIHE-PY17",
+    "AIHE-PY25",
+    "AIHE-PY40"
+  ],
+  "demo_type": "vendor_change",
+  "chapter_title": "Problem-First Procurement and Vendor Governance",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "data_classification": "synthetic",
+  "case_id": "AIHE-CASE09B",
+  "resource_id": "AIHE-CASE09B"
+}

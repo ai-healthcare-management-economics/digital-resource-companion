@@ -1,0 +1,10 @@
+Field,Prompt,Response
+Hospital problem,"What specific, measurable problem needs to be solved?",
+Target users,Who will use or be affected by the system?,
+Population and setting,"Which patients, encounters, departments, and sites are included?",
+AI intervention,What does the AI system produce and when?,
+Comparator,What is the current process or realistic alternative?,
+Value mechanism,"How should the output change decisions, actions, and outcomes?",
+Outcomes,"Which clinical, operational, economic, equity, and trust outcomes matter?",
+Risks,What could go wrong and who could be harmed?,
+Decision rule,"What evidence would justify pilot, scale, restriction, or rejection?",

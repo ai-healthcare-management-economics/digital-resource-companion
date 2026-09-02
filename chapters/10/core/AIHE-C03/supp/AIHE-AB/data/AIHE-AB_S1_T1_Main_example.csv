@@ -1,0 +1,9 @@
+Risk,Likelihood,Impact,Mitigation,Owner,Review date
+Unauthorized data access,Medium,High,"Role-based access, monitoring, incident response, contractual controls, tested fallback, and review.",Privacy and security lead,2026-10-01
+Vendor or supply-chain breach,Medium,High,"Role-based access, monitoring, incident response, contractual controls, tested fallback, and review.",Privacy and security lead,2026-10-01
+Ransomware or service downtime,Medium,High,"Role-based access, monitoring, incident response, contractual controls, tested fallback, and review.",Privacy and security lead,2026-10-01
+Unsafe model or prompt manipulation,Medium,High,"Role-based access, monitoring, incident response, contractual controls, tested fallback, and review.",Privacy and security lead,2026-10-01
+Weak access control or audit logging,Medium,High,"Role-based access, monitoring, incident response, contractual controls, tested fallback, and review.",Privacy and security lead,2026-10-01
+Insecure update or API,Medium,High,"Role-based access, monitoring, incident response, contractual controls, tested fallback, and review.",Privacy and security lead,2026-10-01
+Unsafe manual fallback,Medium,High,"Role-based access, monitoring, incident response, contractual controls, tested fallback, and review.",Privacy and security lead,2026-10-01
+Unclear incident escalation,Medium,High,"Role-based access, monitoring, incident response, contractual controls, tested fallback, and review.",Privacy and security lead,2026-10-01

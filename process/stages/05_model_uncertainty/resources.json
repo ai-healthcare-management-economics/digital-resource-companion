@@ -1,11 +1,11 @@
-﻿[
+[
   {
     "resource_id": "AIHE-B05",
     "title": "Model Selection, Uncertainty, and Reproducibility",
     "role": "primary",
     "primary_chapter": "8",
     "tier": "Core",
-    "folder": "ch/08/core/AIHE-B05"
+    "folder": "chapters/08/core/AIHE-B05"
   },
   {
     "resource_id": "AIHE-RG05",
@@ -13,15 +13,15 @@
     "role": "primary",
     "primary_chapter": "8",
     "tier": "Reference guide",
-    "folder": "ch/08/guides/AIHE-RG05"
+    "folder": "chapters/08/guides/AIHE-RG05"
   },
   {
     "resource_id": "AIHE-CASE08",
-    "title": "Imaging Prioritization Decision Model and Value of Information",
+    "title": "Imaging Prioritization: Decision Model and Value of Information",
     "role": "supporting",
     "primary_chapter": "8",
     "tier": "Worked case",
-    "folder": "cases/CASE08_imaging_voi"
+    "folder": "worked_examples/AIHE-CASE08_imaging_prioritization_decision_model_and_value_of_information"
   },
   {
     "resource_id": "AIHE-EX04",
@@ -29,7 +29,7 @@
     "role": "supporting",
     "primary_chapter": "8",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/08/core/AIHE-B05/supp/AIHE-EX04"
+    "folder": "chapters/08/core/AIHE-B05/supp/AIHE-EX04"
   },
   {
     "resource_id": "AIHE-EX06",
@@ -37,7 +37,7 @@
     "role": "supporting",
     "primary_chapter": "8",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/08/core/AIHE-B05/supp/AIHE-EX06"
+    "folder": "chapters/08/core/AIHE-B05/supp/AIHE-EX06"
   },
   {
     "resource_id": "AIHE-EX15",
@@ -45,7 +45,7 @@
     "role": "supporting",
     "primary_chapter": "8",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/08/core/AIHE-B05/supp/AIHE-EX15"
+    "folder": "chapters/08/core/AIHE-B05/supp/AIHE-EX15"
   },
   {
     "resource_id": "AIHE-EX16",
@@ -53,6 +53,6 @@
     "role": "supporting",
     "primary_chapter": "8",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/08/core/AIHE-B05/supp/AIHE-EX16"
+    "folder": "chapters/08/core/AIHE-B05/supp/AIHE-EX16"
   }
 ]

@@ -1,0 +1,4 @@
+category,severity,resolved,description
+upstream model change,major,false,Supplier changed the underlying foundation model
+subgroup calibration,moderate,false,Calibration review remains incomplete
+service availability,minor,true,Brief outage reviewed and closed

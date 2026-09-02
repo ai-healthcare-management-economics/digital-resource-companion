@@ -1,7 +1,7 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-E03.schema.json",
-  "title": "AIHE-E03 — Supported Supported Asset-Life Decision Record",
+  "title": "AIHE-E03 — Supported Asset-Life Decision Record",
   "description": "Compare maintain, refurbish, replace, and shared-service options across suitability, life, cost, resources, resilience, and disposition.",
   "type": "object",
   "properties": {

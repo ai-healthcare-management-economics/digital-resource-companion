@@ -1,4 +1,0 @@
-﻿Threshold,Patients/day,Prevalence,Sensitivity,Specificity,Review capacity/day
-A - high sensitivity,250,0.05,0.92,0.55,35
-B - balanced,250,0.05,0.82,0.8,35
-C - high specificity,250,0.05,0.72,0.92,35

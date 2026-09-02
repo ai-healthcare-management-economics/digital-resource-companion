@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-EX05.schema.json",
   "title": "AIHE-EX05 — Local Validation Report Template",

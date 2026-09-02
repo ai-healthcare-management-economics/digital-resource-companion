@@ -1,0 +1,19 @@
+{
+  "current_state": "conditional use",
+  "proposed_transition_for_review": "restrict use and reassess",
+  "open_triggers": [
+    {
+      "category": "upstream model change",
+      "severity": "major",
+      "resolved": false,
+      "description": "Supplier changed the underlying foundation model"
+    },
+    {
+      "category": "subgroup calibration",
+      "severity": "moderate",
+      "resolved": false,
+      "description": "Calibration review remains incomplete"
+    }
+  ],
+  "authorization_effect": "None - accountable institutional decision required"
+}

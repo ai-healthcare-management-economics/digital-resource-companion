@@ -1,8 +1,0 @@
-﻿domain,question,evidence_or_response,confidence,owner,condition_or_action
-Problem and comparator,What problem is being addressed and compared with which realistic alternatives?,,,,
-Intervention bundle,"Which data, model, interfaces, people, workflow, monitoring, and exit arrangements form the intervention?",,,,
-Evidence and readiness,"What external and local evidence supports use, and which prerequisites remain unresolved?",,,,
-Economics and affordability,"What are the lifecycle costs, expected outcomes, budget consequences, and opportunity costs?",,,,
-Governance and distribution,"Which safeguards, decision rights, equity effects, privacy, cybersecurity, and trust concerns matter?",,,,
-Implementation and lifecycle,"What staged plan, monitoring thresholds, review triggers, and exit conditions are required?",,,,
-Final recommendation,"What decision is recommended, with which conditions, owners, evidence needs, and review date?",,,,

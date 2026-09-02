@@ -1,14 +1,18 @@
-﻿# Change Log
+# Changelog
 
-## V1.0 - 2026-09-02
+## V1.0 — 2026-09-02
 
-- synchronized the companion with the revised fifteen-chapter textbook;
-- replaced the active figure registry with 31 current principal figures and the active table registry with 46 current principal tables;
-- revised chapter and section references and removed reliance on printed page numbers from current entry points;
-- redesigned AIHE-D02, AIHE-D05, AIHE-E03, and AIHE-E04;
-- strengthened financial recognition, value-of-information, procurement, monitoring, provenance, supported-asset-life, circularity, rebound, and burden-transfer resources;
-- replaced the Chapter 15 principal case with the AI-assisted remote diagnostic pathway;
-- added four supplementary worked examples and AIHE-PY40;
-- regenerated website, core forms, current catalogues, inventories, and checksums.
+Initial public release aligned with the current five-Part, fifteen-chapter textbook.
 
-V1.0 materials retained for migration are clearly located under archive folders and are not presented as current book elements.
+### Included
+
+- 24 core institutional records
+- 20 worked examples plus the common case-analysis method
+- 40 Python analytical modules
+- current catalogues for 31 principal figures and 46 principal tables
+- a redesigned lifecycle decision-state and AI-HED record
+- expanded material-change, reauthorization, renewal, replacement, and retirement resources
+- supported asset-life and circularity-adjusted economic-evaluation resources
+- a current AI-assisted remote-diagnostic worked example
+- synchronized Web Companion, Reader and Practitioner Edition, Core Tools Pack, and Canonical Source; and
+- short, Windows-compatible paths while retaining descriptive public folder and publication names.

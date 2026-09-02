@@ -1,0 +1,26 @@
+{
+  "resource_id": "AIHE-PY10",
+  "module_number": 10,
+  "title": "Total Cost of AI Ownership (TCAIO) lifecycle costing",
+  "resource_type": "py",
+  "primary_chapter": 6,
+  "primary_chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
+  "additional_chapters": [
+    6,
+    9,
+    14,
+    15
+  ],
+  "related_core_resources": [
+    "AIHE-B02"
+  ],
+  "related_case": "AIHE-CASE06",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Calculates one-time and recurring AI costs, discounted present value, cost per use, and optimistic/base/conservative scenarios across the full lifecycle.",
+  "input": "`Costs` sheet with category, item, one-time cost, annual recurring cost, start year, end year, low/base/high multipliers, and budget owner; `Parameters` sheet with horizon, discount rate, and eligible volume.",
+  "outputs": "Detailed annual and category cost tables, present-value summary, cost-per-use estimates, scenario comparison, category chart, annual-cost chart, and summary JSON.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

@@ -1,0 +1,5 @@
+variable,missing_count,missing_percent
+outcome,7,4.666666666666667
+age,12,8.0
+risk_score,15,10.0
+cost,9,6.0

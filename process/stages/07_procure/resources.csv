@@ -1,6 +1,6 @@
-﻿resource_id,title,role,primary_chapter,tier,folder
+resource_id,title,role,primary_chapter,tier,folder
 AIHE-D01,Vendor Evidence and Contract Requirements,primary,9,Core,chapters/09/core/AIHE-D01
-AIHE-CASE09,AI Vendor Procurement and Contract Negotiation,supporting,9,Worked case,worked_examples/CASE09_vendor_contract
+AIHE-CASE09,AI Vendor Procurement and Contract Negotiation,supporting,9,Worked case,worked_examples/AIHE-CASE09_ai_vendor_procurement_and_contract_negotiation
 AIHE-D,AI Procurement Checklist,supporting,9,Supplemental specialist tool,chapters/09/core/AIHE-D01/supp/AIHE-D
 AIHE-EX08,Vendor Demonstration Evaluation Form,supporting,9,Supplemental specialist tool,chapters/09/core/AIHE-D01/supp/AIHE-EX08
 AIHE-EX09,Contract Requirements and Exit Matrix,supporting,9,Supplemental specialist tool,chapters/09/core/AIHE-D01/supp/AIHE-EX09

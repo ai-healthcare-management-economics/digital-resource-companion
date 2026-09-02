@@ -1,0 +1,26 @@
+{
+  "resource_id": "AIHE-PY22",
+  "module_number": 22,
+  "title": "System-dynamics model of adoption, capacity, and value",
+  "resource_type": "py",
+  "primary_chapter": 4,
+  "primary_chapter_title": "Productivity, Work Redesign, and Implementation",
+  "additional_chapters": [
+    4,
+    8,
+    12
+  ],
+  "related_core_resources": [
+    "AIHE-B03",
+    "AIHE-D02"
+  ],
+  "related_case": "AIHE-CASE04",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Explores feedback among training, trust, adoption, workforce capacity, workload, benefit realization, and support burden over time.",
+  "input": "`Parameters` sheet with initial stocks, rates, feedback strengths, simulation horizon, and time step.",
+  "outputs": "Time-series stocks and flows, adoption/capacity/value trajectories, scenario summary, and feedback visualization.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

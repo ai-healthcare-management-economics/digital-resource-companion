@@ -1,0 +1,9 @@
+Domain,Assessment question,Score 0-3,Evidence required
+Strategic alignment,Is the AI project linked to a documented hospital priority?,"Strategy, board minutes, quality plan",
+Data readiness,"Are relevant data complete, standardized, accessible, and lawful to use?",Data inventory and quality report,
+Infrastructure,Can the system integrate with existing hospital platforms?,Interoperability and architecture review,
+Workforce,Are users trained and ready to interpret AI outputs?,Training plan and user feedback,
+Governance,"Are roles, accountability, and monitoring defined?",Governance charter and risk register,
+Economics,Is there a full cost and budget impact assessment?,Business case and sensitivity analysis,
+Ethics and equity,"Have fairness, trust, access, and patient implications been reviewed?",Ethical impact assessment,
+Cybersecurity,Has the solution been assessed for privacy and resilience?,Security assessment and incident response plan,

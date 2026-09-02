@@ -1,6 +1,0 @@
-﻿step,stage,purpose,required_input,expected_output,decision_or_gate
-1,Define the question,"State the selection, verification, comparison, or update decision.",Local evidence and the prior approved step,Versioned record for: Define the question,"Proceed, revise, escalate, restrict, or stop as appropriate"
-2,Identify applicable options,"List relevant instruments, scenarios, evidence domains, or failure patterns.",Local evidence and the prior approved step,Versioned record for: Identify applicable options,"Proceed, revise, escalate, restrict, or stop as appropriate"
-3,Verify status and scope,"Record authority, edition, jurisdiction, purpose, and limits.",Local evidence and the prior approved step,Versioned record for: Verify status and scope,"Proceed, revise, escalate, restrict, or stop as appropriate"
-4,Complete the local record,"Document evidence, judgement, ownership, gaps, and action.",Local evidence and the prior approved step,Versioned record for: Complete the local record,"Proceed, revise, escalate, restrict, or stop as appropriate"
-5,Review and update,"Approve, archive, and set the next review or trigger.",Local evidence and the prior approved step,Versioned record for: Review and update,"Proceed, revise, escalate, restrict, or stop as appropriate"

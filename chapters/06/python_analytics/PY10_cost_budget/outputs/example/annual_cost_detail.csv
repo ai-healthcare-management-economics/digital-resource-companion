@@ -1,0 +1,49 @@
+category,cost_item,budget_owner,year,undiscounted_base_cost,pv_base_cost,pv_low_cost,pv_high_cost
+Acquisition,Annual licence,Hospital administration,0,80000.0,80000.0,68000.0,96000.0
+Acquisition,Annual licence,Hospital administration,1,80000.0,77669.90291262136,66019.41747572816,93203.88349514564
+Acquisition,Annual licence,Hospital administration,2,80000.0,75407.67273070035,64096.521821095295,90489.20727684042
+Acquisition,Annual licence,Hospital administration,3,80000.0,73211.33274825277,62229.632836014855,87853.59929790332
+Acquisition,Annual licence,Hospital administration,4,80000.0,71078.9638332551,60417.11925826684,85294.75659990612
+Acquisition,Annual licence,Hospital administration,5,80000.0,69008.70275073311,58657.39733812314,82810.44330087974
+Integration/infrastructure,EHR interfaces,Digital health,0,45000.0,45000.0,40500.0,58500.0
+Integration/infrastructure,EHR interfaces,Digital health,1,8000.0,7766.990291262136,6990.291262135923,10097.087378640777
+Integration/infrastructure,EHR interfaces,Digital health,2,8000.0,7540.767273070035,6786.690545763031,9802.997454991046
+Integration/infrastructure,EHR interfaces,Digital health,3,8000.0,7321.133274825277,6589.019947342749,9517.47325727286
+Integration/infrastructure,EHR interfaces,Digital health,4,8000.0,7107.89638332551,6397.10674499296,9240.265298323164
+Integration/infrastructure,EHR interfaces,Digital health,5,8000.0,6900.870275073311,6210.78324756598,8971.131357595305
+Data,Data preparation and mapping,Data office,0,30000.0,30000.0,24000.0,40500.0
+Data,Data preparation and mapping,Data office,1,12000.0,11650.485436893205,9320.388349514564,15728.155339805828
+Data,Data preparation and mapping,Data office,2,12000.0,11311.150909605052,9048.920727684043,15270.053727966822
+Data,Data preparation and mapping,Data office,3,12000.0,10981.699912237915,8785.359929790333,14825.294881521188
+Data,Data preparation and mapping,Data office,4,12000.0,10661.844574988265,8529.475659990612,14393.49017623416
+Data,Data preparation and mapping,Data office,5,12000.0,10351.305412609967,8281.044330087972,13974.262307023457
+Workforce,Training and workflow redesign,Clinical operations,0,30000.0,30000.0,27000.0,37500.0
+Workforce,Training and workflow redesign,Clinical operations,1,10000.0,9708.73786407767,8737.864077669903,12135.922330097088
+Workforce,Training and workflow redesign,Clinical operations,2,10000.0,9425.959091337543,8483.36318220379,11782.448864171929
+Workforce,Training and workflow redesign,Clinical operations,3,10000.0,9151.416593531596,8236.274934178437,11439.270741914495
+Workforce,Training and workflow redesign,Clinical operations,4,0.0,0.0,0.0,0.0
+Workforce,Training and workflow redesign,Clinical operations,5,0.0,0.0,0.0,0.0
+Governance and assurance,"Privacy, ethics, validation",Quality and governance,0,25000.0,25000.0,21250.0,32500.0
+Governance and assurance,"Privacy, ethics, validation",Quality and governance,1,15000.0,14563.106796116504,12378.640776699029,18932.038834951458
+Governance and assurance,"Privacy, ethics, validation",Quality and governance,2,15000.0,14138.938637006315,12018.097841455368,18380.62022810821
+Governance and assurance,"Privacy, ethics, validation",Quality and governance,3,15000.0,13727.124890297395,11668.056156752786,17845.26235738661
+Governance and assurance,"Privacy, ethics, validation",Quality and governance,4,15000.0,13327.305718735332,11328.209860925032,17325.49743435593
+Governance and assurance,"Privacy, ethics, validation",Quality and governance,5,15000.0,12939.131765762459,10998.26200089809,16820.871295491197
+Cybersecurity,Security testing and resilience,Cybersecurity,0,15000.0,15000.0,13500.0,20250.0
+Cybersecurity,Security testing and resilience,Cybersecurity,1,10000.0,9708.73786407767,8737.864077669903,13106.796116504855
+Cybersecurity,Security testing and resilience,Cybersecurity,2,10000.0,9425.959091337543,8483.36318220379,12725.044773305684
+Cybersecurity,Security testing and resilience,Cybersecurity,3,10000.0,9151.416593531596,8236.274934178437,12354.412401267655
+Cybersecurity,Security testing and resilience,Cybersecurity,4,10000.0,8884.870479156887,7996.383431241199,11994.575146861798
+Cybersecurity,Security testing and resilience,Cybersecurity,5,10000.0,8626.087843841638,7763.479059457475,11645.218589186212
+Monitoring and updates,Monitoring and revalidation,AI governance,0,0.0,0.0,0.0,0.0
+Monitoring and updates,Monitoring and revalidation,AI governance,1,35000.0,33980.58252427184,27184.466019417476,47572.81553398058
+Monitoring and updates,Monitoring and revalidation,AI governance,2,25000.0,23564.897728343858,18851.918182675086,32990.8568196814
+Monitoring and updates,Monitoring and revalidation,AI governance,3,25000.0,22878.54148382899,18302.833187063192,32029.958077360585
+Monitoring and updates,Monitoring and revalidation,AI governance,4,25000.0,22212.17619789222,17769.740958313774,31097.046677049108
+Monitoring and updates,Monitoring and revalidation,AI governance,5,25000.0,21565.219609604097,17252.175687683277,30191.307453445737
+Opportunity and exit,Decommissioning reserve,Finance,0,0.0,0.0,0.0,0.0
+Opportunity and exit,Decommissioning reserve,Finance,1,0.0,0.0,0.0,0.0
+Opportunity and exit,Decommissioning reserve,Finance,2,0.0,0.0,0.0,0.0
+Opportunity and exit,Decommissioning reserve,Finance,3,0.0,0.0,0.0,0.0
+Opportunity and exit,Decommissioning reserve,Finance,4,0.0,0.0,0.0,0.0
+Opportunity and exit,Decommissioning reserve,Finance,5,20000.0,17252.175687683277,12939.131765762459,25878.263531524917

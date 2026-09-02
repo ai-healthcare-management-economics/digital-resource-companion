@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-healthcare-economics.github.io/digital-resource-companion/schemas/AIHE-EX05.schema.json",
+  "title": "AIHE-EX05 — Local Validation Report Template",
+  "description": "Document intended use, local cohort, exact system version, discrimination, calibration, threshold-specific performance, subgroup findings, workflow, clinical utility, uncertainty, and the resulting local decision.",
+  "type": "object",
+  "properties": {
+    "resource_id": {
+      "const": "AIHE-EX05"
+    },
+    "record_version": {
+      "type": "string"
+    },
+    "system_version": {
+      "type": "string"
+    },
+    "evidence_cut_off": {
+      "type": "string"
+    },
+    "accountable_owner": {
+      "type": "string"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "section": {
+            "type": "string",
+            "title": "Section"
+          },
+          "field": {
+            "type": "string",
+            "title": "Field"
+          },
+          "response": {
+            "type": "string",
+            "title": "Response"
+          },
+          "owner": {
+            "type": "string",
+            "title": "Owner"
+          },
+          "status": {
+            "type": "string",
+            "title": "Status"
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "required": [
+    "resource_id",
+    "records"
+  ],
+  "additionalProperties": true,
+  "x-column-map": {
+    "Section": "section",
+    "Field": "field",
+    "Response": "response",
+    "Owner": "owner",
+    "Status": "status"
+  },
+  "x-resource-version": "V1.0"
+}

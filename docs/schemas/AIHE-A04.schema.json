@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-A04.schema.json",
   "title": "AIHE-A04 — Data Source, Provenance, and Fitness Record",

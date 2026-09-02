@@ -1,12 +1,15 @@
-﻿# Contributing
+# Contributing
 
-Contributions should improve accuracy, usability, accessibility, reproducibility, or alignment with the book without duplicating existing resources.
+Contributions that improve accuracy, accessibility, reproducibility, usability, or alignment with the book are welcome.
 
-A contribution should identify the affected chapter and resource ID, explain the decision need, provide authoritative sources where factual claims change, preserve backward compatibility where feasible, and include an updated example or test. Do not submit identifiable health information, confidential contracts, credentials, private keys, or material that cannot be shared lawfully.
+Before submitting a change:
 
-Use a pull request for proposed changes. Distinguish editorial changes from substantive methodological changes, and describe any effect on resource versions, assumptions, formulas, outputs, or decision interpretation.
+1. identify the affected resource ID, case ID, module ID, chapter, figure, or table
+2. explain the reason for the change and the evidence supporting it
+3. preserve stable identifiers and avoid relying on printed page numbers
+4. update all synchronized copies in `docs/`, `publications/`, and `bundles/` where applicable
+5. add or update tests and synthetic examples for computational changes
+6. avoid identifiable, confidential, proprietary, or restricted information; and
+7. confirm that the contribution can be distributed under the applicable repository licence.
 
-
-## Conduct
-
-Participation is governed by `CODE_OF_CONDUCT.md`. Contributions should preserve privacy, patient safety, stable resource identifiers, transparent evidence status, and the current book structure.
+Use an issue for substantial proposals before preparing a large pull request. Small corrections may be submitted directly with a clear explanation.

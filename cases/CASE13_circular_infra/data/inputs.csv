@@ -1,5 +1,0 @@
-﻿Option,Five-year cost,Energy MWh/year,Water m3/year,New hardware kg,Average utilization,Resilience score (1-5),Governance risk (1-5)
-Optimize existing models and scheduling,650000,90,120,80,0.72,3,2
-Shared regional AI service,1450000,70,300,120,0.82,4,3
-New on-premises GPU cluster,2100000,180,250,900,0.44,4,2
-Commercial cloud expansion,1850000,120,900,40,0.78,3,4

@@ -1,13 +1,38 @@
-﻿# Licence
+# Licence
 
 Copyright © 2026 Muthana Zouri and Carmen Marinela Cumpăt.
 
-Except where otherwise indicated, the Digital Resource Companion and its original resources are licensed under the **Creative Commons Attribution–NonCommercial 4.0 International licence (CC BY-NC 4.0)**.
+The Digital Resource Companion uses a dual-licence structure so that documentary resources and software are governed by licences suited to their form.
 
-Under this licence, users may share and adapt the material for non-commercial purposes provided that appropriate attribution is given, a link to the licence is supplied, and changes are identified. The licence does not permit commercial use without separate written permission from the rights holders.
+## Documentary, educational, and practical resources
 
-Licence summary and legal code:
+Except where a file-specific notice states otherwise, original documentation, forms, workbooks, diagrams, worked examples, synthetic datasets, reference guides, catalogues, and website content are licensed under the **Creative Commons Attribution–NonCommercial 4.0 International Licence (CC BY-NC 4.0)**.
 
+Users may copy, redistribute, and adapt these materials for non-commercial purposes provided that appropriate attribution is supplied, the licence is identified, and modifications are described.
+
+Licence summary and legal code:  
 https://creativecommons.org/licenses/by-nc/4.0/
 
-Third-party pubs, standards, trademarks, software dependencies, and other externally sourced materials remain subject to their respective rights and licences. A file-specific notice takes precedence where one is provided.
+## Software
+
+Original Python source code, Jupyter notebooks, JavaScript, and repository automation are licensed under the **MIT Licence**, reproduced in [`LICENSE-CODE-MIT.txt`](LICENSE-CODE-MIT.txt).
+
+## Synthetic data
+
+Synthetic datasets created specifically for the companion are governed as documentary and educational resources unless a file-specific notice states otherwise. Their synthetic status does not establish fitness for any clinical, regulatory, or institutional purpose.
+
+## Third-party material
+
+Third-party publications, standards, trademarks, software dependencies, and externally sourced material remain subject to their original rights and licences. A file-specific notice takes precedence where one is provided.
+
+## Attribution
+
+A suitable attribution for adapted documentary resources is:
+
+> Zouri, M., and Cumpăt, C. M. *Digital Resource Companion for Artificial Intelligence and Healthcare Economics: Evidence, Value, Governance, and Sustainability*, V1.0, 2026. Adapted under CC BY-NC 4.0.
+
+For software, retain the copyright and MIT licence notice.
+
+## No endorsement or warranty
+
+Permission to use or adapt a resource does not imply clinical, regulatory, legal, institutional, author, publisher, or university endorsement. The resources are provided without warranty. See [`LIMITED_USE_AND_DISCLAIMER.md`](LIMITED_USE_AND_DISCLAIMER.md).

@@ -1,0 +1,21 @@
+{
+  "case_id": "AIHE-CASE06B",
+  "title": "Financial Recognition and Budget Incidence",
+  "chapter": 6,
+  "chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "summary": "A staged notes service distinguishes released capacity, avoided economic cost, cashable saving, revenue change, and accounting treatment.",
+  "focus": [
+    "Released capacity",
+    "Avoided economic cost",
+    "Cashable saving",
+    "Revenue change",
+    "Accounting expense",
+    "Budget incidence",
+    "Attribution and recognition rule"
+  ],
+  "synthetic": true,
+  "decision_state": "evaluation",
+  "evidence_cut_off": "2026-09-02"
+}

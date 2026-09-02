@@ -1,0 +1,6 @@
+option,unit_cost,value_per_unit,maximum_units,workforce_hours_per_unit,capacity_units_per_unit,minimum_units,optimal_units,total_cost,total_value,workforce_used,capacity_used
+AI documentation,400,700,1200,1.2,0.3,0,341.66666666666686,136666.66666666674,239166.6666666668,410.0000000000002,102.50000000000006
+Readmission program,900,1450,500,2.5,0.8,0,0.0,0.0,0.0,0.0,0.0
+Imaging triage,650,980,700,1.6,0.5,0,424.9999999999999,276249.99999999994,416499.9999999999,679.9999999999999,212.49999999999994
+Cybersecurity hardening,1200,1650,350,3.0,0.9,50,50.0,60000.0,82500.0,150.0,45.0
+Data interoperability,1500,2100,300,4.0,1.0,40,40.0,60000.0,84000.0,160.0,40.0

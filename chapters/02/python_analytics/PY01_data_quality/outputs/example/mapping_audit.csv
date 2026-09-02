@@ -1,0 +1,7 @@
+local_field,standard_name,standard_code,required,present_in_data,mapping_complete,required_flag
+encounter_id,Encounter.identifier,FHIR Encounter,yes,True,True,True
+age,Patient.birthDate-derived,FHIR Patient,yes,True,True,True
+risk_score,Observation.value,FHIR Observation,yes,True,True,True
+cost,cost_amount,Local economic model,yes,True,True,True
+subgroup,population_group,Local equity dictionary,yes,True,True,True
+outcome,event_outcome,Local outcome definition,yes,True,True,True

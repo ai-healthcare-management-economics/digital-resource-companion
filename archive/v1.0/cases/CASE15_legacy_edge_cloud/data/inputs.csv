@@ -1,4 +1,0 @@
-﻿Option,Upfront cost,Annual cost,Annual benefit,Energy MWh/year,Water m3/year,Carbon tCO2e/year,Residual value,Resilience value/year,Latency seconds
-Edge deployment,1200000,220000,700000,120,50,40,250000,80000,0.5
-Commercial cloud,250000,500000,700000,90,800,55,0,100000,1.2
-Shared regional platform,600000,320000,700000,70,300,35,100000,120000,0.9

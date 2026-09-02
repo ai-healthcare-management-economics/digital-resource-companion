@@ -1,0 +1,8 @@
+risk_id,domain,description,likelihood,impact,control_effectiveness,owner,review_date,status,decision_trigger,inherent_risk,residual_risk,overdue,priority
+R-002,Cybersecurity,Prompt injection or malicious input,3,5,0.35,Security lead,2026-08-10,Mitigating,High-consequence exploit,15.0,9.75,False,High
+R-003,Equity,Subgroup miscalibration,4,4,0.4,Clinical safety lead,2026-07-21,Open,Material disparity,16.0,9.6,True,High
+R-001,Privacy,Unauthorized access to patient data,4,5,0.55,Privacy officer,2026-07-06,Open,Confirmed breach,20.0,9.0,True,Moderate
+R-007,Workflow,Unsafe manual workaround,3,4,0.25,Implementation lead,2026-08-02,Open,Repeated unsafe workaround,12.0,9.0,False,Moderate
+R-006,Economic,Recurring cost escalation,4,3,0.45,Finance lead,2026-06-16,Open,Budget threshold exceeded,12.0,6.6000000000000005,True,Moderate
+R-004,Trust,Loss of patient trust,3,4,0.5,Patient engagement lead,2026-08-30,Monitoring,Sustained deterioration,12.0,6.0,False,Moderate
+R-005,Safety,False-negative alerts,3,5,0.6,Clinical owner,2026-08-05,Mitigating,Threshold breach,15.0,6.0,False,Moderate

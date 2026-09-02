@@ -1,9 +1,0 @@
-﻿Risk,Likelihood,Impact,Mitigation,Owner,Review date
-Unauthorized data access,,,,,
-Vendor or supply-chain breach,,,,,
-Ransomware or service downtime,,,,,
-Unsafe model or prompt manipulation,,,,,
-Weak access control or audit logging,,,,,
-Insecure update or API,,,,,
-Unsafe manual fallback,,,,,
-Unclear incident escalation,,,,,

@@ -1,9 +1,9 @@
-﻿resource_id,title,role,primary_chapter,tier,folder
+resource_id,title,role,primary_chapter,tier,folder
 AIHE-C01,AI Quality-Control and Accreditation Evidence Plan,primary,5,Core,chapters/05/core/AIHE-C01
 AIHE-C02,Corrective and Preventive Action Record,primary,5,Core,chapters/05/core/AIHE-C02
 AIHE-EX05,Local Validation Report Template,primary,11,Supplemental specialist tool,chapters/11/supp/AIHE-EX05
 AIHE-RG02,Reporting and Appraisal Tool Selection Guide,primary,11,Reference guide,chapters/11/guides/AIHE-RG02
 AIHE-RG06,Diagnostic and Predictive Evidence Appraisal Checklist,primary,11,Reference guide,chapters/11/guides/AIHE-RG06
-AIHE-CASE05,"AI Quality-Control, Accreditation, and Corrective Action",supporting,5,Worked case,worked_examples/CASE05_quality_capa
-AIHE-CASE11,Local Validation and Causal Evaluation of a Readmission Model,supporting,11,Worked case,worked_examples/CASE11_readmit_eval
+AIHE-CASE05,"AI Quality Management, Accreditation, and Corrective Action",supporting,5,Worked case,worked_examples/AIHE-CASE05_ai_quality_management_accreditation_and_corrective_action
+AIHE-CASE11,Local Validation and Causal Evaluation of a Readmission Model,supporting,11,Worked case,worked_examples/AIHE-CASE11_local_validation_and_causal_evaluation_of_readmission_model
 AIHE-V,Validation Protocol for the Proposed Framework Package,supporting,12,Supplemental specialist tool,chapters/12/core/AIHE-D02/supp/AIHE-V

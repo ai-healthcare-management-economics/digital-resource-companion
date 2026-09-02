@@ -1,0 +1,4 @@
+period,resource,opening_stock,new_inflow,recovered_inflow,outflow,inner_loop_retained,outer_loop_retained,recovered_material,disposed,closing_stock,retained_value_flow,circular_leakage,retention_rate
+2026,end-user devices,120.0,35.0,8.0,28.0,11.0,6.0,7.0,4.0,135.0,24.0,4.0,0.8571428571428571
+2026,servers,18.0,4.0,1.0,3.0,1.0,1.0,1.0,0.0,20.0,3.0,0.0,1.0
+2026,storage units,42.0,12.0,3.0,10.0,4.0,2.0,3.0,1.0,47.0,9.0,1.0,0.9

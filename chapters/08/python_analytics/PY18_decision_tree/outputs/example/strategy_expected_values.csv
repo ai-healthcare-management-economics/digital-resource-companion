@@ -1,0 +1,3 @@
+strategy,role,expected_cost,expected_effect,expected_events,nmb,cohort_cost,cohort_effect
+AI pathway,ai,1507.4,0.8138,0.0591,39182.6,1507400.0,813.8
+Usual care,comparator,1573.0,0.7942999999999999,0.098,38141.99999999999,1573000.0,794.2999999999998

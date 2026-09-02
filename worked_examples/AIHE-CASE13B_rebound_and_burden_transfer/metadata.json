@@ -1,0 +1,30 @@
+{
+  "id": "AIHE-CASE13B",
+  "chapter": 13,
+  "title": "Rebound and Burden Transfer",
+  "decision_question": "Do efficiency gains reduce total resource demand, or are benefits offset by induced use or displaced burdens?",
+  "objectives": [
+    "Distinguish intensity from total resource use.",
+    "Model rebound and induced demand.",
+    "Identify spatial and intertemporal burden transfer.",
+    "Specify distributional and stewardship implications."
+  ],
+  "related_resources": [
+    "AIHE-E01",
+    "AIHE-E05"
+  ],
+  "related_python_modules": [
+    "AIHE-PY36",
+    "AIHE-PY39"
+  ],
+  "demo_type": "rebound",
+  "chapter_title": "Circular Health Systems and Resource Stewardship",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "data_classification": "synthetic",
+  "case_id": "AIHE-CASE13B",
+  "resource_id": "AIHE-CASE13B"
+}

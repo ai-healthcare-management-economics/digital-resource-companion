@@ -1,11 +1,11 @@
-﻿[
+[
   {
     "resource_id": "AIHE-C03",
     "title": "Integrated Institutional-Risk Review",
     "role": "primary",
     "primary_chapter": "10",
     "tier": "Core",
-    "folder": "ch/10/core/AIHE-C03"
+    "folder": "chapters/10/core/AIHE-C03"
   },
   {
     "resource_id": "AIHE-C04",
@@ -13,7 +13,7 @@
     "role": "primary",
     "primary_chapter": "3",
     "tier": "Core",
-    "folder": "ch/03/core/AIHE-C04"
+    "folder": "chapters/03/core/AIHE-C04"
   },
   {
     "resource_id": "AIHE-C05",
@@ -21,7 +21,7 @@
     "role": "primary",
     "primary_chapter": "10",
     "tier": "Core",
-    "folder": "ch/10/core/AIHE-C05"
+    "folder": "chapters/10/core/AIHE-C05"
   },
   {
     "resource_id": "AIHE-RG04",
@@ -29,7 +29,7 @@
     "role": "primary",
     "primary_chapter": "10",
     "tier": "Reference guide",
-    "folder": "ch/10/guides/AIHE-RG04"
+    "folder": "chapters/10/guides/AIHE-RG04"
   },
   {
     "resource_id": "AIHE-CASE10",
@@ -37,7 +37,7 @@
     "role": "supporting",
     "primary_chapter": "10",
     "tier": "Worked case",
-    "folder": "cases/CASE10_chatbot_risk"
+    "folder": "worked_examples/AIHE-CASE10_patient_facing_chatbot_institutional_risk_review"
   },
   {
     "resource_id": "AIHE-AB",
@@ -45,7 +45,7 @@
     "role": "supporting",
     "primary_chapter": "10",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/10/core/AIHE-C03/supp/AIHE-AB"
+    "folder": "chapters/10/core/AIHE-C03/supp/AIHE-AB"
   },
   {
     "resource_id": "AIHE-AC",
@@ -53,7 +53,7 @@
     "role": "supporting",
     "primary_chapter": "10",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/10/core/AIHE-C03/supp/AIHE-AC"
+    "folder": "chapters/10/core/AIHE-C03/supp/AIHE-AC"
   },
   {
     "resource_id": "AIHE-N",
@@ -61,6 +61,6 @@
     "role": "supporting",
     "primary_chapter": "10",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/10/core/AIHE-C03/supp/AIHE-N"
+    "folder": "chapters/10/core/AIHE-C03/supp/AIHE-N"
   }
 ]

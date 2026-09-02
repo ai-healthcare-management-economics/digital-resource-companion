@@ -1,0 +1,9 @@
+Dimension,Assessment question,Finding,Action required
+Completeness,Are essential variables and time points missing?,,
+Accuracy,Are values clinically plausible and correctly coded?,,
+Timeliness,Do data arrive before the decision is needed?,,
+Consistency,"Are definitions, units, and identifiers stable?",,
+Representativeness,Does the data reflect the intended population and setting?,,
+Linkage,Can records be linked across systems reliably?,,
+Lineage,Can transformations and provenance be audited?,,
+Bias,"Could documentation, access, or measurement patterns bias the system?",,

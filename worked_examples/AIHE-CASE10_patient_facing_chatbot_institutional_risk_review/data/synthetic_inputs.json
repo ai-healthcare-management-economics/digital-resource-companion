@@ -1,0 +1,59 @@
+{
+  "example_id": "AIHE-CASE10",
+  "title": "Patient-Facing Chatbot Institutional-Risk Review",
+  "chapter": 10,
+  "chapter_title": "Governance, Accountability, and Institutional Risk",
+  "version": "V1.0",
+  "synthetic": true,
+  "records": [
+    {
+      "Risk": "Unsupported clinical advice",
+      "Likelihood": 4,
+      "Impact": 5,
+      "Control effectiveness": 0.55,
+      "Mandatory concern": "Yes"
+    },
+    {
+      "Risk": "Prompt injection or malicious content",
+      "Likelihood": 3,
+      "Impact": 4,
+      "Control effectiveness": 0.5,
+      "Mandatory concern": "Yes"
+    },
+    {
+      "Risk": "Disclosure of sensitive information",
+      "Likelihood": 3,
+      "Impact": 5,
+      "Control effectiveness": 0.6,
+      "Mandatory concern": "Yes"
+    },
+    {
+      "Risk": "Digital exclusion and language inequity",
+      "Likelihood": 4,
+      "Impact": 4,
+      "Control effectiveness": 0.45,
+      "Mandatory concern": "Yes"
+    },
+    {
+      "Risk": "Failure to escalate urgent symptoms",
+      "Likelihood": 3,
+      "Impact": 5,
+      "Control effectiveness": 0.5,
+      "Mandatory concern": "Yes"
+    },
+    {
+      "Risk": "Inaccurate administrative information",
+      "Likelihood": 3,
+      "Impact": 3,
+      "Control effectiveness": 0.7,
+      "Mandatory concern": "No"
+    },
+    {
+      "Risk": "Unclear responsibility after an incident",
+      "Likelihood": 3,
+      "Impact": 4,
+      "Control effectiveness": 0.4,
+      "Mandatory concern": "Yes"
+    }
+  ]
+}

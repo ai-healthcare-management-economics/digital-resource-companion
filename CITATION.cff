@@ -1,14 +1,20 @@
-﻿cff-version: 1.2.0
-message: "Please cite the archived version of this resource."
-title: "Artificial Intelligence and Healthcare Economics: Digital Resource Companion"
-version: "V1.0"
-date-released: "2026-09-02"
+cff-version: 1.2.0
+message: "Please cite this Digital Resource Companion using the version-specific DOI and the resource identifier used."
+title: "Digital Resource Companion for Artificial Intelligence and Healthcare Economics: Evidence, Value, Governance, and Sustainability"
+type: software
 authors:
-  - family-names: "Zouri"
-    given-names: "Muthana"
-  - family-names: "Cumpăt"
-    given-names: "Carmen Marinela"
-repository-code: "https://github.com/ai-healthcare-economics/AIHE_Canon_V1.0"
-url: "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/"
+  - family-names: Zouri
+    given-names: Muthana
+  - family-names: Cumpăt
+    given-names: Carmen Marinela
+version: "1.0"
+date-released: "2026-09-02"
+repository-code: "https://github.com/ai-healthcare-economics/digital-resource-companion"
+url: "https://ai-healthcare-economics.github.io/digital-resource-companion/"
 doi: "10.5281/zenodo.21753927"
-license: "CC-BY-NC-4.0"
+license: CC-BY-NC-4.0
+abstract: >-
+  A chapter-aligned companion providing institutional records, workbooks,
+  worked examples, synthetic datasets, decision pathways, reference guides,
+  and reproducible analytical resources for Artificial Intelligence and
+  Healthcare Economics: Evidence, Value, Governance, and Sustainability.

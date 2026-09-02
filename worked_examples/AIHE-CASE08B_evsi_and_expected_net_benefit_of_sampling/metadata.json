@@ -1,0 +1,29 @@
+{
+  "id": "AIHE-CASE08B",
+  "chapter": 8,
+  "title": "EVSI and Expected Net Benefit of Sampling for a Staged Pilot",
+  "decision_question": "Would a staged pilot generate enough decision value to justify its cost and implementation delay?",
+  "objectives": [
+    "Identify decision-critical uncertainty.",
+    "Estimate expected value of sample information.",
+    "Compare information value with research cost and delay.",
+    "Define a proportionate evidence strategy."
+  ],
+  "related_resources": [
+    "AIHE-B05"
+  ],
+  "related_python_modules": [
+    "AIHE-PY14",
+    "AIHE-PY15"
+  ],
+  "demo_type": "evsi",
+  "chapter_title": "Decision Modelling, Simulation, and the Value of Information",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "data_classification": "synthetic",
+  "case_id": "AIHE-CASE08B",
+  "resource_id": "AIHE-CASE08B"
+}

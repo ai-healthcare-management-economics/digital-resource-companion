@@ -1,9 +1,0 @@
-﻿Phase,Aim,Participants / data,Method,Predefined output
-1 Construct mapping,Establish theoretical basis and detect overlap/gaps,"Literature, standards, frameworks",Systematic/scoping review and concept mapping,"Construct dictionary, logic model, crosswalk"
-2 Content validity,"Assess relevance, comprehensiveness, and clarity","Health economists, clinicians, managers, informaticians, ethics/privacy, patients",Delphi rounds and content-validity ratings,"Revised domains, items, definitions"
-3 Cognitive/usability,Test interpretation and completion burden,Intended users across roles and settings,"Think-aloud interviews, observation, usability testing","Manual, wording, workflow, burden estimates"
-4 Pilot feasibility,Assess application to diverse real decisions,Multiple hospitals and AI use cases,Prospective multicase implementation study,"Completion, missing data, decision and resource logs"
-5 Reliability,Assess consistency where a common judgement is expected,Independent multidisciplinary raters,Inter-rater reliability and agreement analysis,Reliability estimates and scoring revision
-6 Construct/criterion evidence,Test expected relationships and comparison with relevant decisions,"Framework scores, external measures, decisions, outcomes",Hypothesis testing and comparative analysis,Validity evidence and threshold hypotheses
-7 Decision impact,Assess whether use improves decision quality and governance,Projects using and not using the package,"Controlled before-after, stepped or comparative implementation study","Documentation, risk detection, contract, time, decision outcomes"
-8 External validation,Assess transferability and adaptation,"Hospitals across countries, maturity levels, and use types",Multicentre replication and qualitative comparative analysis,Adaptation guidance and versioned release

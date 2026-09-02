@@ -1,0 +1,19 @@
+{
+  "resource_id": "AIHE-PY39",
+  "title": "Rebound, Induced Demand, and Burden-Transfer Analysis",
+  "primary_chapter": 13,
+  "primary_chapter_title": "Circular Health Systems and Resource Stewardship",
+  "purpose": "Assess whether lower resource intensity reduces absolute demand and whether costs, environmental effects, material burdens, or labour consequences are shifted across places, populations, suppliers, or periods.",
+  "related_resources": [
+    "AIHE-E01",
+    "AIHE-E04",
+    "AIHE-E05",
+    "AIHE-CASE13B",
+    "AIHE-CASE15"
+  ],
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current analytical resource",
+  "synthetic_data_notice": "The bundled data are synthetic. Replace with authorized local evidence before institutional use.",
+  "authorization_effect": "None"
+}

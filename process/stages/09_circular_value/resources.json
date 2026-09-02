@@ -1,11 +1,11 @@
-﻿[
+[
   {
     "resource_id": "AIHE-E01",
     "title": "Circular-Economy and Sustainable-AI Assessment",
     "role": "primary",
     "primary_chapter": "13",
     "tier": "Core",
-    "folder": "ch/13/core/AIHE-E01"
+    "folder": "chapters/13/core/AIHE-E01"
   },
   {
     "resource_id": "AIHE-E02",
@@ -13,15 +13,15 @@
     "role": "primary",
     "primary_chapter": "14",
     "tier": "Core",
-    "folder": "ch/14/core/AIHE-E02"
+    "folder": "chapters/14/core/AIHE-E02"
   },
   {
     "resource_id": "AIHE-E03",
-    "title": "Supported Supported Asset-Life Decision Record",
+    "title": "Supported Asset-Life Decision Record",
     "role": "primary",
     "primary_chapter": "14",
     "tier": "Core",
-    "folder": "ch/14/core/AIHE-E03"
+    "folder": "chapters/14/core/AIHE-E03"
   },
   {
     "resource_id": "AIHE-E04",
@@ -29,7 +29,7 @@
     "role": "primary",
     "primary_chapter": "15",
     "tier": "Core",
-    "folder": "ch/15/core/AIHE-E04"
+    "folder": "chapters/15/core/AIHE-E04"
   },
   {
     "resource_id": "AIHE-E05",
@@ -37,7 +37,7 @@
     "role": "primary",
     "primary_chapter": "15",
     "tier": "Core",
-    "folder": "ch/15/core/AIHE-E05"
+    "folder": "chapters/15/core/AIHE-E05"
   },
   {
     "resource_id": "AIHE-CASE13",
@@ -45,7 +45,7 @@
     "role": "supporting",
     "primary_chapter": "13",
     "tier": "Worked case",
-    "folder": "cases/CASE13_circular_infra"
+    "folder": "worked_examples/AIHE-CASE13_circular_ai_infrastructure_strategy"
   },
   {
     "resource_id": "AIHE-CASE14",
@@ -53,7 +53,7 @@
     "role": "supporting",
     "primary_chapter": "14",
     "tier": "Worked case",
-    "folder": "cases/CASE14_asset_options"
+    "folder": "worked_examples/AIHE-CASE14_imaging_platform_maintain_refurbish_replace_or_share"
   },
   {
     "resource_id": "AIHE-CASE15",
@@ -61,7 +61,7 @@
     "role": "supporting",
     "primary_chapter": "15",
     "tier": "Worked case",
-    "folder": "cases/CASE15_legacy_edge_cloud"
+    "folder": "worked_examples/AIHE-CASE15_ai_assisted_remote_diagnostic_pathway"
   },
   {
     "resource_id": "AIHE-CE1",
@@ -69,7 +69,7 @@
     "role": "supporting",
     "primary_chapter": "13",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/13/core/AIHE-E01/supp/AIHE-CE1"
+    "folder": "chapters/13/core/AIHE-E01/supp/AIHE-CE1"
   },
   {
     "resource_id": "AIHE-CE2",
@@ -77,7 +77,7 @@
     "role": "supporting",
     "primary_chapter": "14",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/14/core/AIHE-E02/supp/AIHE-CE2"
+    "folder": "chapters/14/core/AIHE-E02/supp/AIHE-CE2"
   },
   {
     "resource_id": "AIHE-CE6",
@@ -85,6 +85,6 @@
     "role": "supporting",
     "primary_chapter": "15",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/15/core/AIHE-E04/supp/AIHE-CE6"
+    "folder": "chapters/15/core/AIHE-E04/supp/AIHE-CE6"
   }
 ]

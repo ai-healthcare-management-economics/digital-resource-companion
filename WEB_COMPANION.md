@@ -1,10 +1,18 @@
-﻿# Web Companion
+# Web Companion
 
-The GitHub Pages site is the primary reader-facing interface for the V1.0 Digital Resource Companion.
+The GitHub Pages Web Companion provides the primary interactive entry point to V1.0.
 
-- Website: https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/
-- Canonical source: https://github.com/ai-healthcare-economics/AIHE_Canon_V1.0
+It includes:
 
-The website supports navigation by chapter, institutional decision stage, form, worked example, process flow, and analytical method. Browser forms are drafting aids; the controlled institutional record should be preserved in an approved local format.
+- guided navigation by chapter and decision pathway
+- browser-readable core institutional forms
+- process maps and decision stages
+- 20 worked examples and the common case-analysis method
+- a searchable catalogue of 146 resources
+- a catalogue of 40 Python modules
+- the current 31-figure and 46-table book alignment; and
+- links to downloadable Word, Excel, PDF, and canonical source resources.
 
-GitHub Pages publishes the `docs/` directory.
+Browser forms and demonstrations are learning and drafting aids. Their contents should be transferred to governed institutional records before consequential use.
+
+Online: https://ai-healthcare-economics.github.io/digital-resource-companion/

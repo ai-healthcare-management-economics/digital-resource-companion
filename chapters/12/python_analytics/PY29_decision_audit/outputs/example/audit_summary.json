@@ -1,0 +1,24 @@
+{
+  "decision_id": "AIHED-SYNTHETIC-001",
+  "current_state": "restricted pilot",
+  "audit_date": "2026-09-02",
+  "findings": [
+    {
+      "category": "version conflict",
+      "finding": "decision=2.0; deployed=2.1",
+      "response": "reconcile identity and reassess affected evidence"
+    },
+    {
+      "category": "unresolved trigger",
+      "finding": "Upstream model changed",
+      "response": "assign owner, evidence requirement, and decision date"
+    },
+    {
+      "category": "unresolved trigger",
+      "finding": "Subgroup calibration review incomplete",
+      "response": "assign owner, evidence requirement, and decision date"
+    }
+  ],
+  "requires_accountable_review": true,
+  "authorization_effect": "None - advisory audit only"
+}

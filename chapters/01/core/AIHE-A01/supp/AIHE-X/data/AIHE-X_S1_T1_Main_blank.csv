@@ -1,0 +1,9 @@
+Element,Question,Response
+Population,Who is eligible?,
+Intervention,What AI-enabled pathway is evaluated?,
+Comparator,What is the alternative?,
+Outcomes,Which outcomes and balancing measures matter?,
+Perspective,"Hospital, payer, patient, or societal?",
+Time horizon,How long are costs and outcomes measured?,
+Setting,"Which department, pathway, and level of maturity?",
+Decision rule,What result supports adoption or another action?,

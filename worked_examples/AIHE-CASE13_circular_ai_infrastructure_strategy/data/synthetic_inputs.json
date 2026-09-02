@@ -1,0 +1,50 @@
+{
+  "example_id": "AIHE-CASE13",
+  "title": "Circular AI Infrastructure Strategy",
+  "chapter": 13,
+  "chapter_title": "Circular Health Systems and Resource Stewardship",
+  "version": "V1.0",
+  "synthetic": true,
+  "records": [
+    {
+      "Option": "Optimize existing models and scheduling",
+      "Five-year cost": 650000,
+      "Energy MWh/year": 90,
+      "Water m3/year": 120,
+      "New hardware kg": 80,
+      "Average utilization": 0.72,
+      "Resilience score (1-5)": 3,
+      "Governance risk (1-5)": 2
+    },
+    {
+      "Option": "Shared regional AI service",
+      "Five-year cost": 1450000,
+      "Energy MWh/year": 70,
+      "Water m3/year": 300,
+      "New hardware kg": 120,
+      "Average utilization": 0.82,
+      "Resilience score (1-5)": 4,
+      "Governance risk (1-5)": 3
+    },
+    {
+      "Option": "New on-premises GPU cluster",
+      "Five-year cost": 2100000,
+      "Energy MWh/year": 180,
+      "Water m3/year": 250,
+      "New hardware kg": 900,
+      "Average utilization": 0.44,
+      "Resilience score (1-5)": 4,
+      "Governance risk (1-5)": 2
+    },
+    {
+      "Option": "Commercial cloud expansion",
+      "Five-year cost": 1850000,
+      "Energy MWh/year": 120,
+      "Water m3/year": 900,
+      "New hardware kg": 40,
+      "Average utilization": 0.78,
+      "Resilience score (1-5)": 3,
+      "Governance risk (1-5)": 4
+    }
+  ]
+}

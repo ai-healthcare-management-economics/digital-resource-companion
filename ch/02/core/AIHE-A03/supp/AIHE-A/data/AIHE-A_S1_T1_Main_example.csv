@@ -1,9 +1,0 @@
-﻿Domain,Assessment question,Score 0-3,Evidence required
-Strategic alignment,Is the AI project linked to a documented hospital priority?,3,"Illustrative response for Strategic alignment: evidence documented, limitations noted, and an accountable owner assigned."
-Data readiness,"Are relevant data complete, standardized, accessible, and lawful to use?",3,"Illustrative response for Data readiness: evidence documented, limitations noted, and an accountable owner assigned."
-Infrastructure,Can the system integrate with existing hospital platforms?,3,"Illustrative response for Infrastructure: evidence documented, limitations noted, and an accountable owner assigned."
-Workforce,Are users trained and ready to interpret AI outputs?,3,"Illustrative response for Workforce: evidence documented, limitations noted, and an accountable owner assigned."
-Governance,"Are roles, accountability, and monitoring defined?",3,"Illustrative response for Governance: evidence documented, limitations noted, and an accountable owner assigned."
-Economics,Is there a full cost and budget impact assessment?,3,"Illustrative response for Economics: evidence documented, limitations noted, and an accountable owner assigned."
-Ethics and equity,"Have fairness, trust, access, and patient implications been reviewed?",3,"Illustrative response for Ethics and equity: evidence documented, limitations noted, and an accountable owner assigned."
-Cybersecurity,Has the solution been assessed for privacy and resilience?,3,"Illustrative response for Cybersecurity: evidence documented, limitations noted, and an accountable owner assigned."

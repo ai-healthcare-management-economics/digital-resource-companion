@@ -1,7 +1,0 @@
-﻿interval,forecast_arrivals,actual_arrivals,staffed_beds,occupied_beds,planned_discharges,completed_discharges,imaging_queue,transport_delay_minutes,nursing_gap_fte,action_latency_minutes,boarded_patients,recorded_action
-07:00,42,39,480,446,28,18,14,24,2.0,18,12,Expedite discharge review
-09:00,48,54,480,458,32,21,19,31,3.5,38,18,Open escalation huddle
-11:00,55,62,482,469,36,25,27,44,4.0,47,27,Add diagnostic and transport capacity
-13:00,59,57,486,474,42,33,24,37,3.0,29,31,Prioritize discharge and transfer
-15:00,52,49,486,472,38,34,18,28,2.0,22,24,Maintain surge controls
-17:00,46,44,484,466,31,29,13,19,1.0,16,16,Stand down selected escalation

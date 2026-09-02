@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-C03.schema.json",
   "title": "AIHE-C03 — Integrated Institutional-Risk Review",

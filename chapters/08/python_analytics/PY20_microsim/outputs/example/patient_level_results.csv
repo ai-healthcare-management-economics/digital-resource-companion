@@ -1,0 +1,1601 @@
+patient_id,subgroup,events,cost,qaly,strategy
+P00001,Urban,0,0.0,5.0,Usual care
+P00002,Urban,0,0.0,5.0,Usual care
+P00003,Rural,0,0.0,5.0,Usual care
+P00004,Urban,0,0.0,5.0,Usual care
+P00005,Low digital access,1,5000.0,4.92,Usual care
+P00006,Low digital access,0,0.0,5.0,Usual care
+P00007,Urban,0,0.0,5.0,Usual care
+P00008,Low digital access,0,0.0,5.0,Usual care
+P00009,Rural,0,0.0,5.0,Usual care
+P00010,Rural,0,0.0,5.0,Usual care
+P00011,Urban,0,0.0,5.0,Usual care
+P00012,Rural,1,5000.0,4.92,Usual care
+P00013,Urban,0,0.0,5.0,Usual care
+P00014,Urban,1,5000.0,4.92,Usual care
+P00015,Urban,0,0.0,5.0,Usual care
+P00016,Rural,1,5000.0,4.92,Usual care
+P00017,Urban,2,10000.0,4.84,Usual care
+P00018,Urban,0,0.0,5.0,Usual care
+P00019,Rural,0,0.0,5.0,Usual care
+P00020,Low digital access,0,0.0,5.0,Usual care
+P00021,Urban,0,0.0,5.0,Usual care
+P00022,Rural,1,5000.0,4.92,Usual care
+P00023,Urban,0,0.0,5.0,Usual care
+P00024,Urban,2,10000.0,4.84,Usual care
+P00025,Urban,0,0.0,5.0,Usual care
+P00026,Rural,1,5000.0,4.92,Usual care
+P00027,Urban,0,0.0,5.0,Usual care
+P00028,Urban,0,0.0,5.0,Usual care
+P00029,Urban,1,5000.0,4.92,Usual care
+P00030,Low digital access,0,0.0,5.0,Usual care
+P00031,Urban,0,0.0,5.0,Usual care
+P00032,Urban,0,0.0,5.0,Usual care
+P00033,Urban,0,0.0,5.0,Usual care
+P00034,Urban,2,10000.0,4.84,Usual care
+P00035,Urban,0,0.0,5.0,Usual care
+P00036,Rural,1,5000.0,4.92,Usual care
+P00037,Urban,0,0.0,5.0,Usual care
+P00038,Urban,1,5000.0,4.92,Usual care
+P00039,Urban,0,0.0,5.0,Usual care
+P00040,Rural,0,0.0,5.0,Usual care
+P00041,Urban,0,0.0,5.0,Usual care
+P00042,Urban,1,5000.0,4.92,Usual care
+P00043,Urban,1,5000.0,4.92,Usual care
+P00044,Rural,0,0.0,5.0,Usual care
+P00045,Urban,0,0.0,5.0,Usual care
+P00046,Urban,0,0.0,5.0,Usual care
+P00047,Urban,1,5000.0,4.92,Usual care
+P00048,Urban,0,0.0,5.0,Usual care
+P00049,Urban,0,0.0,5.0,Usual care
+P00050,Urban,3,15000.0,4.76,Usual care
+P00051,Rural,0,0.0,5.0,Usual care
+P00052,Low digital access,0,0.0,5.0,Usual care
+P00053,Urban,0,0.0,5.0,Usual care
+P00054,Low digital access,1,5000.0,4.92,Usual care
+P00055,Urban,1,5000.0,4.92,Usual care
+P00056,Rural,2,10000.0,4.84,Usual care
+P00057,Urban,1,5000.0,4.92,Usual care
+P00058,Urban,0,0.0,5.0,Usual care
+P00059,Low digital access,0,0.0,5.0,Usual care
+P00060,Urban,0,0.0,5.0,Usual care
+P00061,Rural,1,5000.0,4.92,Usual care
+P00062,Urban,1,5000.0,4.92,Usual care
+P00063,Low digital access,0,0.0,5.0,Usual care
+P00064,Urban,2,10000.0,4.84,Usual care
+P00065,Rural,0,0.0,5.0,Usual care
+P00066,Rural,0,0.0,5.0,Usual care
+P00067,Urban,0,0.0,5.0,Usual care
+P00068,Urban,0,0.0,5.0,Usual care
+P00069,Low digital access,0,0.0,5.0,Usual care
+P00070,Urban,0,0.0,5.0,Usual care
+P00071,Urban,2,10000.0,4.84,Usual care
+P00072,Rural,0,0.0,5.0,Usual care
+P00073,Low digital access,0,0.0,5.0,Usual care
+P00074,Urban,0,0.0,5.0,Usual care
+P00075,Rural,1,5000.0,4.92,Usual care
+P00076,Low digital access,0,0.0,5.0,Usual care
+P00077,Urban,2,10000.0,4.84,Usual care
+P00078,Rural,0,0.0,5.0,Usual care
+P00079,Urban,0,0.0,5.0,Usual care
+P00080,Urban,0,0.0,5.0,Usual care
+P00081,Rural,2,10000.0,4.84,Usual care
+P00082,Urban,1,5000.0,4.92,Usual care
+P00083,Urban,0,0.0,5.0,Usual care
+P00084,Rural,2,10000.0,4.84,Usual care
+P00085,Low digital access,1,5000.0,4.92,Usual care
+P00086,Low digital access,1,5000.0,4.92,Usual care
+P00087,Urban,1,5000.0,4.92,Usual care
+P00088,Urban,0,0.0,5.0,Usual care
+P00089,Urban,0,0.0,5.0,Usual care
+P00090,Urban,0,0.0,5.0,Usual care
+P00091,Urban,1,5000.0,4.92,Usual care
+P00092,Rural,0,0.0,5.0,Usual care
+P00093,Low digital access,0,0.0,5.0,Usual care
+P00094,Rural,1,5000.0,4.92,Usual care
+P00095,Low digital access,0,0.0,5.0,Usual care
+P00096,Urban,0,0.0,5.0,Usual care
+P00097,Urban,1,5000.0,4.92,Usual care
+P00098,Low digital access,2,10000.0,4.84,Usual care
+P00099,Rural,0,0.0,5.0,Usual care
+P00100,Low digital access,1,5000.0,4.92,Usual care
+P00101,Rural,1,5000.0,4.92,Usual care
+P00102,Urban,1,5000.0,4.92,Usual care
+P00103,Urban,0,0.0,5.0,Usual care
+P00104,Urban,0,0.0,5.0,Usual care
+P00105,Urban,0,0.0,5.0,Usual care
+P00106,Urban,0,0.0,5.0,Usual care
+P00107,Rural,0,0.0,5.0,Usual care
+P00108,Urban,0,0.0,5.0,Usual care
+P00109,Rural,1,5000.0,4.92,Usual care
+P00110,Urban,0,0.0,5.0,Usual care
+P00111,Low digital access,0,0.0,5.0,Usual care
+P00112,Low digital access,0,0.0,5.0,Usual care
+P00113,Low digital access,0,0.0,5.0,Usual care
+P00114,Rural,0,0.0,5.0,Usual care
+P00115,Low digital access,0,0.0,5.0,Usual care
+P00116,Urban,1,5000.0,4.92,Usual care
+P00117,Rural,1,5000.0,4.92,Usual care
+P00118,Rural,0,0.0,5.0,Usual care
+P00119,Low digital access,1,5000.0,4.92,Usual care
+P00120,Urban,1,5000.0,4.92,Usual care
+P00121,Rural,0,0.0,5.0,Usual care
+P00122,Urban,0,0.0,5.0,Usual care
+P00123,Rural,0,0.0,5.0,Usual care
+P00124,Rural,1,5000.0,4.92,Usual care
+P00125,Urban,0,0.0,5.0,Usual care
+P00126,Urban,0,0.0,5.0,Usual care
+P00127,Urban,0,0.0,5.0,Usual care
+P00128,Urban,0,0.0,5.0,Usual care
+P00129,Low digital access,1,5000.0,4.92,Usual care
+P00130,Urban,0,0.0,5.0,Usual care
+P00131,Low digital access,0,0.0,5.0,Usual care
+P00132,Urban,0,0.0,5.0,Usual care
+P00133,Rural,0,0.0,5.0,Usual care
+P00134,Urban,1,5000.0,4.92,Usual care
+P00135,Urban,0,0.0,5.0,Usual care
+P00136,Urban,3,15000.0,4.76,Usual care
+P00137,Urban,0,0.0,5.0,Usual care
+P00138,Low digital access,0,0.0,5.0,Usual care
+P00139,Rural,1,5000.0,4.92,Usual care
+P00140,Urban,0,0.0,5.0,Usual care
+P00141,Rural,1,5000.0,4.92,Usual care
+P00142,Rural,0,0.0,5.0,Usual care
+P00143,Urban,3,15000.0,4.76,Usual care
+P00144,Rural,1,5000.0,4.92,Usual care
+P00145,Rural,0,0.0,5.0,Usual care
+P00146,Rural,0,0.0,5.0,Usual care
+P00147,Rural,1,5000.0,4.92,Usual care
+P00148,Urban,0,0.0,5.0,Usual care
+P00149,Urban,1,5000.0,4.92,Usual care
+P00150,Urban,0,0.0,5.0,Usual care
+P00151,Urban,1,5000.0,4.92,Usual care
+P00152,Rural,1,5000.0,4.92,Usual care
+P00153,Low digital access,0,0.0,5.0,Usual care
+P00154,Urban,1,5000.0,4.92,Usual care
+P00155,Rural,0,0.0,5.0,Usual care
+P00156,Urban,0,0.0,5.0,Usual care
+P00157,Urban,0,0.0,5.0,Usual care
+P00158,Urban,1,5000.0,4.92,Usual care
+P00159,Urban,1,5000.0,4.92,Usual care
+P00160,Urban,0,0.0,5.0,Usual care
+P00161,Urban,0,0.0,5.0,Usual care
+P00162,Low digital access,0,0.0,5.0,Usual care
+P00163,Urban,1,5000.0,4.92,Usual care
+P00164,Urban,0,0.0,5.0,Usual care
+P00165,Rural,1,5000.0,4.92,Usual care
+P00166,Rural,0,0.0,5.0,Usual care
+P00167,Urban,1,5000.0,4.92,Usual care
+P00168,Urban,2,10000.0,4.84,Usual care
+P00169,Rural,1,5000.0,4.92,Usual care
+P00170,Rural,1,5000.0,4.92,Usual care
+P00171,Urban,0,0.0,5.0,Usual care
+P00172,Rural,0,0.0,5.0,Usual care
+P00173,Urban,0,0.0,5.0,Usual care
+P00174,Urban,0,0.0,5.0,Usual care
+P00175,Low digital access,1,5000.0,4.92,Usual care
+P00176,Rural,1,5000.0,4.92,Usual care
+P00177,Urban,0,0.0,5.0,Usual care
+P00178,Urban,0,0.0,5.0,Usual care
+P00179,Urban,0,0.0,5.0,Usual care
+P00180,Urban,0,0.0,5.0,Usual care
+P00181,Urban,1,5000.0,4.92,Usual care
+P00182,Urban,0,0.0,5.0,Usual care
+P00183,Low digital access,1,5000.0,4.92,Usual care
+P00184,Rural,0,0.0,5.0,Usual care
+P00185,Urban,0,0.0,5.0,Usual care
+P00186,Urban,1,5000.0,4.92,Usual care
+P00187,Low digital access,0,0.0,5.0,Usual care
+P00188,Urban,0,0.0,5.0,Usual care
+P00189,Low digital access,2,10000.0,4.84,Usual care
+P00190,Rural,0,0.0,5.0,Usual care
+P00191,Urban,0,0.0,5.0,Usual care
+P00192,Urban,1,5000.0,4.92,Usual care
+P00193,Low digital access,2,10000.0,4.84,Usual care
+P00194,Urban,0,0.0,5.0,Usual care
+P00195,Urban,1,5000.0,4.92,Usual care
+P00196,Urban,0,0.0,5.0,Usual care
+P00197,Urban,1,5000.0,4.92,Usual care
+P00198,Urban,0,0.0,5.0,Usual care
+P00199,Urban,0,0.0,5.0,Usual care
+P00200,Low digital access,0,0.0,5.0,Usual care
+P00201,Urban,0,0.0,5.0,Usual care
+P00202,Urban,1,5000.0,4.92,Usual care
+P00203,Low digital access,0,0.0,5.0,Usual care
+P00204,Urban,1,5000.0,4.92,Usual care
+P00205,Urban,0,0.0,5.0,Usual care
+P00206,Low digital access,1,5000.0,4.92,Usual care
+P00207,Low digital access,1,5000.0,4.92,Usual care
+P00208,Urban,0,0.0,5.0,Usual care
+P00209,Urban,0,0.0,5.0,Usual care
+P00210,Rural,1,5000.0,4.92,Usual care
+P00211,Urban,1,5000.0,4.92,Usual care
+P00212,Rural,0,0.0,5.0,Usual care
+P00213,Urban,0,0.0,5.0,Usual care
+P00214,Urban,2,10000.0,4.84,Usual care
+P00215,Low digital access,1,5000.0,4.92,Usual care
+P00216,Urban,1,5000.0,4.92,Usual care
+P00217,Rural,2,10000.0,4.84,Usual care
+P00218,Urban,0,0.0,5.0,Usual care
+P00219,Low digital access,0,0.0,5.0,Usual care
+P00220,Rural,2,10000.0,4.84,Usual care
+P00221,Urban,0,0.0,5.0,Usual care
+P00222,Rural,0,0.0,5.0,Usual care
+P00223,Urban,0,0.0,5.0,Usual care
+P00224,Urban,1,5000.0,4.92,Usual care
+P00225,Rural,1,5000.0,4.92,Usual care
+P00226,Urban,1,5000.0,4.92,Usual care
+P00227,Urban,0,0.0,5.0,Usual care
+P00228,Rural,1,5000.0,4.92,Usual care
+P00229,Urban,0,0.0,5.0,Usual care
+P00230,Urban,0,0.0,5.0,Usual care
+P00231,Urban,0,0.0,5.0,Usual care
+P00232,Urban,2,10000.0,4.84,Usual care
+P00233,Urban,2,10000.0,4.84,Usual care
+P00234,Rural,1,5000.0,4.92,Usual care
+P00235,Urban,0,0.0,5.0,Usual care
+P00236,Urban,0,0.0,5.0,Usual care
+P00237,Low digital access,0,0.0,5.0,Usual care
+P00238,Urban,0,0.0,5.0,Usual care
+P00239,Urban,1,5000.0,4.92,Usual care
+P00240,Low digital access,2,10000.0,4.84,Usual care
+P00241,Low digital access,0,0.0,5.0,Usual care
+P00242,Urban,1,5000.0,4.92,Usual care
+P00243,Urban,2,10000.0,4.84,Usual care
+P00244,Urban,1,5000.0,4.92,Usual care
+P00245,Low digital access,0,0.0,5.0,Usual care
+P00246,Urban,0,0.0,5.0,Usual care
+P00247,Urban,0,0.0,5.0,Usual care
+P00248,Urban,0,0.0,5.0,Usual care
+P00249,Urban,0,0.0,5.0,Usual care
+P00250,Urban,0,0.0,5.0,Usual care
+P00251,Urban,0,0.0,5.0,Usual care
+P00252,Urban,0,0.0,5.0,Usual care
+P00253,Urban,0,0.0,5.0,Usual care
+P00254,Urban,0,0.0,5.0,Usual care
+P00255,Urban,1,5000.0,4.92,Usual care
+P00256,Urban,1,5000.0,4.92,Usual care
+P00257,Rural,0,0.0,5.0,Usual care
+P00258,Urban,0,0.0,5.0,Usual care
+P00259,Rural,0,0.0,5.0,Usual care
+P00260,Urban,0,0.0,5.0,Usual care
+P00261,Rural,0,0.0,5.0,Usual care
+P00262,Rural,0,0.0,5.0,Usual care
+P00263,Rural,0,0.0,5.0,Usual care
+P00264,Urban,0,0.0,5.0,Usual care
+P00265,Urban,0,0.0,5.0,Usual care
+P00266,Rural,0,0.0,5.0,Usual care
+P00267,Urban,0,0.0,5.0,Usual care
+P00268,Urban,1,5000.0,4.92,Usual care
+P00269,Low digital access,1,5000.0,4.92,Usual care
+P00270,Low digital access,0,0.0,5.0,Usual care
+P00271,Urban,0,0.0,5.0,Usual care
+P00272,Rural,0,0.0,5.0,Usual care
+P00273,Urban,1,5000.0,4.92,Usual care
+P00274,Low digital access,0,0.0,5.0,Usual care
+P00275,Low digital access,0,0.0,5.0,Usual care
+P00276,Urban,1,5000.0,4.92,Usual care
+P00277,Rural,0,0.0,5.0,Usual care
+P00278,Rural,0,0.0,5.0,Usual care
+P00279,Urban,1,5000.0,4.92,Usual care
+P00280,Low digital access,0,0.0,5.0,Usual care
+P00281,Urban,1,5000.0,4.92,Usual care
+P00282,Low digital access,1,5000.0,4.92,Usual care
+P00283,Urban,1,5000.0,4.92,Usual care
+P00284,Urban,1,5000.0,4.92,Usual care
+P00285,Urban,1,5000.0,4.92,Usual care
+P00286,Urban,0,0.0,5.0,Usual care
+P00287,Urban,1,5000.0,4.92,Usual care
+P00288,Low digital access,2,10000.0,4.84,Usual care
+P00289,Urban,2,10000.0,4.84,Usual care
+P00290,Urban,0,0.0,5.0,Usual care
+P00291,Urban,1,5000.0,4.92,Usual care
+P00292,Low digital access,1,5000.0,4.92,Usual care
+P00293,Urban,1,5000.0,4.92,Usual care
+P00294,Rural,1,5000.0,4.92,Usual care
+P00295,Urban,0,0.0,5.0,Usual care
+P00296,Urban,1,5000.0,4.92,Usual care
+P00297,Urban,1,5000.0,4.92,Usual care
+P00298,Urban,0,0.0,5.0,Usual care
+P00299,Urban,1,5000.0,4.92,Usual care
+P00300,Rural,1,5000.0,4.92,Usual care
+P00301,Rural,0,0.0,5.0,Usual care
+P00302,Urban,2,10000.0,4.84,Usual care
+P00303,Urban,1,5000.0,4.92,Usual care
+P00304,Urban,1,5000.0,4.92,Usual care
+P00305,Urban,2,10000.0,4.84,Usual care
+P00306,Urban,0,0.0,5.0,Usual care
+P00307,Urban,0,0.0,5.0,Usual care
+P00308,Urban,1,5000.0,4.92,Usual care
+P00309,Urban,0,0.0,5.0,Usual care
+P00310,Urban,0,0.0,5.0,Usual care
+P00311,Rural,0,0.0,5.0,Usual care
+P00312,Urban,1,5000.0,4.92,Usual care
+P00313,Urban,2,10000.0,4.84,Usual care
+P00314,Rural,2,10000.0,4.84,Usual care
+P00315,Urban,0,0.0,5.0,Usual care
+P00316,Rural,1,5000.0,4.92,Usual care
+P00317,Urban,0,0.0,5.0,Usual care
+P00318,Rural,0,0.0,5.0,Usual care
+P00319,Rural,0,0.0,5.0,Usual care
+P00320,Urban,0,0.0,5.0,Usual care
+P00321,Urban,1,5000.0,4.92,Usual care
+P00322,Low digital access,1,5000.0,4.92,Usual care
+P00323,Urban,0,0.0,5.0,Usual care
+P00324,Urban,0,0.0,5.0,Usual care
+P00325,Rural,1,5000.0,4.92,Usual care
+P00326,Urban,1,5000.0,4.92,Usual care
+P00327,Rural,0,0.0,5.0,Usual care
+P00328,Urban,0,0.0,5.0,Usual care
+P00329,Low digital access,2,10000.0,4.84,Usual care
+P00330,Urban,0,0.0,5.0,Usual care
+P00331,Urban,1,5000.0,4.92,Usual care
+P00332,Urban,1,5000.0,4.92,Usual care
+P00333,Urban,1,5000.0,4.92,Usual care
+P00334,Urban,0,0.0,5.0,Usual care
+P00335,Urban,1,5000.0,4.92,Usual care
+P00336,Urban,0,0.0,5.0,Usual care
+P00337,Rural,0,0.0,5.0,Usual care
+P00338,Urban,0,0.0,5.0,Usual care
+P00339,Urban,0,0.0,5.0,Usual care
+P00340,Rural,1,5000.0,4.92,Usual care
+P00341,Rural,1,5000.0,4.92,Usual care
+P00342,Urban,0,0.0,5.0,Usual care
+P00343,Urban,0,0.0,5.0,Usual care
+P00344,Rural,0,0.0,5.0,Usual care
+P00345,Rural,1,5000.0,4.92,Usual care
+P00346,Urban,1,5000.0,4.92,Usual care
+P00347,Urban,0,0.0,5.0,Usual care
+P00348,Urban,1,5000.0,4.92,Usual care
+P00349,Urban,1,5000.0,4.92,Usual care
+P00350,Rural,1,5000.0,4.92,Usual care
+P00351,Rural,1,5000.0,4.92,Usual care
+P00352,Rural,0,0.0,5.0,Usual care
+P00353,Urban,0,0.0,5.0,Usual care
+P00354,Rural,2,10000.0,4.84,Usual care
+P00355,Urban,0,0.0,5.0,Usual care
+P00356,Urban,0,0.0,5.0,Usual care
+P00357,Urban,1,5000.0,4.92,Usual care
+P00358,Urban,0,0.0,5.0,Usual care
+P00359,Rural,0,0.0,5.0,Usual care
+P00360,Urban,0,0.0,5.0,Usual care
+P00361,Urban,0,0.0,5.0,Usual care
+P00362,Urban,0,0.0,5.0,Usual care
+P00363,Rural,0,0.0,5.0,Usual care
+P00364,Urban,0,0.0,5.0,Usual care
+P00365,Rural,1,5000.0,4.92,Usual care
+P00366,Urban,1,5000.0,4.92,Usual care
+P00367,Urban,0,0.0,5.0,Usual care
+P00368,Low digital access,0,0.0,5.0,Usual care
+P00369,Rural,1,5000.0,4.92,Usual care
+P00370,Urban,1,5000.0,4.92,Usual care
+P00371,Urban,1,5000.0,4.92,Usual care
+P00372,Urban,0,0.0,5.0,Usual care
+P00373,Urban,1,5000.0,4.92,Usual care
+P00374,Urban,0,0.0,5.0,Usual care
+P00375,Urban,0,0.0,5.0,Usual care
+P00376,Urban,1,5000.0,4.92,Usual care
+P00377,Urban,1,5000.0,4.92,Usual care
+P00378,Urban,1,5000.0,4.92,Usual care
+P00379,Urban,0,0.0,5.0,Usual care
+P00380,Urban,0,0.0,5.0,Usual care
+P00381,Urban,0,0.0,5.0,Usual care
+P00382,Low digital access,1,5000.0,4.92,Usual care
+P00383,Urban,1,5000.0,4.92,Usual care
+P00384,Urban,1,5000.0,4.92,Usual care
+P00385,Urban,0,0.0,5.0,Usual care
+P00386,Urban,0,0.0,5.0,Usual care
+P00387,Urban,1,5000.0,4.92,Usual care
+P00388,Urban,0,0.0,5.0,Usual care
+P00389,Urban,0,0.0,5.0,Usual care
+P00390,Urban,0,0.0,5.0,Usual care
+P00391,Rural,0,0.0,5.0,Usual care
+P00392,Urban,0,0.0,5.0,Usual care
+P00393,Rural,1,5000.0,4.92,Usual care
+P00394,Urban,1,5000.0,4.92,Usual care
+P00395,Rural,0,0.0,5.0,Usual care
+P00396,Urban,0,0.0,5.0,Usual care
+P00397,Urban,0,0.0,5.0,Usual care
+P00398,Urban,1,5000.0,4.92,Usual care
+P00399,Rural,1,5000.0,4.92,Usual care
+P00400,Urban,0,0.0,5.0,Usual care
+P00401,Urban,0,0.0,5.0,Usual care
+P00402,Rural,0,0.0,5.0,Usual care
+P00403,Urban,0,0.0,5.0,Usual care
+P00404,Rural,0,0.0,5.0,Usual care
+P00405,Rural,0,0.0,5.0,Usual care
+P00406,Urban,2,10000.0,4.84,Usual care
+P00407,Rural,0,0.0,5.0,Usual care
+P00408,Urban,0,0.0,5.0,Usual care
+P00409,Low digital access,1,5000.0,4.92,Usual care
+P00410,Low digital access,0,0.0,5.0,Usual care
+P00411,Urban,0,0.0,5.0,Usual care
+P00412,Rural,1,5000.0,4.92,Usual care
+P00413,Rural,0,0.0,5.0,Usual care
+P00414,Urban,0,0.0,5.0,Usual care
+P00415,Urban,2,10000.0,4.84,Usual care
+P00416,Rural,0,0.0,5.0,Usual care
+P00417,Urban,1,5000.0,4.92,Usual care
+P00418,Rural,0,0.0,5.0,Usual care
+P00419,Low digital access,1,5000.0,4.92,Usual care
+P00420,Urban,0,0.0,5.0,Usual care
+P00421,Urban,1,5000.0,4.92,Usual care
+P00422,Low digital access,0,0.0,5.0,Usual care
+P00423,Urban,1,5000.0,4.92,Usual care
+P00424,Rural,1,5000.0,4.92,Usual care
+P00425,Rural,0,0.0,5.0,Usual care
+P00426,Rural,2,10000.0,4.84,Usual care
+P00427,Low digital access,0,0.0,5.0,Usual care
+P00428,Urban,0,0.0,5.0,Usual care
+P00429,Urban,0,0.0,5.0,Usual care
+P00430,Low digital access,0,0.0,5.0,Usual care
+P00431,Rural,1,5000.0,4.92,Usual care
+P00432,Rural,1,5000.0,4.92,Usual care
+P00433,Rural,0,0.0,5.0,Usual care
+P00434,Urban,2,10000.0,4.84,Usual care
+P00435,Rural,1,5000.0,4.92,Usual care
+P00436,Rural,0,0.0,5.0,Usual care
+P00437,Urban,0,0.0,5.0,Usual care
+P00438,Urban,0,0.0,5.0,Usual care
+P00439,Urban,0,0.0,5.0,Usual care
+P00440,Urban,1,5000.0,4.92,Usual care
+P00441,Urban,2,10000.0,4.84,Usual care
+P00442,Rural,0,0.0,5.0,Usual care
+P00443,Urban,0,0.0,5.0,Usual care
+P00444,Rural,0,0.0,5.0,Usual care
+P00445,Rural,3,15000.0,4.76,Usual care
+P00446,Urban,0,0.0,5.0,Usual care
+P00447,Urban,1,5000.0,4.92,Usual care
+P00448,Rural,2,10000.0,4.84,Usual care
+P00449,Urban,0,0.0,5.0,Usual care
+P00450,Urban,0,0.0,5.0,Usual care
+P00451,Urban,0,0.0,5.0,Usual care
+P00452,Urban,1,5000.0,4.92,Usual care
+P00453,Urban,1,5000.0,4.92,Usual care
+P00454,Urban,0,0.0,5.0,Usual care
+P00455,Urban,1,5000.0,4.92,Usual care
+P00456,Urban,0,0.0,5.0,Usual care
+P00457,Urban,1,5000.0,4.92,Usual care
+P00458,Low digital access,0,0.0,5.0,Usual care
+P00459,Low digital access,0,0.0,5.0,Usual care
+P00460,Low digital access,1,5000.0,4.92,Usual care
+P00461,Rural,0,0.0,5.0,Usual care
+P00462,Urban,0,0.0,5.0,Usual care
+P00463,Rural,0,0.0,5.0,Usual care
+P00464,Urban,1,5000.0,4.92,Usual care
+P00465,Urban,2,10000.0,4.84,Usual care
+P00466,Urban,2,10000.0,4.84,Usual care
+P00467,Urban,0,0.0,5.0,Usual care
+P00468,Urban,1,5000.0,4.92,Usual care
+P00469,Rural,2,10000.0,4.84,Usual care
+P00470,Low digital access,2,10000.0,4.84,Usual care
+P00471,Rural,1,5000.0,4.92,Usual care
+P00472,Rural,0,0.0,5.0,Usual care
+P00473,Rural,1,5000.0,4.92,Usual care
+P00474,Rural,1,5000.0,4.92,Usual care
+P00475,Rural,0,0.0,5.0,Usual care
+P00476,Rural,0,0.0,5.0,Usual care
+P00477,Rural,0,0.0,5.0,Usual care
+P00478,Urban,0,0.0,5.0,Usual care
+P00479,Rural,0,0.0,5.0,Usual care
+P00480,Urban,0,0.0,5.0,Usual care
+P00481,Urban,0,0.0,5.0,Usual care
+P00482,Urban,0,0.0,5.0,Usual care
+P00483,Low digital access,0,0.0,5.0,Usual care
+P00484,Rural,0,0.0,5.0,Usual care
+P00485,Urban,0,0.0,5.0,Usual care
+P00486,Urban,1,5000.0,4.92,Usual care
+P00487,Rural,0,0.0,5.0,Usual care
+P00488,Urban,0,0.0,5.0,Usual care
+P00489,Urban,0,0.0,5.0,Usual care
+P00490,Urban,0,0.0,5.0,Usual care
+P00491,Urban,0,0.0,5.0,Usual care
+P00492,Urban,1,5000.0,4.92,Usual care
+P00493,Rural,1,5000.0,4.92,Usual care
+P00494,Low digital access,0,0.0,5.0,Usual care
+P00495,Urban,0,0.0,5.0,Usual care
+P00496,Low digital access,0,0.0,5.0,Usual care
+P00497,Rural,0,0.0,5.0,Usual care
+P00498,Urban,4,20000.0,4.68,Usual care
+P00499,Urban,0,0.0,5.0,Usual care
+P00500,Urban,0,0.0,5.0,Usual care
+P00501,Urban,0,0.0,5.0,Usual care
+P00502,Urban,1,5000.0,4.92,Usual care
+P00503,Low digital access,0,0.0,5.0,Usual care
+P00504,Rural,0,0.0,5.0,Usual care
+P00505,Urban,0,0.0,5.0,Usual care
+P00506,Rural,1,5000.0,4.92,Usual care
+P00507,Low digital access,0,0.0,5.0,Usual care
+P00508,Rural,0,0.0,5.0,Usual care
+P00509,Urban,0,0.0,5.0,Usual care
+P00510,Low digital access,2,10000.0,4.84,Usual care
+P00511,Urban,0,0.0,5.0,Usual care
+P00512,Urban,2,10000.0,4.84,Usual care
+P00513,Urban,0,0.0,5.0,Usual care
+P00514,Low digital access,1,5000.0,4.92,Usual care
+P00515,Urban,1,5000.0,4.92,Usual care
+P00516,Urban,0,0.0,5.0,Usual care
+P00517,Rural,1,5000.0,4.92,Usual care
+P00518,Rural,0,0.0,5.0,Usual care
+P00519,Rural,1,5000.0,4.92,Usual care
+P00520,Low digital access,0,0.0,5.0,Usual care
+P00521,Rural,0,0.0,5.0,Usual care
+P00522,Urban,0,0.0,5.0,Usual care
+P00523,Low digital access,2,10000.0,4.84,Usual care
+P00524,Rural,1,5000.0,4.92,Usual care
+P00525,Rural,0,0.0,5.0,Usual care
+P00526,Urban,0,0.0,5.0,Usual care
+P00527,Urban,0,0.0,5.0,Usual care
+P00528,Urban,0,0.0,5.0,Usual care
+P00529,Urban,1,5000.0,4.92,Usual care
+P00530,Rural,0,0.0,5.0,Usual care
+P00531,Urban,0,0.0,5.0,Usual care
+P00532,Urban,0,0.0,5.0,Usual care
+P00533,Urban,0,0.0,5.0,Usual care
+P00534,Urban,0,0.0,5.0,Usual care
+P00535,Urban,0,0.0,5.0,Usual care
+P00536,Urban,1,5000.0,4.92,Usual care
+P00537,Low digital access,1,5000.0,4.92,Usual care
+P00538,Urban,0,0.0,5.0,Usual care
+P00539,Rural,2,10000.0,4.84,Usual care
+P00540,Urban,1,5000.0,4.92,Usual care
+P00541,Urban,1,5000.0,4.92,Usual care
+P00542,Low digital access,0,0.0,5.0,Usual care
+P00543,Urban,0,0.0,5.0,Usual care
+P00544,Urban,3,15000.0,4.76,Usual care
+P00545,Urban,1,5000.0,4.92,Usual care
+P00546,Urban,0,0.0,5.0,Usual care
+P00547,Urban,1,5000.0,4.92,Usual care
+P00548,Rural,0,0.0,5.0,Usual care
+P00549,Rural,0,0.0,5.0,Usual care
+P00550,Urban,1,5000.0,4.92,Usual care
+P00551,Urban,1,5000.0,4.92,Usual care
+P00552,Rural,0,0.0,5.0,Usual care
+P00553,Urban,1,5000.0,4.92,Usual care
+P00554,Urban,1,5000.0,4.92,Usual care
+P00555,Urban,1,5000.0,4.92,Usual care
+P00556,Rural,1,5000.0,4.92,Usual care
+P00557,Urban,0,0.0,5.0,Usual care
+P00558,Rural,0,0.0,5.0,Usual care
+P00559,Urban,1,5000.0,4.92,Usual care
+P00560,Urban,0,0.0,5.0,Usual care
+P00561,Urban,1,5000.0,4.92,Usual care
+P00562,Urban,0,0.0,5.0,Usual care
+P00563,Urban,3,15000.0,4.76,Usual care
+P00564,Urban,0,0.0,5.0,Usual care
+P00565,Urban,0,0.0,5.0,Usual care
+P00566,Rural,0,0.0,5.0,Usual care
+P00567,Urban,0,0.0,5.0,Usual care
+P00568,Urban,0,0.0,5.0,Usual care
+P00569,Rural,0,0.0,5.0,Usual care
+P00570,Urban,0,0.0,5.0,Usual care
+P00571,Low digital access,0,0.0,5.0,Usual care
+P00572,Urban,1,5000.0,4.92,Usual care
+P00573,Urban,0,0.0,5.0,Usual care
+P00574,Urban,2,10000.0,4.84,Usual care
+P00575,Urban,0,0.0,5.0,Usual care
+P00576,Urban,1,5000.0,4.92,Usual care
+P00577,Urban,0,0.0,5.0,Usual care
+P00578,Urban,0,0.0,5.0,Usual care
+P00579,Rural,0,0.0,5.0,Usual care
+P00580,Rural,1,5000.0,4.92,Usual care
+P00581,Urban,1,5000.0,4.92,Usual care
+P00582,Urban,1,5000.0,4.92,Usual care
+P00583,Urban,1,5000.0,4.92,Usual care
+P00584,Urban,0,0.0,5.0,Usual care
+P00585,Urban,1,5000.0,4.92,Usual care
+P00586,Low digital access,0,0.0,5.0,Usual care
+P00587,Rural,0,0.0,5.0,Usual care
+P00588,Urban,0,0.0,5.0,Usual care
+P00589,Urban,0,0.0,5.0,Usual care
+P00590,Urban,0,0.0,5.0,Usual care
+P00591,Urban,0,0.0,5.0,Usual care
+P00592,Urban,0,0.0,5.0,Usual care
+P00593,Urban,1,5000.0,4.92,Usual care
+P00594,Urban,0,0.0,5.0,Usual care
+P00595,Rural,0,0.0,5.0,Usual care
+P00596,Urban,0,0.0,5.0,Usual care
+P00597,Low digital access,0,0.0,5.0,Usual care
+P00598,Rural,1,5000.0,4.92,Usual care
+P00599,Low digital access,1,5000.0,4.92,Usual care
+P00600,Low digital access,0,0.0,5.0,Usual care
+P00601,Urban,1,5000.0,4.92,Usual care
+P00602,Low digital access,1,5000.0,4.92,Usual care
+P00603,Urban,1,5000.0,4.92,Usual care
+P00604,Rural,0,0.0,5.0,Usual care
+P00605,Rural,0,0.0,5.0,Usual care
+P00606,Rural,0,0.0,5.0,Usual care
+P00607,Rural,1,5000.0,4.92,Usual care
+P00608,Low digital access,1,5000.0,4.92,Usual care
+P00609,Urban,0,0.0,5.0,Usual care
+P00610,Rural,1,5000.0,4.92,Usual care
+P00611,Urban,1,5000.0,4.92,Usual care
+P00612,Urban,0,0.0,5.0,Usual care
+P00613,Rural,0,0.0,5.0,Usual care
+P00614,Low digital access,0,0.0,5.0,Usual care
+P00615,Urban,2,10000.0,4.84,Usual care
+P00616,Urban,2,10000.0,4.84,Usual care
+P00617,Rural,1,5000.0,4.92,Usual care
+P00618,Rural,0,0.0,5.0,Usual care
+P00619,Rural,1,5000.0,4.92,Usual care
+P00620,Urban,1,5000.0,4.92,Usual care
+P00621,Urban,0,0.0,5.0,Usual care
+P00622,Urban,0,0.0,5.0,Usual care
+P00623,Urban,0,0.0,5.0,Usual care
+P00624,Rural,0,0.0,5.0,Usual care
+P00625,Rural,1,5000.0,4.92,Usual care
+P00626,Low digital access,0,0.0,5.0,Usual care
+P00627,Rural,0,0.0,5.0,Usual care
+P00628,Urban,2,10000.0,4.84,Usual care
+P00629,Urban,0,0.0,5.0,Usual care
+P00630,Low digital access,0,0.0,5.0,Usual care
+P00631,Low digital access,0,0.0,5.0,Usual care
+P00632,Urban,0,0.0,5.0,Usual care
+P00633,Urban,0,0.0,5.0,Usual care
+P00634,Rural,0,0.0,5.0,Usual care
+P00635,Rural,0,0.0,5.0,Usual care
+P00636,Rural,0,0.0,5.0,Usual care
+P00637,Urban,0,0.0,5.0,Usual care
+P00638,Urban,0,0.0,5.0,Usual care
+P00639,Urban,1,5000.0,4.92,Usual care
+P00640,Urban,1,5000.0,4.92,Usual care
+P00641,Urban,0,0.0,5.0,Usual care
+P00642,Urban,0,0.0,5.0,Usual care
+P00643,Urban,1,5000.0,4.92,Usual care
+P00644,Urban,0,0.0,5.0,Usual care
+P00645,Low digital access,0,0.0,5.0,Usual care
+P00646,Rural,1,5000.0,4.92,Usual care
+P00647,Urban,0,0.0,5.0,Usual care
+P00648,Rural,1,5000.0,4.92,Usual care
+P00649,Rural,2,10000.0,4.84,Usual care
+P00650,Low digital access,1,5000.0,4.92,Usual care
+P00651,Urban,0,0.0,5.0,Usual care
+P00652,Urban,0,0.0,5.0,Usual care
+P00653,Urban,2,10000.0,4.84,Usual care
+P00654,Rural,1,5000.0,4.92,Usual care
+P00655,Urban,2,10000.0,4.84,Usual care
+P00656,Low digital access,1,5000.0,4.92,Usual care
+P00657,Urban,0,0.0,5.0,Usual care
+P00658,Urban,0,0.0,5.0,Usual care
+P00659,Urban,1,5000.0,4.92,Usual care
+P00660,Urban,0,0.0,5.0,Usual care
+P00661,Rural,1,5000.0,4.92,Usual care
+P00662,Rural,0,0.0,5.0,Usual care
+P00663,Low digital access,1,5000.0,4.92,Usual care
+P00664,Urban,0,0.0,5.0,Usual care
+P00665,Urban,0,0.0,5.0,Usual care
+P00666,Rural,1,5000.0,4.92,Usual care
+P00667,Urban,1,5000.0,4.92,Usual care
+P00668,Rural,0,0.0,5.0,Usual care
+P00669,Low digital access,0,0.0,5.0,Usual care
+P00670,Rural,0,0.0,5.0,Usual care
+P00671,Urban,0,0.0,5.0,Usual care
+P00672,Urban,1,5000.0,4.92,Usual care
+P00673,Urban,1,5000.0,4.92,Usual care
+P00674,Low digital access,1,5000.0,4.92,Usual care
+P00675,Urban,0,0.0,5.0,Usual care
+P00676,Urban,3,15000.0,4.76,Usual care
+P00677,Urban,1,5000.0,4.92,Usual care
+P00678,Rural,0,0.0,5.0,Usual care
+P00679,Urban,2,10000.0,4.84,Usual care
+P00680,Urban,0,0.0,5.0,Usual care
+P00681,Urban,0,0.0,5.0,Usual care
+P00682,Urban,0,0.0,5.0,Usual care
+P00683,Rural,1,5000.0,4.92,Usual care
+P00684,Low digital access,0,0.0,5.0,Usual care
+P00685,Urban,0,0.0,5.0,Usual care
+P00686,Rural,0,0.0,5.0,Usual care
+P00687,Urban,2,10000.0,4.84,Usual care
+P00688,Urban,1,5000.0,4.92,Usual care
+P00689,Urban,1,5000.0,4.92,Usual care
+P00690,Urban,2,10000.0,4.84,Usual care
+P00691,Rural,0,0.0,5.0,Usual care
+P00692,Urban,1,5000.0,4.92,Usual care
+P00693,Urban,1,5000.0,4.92,Usual care
+P00694,Rural,0,0.0,5.0,Usual care
+P00695,Low digital access,0,0.0,5.0,Usual care
+P00696,Rural,0,0.0,5.0,Usual care
+P00697,Urban,0,0.0,5.0,Usual care
+P00698,Urban,0,0.0,5.0,Usual care
+P00699,Low digital access,1,5000.0,4.92,Usual care
+P00700,Urban,0,0.0,5.0,Usual care
+P00701,Rural,0,0.0,5.0,Usual care
+P00702,Urban,0,0.0,5.0,Usual care
+P00703,Low digital access,0,0.0,5.0,Usual care
+P00704,Low digital access,0,0.0,5.0,Usual care
+P00705,Low digital access,0,0.0,5.0,Usual care
+P00706,Rural,0,0.0,5.0,Usual care
+P00707,Rural,1,5000.0,4.92,Usual care
+P00708,Low digital access,2,10000.0,4.84,Usual care
+P00709,Urban,0,0.0,5.0,Usual care
+P00710,Rural,0,0.0,5.0,Usual care
+P00711,Rural,0,0.0,5.0,Usual care
+P00712,Urban,0,0.0,5.0,Usual care
+P00713,Urban,0,0.0,5.0,Usual care
+P00714,Urban,0,0.0,5.0,Usual care
+P00715,Urban,1,5000.0,4.92,Usual care
+P00716,Low digital access,0,0.0,5.0,Usual care
+P00717,Rural,1,5000.0,4.92,Usual care
+P00718,Rural,0,0.0,5.0,Usual care
+P00719,Rural,1,5000.0,4.92,Usual care
+P00720,Urban,0,0.0,5.0,Usual care
+P00721,Urban,0,0.0,5.0,Usual care
+P00722,Rural,0,0.0,5.0,Usual care
+P00723,Urban,1,5000.0,4.92,Usual care
+P00724,Urban,1,5000.0,4.92,Usual care
+P00725,Urban,0,0.0,5.0,Usual care
+P00726,Urban,1,5000.0,4.92,Usual care
+P00727,Rural,0,0.0,5.0,Usual care
+P00728,Rural,1,5000.0,4.92,Usual care
+P00729,Urban,0,0.0,5.0,Usual care
+P00730,Urban,1,5000.0,4.92,Usual care
+P00731,Rural,0,0.0,5.0,Usual care
+P00732,Urban,0,0.0,5.0,Usual care
+P00733,Low digital access,0,0.0,5.0,Usual care
+P00734,Urban,1,5000.0,4.92,Usual care
+P00735,Urban,1,5000.0,4.92,Usual care
+P00736,Urban,2,10000.0,4.84,Usual care
+P00737,Low digital access,0,0.0,5.0,Usual care
+P00738,Low digital access,0,0.0,5.0,Usual care
+P00739,Urban,1,5000.0,4.92,Usual care
+P00740,Urban,0,0.0,5.0,Usual care
+P00741,Urban,0,0.0,5.0,Usual care
+P00742,Rural,0,0.0,5.0,Usual care
+P00743,Urban,0,0.0,5.0,Usual care
+P00744,Urban,0,0.0,5.0,Usual care
+P00745,Urban,0,0.0,5.0,Usual care
+P00746,Rural,0,0.0,5.0,Usual care
+P00747,Urban,0,0.0,5.0,Usual care
+P00748,Urban,0,0.0,5.0,Usual care
+P00749,Rural,0,0.0,5.0,Usual care
+P00750,Urban,0,0.0,5.0,Usual care
+P00751,Urban,0,0.0,5.0,Usual care
+P00752,Rural,1,5000.0,4.92,Usual care
+P00753,Low digital access,0,0.0,5.0,Usual care
+P00754,Urban,0,0.0,5.0,Usual care
+P00755,Urban,0,0.0,5.0,Usual care
+P00756,Urban,1,5000.0,4.92,Usual care
+P00757,Rural,1,5000.0,4.92,Usual care
+P00758,Urban,0,0.0,5.0,Usual care
+P00759,Urban,0,0.0,5.0,Usual care
+P00760,Urban,2,10000.0,4.84,Usual care
+P00761,Rural,0,0.0,5.0,Usual care
+P00762,Low digital access,1,5000.0,4.92,Usual care
+P00763,Urban,0,0.0,5.0,Usual care
+P00764,Urban,1,5000.0,4.92,Usual care
+P00765,Rural,2,10000.0,4.84,Usual care
+P00766,Rural,0,0.0,5.0,Usual care
+P00767,Urban,1,5000.0,4.92,Usual care
+P00768,Rural,0,0.0,5.0,Usual care
+P00769,Urban,0,0.0,5.0,Usual care
+P00770,Urban,1,5000.0,4.92,Usual care
+P00771,Low digital access,0,0.0,5.0,Usual care
+P00772,Rural,0,0.0,5.0,Usual care
+P00773,Low digital access,0,0.0,5.0,Usual care
+P00774,Low digital access,0,0.0,5.0,Usual care
+P00775,Urban,1,5000.0,4.92,Usual care
+P00776,Rural,0,0.0,5.0,Usual care
+P00777,Rural,0,0.0,5.0,Usual care
+P00778,Low digital access,0,0.0,5.0,Usual care
+P00779,Low digital access,0,0.0,5.0,Usual care
+P00780,Rural,0,0.0,5.0,Usual care
+P00781,Rural,1,5000.0,4.92,Usual care
+P00782,Urban,0,0.0,5.0,Usual care
+P00783,Urban,0,0.0,5.0,Usual care
+P00784,Urban,0,0.0,5.0,Usual care
+P00785,Low digital access,1,5000.0,4.92,Usual care
+P00786,Urban,2,10000.0,4.84,Usual care
+P00787,Rural,0,0.0,5.0,Usual care
+P00788,Urban,1,5000.0,4.92,Usual care
+P00789,Low digital access,1,5000.0,4.92,Usual care
+P00790,Rural,0,0.0,5.0,Usual care
+P00791,Low digital access,1,5000.0,4.92,Usual care
+P00792,Urban,0,0.0,5.0,Usual care
+P00793,Urban,0,0.0,5.0,Usual care
+P00794,Urban,1,5000.0,4.92,Usual care
+P00795,Urban,0,0.0,5.0,Usual care
+P00796,Urban,1,5000.0,4.92,Usual care
+P00797,Urban,0,0.0,5.0,Usual care
+P00798,Low digital access,0,0.0,5.0,Usual care
+P00799,Low digital access,0,0.0,5.0,Usual care
+P00800,Urban,2,10000.0,4.84,Usual care
+P00001,Urban,0,900.0,5.0,AI
+P00002,Urban,1,5900.0,4.92,AI
+P00003,Rural,1,5900.0,4.92,AI
+P00004,Urban,1,5900.0,4.92,AI
+P00005,Low digital access,0,900.0,5.0,AI
+P00006,Low digital access,0,900.0,5.0,AI
+P00007,Urban,0,900.0,5.0,AI
+P00008,Low digital access,1,5900.0,4.92,AI
+P00009,Rural,0,900.0,5.0,AI
+P00010,Rural,1,5900.0,4.92,AI
+P00011,Urban,1,5900.0,4.92,AI
+P00012,Rural,0,900.0,5.0,AI
+P00013,Urban,1,5900.0,4.92,AI
+P00014,Urban,0,900.0,5.0,AI
+P00015,Urban,0,900.0,5.0,AI
+P00016,Rural,0,900.0,5.0,AI
+P00017,Urban,1,5900.0,4.92,AI
+P00018,Urban,0,900.0,5.0,AI
+P00019,Rural,0,900.0,5.0,AI
+P00020,Low digital access,0,900.0,5.0,AI
+P00021,Urban,1,5900.0,4.92,AI
+P00022,Rural,1,5900.0,4.92,AI
+P00023,Urban,0,900.0,5.0,AI
+P00024,Urban,0,900.0,5.0,AI
+P00025,Urban,2,10900.0,4.84,AI
+P00026,Rural,1,5900.0,4.92,AI
+P00027,Urban,0,900.0,5.0,AI
+P00028,Urban,2,10900.0,4.84,AI
+P00029,Urban,0,900.0,5.0,AI
+P00030,Low digital access,0,900.0,5.0,AI
+P00031,Urban,0,900.0,5.0,AI
+P00032,Urban,0,900.0,5.0,AI
+P00033,Urban,0,900.0,5.0,AI
+P00034,Urban,0,900.0,5.0,AI
+P00035,Urban,0,900.0,5.0,AI
+P00036,Rural,0,900.0,5.0,AI
+P00037,Urban,0,900.0,5.0,AI
+P00038,Urban,1,5900.0,4.92,AI
+P00039,Urban,1,5900.0,4.92,AI
+P00040,Rural,1,5900.0,4.92,AI
+P00041,Urban,1,5900.0,4.92,AI
+P00042,Urban,0,900.0,5.0,AI
+P00043,Urban,1,5900.0,4.92,AI
+P00044,Rural,0,900.0,5.0,AI
+P00045,Urban,1,5900.0,4.92,AI
+P00046,Urban,1,5900.0,4.92,AI
+P00047,Urban,0,900.0,5.0,AI
+P00048,Urban,1,5900.0,4.92,AI
+P00049,Urban,1,5900.0,4.92,AI
+P00050,Urban,0,900.0,5.0,AI
+P00051,Rural,0,900.0,5.0,AI
+P00052,Low digital access,1,5900.0,4.92,AI
+P00053,Urban,0,900.0,5.0,AI
+P00054,Low digital access,1,5900.0,4.92,AI
+P00055,Urban,0,900.0,5.0,AI
+P00056,Rural,0,900.0,5.0,AI
+P00057,Urban,2,10900.0,4.84,AI
+P00058,Urban,1,5900.0,4.92,AI
+P00059,Low digital access,0,900.0,5.0,AI
+P00060,Urban,0,900.0,5.0,AI
+P00061,Rural,0,900.0,5.0,AI
+P00062,Urban,0,900.0,5.0,AI
+P00063,Low digital access,2,10900.0,4.84,AI
+P00064,Urban,1,5900.0,4.92,AI
+P00065,Rural,2,10900.0,4.84,AI
+P00066,Rural,0,900.0,5.0,AI
+P00067,Urban,0,900.0,5.0,AI
+P00068,Urban,1,5900.0,4.92,AI
+P00069,Low digital access,0,900.0,5.0,AI
+P00070,Urban,0,900.0,5.0,AI
+P00071,Urban,0,900.0,5.0,AI
+P00072,Rural,0,900.0,5.0,AI
+P00073,Low digital access,0,900.0,5.0,AI
+P00074,Urban,0,900.0,5.0,AI
+P00075,Rural,2,10900.0,4.84,AI
+P00076,Low digital access,0,900.0,5.0,AI
+P00077,Urban,0,900.0,5.0,AI
+P00078,Rural,0,900.0,5.0,AI
+P00079,Urban,0,900.0,5.0,AI
+P00080,Urban,0,900.0,5.0,AI
+P00081,Rural,1,5900.0,4.92,AI
+P00082,Urban,0,900.0,5.0,AI
+P00083,Urban,1,5900.0,4.92,AI
+P00084,Rural,1,5900.0,4.92,AI
+P00085,Low digital access,1,5900.0,4.92,AI
+P00086,Low digital access,0,900.0,5.0,AI
+P00087,Urban,0,900.0,5.0,AI
+P00088,Urban,0,900.0,5.0,AI
+P00089,Urban,0,900.0,5.0,AI
+P00090,Urban,0,900.0,5.0,AI
+P00091,Urban,1,5900.0,4.92,AI
+P00092,Rural,0,900.0,5.0,AI
+P00093,Low digital access,0,900.0,5.0,AI
+P00094,Rural,0,900.0,5.0,AI
+P00095,Low digital access,0,900.0,5.0,AI
+P00096,Urban,0,900.0,5.0,AI
+P00097,Urban,2,10900.0,4.84,AI
+P00098,Low digital access,2,10900.0,4.84,AI
+P00099,Rural,1,5900.0,4.92,AI
+P00100,Low digital access,1,5900.0,4.92,AI
+P00101,Rural,0,900.0,5.0,AI
+P00102,Urban,0,900.0,5.0,AI
+P00103,Urban,1,5900.0,4.92,AI
+P00104,Urban,0,900.0,5.0,AI
+P00105,Urban,1,5900.0,4.92,AI
+P00106,Urban,1,5900.0,4.92,AI
+P00107,Rural,1,5900.0,4.92,AI
+P00108,Urban,0,900.0,5.0,AI
+P00109,Rural,0,900.0,5.0,AI
+P00110,Urban,1,5900.0,4.92,AI
+P00111,Low digital access,0,900.0,5.0,AI
+P00112,Low digital access,0,900.0,5.0,AI
+P00113,Low digital access,1,5900.0,4.92,AI
+P00114,Rural,0,900.0,5.0,AI
+P00115,Low digital access,0,900.0,5.0,AI
+P00116,Urban,0,900.0,5.0,AI
+P00117,Rural,1,5900.0,4.92,AI
+P00118,Rural,0,900.0,5.0,AI
+P00119,Low digital access,1,5900.0,4.92,AI
+P00120,Urban,0,900.0,5.0,AI
+P00121,Rural,0,900.0,5.0,AI
+P00122,Urban,0,900.0,5.0,AI
+P00123,Rural,0,900.0,5.0,AI
+P00124,Rural,0,900.0,5.0,AI
+P00125,Urban,0,900.0,5.0,AI
+P00126,Urban,0,900.0,5.0,AI
+P00127,Urban,0,900.0,5.0,AI
+P00128,Urban,0,900.0,5.0,AI
+P00129,Low digital access,0,900.0,5.0,AI
+P00130,Urban,0,900.0,5.0,AI
+P00131,Low digital access,0,900.0,5.0,AI
+P00132,Urban,0,900.0,5.0,AI
+P00133,Rural,1,5900.0,4.92,AI
+P00134,Urban,1,5900.0,4.92,AI
+P00135,Urban,0,900.0,5.0,AI
+P00136,Urban,0,900.0,5.0,AI
+P00137,Urban,1,5900.0,4.92,AI
+P00138,Low digital access,0,900.0,5.0,AI
+P00139,Rural,0,900.0,5.0,AI
+P00140,Urban,1,5900.0,4.92,AI
+P00141,Rural,0,900.0,5.0,AI
+P00142,Rural,0,900.0,5.0,AI
+P00143,Urban,0,900.0,5.0,AI
+P00144,Rural,0,900.0,5.0,AI
+P00145,Rural,0,900.0,5.0,AI
+P00146,Rural,0,900.0,5.0,AI
+P00147,Rural,1,5900.0,4.92,AI
+P00148,Urban,0,900.0,5.0,AI
+P00149,Urban,1,5900.0,4.92,AI
+P00150,Urban,0,900.0,5.0,AI
+P00151,Urban,1,5900.0,4.92,AI
+P00152,Rural,0,900.0,5.0,AI
+P00153,Low digital access,1,5900.0,4.92,AI
+P00154,Urban,1,5900.0,4.92,AI
+P00155,Rural,0,900.0,5.0,AI
+P00156,Urban,0,900.0,5.0,AI
+P00157,Urban,1,5900.0,4.92,AI
+P00158,Urban,1,5900.0,4.92,AI
+P00159,Urban,0,900.0,5.0,AI
+P00160,Urban,0,900.0,5.0,AI
+P00161,Urban,0,900.0,5.0,AI
+P00162,Low digital access,0,900.0,5.0,AI
+P00163,Urban,1,5900.0,4.92,AI
+P00164,Urban,0,900.0,5.0,AI
+P00165,Rural,0,900.0,5.0,AI
+P00166,Rural,1,5900.0,4.92,AI
+P00167,Urban,0,900.0,5.0,AI
+P00168,Urban,1,5900.0,4.92,AI
+P00169,Rural,1,5900.0,4.92,AI
+P00170,Rural,0,900.0,5.0,AI
+P00171,Urban,2,10900.0,4.84,AI
+P00172,Rural,0,900.0,5.0,AI
+P00173,Urban,1,5900.0,4.92,AI
+P00174,Urban,0,900.0,5.0,AI
+P00175,Low digital access,0,900.0,5.0,AI
+P00176,Rural,0,900.0,5.0,AI
+P00177,Urban,1,5900.0,4.92,AI
+P00178,Urban,0,900.0,5.0,AI
+P00179,Urban,0,900.0,5.0,AI
+P00180,Urban,1,5900.0,4.92,AI
+P00181,Urban,1,5900.0,4.92,AI
+P00182,Urban,1,5900.0,4.92,AI
+P00183,Low digital access,0,900.0,5.0,AI
+P00184,Rural,0,900.0,5.0,AI
+P00185,Urban,0,900.0,5.0,AI
+P00186,Urban,0,900.0,5.0,AI
+P00187,Low digital access,1,5900.0,4.92,AI
+P00188,Urban,0,900.0,5.0,AI
+P00189,Low digital access,0,900.0,5.0,AI
+P00190,Rural,1,5900.0,4.92,AI
+P00191,Urban,0,900.0,5.0,AI
+P00192,Urban,1,5900.0,4.92,AI
+P00193,Low digital access,0,900.0,5.0,AI
+P00194,Urban,1,5900.0,4.92,AI
+P00195,Urban,1,5900.0,4.92,AI
+P00196,Urban,0,900.0,5.0,AI
+P00197,Urban,0,900.0,5.0,AI
+P00198,Urban,0,900.0,5.0,AI
+P00199,Urban,0,900.0,5.0,AI
+P00200,Low digital access,0,900.0,5.0,AI
+P00201,Urban,0,900.0,5.0,AI
+P00202,Urban,0,900.0,5.0,AI
+P00203,Low digital access,0,900.0,5.0,AI
+P00204,Urban,0,900.0,5.0,AI
+P00205,Urban,1,5900.0,4.92,AI
+P00206,Low digital access,0,900.0,5.0,AI
+P00207,Low digital access,0,900.0,5.0,AI
+P00208,Urban,1,5900.0,4.92,AI
+P00209,Urban,0,900.0,5.0,AI
+P00210,Rural,1,5900.0,4.92,AI
+P00211,Urban,0,900.0,5.0,AI
+P00212,Rural,0,900.0,5.0,AI
+P00213,Urban,0,900.0,5.0,AI
+P00214,Urban,2,10900.0,4.84,AI
+P00215,Low digital access,0,900.0,5.0,AI
+P00216,Urban,1,5900.0,4.92,AI
+P00217,Rural,1,5900.0,4.92,AI
+P00218,Urban,1,5900.0,4.92,AI
+P00219,Low digital access,0,900.0,5.0,AI
+P00220,Rural,2,10900.0,4.84,AI
+P00221,Urban,0,900.0,5.0,AI
+P00222,Rural,1,5900.0,4.92,AI
+P00223,Urban,0,900.0,5.0,AI
+P00224,Urban,0,900.0,5.0,AI
+P00225,Rural,0,900.0,5.0,AI
+P00226,Urban,1,5900.0,4.92,AI
+P00227,Urban,0,900.0,5.0,AI
+P00228,Rural,0,900.0,5.0,AI
+P00229,Urban,1,5900.0,4.92,AI
+P00230,Urban,1,5900.0,4.92,AI
+P00231,Urban,0,900.0,5.0,AI
+P00232,Urban,1,5900.0,4.92,AI
+P00233,Urban,0,900.0,5.0,AI
+P00234,Rural,0,900.0,5.0,AI
+P00235,Urban,0,900.0,5.0,AI
+P00236,Urban,0,900.0,5.0,AI
+P00237,Low digital access,2,10900.0,4.84,AI
+P00238,Urban,1,5900.0,4.92,AI
+P00239,Urban,1,5900.0,4.92,AI
+P00240,Low digital access,2,10900.0,4.84,AI
+P00241,Low digital access,0,900.0,5.0,AI
+P00242,Urban,1,5900.0,4.92,AI
+P00243,Urban,0,900.0,5.0,AI
+P00244,Urban,1,5900.0,4.92,AI
+P00245,Low digital access,0,900.0,5.0,AI
+P00246,Urban,0,900.0,5.0,AI
+P00247,Urban,1,5900.0,4.92,AI
+P00248,Urban,1,5900.0,4.92,AI
+P00249,Urban,1,5900.0,4.92,AI
+P00250,Urban,1,5900.0,4.92,AI
+P00251,Urban,1,5900.0,4.92,AI
+P00252,Urban,0,900.0,5.0,AI
+P00253,Urban,0,900.0,5.0,AI
+P00254,Urban,1,5900.0,4.92,AI
+P00255,Urban,1,5900.0,4.92,AI
+P00256,Urban,1,5900.0,4.92,AI
+P00257,Rural,2,10900.0,4.84,AI
+P00258,Urban,0,900.0,5.0,AI
+P00259,Rural,0,900.0,5.0,AI
+P00260,Urban,0,900.0,5.0,AI
+P00261,Rural,0,900.0,5.0,AI
+P00262,Rural,0,900.0,5.0,AI
+P00263,Rural,1,5900.0,4.92,AI
+P00264,Urban,0,900.0,5.0,AI
+P00265,Urban,0,900.0,5.0,AI
+P00266,Rural,0,900.0,5.0,AI
+P00267,Urban,0,900.0,5.0,AI
+P00268,Urban,1,5900.0,4.92,AI
+P00269,Low digital access,0,900.0,5.0,AI
+P00270,Low digital access,0,900.0,5.0,AI
+P00271,Urban,1,5900.0,4.92,AI
+P00272,Rural,0,900.0,5.0,AI
+P00273,Urban,0,900.0,5.0,AI
+P00274,Low digital access,0,900.0,5.0,AI
+P00275,Low digital access,0,900.0,5.0,AI
+P00276,Urban,2,10900.0,4.84,AI
+P00277,Rural,0,900.0,5.0,AI
+P00278,Rural,1,5900.0,4.92,AI
+P00279,Urban,1,5900.0,4.92,AI
+P00280,Low digital access,0,900.0,5.0,AI
+P00281,Urban,0,900.0,5.0,AI
+P00282,Low digital access,0,900.0,5.0,AI
+P00283,Urban,0,900.0,5.0,AI
+P00284,Urban,2,10900.0,4.84,AI
+P00285,Urban,0,900.0,5.0,AI
+P00286,Urban,0,900.0,5.0,AI
+P00287,Urban,0,900.0,5.0,AI
+P00288,Low digital access,0,900.0,5.0,AI
+P00289,Urban,0,900.0,5.0,AI
+P00290,Urban,0,900.0,5.0,AI
+P00291,Urban,1,5900.0,4.92,AI
+P00292,Low digital access,1,5900.0,4.92,AI
+P00293,Urban,0,900.0,5.0,AI
+P00294,Rural,1,5900.0,4.92,AI
+P00295,Urban,0,900.0,5.0,AI
+P00296,Urban,1,5900.0,4.92,AI
+P00297,Urban,0,900.0,5.0,AI
+P00298,Urban,0,900.0,5.0,AI
+P00299,Urban,1,5900.0,4.92,AI
+P00300,Rural,1,5900.0,4.92,AI
+P00301,Rural,0,900.0,5.0,AI
+P00302,Urban,1,5900.0,4.92,AI
+P00303,Urban,0,900.0,5.0,AI
+P00304,Urban,0,900.0,5.0,AI
+P00305,Urban,1,5900.0,4.92,AI
+P00306,Urban,0,900.0,5.0,AI
+P00307,Urban,0,900.0,5.0,AI
+P00308,Urban,0,900.0,5.0,AI
+P00309,Urban,0,900.0,5.0,AI
+P00310,Urban,1,5900.0,4.92,AI
+P00311,Rural,0,900.0,5.0,AI
+P00312,Urban,1,5900.0,4.92,AI
+P00313,Urban,1,5900.0,4.92,AI
+P00314,Rural,0,900.0,5.0,AI
+P00315,Urban,1,5900.0,4.92,AI
+P00316,Rural,0,900.0,5.0,AI
+P00317,Urban,0,900.0,5.0,AI
+P00318,Rural,0,900.0,5.0,AI
+P00319,Rural,1,5900.0,4.92,AI
+P00320,Urban,0,900.0,5.0,AI
+P00321,Urban,0,900.0,5.0,AI
+P00322,Low digital access,1,5900.0,4.92,AI
+P00323,Urban,0,900.0,5.0,AI
+P00324,Urban,0,900.0,5.0,AI
+P00325,Rural,0,900.0,5.0,AI
+P00326,Urban,0,900.0,5.0,AI
+P00327,Rural,1,5900.0,4.92,AI
+P00328,Urban,1,5900.0,4.92,AI
+P00329,Low digital access,1,5900.0,4.92,AI
+P00330,Urban,0,900.0,5.0,AI
+P00331,Urban,2,10900.0,4.84,AI
+P00332,Urban,1,5900.0,4.92,AI
+P00333,Urban,0,900.0,5.0,AI
+P00334,Urban,1,5900.0,4.92,AI
+P00335,Urban,0,900.0,5.0,AI
+P00336,Urban,0,900.0,5.0,AI
+P00337,Rural,0,900.0,5.0,AI
+P00338,Urban,0,900.0,5.0,AI
+P00339,Urban,0,900.0,5.0,AI
+P00340,Rural,0,900.0,5.0,AI
+P00341,Rural,1,5900.0,4.92,AI
+P00342,Urban,0,900.0,5.0,AI
+P00343,Urban,2,10900.0,4.84,AI
+P00344,Rural,0,900.0,5.0,AI
+P00345,Rural,0,900.0,5.0,AI
+P00346,Urban,0,900.0,5.0,AI
+P00347,Urban,1,5900.0,4.92,AI
+P00348,Urban,0,900.0,5.0,AI
+P00349,Urban,1,5900.0,4.92,AI
+P00350,Rural,0,900.0,5.0,AI
+P00351,Rural,0,900.0,5.0,AI
+P00352,Rural,2,10900.0,4.84,AI
+P00353,Urban,1,5900.0,4.92,AI
+P00354,Rural,0,900.0,5.0,AI
+P00355,Urban,0,900.0,5.0,AI
+P00356,Urban,0,900.0,5.0,AI
+P00357,Urban,0,900.0,5.0,AI
+P00358,Urban,0,900.0,5.0,AI
+P00359,Rural,0,900.0,5.0,AI
+P00360,Urban,0,900.0,5.0,AI
+P00361,Urban,0,900.0,5.0,AI
+P00362,Urban,0,900.0,5.0,AI
+P00363,Rural,0,900.0,5.0,AI
+P00364,Urban,0,900.0,5.0,AI
+P00365,Rural,0,900.0,5.0,AI
+P00366,Urban,0,900.0,5.0,AI
+P00367,Urban,1,5900.0,4.92,AI
+P00368,Low digital access,1,5900.0,4.92,AI
+P00369,Rural,0,900.0,5.0,AI
+P00370,Urban,1,5900.0,4.92,AI
+P00371,Urban,0,900.0,5.0,AI
+P00372,Urban,2,10900.0,4.84,AI
+P00373,Urban,0,900.0,5.0,AI
+P00374,Urban,0,900.0,5.0,AI
+P00375,Urban,0,900.0,5.0,AI
+P00376,Urban,0,900.0,5.0,AI
+P00377,Urban,1,5900.0,4.92,AI
+P00378,Urban,0,900.0,5.0,AI
+P00379,Urban,0,900.0,5.0,AI
+P00380,Urban,1,5900.0,4.92,AI
+P00381,Urban,0,900.0,5.0,AI
+P00382,Low digital access,0,900.0,5.0,AI
+P00383,Urban,0,900.0,5.0,AI
+P00384,Urban,1,5900.0,4.92,AI
+P00385,Urban,0,900.0,5.0,AI
+P00386,Urban,1,5900.0,4.92,AI
+P00387,Urban,0,900.0,5.0,AI
+P00388,Urban,1,5900.0,4.92,AI
+P00389,Urban,0,900.0,5.0,AI
+P00390,Urban,0,900.0,5.0,AI
+P00391,Rural,1,5900.0,4.92,AI
+P00392,Urban,0,900.0,5.0,AI
+P00393,Rural,1,5900.0,4.92,AI
+P00394,Urban,0,900.0,5.0,AI
+P00395,Rural,0,900.0,5.0,AI
+P00396,Urban,1,5900.0,4.92,AI
+P00397,Urban,0,900.0,5.0,AI
+P00398,Urban,0,900.0,5.0,AI
+P00399,Rural,0,900.0,5.0,AI
+P00400,Urban,1,5900.0,4.92,AI
+P00401,Urban,1,5900.0,4.92,AI
+P00402,Rural,0,900.0,5.0,AI
+P00403,Urban,0,900.0,5.0,AI
+P00404,Rural,0,900.0,5.0,AI
+P00405,Rural,1,5900.0,4.92,AI
+P00406,Urban,1,5900.0,4.92,AI
+P00407,Rural,0,900.0,5.0,AI
+P00408,Urban,2,10900.0,4.84,AI
+P00409,Low digital access,2,10900.0,4.84,AI
+P00410,Low digital access,0,900.0,5.0,AI
+P00411,Urban,0,900.0,5.0,AI
+P00412,Rural,0,900.0,5.0,AI
+P00413,Rural,0,900.0,5.0,AI
+P00414,Urban,1,5900.0,4.92,AI
+P00415,Urban,0,900.0,5.0,AI
+P00416,Rural,0,900.0,5.0,AI
+P00417,Urban,1,5900.0,4.92,AI
+P00418,Rural,0,900.0,5.0,AI
+P00419,Low digital access,1,5900.0,4.92,AI
+P00420,Urban,0,900.0,5.0,AI
+P00421,Urban,0,900.0,5.0,AI
+P00422,Low digital access,1,5900.0,4.92,AI
+P00423,Urban,1,5900.0,4.92,AI
+P00424,Rural,0,900.0,5.0,AI
+P00425,Rural,1,5900.0,4.92,AI
+P00426,Rural,0,900.0,5.0,AI
+P00427,Low digital access,0,900.0,5.0,AI
+P00428,Urban,1,5900.0,4.92,AI
+P00429,Urban,1,5900.0,4.92,AI
+P00430,Low digital access,0,900.0,5.0,AI
+P00431,Rural,0,900.0,5.0,AI
+P00432,Rural,3,15900.0,4.76,AI
+P00433,Rural,0,900.0,5.0,AI
+P00434,Urban,0,900.0,5.0,AI
+P00435,Rural,2,10900.0,4.84,AI
+P00436,Rural,1,5900.0,4.92,AI
+P00437,Urban,1,5900.0,4.92,AI
+P00438,Urban,0,900.0,5.0,AI
+P00439,Urban,0,900.0,5.0,AI
+P00440,Urban,0,900.0,5.0,AI
+P00441,Urban,0,900.0,5.0,AI
+P00442,Rural,0,900.0,5.0,AI
+P00443,Urban,0,900.0,5.0,AI
+P00444,Rural,1,5900.0,4.92,AI
+P00445,Rural,1,5900.0,4.92,AI
+P00446,Urban,0,900.0,5.0,AI
+P00447,Urban,1,5900.0,4.92,AI
+P00448,Rural,0,900.0,5.0,AI
+P00449,Urban,0,900.0,5.0,AI
+P00450,Urban,1,5900.0,4.92,AI
+P00451,Urban,0,900.0,5.0,AI
+P00452,Urban,0,900.0,5.0,AI
+P00453,Urban,1,5900.0,4.92,AI
+P00454,Urban,0,900.0,5.0,AI
+P00455,Urban,0,900.0,5.0,AI
+P00456,Urban,0,900.0,5.0,AI
+P00457,Urban,1,5900.0,4.92,AI
+P00458,Low digital access,0,900.0,5.0,AI
+P00459,Low digital access,1,5900.0,4.92,AI
+P00460,Low digital access,1,5900.0,4.92,AI
+P00461,Rural,0,900.0,5.0,AI
+P00462,Urban,2,10900.0,4.84,AI
+P00463,Rural,0,900.0,5.0,AI
+P00464,Urban,1,5900.0,4.92,AI
+P00465,Urban,0,900.0,5.0,AI
+P00466,Urban,1,5900.0,4.92,AI
+P00467,Urban,0,900.0,5.0,AI
+P00468,Urban,0,900.0,5.0,AI
+P00469,Rural,0,900.0,5.0,AI
+P00470,Low digital access,0,900.0,5.0,AI
+P00471,Rural,0,900.0,5.0,AI
+P00472,Rural,1,5900.0,4.92,AI
+P00473,Rural,0,900.0,5.0,AI
+P00474,Rural,0,900.0,5.0,AI
+P00475,Rural,1,5900.0,4.92,AI
+P00476,Rural,0,900.0,5.0,AI
+P00477,Rural,0,900.0,5.0,AI
+P00478,Urban,0,900.0,5.0,AI
+P00479,Rural,1,5900.0,4.92,AI
+P00480,Urban,0,900.0,5.0,AI
+P00481,Urban,0,900.0,5.0,AI
+P00482,Urban,1,5900.0,4.92,AI
+P00483,Low digital access,1,5900.0,4.92,AI
+P00484,Rural,0,900.0,5.0,AI
+P00485,Urban,0,900.0,5.0,AI
+P00486,Urban,1,5900.0,4.92,AI
+P00487,Rural,2,10900.0,4.84,AI
+P00488,Urban,0,900.0,5.0,AI
+P00489,Urban,0,900.0,5.0,AI
+P00490,Urban,1,5900.0,4.92,AI
+P00491,Urban,1,5900.0,4.92,AI
+P00492,Urban,0,900.0,5.0,AI
+P00493,Rural,2,10900.0,4.84,AI
+P00494,Low digital access,1,5900.0,4.92,AI
+P00495,Urban,0,900.0,5.0,AI
+P00496,Low digital access,2,10900.0,4.84,AI
+P00497,Rural,1,5900.0,4.92,AI
+P00498,Urban,0,900.0,5.0,AI
+P00499,Urban,1,5900.0,4.92,AI
+P00500,Urban,1,5900.0,4.92,AI
+P00501,Urban,0,900.0,5.0,AI
+P00502,Urban,1,5900.0,4.92,AI
+P00503,Low digital access,0,900.0,5.0,AI
+P00504,Rural,2,10900.0,4.84,AI
+P00505,Urban,1,5900.0,4.92,AI
+P00506,Rural,1,5900.0,4.92,AI
+P00507,Low digital access,1,5900.0,4.92,AI
+P00508,Rural,1,5900.0,4.92,AI
+P00509,Urban,0,900.0,5.0,AI
+P00510,Low digital access,0,900.0,5.0,AI
+P00511,Urban,1,5900.0,4.92,AI
+P00512,Urban,0,900.0,5.0,AI
+P00513,Urban,0,900.0,5.0,AI
+P00514,Low digital access,0,900.0,5.0,AI
+P00515,Urban,0,900.0,5.0,AI
+P00516,Urban,0,900.0,5.0,AI
+P00517,Rural,0,900.0,5.0,AI
+P00518,Rural,0,900.0,5.0,AI
+P00519,Rural,1,5900.0,4.92,AI
+P00520,Low digital access,0,900.0,5.0,AI
+P00521,Rural,0,900.0,5.0,AI
+P00522,Urban,0,900.0,5.0,AI
+P00523,Low digital access,0,900.0,5.0,AI
+P00524,Rural,0,900.0,5.0,AI
+P00525,Rural,0,900.0,5.0,AI
+P00526,Urban,0,900.0,5.0,AI
+P00527,Urban,1,5900.0,4.92,AI
+P00528,Urban,0,900.0,5.0,AI
+P00529,Urban,1,5900.0,4.92,AI
+P00530,Rural,2,10900.0,4.84,AI
+P00531,Urban,0,900.0,5.0,AI
+P00532,Urban,0,900.0,5.0,AI
+P00533,Urban,0,900.0,5.0,AI
+P00534,Urban,0,900.0,5.0,AI
+P00535,Urban,1,5900.0,4.92,AI
+P00536,Urban,1,5900.0,4.92,AI
+P00537,Low digital access,0,900.0,5.0,AI
+P00538,Urban,1,5900.0,4.92,AI
+P00539,Rural,1,5900.0,4.92,AI
+P00540,Urban,0,900.0,5.0,AI
+P00541,Urban,0,900.0,5.0,AI
+P00542,Low digital access,1,5900.0,4.92,AI
+P00543,Urban,0,900.0,5.0,AI
+P00544,Urban,2,10900.0,4.84,AI
+P00545,Urban,0,900.0,5.0,AI
+P00546,Urban,0,900.0,5.0,AI
+P00547,Urban,0,900.0,5.0,AI
+P00548,Rural,0,900.0,5.0,AI
+P00549,Rural,0,900.0,5.0,AI
+P00550,Urban,0,900.0,5.0,AI
+P00551,Urban,0,900.0,5.0,AI
+P00552,Rural,0,900.0,5.0,AI
+P00553,Urban,0,900.0,5.0,AI
+P00554,Urban,0,900.0,5.0,AI
+P00555,Urban,0,900.0,5.0,AI
+P00556,Rural,0,900.0,5.0,AI
+P00557,Urban,0,900.0,5.0,AI
+P00558,Rural,0,900.0,5.0,AI
+P00559,Urban,1,5900.0,4.92,AI
+P00560,Urban,0,900.0,5.0,AI
+P00561,Urban,1,5900.0,4.92,AI
+P00562,Urban,0,900.0,5.0,AI
+P00563,Urban,0,900.0,5.0,AI
+P00564,Urban,0,900.0,5.0,AI
+P00565,Urban,0,900.0,5.0,AI
+P00566,Rural,1,5900.0,4.92,AI
+P00567,Urban,1,5900.0,4.92,AI
+P00568,Urban,2,10900.0,4.84,AI
+P00569,Rural,1,5900.0,4.92,AI
+P00570,Urban,0,900.0,5.0,AI
+P00571,Low digital access,1,5900.0,4.92,AI
+P00572,Urban,0,900.0,5.0,AI
+P00573,Urban,0,900.0,5.0,AI
+P00574,Urban,0,900.0,5.0,AI
+P00575,Urban,0,900.0,5.0,AI
+P00576,Urban,0,900.0,5.0,AI
+P00577,Urban,0,900.0,5.0,AI
+P00578,Urban,0,900.0,5.0,AI
+P00579,Rural,1,5900.0,4.92,AI
+P00580,Rural,0,900.0,5.0,AI
+P00581,Urban,0,900.0,5.0,AI
+P00582,Urban,1,5900.0,4.92,AI
+P00583,Urban,0,900.0,5.0,AI
+P00584,Urban,0,900.0,5.0,AI
+P00585,Urban,1,5900.0,4.92,AI
+P00586,Low digital access,1,5900.0,4.92,AI
+P00587,Rural,1,5900.0,4.92,AI
+P00588,Urban,1,5900.0,4.92,AI
+P00589,Urban,0,900.0,5.0,AI
+P00590,Urban,0,900.0,5.0,AI
+P00591,Urban,1,5900.0,4.92,AI
+P00592,Urban,2,10900.0,4.84,AI
+P00593,Urban,0,900.0,5.0,AI
+P00594,Urban,0,900.0,5.0,AI
+P00595,Rural,0,900.0,5.0,AI
+P00596,Urban,0,900.0,5.0,AI
+P00597,Low digital access,1,5900.0,4.92,AI
+P00598,Rural,1,5900.0,4.92,AI
+P00599,Low digital access,0,900.0,5.0,AI
+P00600,Low digital access,0,900.0,5.0,AI
+P00601,Urban,0,900.0,5.0,AI
+P00602,Low digital access,0,900.0,5.0,AI
+P00603,Urban,1,5900.0,4.92,AI
+P00604,Rural,2,10900.0,4.84,AI
+P00605,Rural,1,5900.0,4.92,AI
+P00606,Rural,0,900.0,5.0,AI
+P00607,Rural,2,10900.0,4.84,AI
+P00608,Low digital access,1,5900.0,4.92,AI
+P00609,Urban,1,5900.0,4.92,AI
+P00610,Rural,0,900.0,5.0,AI
+P00611,Urban,1,5900.0,4.92,AI
+P00612,Urban,1,5900.0,4.92,AI
+P00613,Rural,0,900.0,5.0,AI
+P00614,Low digital access,1,5900.0,4.92,AI
+P00615,Urban,0,900.0,5.0,AI
+P00616,Urban,0,900.0,5.0,AI
+P00617,Rural,0,900.0,5.0,AI
+P00618,Rural,0,900.0,5.0,AI
+P00619,Rural,0,900.0,5.0,AI
+P00620,Urban,1,5900.0,4.92,AI
+P00621,Urban,0,900.0,5.0,AI
+P00622,Urban,2,10900.0,4.84,AI
+P00623,Urban,0,900.0,5.0,AI
+P00624,Rural,1,5900.0,4.92,AI
+P00625,Rural,1,5900.0,4.92,AI
+P00626,Low digital access,0,900.0,5.0,AI
+P00627,Rural,0,900.0,5.0,AI
+P00628,Urban,0,900.0,5.0,AI
+P00629,Urban,1,5900.0,4.92,AI
+P00630,Low digital access,0,900.0,5.0,AI
+P00631,Low digital access,0,900.0,5.0,AI
+P00632,Urban,0,900.0,5.0,AI
+P00633,Urban,2,10900.0,4.84,AI
+P00634,Rural,1,5900.0,4.92,AI
+P00635,Rural,0,900.0,5.0,AI
+P00636,Rural,0,900.0,5.0,AI
+P00637,Urban,2,10900.0,4.84,AI
+P00638,Urban,0,900.0,5.0,AI
+P00639,Urban,0,900.0,5.0,AI
+P00640,Urban,2,10900.0,4.84,AI
+P00641,Urban,0,900.0,5.0,AI
+P00642,Urban,2,10900.0,4.84,AI
+P00643,Urban,0,900.0,5.0,AI
+P00644,Urban,1,5900.0,4.92,AI
+P00645,Low digital access,0,900.0,5.0,AI
+P00646,Rural,0,900.0,5.0,AI
+P00647,Urban,1,5900.0,4.92,AI
+P00648,Rural,0,900.0,5.0,AI
+P00649,Rural,0,900.0,5.0,AI
+P00650,Low digital access,0,900.0,5.0,AI
+P00651,Urban,0,900.0,5.0,AI
+P00652,Urban,1,5900.0,4.92,AI
+P00653,Urban,4,20900.0,4.680000000000001,AI
+P00654,Rural,1,5900.0,4.92,AI
+P00655,Urban,0,900.0,5.0,AI
+P00656,Low digital access,1,5900.0,4.92,AI
+P00657,Urban,0,900.0,5.0,AI
+P00658,Urban,1,5900.0,4.92,AI
+P00659,Urban,0,900.0,5.0,AI
+P00660,Urban,1,5900.0,4.92,AI
+P00661,Rural,0,900.0,5.0,AI
+P00662,Rural,0,900.0,5.0,AI
+P00663,Low digital access,1,5900.0,4.92,AI
+P00664,Urban,0,900.0,5.0,AI
+P00665,Urban,0,900.0,5.0,AI
+P00666,Rural,1,5900.0,4.92,AI
+P00667,Urban,0,900.0,5.0,AI
+P00668,Rural,0,900.0,5.0,AI
+P00669,Low digital access,0,900.0,5.0,AI
+P00670,Rural,1,5900.0,4.92,AI
+P00671,Urban,0,900.0,5.0,AI
+P00672,Urban,0,900.0,5.0,AI
+P00673,Urban,0,900.0,5.0,AI
+P00674,Low digital access,1,5900.0,4.92,AI
+P00675,Urban,1,5900.0,4.92,AI
+P00676,Urban,0,900.0,5.0,AI
+P00677,Urban,1,5900.0,4.92,AI
+P00678,Rural,1,5900.0,4.92,AI
+P00679,Urban,0,900.0,5.0,AI
+P00680,Urban,0,900.0,5.0,AI
+P00681,Urban,0,900.0,5.0,AI
+P00682,Urban,0,900.0,5.0,AI
+P00683,Rural,0,900.0,5.0,AI
+P00684,Low digital access,0,900.0,5.0,AI
+P00685,Urban,1,5900.0,4.92,AI
+P00686,Rural,0,900.0,5.0,AI
+P00687,Urban,0,900.0,5.0,AI
+P00688,Urban,0,900.0,5.0,AI
+P00689,Urban,0,900.0,5.0,AI
+P00690,Urban,0,900.0,5.0,AI
+P00691,Rural,2,10900.0,4.84,AI
+P00692,Urban,1,5900.0,4.92,AI
+P00693,Urban,0,900.0,5.0,AI
+P00694,Rural,0,900.0,5.0,AI
+P00695,Low digital access,0,900.0,5.0,AI
+P00696,Rural,0,900.0,5.0,AI
+P00697,Urban,0,900.0,5.0,AI
+P00698,Urban,0,900.0,5.0,AI
+P00699,Low digital access,0,900.0,5.0,AI
+P00700,Urban,0,900.0,5.0,AI
+P00701,Rural,1,5900.0,4.92,AI
+P00702,Urban,0,900.0,5.0,AI
+P00703,Low digital access,0,900.0,5.0,AI
+P00704,Low digital access,1,5900.0,4.92,AI
+P00705,Low digital access,0,900.0,5.0,AI
+P00706,Rural,0,900.0,5.0,AI
+P00707,Rural,0,900.0,5.0,AI
+P00708,Low digital access,0,900.0,5.0,AI
+P00709,Urban,1,5900.0,4.92,AI
+P00710,Rural,0,900.0,5.0,AI
+P00711,Rural,1,5900.0,4.92,AI
+P00712,Urban,0,900.0,5.0,AI
+P00713,Urban,0,900.0,5.0,AI
+P00714,Urban,0,900.0,5.0,AI
+P00715,Urban,0,900.0,5.0,AI
+P00716,Low digital access,0,900.0,5.0,AI
+P00717,Rural,1,5900.0,4.92,AI
+P00718,Rural,0,900.0,5.0,AI
+P00719,Rural,0,900.0,5.0,AI
+P00720,Urban,0,900.0,5.0,AI
+P00721,Urban,0,900.0,5.0,AI
+P00722,Rural,1,5900.0,4.92,AI
+P00723,Urban,1,5900.0,4.92,AI
+P00724,Urban,1,5900.0,4.92,AI
+P00725,Urban,0,900.0,5.0,AI
+P00726,Urban,0,900.0,5.0,AI
+P00727,Rural,0,900.0,5.0,AI
+P00728,Rural,1,5900.0,4.92,AI
+P00729,Urban,0,900.0,5.0,AI
+P00730,Urban,0,900.0,5.0,AI
+P00731,Rural,1,5900.0,4.92,AI
+P00732,Urban,2,10900.0,4.84,AI
+P00733,Low digital access,0,900.0,5.0,AI
+P00734,Urban,3,15900.0,4.76,AI
+P00735,Urban,0,900.0,5.0,AI
+P00736,Urban,0,900.0,5.0,AI
+P00737,Low digital access,0,900.0,5.0,AI
+P00738,Low digital access,0,900.0,5.0,AI
+P00739,Urban,0,900.0,5.0,AI
+P00740,Urban,0,900.0,5.0,AI
+P00741,Urban,1,5900.0,4.92,AI
+P00742,Rural,0,900.0,5.0,AI
+P00743,Urban,0,900.0,5.0,AI
+P00744,Urban,0,900.0,5.0,AI
+P00745,Urban,0,900.0,5.0,AI
+P00746,Rural,0,900.0,5.0,AI
+P00747,Urban,0,900.0,5.0,AI
+P00748,Urban,0,900.0,5.0,AI
+P00749,Rural,0,900.0,5.0,AI
+P00750,Urban,0,900.0,5.0,AI
+P00751,Urban,0,900.0,5.0,AI
+P00752,Rural,0,900.0,5.0,AI
+P00753,Low digital access,1,5900.0,4.92,AI
+P00754,Urban,0,900.0,5.0,AI
+P00755,Urban,0,900.0,5.0,AI
+P00756,Urban,2,10900.0,4.84,AI
+P00757,Rural,0,900.0,5.0,AI
+P00758,Urban,1,5900.0,4.92,AI
+P00759,Urban,0,900.0,5.0,AI
+P00760,Urban,0,900.0,5.0,AI
+P00761,Rural,2,10900.0,4.84,AI
+P00762,Low digital access,0,900.0,5.0,AI
+P00763,Urban,1,5900.0,4.92,AI
+P00764,Urban,1,5900.0,4.92,AI
+P00765,Rural,0,900.0,5.0,AI
+P00766,Rural,0,900.0,5.0,AI
+P00767,Urban,0,900.0,5.0,AI
+P00768,Rural,0,900.0,5.0,AI
+P00769,Urban,0,900.0,5.0,AI
+P00770,Urban,2,10900.0,4.84,AI
+P00771,Low digital access,1,5900.0,4.92,AI
+P00772,Rural,0,900.0,5.0,AI
+P00773,Low digital access,1,5900.0,4.92,AI
+P00774,Low digital access,0,900.0,5.0,AI
+P00775,Urban,0,900.0,5.0,AI
+P00776,Rural,0,900.0,5.0,AI
+P00777,Rural,1,5900.0,4.92,AI
+P00778,Low digital access,1,5900.0,4.92,AI
+P00779,Low digital access,0,900.0,5.0,AI
+P00780,Rural,1,5900.0,4.92,AI
+P00781,Rural,2,10900.0,4.84,AI
+P00782,Urban,1,5900.0,4.92,AI
+P00783,Urban,0,900.0,5.0,AI
+P00784,Urban,1,5900.0,4.92,AI
+P00785,Low digital access,0,900.0,5.0,AI
+P00786,Urban,2,10900.0,4.84,AI
+P00787,Rural,0,900.0,5.0,AI
+P00788,Urban,0,900.0,5.0,AI
+P00789,Low digital access,0,900.0,5.0,AI
+P00790,Rural,0,900.0,5.0,AI
+P00791,Low digital access,0,900.0,5.0,AI
+P00792,Urban,0,900.0,5.0,AI
+P00793,Urban,0,900.0,5.0,AI
+P00794,Urban,0,900.0,5.0,AI
+P00795,Urban,1,5900.0,4.92,AI
+P00796,Urban,0,900.0,5.0,AI
+P00797,Urban,1,5900.0,4.92,AI
+P00798,Low digital access,0,900.0,5.0,AI
+P00799,Low digital access,0,900.0,5.0,AI
+P00800,Urban,0,900.0,5.0,AI

@@ -1,11 +1,11 @@
-﻿[
+[
   {
     "resource_id": "AIHE-A01",
     "title": "Decision and Use-Case Specification",
     "role": "primary",
     "primary_chapter": "1",
     "tier": "Core",
-    "folder": "ch/01/core/AIHE-A01"
+    "folder": "chapters/01/core/AIHE-A01"
   },
   {
     "resource_id": "AIHE-A02",
@@ -13,7 +13,7 @@
     "role": "primary",
     "primary_chapter": "1",
     "tier": "Core",
-    "folder": "ch/01/core/AIHE-A02"
+    "folder": "chapters/01/core/AIHE-A02"
   },
   {
     "resource_id": "AIHE-RG07",
@@ -21,7 +21,7 @@
     "role": "supporting",
     "primary_chapter": "1",
     "tier": "Reference guide",
-    "folder": "ch/01/guides/AIHE-RG07"
+    "folder": "chapters/01/guides/AIHE-RG07"
   },
   {
     "resource_id": "AIHE-CASE01",
@@ -29,6 +29,6 @@
     "role": "supporting",
     "primary_chapter": "1",
     "tier": "Worked case",
-    "folder": "cases/CASE01_triage"
+    "folder": "worked_examples/AIHE-CASE01_emergency_department_triage_portfolio_decision"
   }
 ]

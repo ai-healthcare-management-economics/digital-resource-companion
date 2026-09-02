@@ -1,0 +1,54 @@
+{
+  "example_id": "AIHE-CASE14",
+  "title": "Imaging Platform: Maintain, Refurbish, Replace, or Share",
+  "chapter": 14,
+  "chapter_title": "Circular Procurement and Asset Stewardship",
+  "version": "V1.0",
+  "synthetic": true,
+  "records": [
+    {
+      "Option": "Maintain and repair",
+      "Five-year cost": 1100000,
+      "Remaining supported life (years)": 3,
+      "Downtime days/year": 12,
+      "Energy kWh/year": 400000,
+      "Validation burden (1-5)": 2,
+      "Resilience (1-5)": 3,
+      "Residual value": 100000,
+      "Safety status": "Conditional"
+    },
+    {
+      "Option": "Refurbish and upgrade",
+      "Five-year cost": 1800000,
+      "Remaining supported life (years)": 5,
+      "Downtime days/year": 8,
+      "Energy kWh/year": 330000,
+      "Validation burden (1-5)": 4,
+      "Resilience (1-5)": 4,
+      "Residual value": 250000,
+      "Safety status": "Pass"
+    },
+    {
+      "Option": "Replace",
+      "Five-year cost": 3200000,
+      "Remaining supported life (years)": 8,
+      "Downtime days/year": 4,
+      "Energy kWh/year": 250000,
+      "Validation burden (1-5)": 5,
+      "Resilience (1-5)": 4,
+      "Residual value": 500000,
+      "Safety status": "Pass"
+    },
+    {
+      "Option": "Shared managed service",
+      "Five-year cost": 2400000,
+      "Remaining supported life (years)": 5,
+      "Downtime days/year": 6,
+      "Energy kWh/year": 0,
+      "Validation burden (1-5)": 4,
+      "Resilience (1-5)": 3,
+      "Residual value": 0,
+      "Safety status": "Pass"
+    }
+  ]
+}

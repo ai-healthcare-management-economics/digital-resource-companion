@@ -1,0 +1,9 @@
+Dimension,Assessment question,Finding,Action required
+Completeness,Are essential variables and time points missing?,External encounters and social-risk variables are incomplete.,Quantify missingness and add a missingness indicator.
+Accuracy,Are values clinically plausible and correctly coded?,Core clinical variables are plausible; discharge coding requires spot audit.,Complete a 100-record coding audit.
+Timeliness,Do data arrive before the decision is needed?,The score can be generated within 20 minutes of discharge order.,Monitor latency weekly.
+Consistency,"Are definitions, units, and identifiers stable?",Units are stable; two services use different discharge-reason codes.,Harmonize discharge-reason terminology.
+Representativeness,Does the data reflect the intended population and setting?,Cardiology is well represented; rural and minority-language groups are smaller.,Use subgroup confidence intervals and targeted recruitment.
+Linkage,Can records be linked across systems reliably?,Internal records link reliably; external-care linkage is unavailable.,Document limitation and avoid unsupported claims.
+Lineage,Can transformations and provenance be audited?,Transformations are version controlled in the pilot pipeline.,"Retain code, data dictionary, and model version."
+Bias,"Could documentation, access, or measurement patterns bias the system?",Missing external-care data may disadvantage rural patients.,Perform an equity audit and consider targeted support.

@@ -1,9 +1,0 @@
-﻿Evidence or study type,Reporting instrument,Appraisal or complementary approach,Status,What it supports,What it does not establish,Version checked,Reviewer,Local evidence gap
-Prediction model development or validation,TRIPOD+AI,PROBAST+AI,Published AI-updated instruments,Transparent reporting and risk-of-bias/applicability assessment,Local usefulness or adoption,,,
-Diagnostic accuracy,STARD-AI,Reference-standard and applicability appraisal,Published AI-specific reporting guideline,Transparent diagnostic AI reporting,Regulatory conformity or clinical utility,,,
-Early live clinical evaluation,DECIDE-AI,"Local safety, workflow, human-factors and economic review",Published reporting guideline,Transparent early-stage live evaluation,Approval for unrestricted deployment,,,
-Trial protocol,SPIRIT-AI,Protocol feasibility and intervention review,Published consensus extension,Complete AI trial protocol reporting,Trial quality or successful implementation,,,
-Trial results,CONSORT-AI,"Risk-of-bias, applicability and economic appraisal",Published consensus extension,Complete AI trial reporting,Cost-effectiveness or local transferability,,,
-Economic evaluation,CHEERS 2022 / CHEERS-AI,"Method, model validation and uncertainty appraisal",Published reporting guidance,Transparent economic reporting,Methodological appropriateness by itself,,,
-Systematic review,PRISMA 2020,Design-specific bias and certainty appraisal,Published reporting guideline,Transparent review reporting,Reliability of included evidence by itself,,,
-Qualitative evidence synthesis,Review-specific reporting guidance,GRADE-CERQual,Established confidence-appraisal approach,Transparent confidence judgements,Quantitative effect size or causal proof,,,

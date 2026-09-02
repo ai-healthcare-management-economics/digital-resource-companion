@@ -1,9 +1,0 @@
-﻿Gate,Required evidence submitted,Status,Conditions / remediation,Owner,Due date,Decision signature
-G0 Problem,,,,,,
-G1 Evidence,,,,,,
-G2 Data and infrastructure,,,,,,
-G3 Economics and affordability,,,,,,
-"G4 Ethics, equity, privacy, and oversight",,,,,,
-"G5 Workflow, workforce, and implementation",,,,,,
-G6 Contract and vendor,,,,,,
-"G7 Monitoring, updates, and exit",,,,,,

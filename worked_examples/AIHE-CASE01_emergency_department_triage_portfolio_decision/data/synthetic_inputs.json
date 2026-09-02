@@ -1,0 +1,50 @@
+{
+  "example_id": "AIHE-CASE01",
+  "title": "Emergency-Department Triage Portfolio Decision",
+  "chapter": 1,
+  "chapter_title": "AI as a Health-System Intervention",
+  "version": "V1.0",
+  "synthetic": true,
+  "records": [
+    {
+      "Option": "AI triage",
+      "Upfront cost": 420000,
+      "Annual cost": 180000,
+      "Wait-time reduction (min)": 18,
+      "Adverse events avoided/year": 12,
+      "Implementation months": 9,
+      "Reversibility (1-5)": 2,
+      "Equity risk (1-5)": 3
+    },
+    {
+      "Option": "Additional triage nurses",
+      "Upfront cost": 60000,
+      "Annual cost": 520000,
+      "Wait-time reduction (min)": 15,
+      "Adverse events avoided/year": 10,
+      "Implementation months": 4,
+      "Reversibility (1-5)": 4,
+      "Equity risk (1-5)": 1
+    },
+    {
+      "Option": "Process redesign",
+      "Upfront cost": 150000,
+      "Annual cost": 80000,
+      "Wait-time reduction (min)": 12,
+      "Adverse events avoided/year": 8,
+      "Implementation months": 5,
+      "Reversibility (1-5)": 5,
+      "Equity risk (1-5)": 1
+    },
+    {
+      "Option": "AI plus process redesign",
+      "Upfront cost": 520000,
+      "Annual cost": 230000,
+      "Wait-time reduction (min)": 24,
+      "Adverse events avoided/year": 15,
+      "Implementation months": 11,
+      "Reversibility (1-5)": 2,
+      "Equity risk (1-5)": 2
+    }
+  ]
+}

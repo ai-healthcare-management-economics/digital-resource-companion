@@ -1,11 +1,11 @@
-﻿[
+[
   {
     "resource_id": "AIHE-D01",
     "title": "Vendor Evidence and Contract Requirements",
     "role": "primary",
     "primary_chapter": "9",
     "tier": "Core",
-    "folder": "ch/09/core/AIHE-D01"
+    "folder": "chapters/09/core/AIHE-D01"
   },
   {
     "resource_id": "AIHE-CASE09",
@@ -13,7 +13,7 @@
     "role": "supporting",
     "primary_chapter": "9",
     "tier": "Worked case",
-    "folder": "cases/CASE09_vendor_contract"
+    "folder": "worked_examples/AIHE-CASE09_ai_vendor_procurement_and_contract_negotiation"
   },
   {
     "resource_id": "AIHE-D",
@@ -21,7 +21,7 @@
     "role": "supporting",
     "primary_chapter": "9",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/09/core/AIHE-D01/supp/AIHE-D"
+    "folder": "chapters/09/core/AIHE-D01/supp/AIHE-D"
   },
   {
     "resource_id": "AIHE-EX08",
@@ -29,7 +29,7 @@
     "role": "supporting",
     "primary_chapter": "9",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/09/core/AIHE-D01/supp/AIHE-EX08"
+    "folder": "chapters/09/core/AIHE-D01/supp/AIHE-EX08"
   },
   {
     "resource_id": "AIHE-EX09",
@@ -37,6 +37,6 @@
     "role": "supporting",
     "primary_chapter": "9",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/09/core/AIHE-D01/supp/AIHE-EX09"
+    "folder": "chapters/09/core/AIHE-D01/supp/AIHE-EX09"
   }
 ]

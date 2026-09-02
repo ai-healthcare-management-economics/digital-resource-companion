@@ -1,0 +1,4 @@
+category,finding,response
+version conflict,decision=2.0; deployed=2.1,reconcile identity and reassess affected evidence
+unresolved trigger,Upstream model changed,"assign owner, evidence requirement, and decision date"
+unresolved trigger,Subgroup calibration review incomplete,"assign owner, evidence requirement, and decision date"

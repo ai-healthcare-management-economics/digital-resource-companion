@@ -1,0 +1,34 @@
+{
+  "id": "AIHE-CASE09",
+  "chapter": 9,
+  "title": "AI Vendor Procurement and Contract Negotiation",
+  "decision_question": "How should the hospital compare vendors when a lower price is accompanied by weak audit, security, update, and exit provisions?",
+  "objectives": [
+    "Separate weighted comparison from mandatory safeguards.",
+    "Translate evidence and monitoring requirements into contract terms.",
+    "Compare price with total lifecycle exposure.",
+    "Preserve portability, rollback, and exit rights."
+  ],
+  "related_resources": [
+    "AIHE-D01",
+    "AIHE-D",
+    "AIHE-EX08",
+    "AIHE-EX09",
+    "",
+    "AIHE-EX17"
+  ],
+  "demo_type": "vendors",
+  "chapter_title": "Problem-First Procurement and Vendor Governance",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "related_python_modules": [
+    "AIHE-PY17",
+    "AIHE-PY25"
+  ],
+  "data_classification": "synthetic",
+  "case_id": "AIHE-CASE09",
+  "resource_id": "AIHE-CASE09"
+}

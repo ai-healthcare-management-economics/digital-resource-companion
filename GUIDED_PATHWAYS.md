@@ -1,24 +1,18 @@
-﻿# Guided Decision Pathways
+# Guided Pathways
 
-The pathways provide a task-oriented route through the companion. They do not replace local governance or professional judgement.
+Use the smallest sufficient resource set. The pathways are starting points rather than mandatory sequences.
 
-## Define a new proposal
-Use AIHE-A01, AIHE-A02, AIHE-A03, and AIHE-A04.
-
-## Prepare an economic and affordability case
-Use AIHE-B01, AIHE-B02, AIHE-B03, AIHE-B04, and AIHE-B05 as required.
-
-## Validate a system locally
-Use AIHE-A04, AIHE-EX05, AIHE-B05, and AIHE-C01.
-
-## Evaluate and contract with a vendor
-Use AIHE-A01, AIHE-B02, AIHE-C03, AIHE-D01, and AIHE-D02.
-
-## Implement and monitor safely
-Use AIHE-C01, AIHE-C02, AIHE-D02, AIHE-D03, and AIHE-D04.
-
-## Review an update, incident, or renewal
-Use AIHE-C02, AIHE-D03, AIHE-D04, and AIHE-D05.
-
-## Assess circularity and asset stewardship
-Use AIHE-E01 through AIHE-E05.
+| Decision need | Begin with | Common supporting resources |
+|---|---|---|
+| Define and compare a proposal | AIHE-A01, AIHE-A02 | AIHE-A03, AIHE-B01, AIHE-C03 |
+| Assess institutional readiness | AIHE-A03, AIHE-A04 | Chapter 2 process map and AIHE-CASE02 |
+| Design human oversight and decision rights | AIHE-C04 | AIHE-A02, AIHE-C03, Chapter 3 examples |
+| Evaluate productivity and capacity | AIHE-B03 | AIHE-CASE04, AIHE-PY22, AIHE-PY23 |
+| Respond to a quality signal or incident | AIHE-C01, AIHE-C02 | AIHE-D03, AIHE-D04, AIHE-D05 |
+| Build the lifecycle financial case | AIHE-B01, AIHE-B02, AIHE-B03 | AIHE-CASE06, AIHE-CASE06B, AIHE-PY10, AIHE-PY11 |
+| Assess cost-effectiveness and affordability | AIHE-B04 | AIHE-CASE07 and related analytical modules |
+| Model uncertainty and value of evidence | AIHE-B05 | AIHE-CASE08, AIHE-CASE08B, AIHE-PY14, AIHE-PY15 |
+| Procure or renew an AI service | AIHE-D01, AIHE-D05 | AIHE-CASE09, AIHE-CASE09B, AIHE-PY17, AIHE-PY25 |
+| Reach and maintain a lifecycle decision | AIHE-D02 | AIHE-D03, AIHE-D04, AIHE-D05, AIHE-PY29, AIHE-PY40 |
+| Evaluate circular resource and asset options | AIHE-E01, AIHE-E02, AIHE-E03 | AIHE-CASE13, AIHE-CASE14, AIHE-PY36, AIHE-PY37, AIHE-PY39 |
+| Extend economic evaluation to sustainable value | AIHE-E04, AIHE-E05 | AIHE-CASE15, AIHE-PY38, AIHE-PY39 |

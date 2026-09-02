@@ -1,0 +1,5 @@
+name: aihe-py36
+channels:
+  - defaults
+dependencies:
+  - python>=3.10

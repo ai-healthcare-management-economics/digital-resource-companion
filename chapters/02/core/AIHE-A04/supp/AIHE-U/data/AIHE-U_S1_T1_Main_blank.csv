@@ -1,0 +1,7 @@
+Stage,Required record,Response / evidence,Owner,Decision / condition
+S Specify purpose,"Public value, population, users, outputs, decisions, duration, alternatives",,,
+H Harmonize data,"Sources, dictionary, provenance, quality, linkage, standards, missingness",,,
+A Authorize access,"Lawful basis, roles, permissions, minimization, retention, location, subprocessors",,,
+R Review risks,"Privacy, re-identification, cyber, bias, exclusion, group harm, commercial use, trust",,,
+E Evaluate value,"Expected benefit, costs, feasibility, benefit-sharing, opportunity cost",,,
+AI Audit implementation,"Access logs, purpose adherence, outputs, incidents, outcomes, renewal or closure",,,

@@ -1,8 +1,0 @@
-﻿Procurement area,Question for vendor or hospital team,Evidence requested
-Clinical evidence,What validation evidence exists?,"Peer-reviewed studies, local evaluation, external validation"
-Interoperability,How will the tool connect to hospital systems?,"FHIR/API documentation, integration plan"
-Data governance,What data are processed and where?,Data flow diagram and data processing agreement
-Security,What security controls are in place?,"Penetration testing, audit logs, access controls"
-Economic model,What are all costs over five years?,Total cost of ownership and renewal terms
-Monitoring,How is performance monitored after deployment?,Model monitoring plan and reporting dashboard
-Exit strategy,How can the hospital leave the contract?,"Data export, transition support, deletion guarantees"

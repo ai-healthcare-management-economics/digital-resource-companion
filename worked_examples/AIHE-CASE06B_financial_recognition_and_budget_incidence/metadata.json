@@ -1,0 +1,31 @@
+{
+  "id": "AIHE-CASE06B",
+  "chapter": 6,
+  "title": "Financial Recognition and Budget Incidence",
+  "decision_question": "Which observed benefits can be recognized as economic, cash, accounting, or budget consequences, and when?",
+  "objectives": [
+    "Distinguish released capacity from cashable savings.",
+    "Separate economic cost, cash expenditure, accounting expense, and budget incidence.",
+    "Trace financial recognition to accountable evidence.",
+    "Test downside and timing assumptions."
+  ],
+  "related_resources": [
+    "AIHE-B01",
+    "AIHE-B02",
+    "AIHE-B03"
+  ],
+  "related_python_modules": [
+    "AIHE-PY10",
+    "AIHE-PY11"
+  ],
+  "demo_type": "financial_recognition",
+  "chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "data_classification": "synthetic",
+  "case_id": "AIHE-CASE06B",
+  "resource_id": "AIHE-CASE06B"
+}

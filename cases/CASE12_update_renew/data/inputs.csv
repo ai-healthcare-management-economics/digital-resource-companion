@@ -1,7 +1,0 @@
-﻿Metric,Version 2.3.1,Version 2.4.0,Threshold
-False-positive rate,0.18,0.32,0.26
-Alerts per day,120,210,150
-Review capacity per day,150,150,150
-Median response time (minutes),12,28,20
-Near misses per month,0,3,0
-Downtime hours per month,1,1.5,4

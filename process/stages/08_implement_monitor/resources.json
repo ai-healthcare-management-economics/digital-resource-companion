@@ -1,11 +1,11 @@
-﻿[
+[
   {
     "resource_id": "AIHE-D02",
     "title": "Lifecycle Decision State, Staged Evidence, and AI-HED Status",
     "role": "primary",
     "primary_chapter": "12",
     "tier": "Core",
-    "folder": "ch/12/core/AIHE-D02"
+    "folder": "chapters/12/core/AIHE-D02"
   },
   {
     "resource_id": "AIHE-D03",
@@ -13,7 +13,7 @@
     "role": "primary",
     "primary_chapter": "12",
     "tier": "Core",
-    "folder": "ch/12/core/AIHE-D03"
+    "folder": "chapters/12/core/AIHE-D03"
   },
   {
     "resource_id": "AIHE-D04",
@@ -21,7 +21,7 @@
     "role": "primary",
     "primary_chapter": "12",
     "tier": "Core",
-    "folder": "ch/12/core/AIHE-D04"
+    "folder": "chapters/12/core/AIHE-D04"
   },
   {
     "resource_id": "AIHE-D05",
@@ -29,7 +29,7 @@
     "role": "primary",
     "primary_chapter": "12",
     "tier": "Core",
-    "folder": "ch/12/core/AIHE-D05"
+    "folder": "chapters/12/core/AIHE-D05"
   },
   {
     "resource_id": "AIHE-RG03",
@@ -37,15 +37,15 @@
     "role": "primary",
     "primary_chapter": "4",
     "tier": "Reference guide",
-    "folder": "ch/04/guides/AIHE-RG03"
+    "folder": "chapters/04/guides/AIHE-RG03"
   },
   {
     "resource_id": "AIHE-CASE04",
-    "title": "Ambient Documentation Assistant: Productivity and Workforce Redesign",
+    "title": "Ambient Documentation Assistant: Productivity and Work Redesign",
     "role": "supporting",
     "primary_chapter": "4",
     "tier": "Worked case",
-    "folder": "cases/CASE04_ambient_docs"
+    "folder": "worked_examples/AIHE-CASE04_ambient_documentation_assistant_productivity_and_work_redesign"
   },
   {
     "resource_id": "AIHE-CASE12",
@@ -53,7 +53,7 @@
     "role": "supporting",
     "primary_chapter": "12",
     "tier": "Worked case",
-    "folder": "cases/CASE12_update_renew"
+    "folder": "worked_examples/AIHE-CASE12_model_update_incident_response_and_renewal_decision"
   },
   {
     "resource_id": "AIHE-EX10",
@@ -61,7 +61,7 @@
     "role": "supporting",
     "primary_chapter": "12",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/12/core/AIHE-D02/supp/AIHE-EX10"
+    "folder": "chapters/12/core/AIHE-D02/supp/AIHE-EX10"
   },
   {
     "resource_id": "AIHE-EX11",
@@ -69,7 +69,7 @@
     "role": "supporting",
     "primary_chapter": "12",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/12/core/AIHE-D05/supp/AIHE-EX11"
+    "folder": "chapters/12/core/AIHE-D05/supp/AIHE-EX11"
   },
   {
     "resource_id": "AIHE-EX12",
@@ -77,6 +77,6 @@
     "role": "supporting",
     "primary_chapter": "12",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/12/core/AIHE-D04/supp/AIHE-EX12"
+    "folder": "chapters/12/core/AIHE-D04/supp/AIHE-EX12"
   }
 ]

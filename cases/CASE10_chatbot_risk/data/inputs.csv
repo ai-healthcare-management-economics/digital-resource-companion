@@ -1,8 +1,0 @@
-﻿Risk,Likelihood,Impact,Control effectiveness,Mandatory concern
-Unsupported clinical advice,4,5,0.55,Yes
-Prompt injection or malicious content,3,4,0.5,Yes
-Disclosure of sensitive information,3,5,0.6,Yes
-Digital exclusion and language inequity,4,4,0.45,Yes
-Failure to escalate urgent symptoms,3,5,0.5,Yes
-Inaccurate administrative information,3,3,0.7,No
-Unclear responsibility after an incident,3,4,0.4,Yes

@@ -1,9 +1,0 @@
-﻿record_id,resource_id,resource_version,release_date,section,field_or_question,guidance,response_or_evidence,owner,due_or_review_date,evidence_cut_off,local_modifications,intervention_version
-,AIHE-C03,V1.0,2026-09-02,Risk,"Risk statement, affected groups, and plausible consequence","Cover clinical, privacy, cybersecurity, equity, trust, continuity, legal, and institutional risks.",,,,,,
-,AIHE-C03,V1.0,2026-09-02,Evidence,"Evidence source, uncertainty, and affected versions",Maintain traceability.,,,,,,
-,AIHE-C03,V1.0,2026-09-02,Control,"Preventive, detective, corrective, and continuity controls",Name owners.,,,,,,
-,AIHE-C03,V1.0,2026-09-02,Residual risk,"Residual likelihood, consequence, and uncertainty",Do not average away mandatory safeguards.,,,,,,
-,AIHE-C03,V1.0,2026-09-02,Authority,Person or body authorized to accept residual risk,State delegation limits.,,,,,,
-,AIHE-C03,V1.0,2026-09-02,Assurance,"Independent challenge, conflict declaration, and dissent",Preserve material disagreement.,,,,,,
-,AIHE-C03,V1.0,2026-09-02,Contestability,"Route for review, complaint, appeal, or human alternative",Make it accessible.,,,,,,
-,AIHE-C03,V1.0,2026-09-02,Lifecycle,"Monitoring, incident, material-change, and reauthorization triggers",Connect risk to action.,,,,,,

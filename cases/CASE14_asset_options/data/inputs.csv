@@ -1,5 +1,0 @@
-﻿Option,Five-year cost,Remaining supported life (years),Downtime days/year,Energy kWh/year,Validation burden (1-5),Resilience (1-5),Residual value,Safety status
-Maintain and repair,1100000,3,12,400000,2,3,100000,Conditional
-Refurbish and upgrade,1800000,5,8,330000,4,4,250000,Pass
-Replace,3200000,8,4,250000,5,4,500000,Pass
-Shared managed service,2400000,5,6,0,4,3,0,Pass

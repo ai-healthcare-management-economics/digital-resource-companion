@@ -1,0 +1,9 @@
+Evidence type,Standard,Primary purpose,Use in this textbook
+Prediction models,TRIPOD+AI,Transparent reporting.,"Appraise development, validation, intended use, and generalizability."
+Prediction-model bias,PROBAST+AI,Risk of bias and applicability.,Assess trustworthiness of prediction evidence.
+Diagnostic accuracy,STARD-AI,Reporting diagnostic AI studies.,"Assess index test, reference standard, datasets, fairness, and applicability."
+Early live evaluation,DECIDE-AI,Reporting early clinical evaluation.,"Assess workflow, human-AI interaction, safety, and feasibility."
+Trial protocol,SPIRIT-AI,Reporting protocols.,"Assess planned AI intervention, input/output handling, training, and errors."
+Trial report,CONSORT-AI,Reporting trial results.,Assess comparative effect and intervention transparency.
+Economic evaluation,CHEERS 2022,Reporting economic evaluations.,"Assess perspective, costs, outcomes, uncertainty, and stakeholders."
+Systematic review,PRISMA 2020,Reporting reviews.,"Assess search, selection, appraisal, synthesis, and flow."

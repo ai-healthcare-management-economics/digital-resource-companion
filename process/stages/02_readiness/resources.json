@@ -1,11 +1,11 @@
-﻿[
+[
   {
     "resource_id": "AIHE-A03",
     "title": "Institutional Readiness Assessment",
     "role": "primary",
     "primary_chapter": "2",
     "tier": "Core",
-    "folder": "ch/02/core/AIHE-A03"
+    "folder": "chapters/02/core/AIHE-A03"
   },
   {
     "resource_id": "AIHE-A04",
@@ -13,7 +13,7 @@
     "role": "primary",
     "primary_chapter": "2",
     "tier": "Core",
-    "folder": "ch/02/core/AIHE-A04"
+    "folder": "chapters/02/core/AIHE-A04"
   },
   {
     "resource_id": "AIHE-CASE02",
@@ -21,7 +21,7 @@
     "role": "supporting",
     "primary_chapter": "2",
     "tier": "Worked case",
-    "folder": "cases/CASE02_readiness"
+    "folder": "worked_examples/AIHE-CASE02_readmission_model_readiness_and_data_fitness_assessment"
   },
   {
     "resource_id": "AIHE-A",
@@ -29,7 +29,7 @@
     "role": "supporting",
     "primary_chapter": "2",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/02/core/AIHE-A03/supp/AIHE-A"
+    "folder": "chapters/02/core/AIHE-A03/supp/AIHE-A"
   },
   {
     "resource_id": "AIHE-U",
@@ -37,6 +37,6 @@
     "role": "supporting",
     "primary_chapter": "2",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/02/core/AIHE-A04/supp/AIHE-U"
+    "folder": "chapters/02/core/AIHE-A04/supp/AIHE-U"
   }
 ]

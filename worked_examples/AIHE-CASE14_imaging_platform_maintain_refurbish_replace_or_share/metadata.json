@@ -1,0 +1,33 @@
+{
+  "id": "AIHE-CASE14",
+  "chapter": 14,
+  "title": "Imaging Platform: Maintain, Refurbish, Replace, or Share",
+  "decision_question": "Which asset-life strategy preserves safe service value while controlling lifecycle cost, downtime, material demand, and dependency?",
+  "objectives": [
+    "Compare options using the same functional requirement and horizon.",
+    "Include software support, cybersecurity, and validation.",
+    "Recognize residual value and disposition obligations.",
+    "Use safety and continuity as non-compensatory constraints."
+  ],
+  "related_resources": [
+    "AIHE-E02",
+    "AIHE-E03",
+    "AIHE-CE2",
+    "AIHE-CE3",
+    "AIHE-D01",
+    "AIHE-T"
+  ],
+  "demo_type": "asset_life",
+  "chapter_title": "Circular Procurement and Asset Stewardship",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "related_python_modules": [
+    "AIHE-PY37"
+  ],
+  "data_classification": "synthetic",
+  "case_id": "AIHE-CASE14",
+  "resource_id": "AIHE-CASE14"
+}

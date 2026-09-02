@@ -1,0 +1,21 @@
+{
+  "resource_id": "AIHE-PY40",
+  "title": "Lifecycle Decision-State and Trigger Review",
+  "primary_chapter": 12,
+  "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
+  "purpose": "Provide an advisory review of the current decision state and open lifecycle triggers while preserving accountable human authority over authorization, restriction, suspension, replacement, and retirement.",
+  "related_resources": [
+    "AIHE-D02",
+    "AIHE-D03",
+    "AIHE-D04",
+    "AIHE-D05",
+    "AIHE-CASE12",
+    "AIHE-CASE09B",
+    "AIHE-CASE15"
+  ],
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current analytical resource",
+  "synthetic_data_notice": "The bundled data are synthetic. Replace with authorized local evidence before institutional use.",
+  "authorization_effect": "None"
+}

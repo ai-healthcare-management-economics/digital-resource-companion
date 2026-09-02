@@ -1,6 +1,6 @@
-﻿resource_id,title,role,primary_chapter,tier,folder
+resource_id,title,role,primary_chapter,tier,folder
 AIHE-A03,Institutional Readiness Assessment,primary,2,Core,chapters/02/core/AIHE-A03
 AIHE-A04,"Data Source, Provenance, and Fitness Record",primary,2,Core,chapters/02/core/AIHE-A04
-AIHE-CASE02,Readmission-Model Readiness and Data-Fitness Assessment,supporting,2,Worked case,worked_examples/CASE02_readiness
+AIHE-CASE02,Readmission-Model Readiness and Data-Fitness Assessment,supporting,2,Worked case,worked_examples/AIHE-CASE02_readmission_model_readiness_and_data_fitness_assessment
 AIHE-A,AI Readiness Assessment for Health Systems,supporting,2,Supplemental specialist tool,chapters/02/core/AIHE-A03/supp/AIHE-A
 AIHE-U,SHARE-AI Secondary-Use Governance Worksheet,supporting,2,Supplemental specialist tool,chapters/02/core/AIHE-A04/supp/AIHE-U

@@ -1,0 +1,22 @@
+{
+  "case_id": "AIHE-CASE08B",
+  "title": "EVSI and Expected Net Benefit of Sampling for a Staged Pilot",
+  "chapter": 8,
+  "chapter_title": "Decision Modelling, Simulation, and the Value of Information",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "summary": "A staged pilot links sample size, research cost, implementation delay, expected value of sample information, and expected net benefit of sampling.",
+  "focus": [
+    "Decision uncertainty",
+    "Candidate pilot designs",
+    "Sample size",
+    "Evidence cost",
+    "Implementation delay",
+    "EVSI",
+    "ENBS",
+    "Research recommendation"
+  ],
+  "synthetic": true,
+  "decision_state": "evaluation",
+  "evidence_cut_off": "2026-09-02"
+}

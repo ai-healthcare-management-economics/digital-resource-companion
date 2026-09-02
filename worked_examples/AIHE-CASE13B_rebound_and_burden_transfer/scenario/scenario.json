@@ -1,0 +1,22 @@
+{
+  "case_id": "AIHE-CASE13B",
+  "title": "Rebound and Burden Transfer",
+  "chapter": 13,
+  "chapter_title": "Circular Health Systems and Resource Stewardship",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "summary": "A lower resource intensity per service episode coexists with higher total demand and burdens shifted across suppliers, locations, and time periods.",
+  "focus": [
+    "Functional unit",
+    "Resource intensity",
+    "Volume response",
+    "Total resource demand",
+    "Circular leakage",
+    "Spatial burden",
+    "Intertemporal burden",
+    "Distributional consequence"
+  ],
+  "synthetic": true,
+  "decision_state": "evaluation",
+  "evidence_cut_off": "2026-09-02"
+}

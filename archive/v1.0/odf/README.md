@@ -1,1 +1,0 @@
-﻿These OpenDocument files are preserved from the V1.0 source release for migration and provenance. The current V1.0 entry points are the synchronized DOCX, XLSX, PDF, CSV, JSON, Markdown, HTML, and Python resources.

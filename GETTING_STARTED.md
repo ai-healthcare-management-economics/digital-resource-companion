@@ -1,11 +1,17 @@
-﻿# Getting Started
+# Getting Started
 
-The Digital Resource Companion accompanies *Artificial Intelligence and Healthcare Economics: Evidence, Value, Governance, and Sustainability*.
+## For readers and practitioners
 
-1. Begin with the [Web Companion](https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/) or `START_HERE.html`.
-2. Define the institutional question, population, setting, comparator, decision-maker, and evidence cut-off before selecting a resource.
-3. Use the smallest set of records proportionate to consequence, uncertainty, scale, and institutional dependence.
-4. Replace synthetic examples with authorized local evidence and preserve the resource identifier, version, owner, assumptions, and modifications.
-5. Conclude with a decision, conditions, monitoring thresholds, review date, and exit route.
+Begin with the Web Companion or the Reader and Practitioner Edition. Select a chapter or a decision pathway, then use the smallest set of records needed for the question.
 
-On Windows, clone or extract the repository to a short path such as `C:\AIHE\companion` because deeply nested resource folders can exceed the path length supported by some applications.
+## For institutional teams
+
+Create a controlled local copy. Record the resource ID, V1.0, evidence cut-off, accountable owner, local changes, and review date. Replace synthetic examples with authorized evidence and keep mandatory safeguards visible.
+
+## For analysts and researchers
+
+Use the Canonical Source. Begin with the module or worked-case catalogue, preserve the supplied synthetic baseline, document analytical changes, and retain reproducible inputs and outputs.
+
+## For repository maintainers
+
+Canonical resources are maintained in `chapters/`, `worked_examples/`, `process/`, and `catalogs/`. The website, printable companion, and bundles are synchronized distribution layers. See `SOURCE_OF_TRUTH.md` before editing generated copies.

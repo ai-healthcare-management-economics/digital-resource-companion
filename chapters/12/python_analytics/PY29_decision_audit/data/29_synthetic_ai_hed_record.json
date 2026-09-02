@@ -1,0 +1,15 @@
+{
+  "decision_id": "AIHED-SYNTHETIC-001",
+  "intervention_version": "2.0",
+  "deployed_version": "2.1",
+  "current_state": "restricted pilot",
+  "effective_date": "2026-08-01",
+  "evidence_cut_off": "2026-07-15",
+  "decision_authority": "AI Governance Committee",
+  "next_review": "2026-09-30",
+  "conditions_expiry": "2026-10-15",
+  "open_triggers": [
+    "Upstream model changed",
+    "Subgroup calibration review incomplete"
+  ]
+}

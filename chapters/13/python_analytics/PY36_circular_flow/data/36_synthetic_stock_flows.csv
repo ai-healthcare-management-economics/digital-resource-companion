@@ -1,0 +1,4 @@
+period,resource,opening_stock,new_inflow,recovered_inflow,outflow,inner_loop_retained,outer_loop_retained,recovered_material,disposed
+2026,end-user devices,120,35,8,28,11,6,7,4
+2026,servers,18,4,1,3,1,1,1,0
+2026,storage units,42,12,3,10,4,2,3,1

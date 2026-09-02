@@ -1,11 +1,11 @@
-﻿[
+[
   {
     "resource_id": "AIHE-D02",
     "title": "Lifecycle Decision State, Staged Evidence, and AI-HED Status",
     "role": "primary",
     "primary_chapter": "12",
     "tier": "Core",
-    "folder": "ch/12/core/AIHE-D02"
+    "folder": "chapters/12/core/AIHE-D02"
   },
   {
     "resource_id": "AIHE-D05",
@@ -13,7 +13,7 @@
     "role": "primary",
     "primary_chapter": "12",
     "tier": "Core",
-    "folder": "ch/12/core/AIHE-D05"
+    "folder": "chapters/12/core/AIHE-D05"
   },
   {
     "resource_id": "AIHE-P",
@@ -21,7 +21,7 @@
     "role": "primary",
     "primary_chapter": "12",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/12/core/AIHE-D02/supp/AIHE-P"
+    "folder": "chapters/12/core/AIHE-D02/supp/AIHE-P"
   },
   {
     "resource_id": "AIHE-AE",
@@ -29,7 +29,7 @@
     "role": "primary",
     "primary_chapter": "12",
     "tier": "Supplemental specialist tool",
-    "folder": "ch/12/core/AIHE-D02/supp/AIHE-AE"
+    "folder": "chapters/12/core/AIHE-D02/supp/AIHE-AE"
   },
   {
     "resource_id": "AIHE-C03",
@@ -37,15 +37,15 @@
     "role": "supporting",
     "primary_chapter": "10",
     "tier": "Core",
-    "folder": "ch/10/core/AIHE-C03"
+    "folder": "chapters/10/core/AIHE-C03"
   },
   {
     "resource_id": "AIHE-E03",
-    "title": "Supported Supported Asset-Life Decision Record",
+    "title": "Supported Asset-Life Decision Record",
     "role": "supporting",
     "primary_chapter": "14",
     "tier": "Core",
-    "folder": "ch/14/core/AIHE-E03"
+    "folder": "chapters/14/core/AIHE-E03"
   },
   {
     "resource_id": "AIHE-E04",
@@ -53,7 +53,7 @@
     "role": "supporting",
     "primary_chapter": "15",
     "tier": "Core",
-    "folder": "ch/15/core/AIHE-E04"
+    "folder": "chapters/15/core/AIHE-E04"
   },
   {
     "resource_id": "AIHE-E05",
@@ -61,15 +61,15 @@
     "role": "supporting",
     "primary_chapter": "15",
     "tier": "Core",
-    "folder": "ch/15/core/AIHE-E05"
+    "folder": "chapters/15/core/AIHE-E05"
   },
   {
     "resource_id": "AIHE-PY29",
-    "title": "AI-HED completeness and institutional decision-quality audit",
+    "title": "AI-HED Decision-Provenance and Lifecycle-Trigger Audit",
     "role": "supporting",
     "primary_chapter": "12",
     "tier": "Python analytics",
-    "folder": "ch/12/py/PY29_decision_audit"
+    "folder": "chapters/12/python_analytics/PY29_decision_audit"
   },
   {
     "resource_id": "AIHE-CASE12",
@@ -77,6 +77,6 @@
     "role": "supporting",
     "primary_chapter": "12",
     "tier": "Worked case",
-    "folder": "cases/CASE12_update_renew"
+    "folder": "worked_examples/AIHE-CASE12_model_update_incident_response_and_renewal_decision"
   }
 ]

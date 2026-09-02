@@ -1,0 +1,34 @@
+{
+  "id": "AIHE-CASE07",
+  "chapter": 7,
+  "title": "Remote Monitoring: Cost-Effectiveness, Budget Impact, and Health Technology Assessment",
+  "decision_question": "Can an intervention be cost-effective yet remain unaffordable or unsuitable for local adoption?",
+  "objectives": [
+    "Calculate incremental cost, effect, ICER, and net monetary benefit.",
+    "Model staged uptake and annual budget impact.",
+    "Separate HTA evidence from reimbursement and local adoption.",
+    "Identify distributional and capacity constraints."
+  ],
+  "related_resources": [
+    "AIHE-B04",
+    "AIHE-AA",
+    "AIHE-EX18",
+    "AIHE-EX04",
+    "AIHE-AC"
+  ],
+  "demo_type": "cost_effectiveness",
+  "chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "related_python_modules": [
+    "AIHE-PY12",
+    "AIHE-PY13",
+    "AIHE-PY16"
+  ],
+  "data_classification": "synthetic",
+  "case_id": "AIHE-CASE07",
+  "resource_id": "AIHE-CASE07"
+}

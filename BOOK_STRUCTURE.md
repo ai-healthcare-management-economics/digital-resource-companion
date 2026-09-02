@@ -1,10 +1,13 @@
-﻿# Book Structure
+# Book Structure
 
 **Companion release:** V1.0  
-**Release date:** 2026-09-02  
-**Authoritative basis:** revised 412-page textbook edition
+**Alignment date:** 2026-09-02
 
-## Chapter 1: AI as a Health-System Intervention
+The companion follows the current five-Part, fifteen-chapter book structure.
+
+## Part I — Managerial and Economic Foundations
+
+### Chapter 1: AI as a Health-System Intervention
 - The Complete Intervention
   - From Model Performance to Value
   - Designing the Intervention
@@ -18,7 +21,7 @@
   - Staged Commitment and Continuing Review
 - Managerial Decision Rules
 
-## Chapter 2: Institutional Readiness and Digital Foundations
+### Chapter 2: Institutional Readiness and Digital Foundations
 - Digital Capability and Institutional Readiness
   - From Digitization to Digital Capability
   - Digital Maturity and Context
@@ -38,7 +41,7 @@
   - Use-Case Readiness
   - Readiness Decision
 
-## Chapter 3: Human–AI Decision Systems and Managerial Action
+### Chapter 3: Human–AI Decision Systems and Managerial Action
 - From AI Output to Human Decision
   - The Anatomy of an AI-Mediated Decision
   - Human–AI Team Performance
@@ -52,7 +55,9 @@
   - Ownership, Interpretation, and Behaviour
 - Accountable Action
 
-## Chapter 4: Productivity, Work Redesign, and Implementation
+## Part II — Organizational Performance, Workforce, and Quality
+
+### Chapter 4: Productivity, Work Redesign, and Implementation
 - Measuring Productivity in AI-Enabled Work
   - From Task Efficiency to Service Productivity
   - From Saved Time to Usable Capacity
@@ -74,7 +79,7 @@
 - Allocating Released Capacity
 - From Task Efficiency to Sustainable Capacity
 
-## Chapter 5: Quality Management, Accreditation, and Organizational Learning
+### Chapter 5: Quality Management, Accreditation, and Organizational Learning
 - Quality Management and Accreditation
   - Quality Management and Accountability
   - Accreditation, Certification, and Local Assurance
@@ -93,7 +98,9 @@
   - Institutional Memory and Recurrence Prevention
   - From Assurance to Organizational Learning
 
-## Chapter 6: Lifecycle Cost, Pricing, and Benefit Realization
+## Part III — Economic Evaluation, Decision Modelling, and Procurement
+
+### Chapter 6: Lifecycle Cost, Pricing, and Benefit Realization
 - The Financial Boundary of AI Adoption
   - Perspective, Incrementality, and Budget Incidence
   - Economic Cost, Cash Expenditure, and Accounting Expense
@@ -117,7 +124,7 @@
   - Renewal, Renegotiation, and Exit
 - The Financial Case Across the Lifecycle
 
-## Chapter 7: Economic Evaluation, Affordability, and Health Technology Assessment
+### Chapter 7: Economic Evaluation, Affordability, and Health Technology Assessment
 - The Economic Decision
 - Cost-Effectiveness and Net Benefit
   - Incremental Costs and Outcomes
@@ -137,7 +144,7 @@
   - A Jurisdictional Illustration: European Joint Assessment
 - From Economic Evidence to Decision
 
-## Chapter 8: Decision Modelling, Simulation, and the Value of Information
+### Chapter 8: Decision Modelling, Simulation, and the Value of Information
 - From Decision Problem to Conceptual Model
 - Selecting the Appropriate Modelling Structure
 - Core Model Structures
@@ -157,7 +164,7 @@
 - Model Selection in Practice: Imaging Prioritization
 - Decision Implications
 
-## Chapter 9: Problem-First Procurement and Vendor Governance
+### Chapter 9: Problem-First Procurement and Vendor Governance
 - Procurement under Information Asymmetry and Incomplete Contracts
 - From Decision Brief to Market Specification
   - Translating the Decision into a Procurable Requirement
@@ -181,7 +188,9 @@
 - Renegotiation and Credible Exit
 - Decision Implications
 
-## Chapter 10: Governance, Accountability, and Institutional Risk
+## Part IV — Governance, Evidence, and Lifecycle Decision-Making
+
+### Chapter 10: Governance, Accountability, and Institutional Risk
 - Governance as Institutional Authority
   - Decision Rights and Residual Risk
   - Accountability, Answerability, and Contestability
@@ -196,7 +205,7 @@
 - Governance in Practice: Patient-Facing AI
 - Accountability Beyond Approval
 
-## Chapter 11: Evidence, Validation, and Real-World Evaluation
+### Chapter 11: Evidence, Validation, and Real-World Evaluation
 - Evidence Claims and Evidentiary Progression
   - From Internal Validity to Decision-Grade Evidence
   - Reporting, Appraisal, and Evidence Frameworks
@@ -225,7 +234,7 @@
   - Interpretation and Re-Evaluation
 - Decision Implications
 
-## Chapter 12: Decision Architecture and Lifecycle Governance
+### Chapter 12: Decision Architecture and Lifecycle Governance
 - Decision Architecture as a Lifecycle Problem
   - The Decision Must Have an Identity
   - Integration Without Aggregation
@@ -246,7 +255,9 @@
 - Decision Architecture in Practice: Readmission-Risk Management
 - Principles for Defensible Lifecycle Decisions
 
-## Chapter 13: Circular Health Systems and Resource Stewardship
+## Part V — Circular Economy and Sustainable Value
+
+### Chapter 13: Circular Health Systems and Resource Stewardship
 - From Resource Throughput to Value Retention
   - Linear Throughput and Circular Value
   - Circularity, Sustainability, and Low-Carbon Care
@@ -269,7 +280,7 @@
 - Standards and Policy Context
 - Decision Implications
 
-## Chapter 14: Circular Procurement and Asset Stewardship
+### Chapter 14: Circular Procurement and Asset Stewardship
 - Asset Stewardship and the Boundary of Useful Life
   - From Physical Life to Supported Service
   - Condition, Dependence, and Remaining Life
@@ -292,7 +303,7 @@
 - Asset Stewardship in Practice: Imaging Platform Refresh
 - Decision Implications
 
-## Chapter 15: Circularity-Adjusted Economic Evaluation and Sustainable Value
+### Chapter 15: Circularity-Adjusted Economic Evaluation and Sustainable Value
 - Extending the Economic Decision Boundary
   - Decision Problem and Functional Equivalence
   - Reconciling Economic and Environmental Boundaries

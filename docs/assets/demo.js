@@ -1,4 +1,4 @@
-﻿const original = JSON.parse(document.getElementById('case-data').textContent);
+const original = JSON.parse(document.getElementById('case-data').textContent);
 let state = JSON.parse(JSON.stringify(original));
 const num=v=>{const n=Number(String(v).replace(/,/g,''));return Number.isFinite(n)?n:0};
 const fmt=(v,d=2)=>Number(v).toLocaleString(undefined,{maximumFractionDigits:d});
