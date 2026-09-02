@@ -1,9 +1,0 @@
-﻿Field,Guidance,Institutional response
-Change or review trigger,"Model, software, data, threshold, interface, intended use, population, workflow, provider, subprocessor, hosting, price, law, evidence, or alternative.","Annual renewal and vendor proposal to update model, hosting environment, and pricing."
-Affected dossier elements,"Identify evidence, validation, economics, quality, accreditation, governance, contract, training, communication, and monitoring records requiring revision.","Intended use, validation, economics, security, contract, training, monitoring, and rollback."
-Materiality and immediate control,"Classify minor, moderate, or major; record restriction, silent mode, rollback, or pause where required.",Major change; retain current version while update is evaluated in silent mode.
-Revalidation and implementation,"Define tests, subgroups, human factors, pilot, training, acceptance thresholds, approval, and release plan.","Repeat technical, subgroup, human-factors, workflow, security, and budget tests."
-Current value and comparator,"Reassess lifecycle cost, benefit realization, budget impact, risks, alternatives, and opportunity cost.",Current version remains acceptable; staffing redesign and a competing product remain alternatives.
-Decision,"Continue, continue with conditions, update, restrict, pause, restart, replace, or retire.",Conditional renewal of current version for 12 months; update not approved pending local evidence.
-Continuity and exit,"Record fallback, data export, retention and deletion, workflow restoration, staff and patient communication, contract termination, and physical disposition.","Maintain export, deletion, fallback, transition, and contract-termination plan."
-Authority and next review,"Record accountable decision-maker, dissent, conditions, date, evidence cut-off, and next trigger.",CMIO and Finance Director; review in six months or at any material change.

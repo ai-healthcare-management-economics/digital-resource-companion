@@ -1,0 +1,9 @@
+﻿resource_id,title,role,primary_chapter,tier,folder
+AIHE-B01,Economic Evaluation Specification,primary,6,Core,chapters/06/core/AIHE-B01
+AIHE-B02,Lifecycle Cost and Pricing Record,primary,6,Core,chapters/06/core/AIHE-B02
+AIHE-B03,Benefit Realization and Capacity Conversion,primary,4,Core,chapters/04/core/AIHE-B03
+AIHE-B04,"Cost-Effectiveness, Budget Impact, and HTA Record",primary,7,Core,chapters/07/core/AIHE-B04
+AIHE-CASE06,"Five-Year Lifecycle Cost, Pricing, ROI, and Benefit Realization",supporting,6,Worked case,worked_examples/CASE06_cost_roi
+AIHE-CASE07,"Remote Monitoring: Cost-Effectiveness, Budget Impact, and HTA",supporting,7,Worked case,worked_examples/CASE07_remote_monitor
+AIHE-B,Economic Evaluation Specification,supporting,6,Supplemental specialist tool,chapters/06/core/AIHE-B01/supp/AIHE-B
+AIHE-M,TCAIO Costing Workbook,supporting,6,Supplemental specialist tool,chapters/06/core/AIHE-B02/supp/AIHE-M

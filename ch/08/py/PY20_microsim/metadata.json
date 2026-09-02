@@ -1,0 +1,23 @@
+﻿{
+  "resource_id": "AIHE-PY20",
+  "module_number": 20,
+  "title": "Patient-level microsimulation",
+  "resource_type": "py",
+  "primary_chapter": 8,
+  "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
+  "additional_chapters": [
+    8
+  ],
+  "related_core_resources": [
+    "AIHE-B05"
+  ],
+  "related_case": "AIHE-CASE08",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Simulates heterogeneous patients over repeated cycles so history, subgroup risk, adherence, and individual outcomes can affect AI value.",
+  "input": "`Cohort` sheet with patient_id, age, risk_score, subgroup, adherence probability; `Parameters` sheet with cycles, baseline event probability, AI relative risk, event cost, annual cost, utility loss, and threshold.",
+  "outputs": "Patient-level outcomes, subgroup summaries, event counts, mean costs/QALYs, incremental NMB, uncertainty distribution, and subgroup charts.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

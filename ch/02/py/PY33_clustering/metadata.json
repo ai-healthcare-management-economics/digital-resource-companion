@@ -1,0 +1,24 @@
+﻿{
+  "resource_id": "AIHE-PY33",
+  "module_number": 33,
+  "title": "Patient or service segmentation using clustering",
+  "resource_type": "py",
+  "primary_chapter": 2,
+  "primary_chapter_title": "Institutional Readiness and Digital Foundations",
+  "additional_chapters": [
+    2,
+    11
+  ],
+  "related_core_resources": [
+    "AIHE-A04"
+  ],
+  "related_case": "AIHE-CASE02",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Uses standardized features and k-means clustering to identify groups with different utilization, risk, cost, or workflow patterns.",
+  "input": "`Data` sheet with id plus numeric features; `Parameters` sheet with number of clusters and random starts.",
+  "outputs": "Cluster assignments, cluster profiles, explained variance diagnostics, two-dimensional visualization, and segment interpretation.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

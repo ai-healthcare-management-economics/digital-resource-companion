@@ -1,4 +1,4 @@
-const AIHE = { repo: "https://github.com/ai-healthcare-economics/digital-resource-companion", pages: new URL("../", document.currentScript.src).href };
+﻿const AIHE = { repo: "https://github.com/ai-healthcare-economics/AIHE_Canon_V1.0", pages: new URL("../", document.currentScript.src).href };
 function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function repoLink(path){return `${AIHE.repo}/blob/main/${path}`;}
 function resourceLink(x){if(!x.folder)return AIHE.repo;if(/\.[A-Za-z0-9]+$/.test(x.folder))return repoLink(x.folder);return `${AIHE.repo}/tree/main/${x.folder}`;}

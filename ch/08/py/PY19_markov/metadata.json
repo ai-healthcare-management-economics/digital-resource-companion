@@ -1,0 +1,23 @@
+﻿{
+  "resource_id": "AIHE-PY19",
+  "module_number": 19,
+  "title": "Markov cohort model for long-term AI evaluation",
+  "resource_type": "py",
+  "primary_chapter": 8,
+  "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
+  "additional_chapters": [
+    8
+  ],
+  "related_core_resources": [
+    "AIHE-B05"
+  ],
+  "related_case": "AIHE-CASE08",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Simulates repeated transitions among health states for AI and usual care, accumulating discounted costs and QALYs over time.",
+  "input": "`States` sheet with state, cost per cycle, utility; `Usual_Transitions` and `AI_Transitions` square transition matrices; `Parameters` sheet with cycles, discount rates, initial state, cohort size, and willingness-to-pay.",
+  "outputs": "State traces, discounted cost and QALY totals, incremental cost/effect, ICER/NMB, occupancy chart, and cohort projections.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

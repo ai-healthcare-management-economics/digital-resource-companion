@@ -1,0 +1,24 @@
+﻿{
+  "resource_id": "AIHE-A04",
+  "title": "Data Source, Provenance, and Fitness Record",
+  "primary_chapter": 2,
+  "primary_chapter_title": "Institutional Readiness and Digital Foundations",
+  "aligned_chapters": [
+    2,
+    8,
+    11,
+    12
+  ],
+  "legacy_aliases": [
+    "AIHE-EX03",
+    "AIHE-Y",
+    "AIHE-U"
+  ],
+  "purpose": "Document source and derived data assets, authority, definitions, transformations, quality, lineage, monitoring, and remediation.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 2: Institutional Readiness and Digital Foundations",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

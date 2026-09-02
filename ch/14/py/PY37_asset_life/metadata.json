@@ -1,0 +1,25 @@
+﻿{
+  "resource_id": "AIHE-PY37",
+  "module_number": 37,
+  "title": "Circular asset-life option analysis",
+  "resource_type": "py",
+  "primary_chapter": 14,
+  "primary_chapter_title": "Circular Procurement and Asset Stewardship",
+  "additional_chapters": [
+    6,
+    14,
+    15
+  ],
+  "related_core_resources": [
+    "AIHE-E03"
+  ],
+  "related_case": "AIHE-CASE14",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Ranks circular asset and service options using discounted cost, carbon, downtime, circularity, safety, and non-compensatory safeguards.",
+  "input": "Excel wb with worksheets: Options, Parameters, Weights.",
+  "outputs": "Produces the following reference outputs: cost_carbon_options.png, option_ranking.csv, run_metadata.json, summary.csv, summary.json, weighted_option_scores.png.",
+  "limitations": "Educational and decision-support example only. It is not a validated clinical, regulatory, legal, procurement, accreditation, cybersecurity, or health technology assessment instrument."
+}

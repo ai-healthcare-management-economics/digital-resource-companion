@@ -1,0 +1,32 @@
+﻿{
+  "id": "AIHE-CASE03B",
+  "chapter": 3,
+  "title": "Hospital Command Dashboard and Patient Flow",
+  "decision_question": "Under what conditions, if any, should the hospital scale a command dashboard as a permanent patient-flow management intervention?",
+  "objectives": [
+    "Distinguish observed measures, forecasts, recommendations, outcomes, and balancing indicators.",
+    "Assess forecast error together with action latency and capacity.",
+    "Identify bottleneck shifting and data-governance weaknesses.",
+    "Connect dashboard use to causal evaluation, lifecycle cost, and accountable action."
+  ],
+  "related_resources": [
+    "AIHE-C01",
+    "AIHE-C02",
+    "AIHE-C04",
+    "AIHE-B03",
+    "AIHE-I"
+  ],
+  "related_python_modules": [
+    "AIHE-PY21",
+    "AIHE-PY23",
+    "AIHE-PY34",
+    "AIHE-PY35"
+  ],
+  "chapter_title": "Human–AI Decision Systems and Managerial Action",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "data_classification": "synthetic"
+}

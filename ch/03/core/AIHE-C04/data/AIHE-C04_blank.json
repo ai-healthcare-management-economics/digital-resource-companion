@@ -1,0 +1,82 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-C04",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Decision architecture",
+      "field_or_question": "Context and evidence available to the decision-maker",
+      "guidance": "Specify what lies outside the AI output.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision architecture",
+      "field_or_question": "AI-generated signal, forecast, recommendation, or content",
+      "guidance": "Record model and configuration version.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Uncertainty",
+      "field_or_question": "Uncertainty, deferral rule, and limits of use",
+      "guidance": "Make ambiguity visible.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Human interpretation",
+      "field_or_question": "Required judgement, source information, and competence",
+      "guidance": "Define meaningful review.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision right",
+      "field_or_question": "Accept, modify, reject, defer, escalate, or interrupt",
+      "guidance": "State who may exercise each right.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Authority",
+      "field_or_question": "Responsible actor and escalation authority",
+      "guidance": "Connect judgement with authority.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Timing",
+      "field_or_question": "Signal, interpretation, and action latency",
+      "guidance": "Compare with the closing decision window.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Outcome and feedback",
+      "field_or_question": "Action, outcome, review, and learning",
+      "guidance": "Close the loop.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

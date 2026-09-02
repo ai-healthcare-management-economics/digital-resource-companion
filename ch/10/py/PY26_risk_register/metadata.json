@@ -1,0 +1,24 @@
+﻿{
+  "resource_id": "AIHE-PY26",
+  "module_number": 26,
+  "title": "Integrated privacy, cybersecurity, equity, safety, and trust risk register",
+  "resource_type": "py",
+  "primary_chapter": 10,
+  "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
+  "additional_chapters": [
+    10,
+    12
+  ],
+  "related_core_resources": [
+    "AIHE-C03"
+  ],
+  "related_case": "AIHE-CASE10",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Scores inherent and residual risk, checks mitigation completeness, prioritizes overdue actions, and produces an accountable risk dashboard.",
+  "input": "`Risks` sheet with risk_id, domain, description, likelihood, impact, control_effectiveness, owner, review_date, status, and decision_trigger.",
+  "outputs": "Prioritized risk register, inherent and residual scores, overdue actions, domain heatmap, critical-risk list, and governance summary.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

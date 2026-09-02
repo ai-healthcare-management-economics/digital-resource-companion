@@ -1,8 +1,0 @@
-resource_id,title,role,primary_chapter,tier,folder
-AIHE-B05,"Model Selection, Uncertainty, and Reproducibility",primary,8,Core,chapters/08/core/AIHE-B05
-AIHE-RG05,Scenario Planning and Real-Options Worksheet,primary,8,Reference guide,chapters/08/guides/AIHE-RG05
-AIHE-CASE08,Imaging Prioritization Decision Model and Value of Information,supporting,8,Worked case,worked_examples/AIHE-CASE08_imaging_prioritization_decision_model_and_value_of_information
-AIHE-EX04,Evidence and Assumption Log,supporting,8,Supplemental specialist tool,chapters/08/core/AIHE-B05/supp/AIHE-EX04
-AIHE-EX06,Model Card and AI Intervention Fact Sheet,supporting,8,Supplemental specialist tool,chapters/08/core/AIHE-B05/supp/AIHE-EX06
-AIHE-EX15,Analytic and Simulation Method Selection Guide,supporting,8,Supplemental specialist tool,chapters/08/core/AIHE-B05/supp/AIHE-EX15
-AIHE-EX16,"Reproducible Analysis, Model Risk, and Code Quality Checklist",supporting,8,Supplemental specialist tool,chapters/08/core/AIHE-B05/supp/AIHE-EX16

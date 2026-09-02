@@ -1,4 +1,4 @@
-## Purpose
+﻿## Purpose
 
 ## Chapter and resource IDs affected
 

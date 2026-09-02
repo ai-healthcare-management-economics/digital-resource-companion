@@ -1,0 +1,4 @@
+Artificial Intelligence and Healthcare Economics - Digital Resource Companion
+Release: V1.0
+
+This distribution uses concise, descriptive file and folder names to avoid Windows path-length errors. Resource identifiers are preserved. See path_map.csv for the relationship between former and concise paths.

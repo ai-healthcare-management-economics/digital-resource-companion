@@ -1,6 +1,6 @@
-{
+﻿{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ai-healthcare-economics.github.io/digital-resource-companion/schemas/AIHE-E01.schema.json",
+  "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-E01.schema.json",
   "title": "AIHE-E01 — Circular-Economy and Sustainable-AI Assessment",
   "description": "Apply the circularity hierarchy from prevention and reduction through sharing, maintenance, reuse, refurbishment, recovery, and disposal.",
   "type": "object",

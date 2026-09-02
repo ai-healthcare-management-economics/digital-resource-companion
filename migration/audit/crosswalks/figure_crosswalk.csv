@@ -1,0 +1,62 @@
+﻿old_figure_id,chapter,old_title_short,status,new_figure_id,required_action
+Intro-1,Introduction,AI value chain in health systems,RETIRE,,Removed from the revised list of figures; its causal logic is incorporated in Chapter 1 and the revised opening discussion.
+1.1,1,AI intervention value chain with cross-cutting controls and continuous evaluation,RETAIN_RECREATE,1.1,Redrawn and recaptioned as a conceptual intervention value chain.
+1.2,1,Illustrative value-realization waterfall,RETAIN_RECREATE,1.2,Redrawn and reframed as the conceptual pathway from technical potential to realized hospital value.
+1.3,1,Opportunity cost in AI adoption,RETAIN_RECREATE,1.3,Redrawn as a conceptual resource-allocation frontier.
+1.4,1,Net monetary benefit across alternative decision thresholds,RETIRE,,Removed from Chapter 1; threshold and net-benefit methods now sit in Chapters 7–8.
+2.1,2,Digital health value chain,RETIRE,,Removed; the data-to-value logic is retained in prose and the Chapter 1 intervention pathway.
+2.2,2,Digital transformation flywheel,RETIRE,,Removed; cumulative capability development is retained in narrative form.
+2.3,2,Layered institutional capabilities required for AI readiness,RETAIN_RENUMBER,2.1,Recreated and renumbered.
+2.4,2,AI-ready interoperability stack,RETIRE,,Removed; interoperability is treated in the chapter narrative and readiness records.
+2.5,2,Health-data governance lifecycle for public-interest AI use,RETAIN_RENUMBER,2.2,Recreated with revised responsible-secondary-use wording.
+2.6,2,Public-value and governance-risk matrix for secondary use,RETIRE,,Removed; proportional governance is retained in narrative and companion forms.
+3.1,3,Human–AI decision-support loop with accountable action and learning,REPLACE,3.1,Replaced by the broader AI-mediated decision architecture.
+3.2,3,Human–AI delegation spectrum,RETIRE,,Removed; decision-right configurations are now expressed in Table 3.1.
+3.3,3,Dashboard value pathway,RETIRE,,Removed; collective sensemaking and action logic are retained in prose.
+3.4,3,Dashboard action latency,RETAIN_RENUMBER,3.2,"Recreated as decision latency across signal, interpretation and response."
+4.1,4,Productivity decomposition from gross time saving to realized capacity,RETAIN_RECREATE,4.1,Recreated with net usable capacity and stronger labour/workflow distinctions.
+4.2,4,Implementation roadmap for AI in health systems,RETIRE,,Removed as a generic roadmap.
+4.3,4,Staged VALIDATE-AI implementation pathway,RETAIN_RENUMBER,4.2,"Recreated and simplified into four grouped phases with cross-cutting governance, learning and monitoring."
+4.4,4,Illustrative AI adoption trajectories,RETIRE,,Removed; persistence and sustainment are treated in prose and longitudinal measures.
+5.1,5,From accreditation compliance to organizational learning,RETIRE,,Removed; accreditation is integrated into the quality-management narrative.
+5.2,5,Illustrative statistical process-control view of an AI-enabled pathway,RETAIN_RENUMBER,5.1,"Expanded to show abnormal variation, investigation and recovery after corrective action."
+5.3,5,"Quality improvement, risk management and organizational learning across the AI lifecycle",RETAIN_RENUMBER,5.2,Recreated as the pathway from quality surveillance to organizational learning.
+6.1,6,Visible and hidden cost layers in healthcare AI,CONSOLIDATE,6.1,Combined with the former TCAIO composition into one lifecycle cost architecture.
+6.2,6,Illustrative distribution of implementation costs,RETIRE,,Removed because the percentages were illustrative and could be mistaken for benchmarks.
+6.3,6,Illustrative composition of the Total Cost of AI Ownership,CONSOLIDATE,6.1,Combined into the new lifecycle cost architecture.
+6.4,6,Illustrative lifecycle cost and benefit profile,RETAIN_RENUMBER,6.2,Recreated to emphasize timing of lifecycle costs and recognized financial benefits.
+7.1,7,Economic evaluation pathway for AI adoption,RETIRE,,Removed; decision translation is represented by the revised Figure 7.3.
+7.2,7,Illustrative cost-effectiveness plane,RETAIN_RENUMBER,7.1,Recreated as the cost-effectiveness plane for incremental costs and outcomes.
+7.3,7,Illustrative three-year net budget-impact profile,RETAIN_RENUMBER,7.2,Recreated with annual and cumulative budget impact.
+7.4,7,Illustrative cost-effectiveness acceptability and value-of-information curves,MOVE_SPLIT,8.2,The VOI concept moves to Chapter 8 and is redesigned; CEAC remains a computational output rather than a principal book figure.
+7.5,7,"Decision pathway for adoption, piloting, delay, redesign or rejection",RETAIN_RENUMBER,7.3,Recreated as the pathway from economic evidence to adoption decision.
+8.1,8,Selection map for health-economic modelling methods,RETIRE,,Removed; model selection is handled by Table 8.1 and companion guidance.
+8.2,8,Illustrative cohort state-transition trace,RETIRE,,Removed as a principal figure; state-transition outputs remain appropriate in computational resources.
+8.3,8,Illustrative tornado diagram for an AI-enabled service,RETAIN_RENUMBER,8.1,Recreated as one-way sensitivity analysis.
+8.4,8,Instrumented workflow from use-case definition to organizational learning,RETIRE,,"Removed; workflow logic is distributed across Chapters 8, 11 and 12."
+9.1,9,Sequential procurement and approval gates for healthcare AI,RETAIN_RECREATE,9.1,Recreated as procurement and vendor-governance gates extending through renewal or exit.
+9.2,9,Illustrative vendor evidence profile,RETIRE,,Removed because a high domain score must not obscure mandatory eligibility and continuing disclosure.
+10.1,10,Hospital AI accountability network,CONSOLIDATE,10.1,Contributes to the revised institutional accountability architecture.
+10.2,10,Governance and assurance stack,CONSOLIDATE,10.1,Contributes to the revised institutional accountability architecture; the former layered stack is no longer a separate figure.
+10.3,10,Equity-audit matrix,RETAIN_RENUMBER,10.2,Recreated as an equity assurance matrix.
+10.4,10,Illustrative subgroup calibration,RETIRE,,Removed as a principal figure; subgroup calibration remains an analytical output.
+11.1,11,Evidence must mature with the decision,RETAIN_RECREATE,11.1,Recreated as escalating evidentiary claims.
+11.2,11,Illustrative decision-curve analysis,RETAIN_RECREATE,11.2,Recreated specifically for readmission-risk prediction.
+11.3,11,Illustrative implementation determinant priorities,RETIRE,,Removed; implementation determinants are concentrated in Chapter 4.
+11.4,11,Evidence-synthesis map,RETIRE,,Removed; synthesis is expressed in the evidence-claims record and narrative.
+12.1,12,Six-layer evaluation architecture,RETIRE,,Removed as a separate principal figure; the revised chapter centres AI-HEVG and decision provenance.
+12.2,12,Integrated health-system decision architecture,RETIRE,,Removed; integration without aggregation is treated in prose.
+12.3,12,AI-HEVG integrated assessment,RETAIN_RENUMBER,12.1,Recreated as the AI-HEVG integrative assessment architecture.
+12.4,12,AI-HED living decision record,RETAIN_RENUMBER,12.2,Recreated as a living decision-provenance record.
+12.5,12,AI Health-System Value Chain,RETIRE,,Removed to avoid duplication with Chapter 1.
+12.6,12,Illustrative AI application portfolio,RETIRE,,Removed from the principal figure set.
+12.7,12,Controlled generative AI production pipeline,RETAIN_RENUMBER,12.4,Recreated as a controlled production pathway for generative and agentic AI.
+12.8,12,De-adoption pathway,RETAIN_RENUMBER,12.5,"Recreated as de-adoption, replacement and retirement pathway."
+12.9,12,Lifecycle operations,RETIRE,,Removed; lifecycle transitions are represented through decision states and triggers.
+12.10,12,Staged implementation,RETIRE,,Removed to avoid duplication with the revised VALIDATE-AI figure in Chapter 4.
+12.11,12,Instrument stack for AI health economics,RETIRE,,Removed; resource selection belongs in the Digital Resource Companion catalogs.
+13.1,13,Circular resource stewardship for AI-enabled health technology,RETAIN_RECREATE,13.1,Recreated as resource value-retention pathways in an AI-enabled health system.
+15.1,15,Circularity-adjusted value framework,REPLACE,15.1,Replaced by an analytical pathway for circularity-adjusted economic evaluation.
+,8,,NEW,8.2,New figure: from decision uncertainty to research value using value-of-information analysis.
+,11,,NEW,11.3,New figure: from model output to causal intervention effect.
+,12,,NEW,12.3,New figure: institutional decision states and lifecycle transition triggers.

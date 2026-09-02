@@ -1,4 +1,4 @@
-# Licence
+﻿# Licence
 
 Copyright © 2026 Muthana Zouri and Carmen Marinela Cumpăt.
 
@@ -10,4 +10,4 @@ Licence summary and legal code:
 
 https://creativecommons.org/licenses/by-nc/4.0/
 
-Third-party publications, standards, trademarks, software dependencies, and other externally sourced materials remain subject to their respective rights and licences. A file-specific notice takes precedence where one is provided.
+Third-party pubs, standards, trademarks, software dependencies, and other externally sourced materials remain subject to their respective rights and licences. A file-specific notice takes precedence where one is provided.

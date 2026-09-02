@@ -1,8 +1,0 @@
-﻿Ethical domain,Question,Governance response
-Accountability,Who is responsible for decisions informed by AI?,"Assign clinical, managerial, and vendor responsibilities"
-Transparency,Can users understand the purpose and limits of the tool?,Provide user-facing documentation and training
-Fairness,Does performance vary across patient groups?,Require subgroup monitoring and mitigation
-Privacy,Are data collected and reused appropriately?,Apply data minimization and access controls
-Human oversight,Can clinicians override or question outputs?,Define escalation and override procedures
-Trust,How are patients and staff informed?,Provide communication and feedback pathways
-Decommissioning,Can the tool be suspended if unsafe or ineffective?,Create stop criteria and review cycles

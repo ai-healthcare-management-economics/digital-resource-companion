@@ -1,4 +1,4 @@
-# Security
+﻿# Security
 
 Do not report exploitable vulnerabilities through a public issue. Use the repository owner's private contact route.
 

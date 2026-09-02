@@ -1,14 +1,14 @@
-cff-version: 1.2.0
+﻿cff-version: 1.2.0
 message: "Please cite the archived version of this resource."
 title: "Artificial Intelligence and Healthcare Economics: Digital Resource Companion"
 version: "V1.0"
-date-released: "2026-08-12"
+date-released: "2026-09-02"
 authors:
   - family-names: "Zouri"
     given-names: "Muthana"
   - family-names: "Cumpăt"
     given-names: "Carmen Marinela"
-repository-code: "https://github.com/ai-healthcare-economics/digital-resource-companion"
-url: "https://ai-healthcare-economics.github.io/digital-resource-companion/"
+repository-code: "https://github.com/ai-healthcare-economics/AIHE_Canon_V1.0"
+url: "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/"
 doi: "10.5281/zenodo.21753927"
 license: "CC-BY-NC-4.0"

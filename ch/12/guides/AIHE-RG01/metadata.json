@@ -1,0 +1,11 @@
+﻿{
+  "resource_id": "AIHE-RG01",
+  "title": "Framework Status and Selection Guide",
+  "primary_chapter": 12,
+  "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
+  "aligned_chapters": "2, 4, 5, 7, 9-12",
+  "purpose": "Distinguish legal instruments, standards, guidance, reporting guidelines, appraisal tools, implementation frameworks, and author-developed decision aids; select them according to function and authority.",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "Current cross-cutting guide"
+}

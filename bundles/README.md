@@ -1,4 +1,4 @@
-# Consolidated Resource Bundles
+﻿# Consolidated Resource Bundles
 
 - `core_forms/` contains the 24 canonical institutional records in one document.
 - `core_workbooks/` contains the same core resources in one spreadsheet workbook.

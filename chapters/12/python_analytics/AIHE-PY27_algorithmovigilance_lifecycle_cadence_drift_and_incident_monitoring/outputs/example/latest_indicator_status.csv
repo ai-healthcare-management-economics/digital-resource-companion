@@ -1,7 +1,0 @@
-date,indicator,domain,value,subgroup,model_version,direction,warning_threshold,stop_threshold,owner,response,status
-2026-06-01,Complaint rate,Trust,0.0474,All,v1.1,higher_is_worse,0.04,0.08,Patient engagement owner,Investigate and communicate,WARNING
-2026-06-01,Cost per use,Economic,38.5243,All,v1.1,higher_is_worse,35.0,50.0,Finance owner,Renegotiate or limit scale,WARNING
-2026-06-01,Brier score,Technical,0.2427,All,v1.1,higher_is_worse,0.24,0.3,Data science owner,Recalibrate or suspend,WARNING
-2026-06-01,AUC,Technical,0.7246,All,v1.1,lower_is_worse,0.7,0.62,Data science owner,Review model and data; restrict if stop,OK
-2026-06-01,False alert rate,Workflow,0.2821,All,v1.1,higher_is_worse,0.25,0.35,Clinical owner,Change threshold and workflow,WARNING
-2026-06-01,Older-adult sensitivity,Equity,0.6434,Older adults,v1.1,lower_is_worse,0.7,0.6,Equity owner,"Mitigate, restrict, or stop",WARNING

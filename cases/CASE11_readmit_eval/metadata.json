@@ -1,0 +1,34 @@
+﻿{
+  "id": "AIHE-CASE11",
+  "chapter": 11,
+  "title": "Local Validation and Causal Evaluation of a Readmission Model",
+  "decision_question": "Does local performance and observed service change support adoption, and what can reasonably be attributed to the AI-enabled pathway?",
+  "objectives": [
+    "Assess local validity, calibration, and subgroup performance.",
+    "Separate model performance from intervention effectiveness.",
+    "Use a controlled before-after comparison.",
+    "State limitations and continuing evidence conditions."
+  ],
+  "related_resources": [
+    "AIHE-B05",
+    "AIHE-EX05",
+    "AIHE-EX04",
+    "AIHE-V"
+  ],
+  "demo_type": "validation",
+  "chapter_title": "Evidence, Validation, and Real-World Evaluation",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "related_python_modules": [
+    "AIHE-PY04",
+    "AIHE-PY05",
+    "AIHE-PY24",
+    "AIHE-PY30",
+    "AIHE-PY31",
+    "AIHE-PY32"
+  ],
+  "data_classification": "synthetic"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "resource_id": "AIHE-EX07",
+  "title": "Benefit Realization and Capacity Conversion Log",
+  "canonical_resource_id": "AIHE-B03",
+  "primary_chapter": 6,
+  "aligned_chapters": "4,6,7",
+  "purpose": "Assign each benefit to a mechanism, measure, owner, baseline, timing, accounting treatment, and verification source.",
+  "version": "V1.0",
+  "status": "Supplemental specialist resource"
+}

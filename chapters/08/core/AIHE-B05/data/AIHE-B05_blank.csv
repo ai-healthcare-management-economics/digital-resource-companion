@@ -1,7 +1,0 @@
-﻿Decision structure,Candidate approach,Critical evidence,Verification and uncertainty record
-"Short, non-recurring pathway",Decision tree,"Branch probabilities, costs, outcomes, and threshold consequences","Logic checks, extreme values, scenario and probabilistic analysis"
-Recurring health states,Cohort state-transition model,"Transition probabilities, time dependence, utilities, costs, and competing events","Trace validation, cycle and horizon tests, structural alternatives"
-Individual heterogeneity and history,Microsimulation,"Patient-level distributions, correlations, event history, and treatment effects","Random seeds, convergence, internal and external validation"
-"Queues, resources, and event timing",Discrete-event simulation,"Arrival, service, routing, capacity, priority, and downtime distributions","Event-trace review, warm-up and run length, replications, stress tests"
-Interacting actors or policy feedback,"Agent-based, system-dynamics, or hybrid model","Behaviour rules, networks, stocks, flows, delays, and feedback","Pattern validation, sensitivity to rules, alternative structures"
-All consequential models,Proportionate reproducible workflow,"Data provenance, code, parameters, evidence, environment, versions, approvals, and archive","Independent review, test suite, change log, decision traceability"

@@ -1,5 +1,0 @@
-option,upfront_cost,annual_operating_cost,annual_energy_kwh,annual_carbon_kg,expected_life_years,annual_downtime_hours,annual_risk_cost,transition_cost,residual_value,circularity_score,safety_score,mandatory_failure,pv_lifecycle_cost,lifecycle_carbon_kg,lifecycle_energy_kwh,lifecycle_downtime_hours,weighted_score,rank
-Refurbish,160000,72000,62000,18000,5,35,9000,35000,25000,0.8,4.3,No,544391.0625531531,90000,310000,175,0.769015739326693,1
-Replace,360000,60000,48000,15000,7,18,6000,50000,45000,0.55,4.7,No,673443.2790575518,75000,240000,90,0.5427350427350428,2
-Shared service,90000,110000,0,12000,5,28,8000,40000,0,0.45,4.2,No,670405.448088955,60000,0,140,0.4536522718975302,3
-Maintain,25000,90000,85000,25000,2,70,18000,12000,5000,0.35,3.6,No,527295.3322950888,125000,425000,350,0.3,4

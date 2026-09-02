@@ -1,0 +1,58 @@
+﻿[
+  {
+    "step": 1,
+    "stage": "Decompose tasks and establish the baseline",
+    "purpose": "Measure current work, handoffs, delay, rework, quality, burden, and role boundaries.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Decompose tasks and establish the baseline",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 2,
+    "stage": "Identify AI–human allocation options",
+    "purpose": "Separate tasks suitable for automation, augmentation, review, escalation, and human-only performance.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Identify AI–human allocation options",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 3,
+    "stage": "Redesign workflow and roles",
+    "purpose": "Define new responsibilities, supervision, competencies, fallback, and downstream capacity.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Redesign workflow and roles",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 4,
+    "stage": "Implement a controlled pilot",
+    "purpose": "Train users, monitor adoption, collect workflow evidence, and preserve reversibility.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Implement a controlled pilot",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 5,
+    "stage": "Measure gross and net productivity",
+    "purpose": "Subtract review, correction, coordination, downtime, and displaced work from gross time saved.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Measure gross and net productivity",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 6,
+    "stage": "Convert released capacity into realized value",
+    "purpose": "Document redeployment, improved quality, reduced delay, avoided harm, or other verified outcomes.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Convert released capacity into realized value",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 7,
+    "stage": "Adapt and sustain",
+    "purpose": "Address implementation determinants, professional effects, maintenance, and scale conditions.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Adapt and sustain",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  }
+]

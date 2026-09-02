@@ -1,0 +1,66 @@
+﻿[
+  {
+    "step": 1,
+    "stage": "Define the decision, functional unit, and system boundary",
+    "purpose": "Specify the service output, population, quality level, volume, horizon, infrastructure, and lifecycle stages.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Define the decision, functional unit, and system boundary",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 2,
+    "stage": "Estimate conventional outcomes and lifecycle cost",
+    "purpose": "Report health, service, workforce, quality, and economic effects before circular adjustments.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Estimate conventional outcomes and lifecycle cost",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 3,
+    "stage": "Measure environmental and material flows",
+    "purpose": "Quantify energy, water, carbon, virgin and recovered materials, waste, and critical dependencies per functional unit.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Measure environmental and material flows",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 4,
+    "stage": "Estimate residual, recovered, and resilience value",
+    "purpose": "Include remaining useful life, redeployment, take-back, recovery costs, continuity, and supply-chain effects.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Estimate residual, recovered, and resilience value",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 5,
+    "stage": "Assess equity and burden distribution",
+    "purpose": "Identify who benefits and who bears environmental, labor, access, and regional burdens.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Assess equity and burden distribution",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 6,
+    "stage": "Monetize cautiously or preserve disaggregated evidence",
+    "purpose": "Document valuation sources, uncertainty, non-monetized effects, and double-counting checks.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Monetize cautiously or preserve disaggregated evidence",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 7,
+    "stage": "Test uncertainty, rebound, and robust decisions",
+    "purpose": "Compare options under plausible use, life, price, environmental, recovery, and induced-demand scenarios.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Test uncertainty, rebound, and robust decisions",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 8,
+    "stage": "Issue a transparent decision with safeguards",
+    "purpose": "Present conventional and circularity-adjusted results, mandatory constraints, conditions, and review triggers.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Issue a transparent decision with safeguards",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  }
+]

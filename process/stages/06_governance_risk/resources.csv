@@ -1,0 +1,9 @@
+﻿resource_id,title,role,primary_chapter,tier,folder
+AIHE-C03,Integrated Institutional-Risk Review,primary,10,Core,chapters/10/core/AIHE-C03
+AIHE-C04,Human Oversight and Accountability Matrix,primary,3,Core,chapters/03/core/AIHE-C04
+AIHE-C05,Public Transparency and Communication Record,primary,10,Core,chapters/10/core/AIHE-C05
+AIHE-RG04,"Regulatory, Standards, and Policy Update Register",primary,10,Reference guide,chapters/10/guides/AIHE-RG04
+AIHE-CASE10,Patient-Facing Chatbot Institutional-Risk Review,supporting,10,Worked case,worked_examples/CASE10_chatbot_risk
+AIHE-AB,Privacy and Cybersecurity Risk Register,supporting,10,Supplemental specialist tool,chapters/10/core/AIHE-C03/supp/AIHE-AB
+AIHE-AC,Equity Impact Tool,supporting,10,Supplemental specialist tool,chapters/10/core/AIHE-C03/supp/AIHE-AC
+AIHE-N,"Trust, Equity, and Public Value Workbook",supporting,10,Supplemental specialist tool,chapters/10/core/AIHE-C03/supp/AIHE-N

@@ -1,0 +1,21 @@
+﻿{
+  "resource_id": "AIHE-C02",
+  "title": "Corrective and Preventive Action Record",
+  "primary_chapter": 5,
+  "primary_chapter_title": "Quality Management, Accreditation, and Organizational Learning",
+  "aligned_chapters": [
+    5,
+    10,
+    12
+  ],
+  "legacy_aliases": [
+    "AIHE-QC02"
+  ],
+  "purpose": "Document nonconformity, containment, causal analysis, corrective and preventive action, effectiveness, residual risk, and closure.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 5: Quality Management, Accreditation, and Organizational Learning",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

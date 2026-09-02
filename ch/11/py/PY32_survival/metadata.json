@@ -1,0 +1,25 @@
+﻿{
+  "resource_id": "AIHE-PY32",
+  "module_number": 32,
+  "title": "Time-to-event and survival analysis",
+  "resource_type": "py",
+  "primary_chapter": 11,
+  "primary_chapter_title": "Evidence, Validation, and Real-World Evaluation",
+  "additional_chapters": [
+    7,
+    8,
+    11
+  ],
+  "related_core_resources": [
+    "AIHE-B05"
+  ],
+  "related_case": "AIHE-CASE11",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Estimates Kaplan-Meier survival curves and compares event timing between AI and comparator groups using a log-rank test.",
+  "input": "`Data` sheet with patient_id, duration, event, group, and optional subgroup.",
+  "outputs": "Kaplan-Meier estimates, median survival, survival curves, log-rank statistic and p-value, subgroup tables, and event-risk interpretation.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

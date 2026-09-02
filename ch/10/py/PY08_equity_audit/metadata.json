@@ -1,0 +1,26 @@
+﻿{
+  "resource_id": "AIHE-PY08",
+  "module_number": 8,
+  "title": "Subgroup performance and equity audit",
+  "resource_type": "py",
+  "primary_chapter": 10,
+  "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
+  "additional_chapters": [
+    7,
+    10,
+    11,
+    15
+  ],
+  "related_core_resources": [
+    "AIHE-C03"
+  ],
+  "related_case": "AIHE-CASE10",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Compares AUC, calibration, sensitivity, specificity, predictive values, and selection rates across population groups.",
+  "input": "`Predictions` sheet with actual outcome, predicted score, subgroup, and threshold.",
+  "outputs": "Subgroup audit table, disparity summary, sensitivity chart, calibration overview, and largest-gap indicator.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

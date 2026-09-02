@@ -1,0 +1,25 @@
+﻿{
+  "resource_id": "AIHE-PY01",
+  "module_number": 1,
+  "title": "Data quality, fitness-for-purpose, and mapping audit",
+  "resource_type": "py",
+  "primary_chapter": 2,
+  "primary_chapter_title": "Institutional Readiness and Digital Foundations",
+  "additional_chapters": [
+    2,
+    11
+  ],
+  "related_core_resources": [
+    "AIHE-A04",
+    "AIHE-B05"
+  ],
+  "related_case": "AIHE-CASE02",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Profiles missingness, duplicates, implausible values, subgroup coverage, and terminology-mapping completeness before AI validation or economic analysis.",
+  "input": "`Data` sheet with patient/encounter rows; `Mapping` sheet with local field, target standard, code, and required flag.",
+  "outputs": "Column profile, missingness table and chart, quality checks, subgroup coverage, mapping audit, and summary JSON.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

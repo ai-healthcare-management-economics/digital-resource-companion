@@ -1,0 +1,16 @@
+﻿chapter,chapter_title,core_resources,guides,worked_case,python_applications
+1,AI as a Health-System Intervention,AIHE-A01; AIHE-A02,AIHE-RG07,AIHE-CASE01,
+2,Institutional Readiness and Digital Foundations,AIHE-A03; AIHE-A04,,AIHE-CASE02,AIHE-PY01; AIHE-PY03; AIHE-PY33
+3,Human–AI Decision Systems and Managerial Action,AIHE-C04,,AIHE-CASE03; AIHE-CASE03B,AIHE-PY06; AIHE-PY21; AIHE-PY34; AIHE-PY35
+4,"Productivity, Work Redesign, and Implementation",AIHE-B03,AIHE-RG03,AIHE-CASE04,AIHE-PY22; AIHE-PY23; AIHE-PY28
+5,"Quality Management, Accreditation, and Organizational Learning",AIHE-C01; AIHE-C02,,AIHE-CASE05,AIHE-PY02
+6,"Lifecycle Cost, Pricing, and Benefit Realization",AIHE-B01; AIHE-B02,,AIHE-CASE06,AIHE-PY10; AIHE-PY11
+7,"Economic Evaluation, Affordability, and Health Technology Assessment",AIHE-B04,,AIHE-CASE07,AIHE-PY12; AIHE-PY13; AIHE-PY16
+8,Decision Modelling, Simulation, and the Value of Information,AIHE-B05,AIHE-RG05,AIHE-CASE08,AIHE-PY14; AIHE-PY15; AIHE-PY18; AIHE-PY19; AIHE-PY20
+9,Problem-First Procurement and Vendor Governance,AIHE-D01,,AIHE-CASE09,AIHE-PY17; AIHE-PY25
+10,"Governance, Accountability, and Institutional Risk",AIHE-C03; AIHE-C05,AIHE-RG04,AIHE-CASE10,AIHE-PY07; AIHE-PY08; AIHE-PY26
+11,"Evidence, Validation, and Real-World Evaluation",,AIHE-RG02; AIHE-RG06,AIHE-CASE11,AIHE-PY04; AIHE-PY05; AIHE-PY24; AIHE-PY30; AIHE-PY31; AIHE-PY32
+12,Decision Architecture and Lifecycle Governance,AIHE-D02; AIHE-D03; AIHE-D04; AIHE-D05,AIHE-RG01,AIHE-CASE12,AIHE-PY09; AIHE-PY27; AIHE-PY29
+13,Circular Health Systems and Resource Stewardship,AIHE-E01,,AIHE-CASE13,AIHE-PY36; AIHE-PY39
+14,Circular Procurement and Asset Stewardship,AIHE-E02; AIHE-E03,,AIHE-CASE14,AIHE-PY37
+15,Circularity-Adjusted Economic Evaluation and Sustainable Value,AIHE-E04; AIHE-E05,,AIHE-CASE15,AIHE-PY38

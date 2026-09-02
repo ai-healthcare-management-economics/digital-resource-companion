@@ -1,4 +1,4 @@
-# Guided Decision Pathways
+﻿# Guided Decision Pathways
 
 The pathways provide a task-oriented route through the companion. They do not replace local governance or professional judgement.
 

@@ -1,8 +1,0 @@
-domain,risks,mean_residual,max_residual,overdue
-Cybersecurity,1,9.75,9.75,0
-Economic,1,6.6000000000000005,6.6000000000000005,1
-Equity,1,9.6,9.6,1
-Privacy,1,9.0,9.0,1
-Safety,1,6.0,6.0,0
-Trust,1,6.0,6.0,0
-Workflow,1,9.0,9.0,0

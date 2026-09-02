@@ -1,18 +1,11 @@
-# Start Here
+﻿# Artificial Intelligence and Healthcare Economics - Digital Resource Companion
 
-## Artificial Intelligence and Healthcare Economics
+**Canonical source release:** V1.0  
+**Release date:** 2026-09-02  
+**Book alignment:** revised 412-page edition; 15 chapters; 31 principal figures; 46 principal tables
 
-*Evidence, Value, Governance, and Sustainability*
+The canonical repository contains the website, core tools, reader/practitioner materials, editable records, workbooks, worked examples, computational resources, figure and table catalogues, migration crosswalks, and release-validation records.
 
-**Muthana Zouri and Carmen Marinela Cumpăt**  
-Grigore T. Popa University of Medicine and Pharmacy Publishing House, 2026
+Use stable resource, chapter, section, figure, table, and case identifiers rather than printed page numbers. All demonstration data are synthetic unless a documented source states otherwise. A resource must be adapted to the applicable jurisdiction, organization, population, workflow, system version, evidence base, contract, and accountable decision process before institutional use.
 
-Use the Digital Resource Companion according to the task you need to complete.
-
-1. **Understand the approach.** Read the printable companion and begin with the worked example aligned with your chapter.
-2. **Prepare an institutional decision.** Use the guided pathways to identify the smallest sufficient set of core records.
-3. **Use a form or workbook.** Open the consolidated bundles or the individual resource folder.
-4. **Run an analysis.** Select a reproducible Python/Jupyter module by question or method.
-5. **Review the full source.** Use the chapter folders and machine-readable catalogs when detailed adaptation is required.
-
-The Web Companion is available at https://ai-healthcare-economics.github.io/digital-resource-companion/.
+Open `docs/index.html` for the website or `bundles/tools/AIHE_Core_Tools_V1.0.zip` for the essentials pack.

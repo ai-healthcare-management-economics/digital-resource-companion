@@ -1,0 +1,74 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-A03",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Use-case readiness",
+      "field_or_question": "Application, intended use, setting, and consequence of failure",
+      "guidance": "Readiness is specific to a defined use.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Critical dependency",
+      "field_or_question": "Source system, interface, data, infrastructure, workforce, governance, or downstream service",
+      "guidance": "List dependencies individually.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Assessment",
+      "field_or_question": "Current adequacy and supporting evidence",
+      "guidance": "Do not average critical weaknesses into a single score.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Limitation",
+      "field_or_question": "Unresolved limitation and consequence",
+      "guidance": "State what remains uncertain.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Response",
+      "field_or_question": "Remediate before deployment, examine in pilot, defer, or reject",
+      "guidance": "Distinguish remediable gaps from unacceptable conditions.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Ownership",
+      "field_or_question": "Responsible owner and completion date",
+      "guidance": "Assign each action.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Readiness decision",
+      "field_or_question": "Proceed, conditional proceed, limited pilot, remediate, defer, or do not proceed",
+      "guidance": "State conditions and next review.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

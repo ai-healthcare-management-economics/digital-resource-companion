@@ -1,0 +1,11 @@
+﻿record_id,resource_id,resource_version,release_date,section,field_or_question,guidance,response_or_evidence,owner,due_or_review_date,evidence_cut_off,local_modifications,intervention_version
+,AIHE-B03,V1.0,2026-09-02,Productivity,Task and denominator,"Specify per note, case, encounter, session, or paid hour.",,,,,,
+,AIHE-B03,V1.0,2026-09-02,Productivity,Baseline and AI-assisted gross task time,Use locally observed values where possible.,,,,,,
+,AIHE-B03,V1.0,2026-09-02,Productivity,"Review, correction, coordination, support, and rework",Calculate net labour saving.,,,,,,
+,AIHE-B03,V1.0,2026-09-02,Quality,"Quality, completeness, safety, and downstream rework adjustment",Do not equate speed with productivity.,,,,,,
+,AIHE-B03,V1.0,2026-09-02,Capacity,"Fragmentation, regularity, and schedulability of released time",Determine usable capacity.,,,,,,
+,AIHE-B03,V1.0,2026-09-02,Service system,Binding bottleneck and downstream workload,Assess service-level effects.,,,,,,
+,AIHE-B03,V1.0,2026-09-02,Allocation,Actual destination of released capacity,"Throughput, backlog, patient communication, supervision, quality work, or recovery time.",,,,,,
+,AIHE-B03,V1.0,2026-09-02,Workforce,"Work transfer, work intensity, autonomy, and skill effects",Assess distribution across professions.,,,,,,
+,AIHE-B03,V1.0,2026-09-02,Persistence,Longitudinal effect after routine use and updates,Avoid indefinite extrapolation from a short pilot.,,,,,,
+,AIHE-B03,V1.0,2026-09-02,Financial recognition,"Cashable saving, avoided cost, revenue, or non-cash capacity benefit",Apply a stated recognition rule.,,,,,,

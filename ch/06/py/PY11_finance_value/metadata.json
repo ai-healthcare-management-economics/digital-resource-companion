@@ -1,0 +1,25 @@
+﻿{
+  "resource_id": "AIHE-PY11",
+  "module_number": 11,
+  "title": "ROI, net benefit, and benefit-realization analysis",
+  "resource_type": "py",
+  "primary_chapter": 6,
+  "primary_chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
+  "additional_chapters": [
+    4,
+    6,
+    7
+  ],
+  "related_core_resources": [
+    "AIHE-B03"
+  ],
+  "related_case": "AIHE-CASE06",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Calculates gross and risk-adjusted benefits, total cost, net benefit, ROI, payback period, and the effect of realization probability and attribution assumptions.",
+  "input": "`Benefits` sheet with benefit item, gross annual amount, realization probability, attributable fraction, start/end year; `Costs` sheet with one-time and recurring costs; `Parameters` sheet with horizon and discount rate.",
+  "outputs": "Annual cash-flow table, gross and realized benefit summaries, ROI and payback metrics, cumulative net-benefit chart, and sensitivity-ready output tables.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

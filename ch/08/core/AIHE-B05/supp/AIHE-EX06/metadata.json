@@ -1,0 +1,10 @@
+﻿{
+  "resource_id": "AIHE-EX06",
+  "title": "Model Card and AI Intervention Fact Sheet",
+  "canonical_resource_id": "AIHE-B05",
+  "primary_chapter": 11,
+  "aligned_chapters": "3,9,11,12",
+  "purpose": "Record the exact system, version, intended and prohibited uses, evidence, limitations, human oversight, and monitoring.",
+  "version": "V1.0",
+  "status": "Supplemental specialist resource"
+}

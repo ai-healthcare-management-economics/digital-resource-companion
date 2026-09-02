@@ -1,0 +1,21 @@
+﻿{
+  "resource_id": "AIHE-C05",
+  "title": "Public Transparency and Communication Record",
+  "primary_chapter": 10,
+  "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
+  "aligned_chapters": [
+    3,
+    10,
+    12
+  ],
+  "legacy_aliases": [
+    "AIHE-EX13"
+  ],
+  "purpose": "Define accurate, accessible communication about intended use, limitations, oversight, data, complaints, incidents, and alternatives.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 10: Governance, Accountability, and Institutional Risk",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

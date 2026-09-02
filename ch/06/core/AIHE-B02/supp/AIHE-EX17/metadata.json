@@ -1,0 +1,10 @@
+﻿{
+  "resource_id": "AIHE-EX17",
+  "title": "AI Pricing and Contract Scenario Record",
+  "canonical_resource_id": "AIHE-B02",
+  "primary_chapter": 6,
+  "aligned_chapters": "6,9,12",
+  "purpose": "Model base and variable fees in clinically legible units, cap exposure, price support explicitly, and link renewal to realized value.",
+  "version": "V1.0",
+  "status": "Supplemental specialist resource"
+}

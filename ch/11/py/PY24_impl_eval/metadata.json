@@ -1,0 +1,25 @@
+﻿{
+  "resource_id": "AIHE-PY24",
+  "module_number": 24,
+  "title": "Implementation evaluation with interrupted time series and control charts",
+  "resource_type": "py",
+  "primary_chapter": 11,
+  "primary_chapter_title": "Evidence, Validation, and Real-World Evaluation",
+  "additional_chapters": [
+    4,
+    11
+  ],
+  "related_core_resources": [
+    "AIHE-C01",
+    "AIHE-B05"
+  ],
+  "related_case": "AIHE-CASE11",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Evaluates change after an AI implementation using segmented regression, run charts, control limits, uptake, and balancing measures.",
+  "input": "`TimeSeries` sheet with date, outcome, implementation_flag, uptake, and balancing_measure.",
+  "outputs": "Segmented-regression coefficients, observed and fitted trends, control chart, pre/post summary, uptake chart, and implementation interpretation.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

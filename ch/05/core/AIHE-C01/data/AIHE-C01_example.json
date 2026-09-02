@@ -1,0 +1,90 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-C01",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "2026-09-02",
+    "local_modifications": "",
+    "organization": "Illustrative hospital",
+    "intervention": "Synthetic AI-enabled service",
+    "intervention_version": "1.0",
+    "accountable_owner": "Named owner",
+    "decision_authority": "Named committee",
+    "next_review_date": "2026-12-01"
+  },
+  "records": [
+    {
+      "section": "Quality plan",
+      "field_or_question": "Quality domain and signal",
+      "guidance": "Technical, clinical, process, equity, patient experience, resource, or assurance signal.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Surveillance",
+      "field_or_question": "Measure, source, frequency, and method",
+      "guidance": "State whether event-triggered, periodic, or statistical.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Escalation",
+      "field_or_question": "Acceptability threshold or escalation condition",
+      "guidance": "Separate statistical control limits from managerial thresholds.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Ownership",
+      "field_or_question": "Named reviewer and response time",
+      "guidance": "Assign responsibility.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Triage",
+      "field_or_question": "Immediate action, investigation, continued surveillance, or no action with rationale",
+      "guidance": "Record the triage decision.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Investigation",
+      "field_or_question": "Evidence, causal reasoning, and affected versions",
+      "guidance": "Preserve traceability.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Response",
+      "field_or_question": "Corrective, preventive, restrictive, or escalation action",
+      "guidance": "State owner and due date.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Verification",
+      "field_or_question": "Effectiveness measure and observation period",
+      "guidance": "Closure requires evidence.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Learning",
+      "field_or_question": "Procedure, control, training, or portfolio change",
+      "guidance": "Prevent recurrence.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    }
+  ]
+}

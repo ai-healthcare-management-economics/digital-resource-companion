@@ -1,0 +1,82 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-D04",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "2026-09-02",
+    "local_modifications": "",
+    "organization": "Illustrative hospital",
+    "intervention": "Synthetic AI-enabled service",
+    "intervention_version": "1.0",
+    "accountable_owner": "Named owner",
+    "decision_authority": "Named committee",
+    "next_review_date": "2026-12-01"
+  },
+  "records": [
+    {
+      "section": "Incident identity",
+      "field_or_question": "Incident ID, date, system and version, setting, affected function and population",
+      "guidance": "Preserve exact identity.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Event",
+      "field_or_question": "Observed event, harm, near miss, delay, or unexpected consequence",
+      "guidance": "State what occurred.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Detection",
+      "field_or_question": "How the event was detected and initial evidence",
+      "guidance": "Preserve source records.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision reconstruction",
+      "field_or_question": "AI output, source information, human interpretation, decision right, action, and timing",
+      "guidance": "Reconstruct the pathway.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Containment",
+      "field_or_question": "Immediate restrictions, fallback, continuity, and notification",
+      "guidance": "Protect ongoing service.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Investigation",
+      "field_or_question": "Data, model, configuration, workflow, human, vendor, and organizational contributors",
+      "guidance": "Document uncertainty.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "External duty",
+      "field_or_question": "Reportability, regulator, insurer, supplier, or affected-person notification",
+      "guidance": "Verify jurisdictional duties.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Disposition",
+      "field_or_question": "Corrective action, revalidation, reauthorization, closure, and learning",
+      "guidance": "Connect incident evidence to the lifecycle decision.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    }
+  ]
+}

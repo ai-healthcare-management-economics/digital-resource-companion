@@ -1,9 +1,0 @@
-﻿Field,Guidance,Institutional response
-Signal or nonconformity,"Describe the indicator, incident, complaint, audit finding, accreditation gap, or threshold breach.",
-Immediate containment,"Record patient, workforce, data, service, and continuity protections, including restriction or pause.",
-Reconstruction,"Preserve data state, model and software version, output, human action, timing, workload, and context.",
-Causal analysis,"Identify confirmed and competing technical, clinical, workflow, organizational, and governance causes.",
-Corrective action,"Define action, responsible owner, due date, revalidation, communication, and contract or vendor response.",
-Preventive action,Identify controls intended to prevent recurrence in this and related systems.,
-Effectiveness check,"Define evidence, observation period, threshold, independent review, and residual uncertainty.",
-Closure authority,"Record decision, date, dissent, residual risk, and next review.",

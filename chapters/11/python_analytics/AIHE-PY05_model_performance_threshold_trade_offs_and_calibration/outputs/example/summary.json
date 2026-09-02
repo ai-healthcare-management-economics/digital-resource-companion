@@ -1,8 +1,0 @@
-{
-  "rows_used": 420,
-  "auc": 0.9918046380496974,
-  "brier_score": 0.06979954204761904,
-  "calibration_intercept": 0.13241714614927,
-  "calibration_slope": 5.330263950052963,
-  "illustrative_threshold": 0.45
-}

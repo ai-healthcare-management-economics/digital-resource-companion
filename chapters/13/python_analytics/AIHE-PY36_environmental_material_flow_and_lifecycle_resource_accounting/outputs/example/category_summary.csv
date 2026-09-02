@@ -1,5 +1,0 @@
-category,pv_total_cost,lifecycle_energy_kwh,lifecycle_water_l,lifecycle_carbon_kg
-Cloud service,274782.431231672,140000,2500,16800.0
-Compute,180509.1106289739,290000,24000,77200.0
-End-user hardware,140874.644990368,64500,9500,23350.0
-Networking,53825.70708043997,63000,2400,18000.0

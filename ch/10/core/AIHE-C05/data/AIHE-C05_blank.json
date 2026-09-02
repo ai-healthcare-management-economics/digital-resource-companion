@@ -1,0 +1,74 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-C05",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Communication",
+      "field_or_question": "Purpose, audience, timing, and channel",
+      "guidance": "Tailor communication to the decision context.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Content",
+      "field_or_question": "What the system does, intended use, benefits, risks, and alternatives",
+      "guidance": "Use plain language where required.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Evidence",
+      "field_or_question": "Evidence strength, uncertainty, and material limitations",
+      "guidance": "Avoid promotional claims.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Rights",
+      "field_or_question": "Human review, contest, complaint, opt-out, or alternative route",
+      "guidance": "State what is available.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Accessibility",
+      "field_or_question": "Language, disability, literacy, and digital-access requirements",
+      "guidance": "Test effective access.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Incident and change",
+      "field_or_question": "How material changes, incidents, restrictions, and withdrawal will be communicated",
+      "guidance": "Assign responsibility.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Approval",
+      "field_or_question": "Accountable owner, review, pub date, and next update",
+      "guidance": "Keep communications current.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

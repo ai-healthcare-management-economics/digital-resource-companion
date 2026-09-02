@@ -1,0 +1,50 @@
+﻿[
+  {
+    "step": 1,
+    "stage": "Confirm strategic and service requirements",
+    "purpose": "Link the proposed use to a documented priority and a realistic operating model.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Confirm strategic and service requirements",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 2,
+    "stage": "Inventory infrastructure and data assets",
+    "purpose": "Document source systems, interfaces, identity, access, compute, storage, provenance, and support.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Inventory infrastructure and data assets",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 3,
+    "stage": "Assess interoperability and data fitness",
+    "purpose": "Evaluate syntactic, semantic, organizational, and temporal interoperability and use-case-specific data quality.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Assess interoperability and data fitness",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 4,
+    "stage": "Assess resilience, security, and technical debt",
+    "purpose": "Review availability, logging, fallback, recovery, maintainability, and cumulative integration burden.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Assess resilience, security, and technical debt",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 5,
+    "stage": "Identify readiness gaps and owners",
+    "purpose": "Classify critical deficiencies, assign remediation, resources, and completion evidence.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Identify readiness gaps and owners",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 6,
+    "stage": "Authorize readiness or restrict ambition",
+    "purpose": "Proceed, remediate, use silent validation, limit scope, or select a non-AI alternative.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Authorize readiness or restrict ambition",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  }
+]

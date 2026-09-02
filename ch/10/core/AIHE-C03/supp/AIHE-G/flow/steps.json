@@ -1,0 +1,42 @@
+﻿[
+  {
+    "step": 1,
+    "stage": "Define the institutional-risk context",
+    "purpose": "Identify rights, affected groups, consequence, and mandatory obligations relevant to Sample Health-System AI Governance Charter.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Define the institutional-risk context",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 2,
+    "stage": "Assess accountability, ethics, equity, privacy, and security",
+    "purpose": "Document evidence, threats, burdens, controls, and residual uncertainty.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Assess accountability, ethics, equity, privacy, and security",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 3,
+    "stage": "Design safeguards and human oversight",
+    "purpose": "Specify decision rights, access, review, escalation, fallback, communication, and monitoring.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Design safeguards and human oversight",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 4,
+    "stage": "Conduct multidisciplinary assurance",
+    "purpose": "Review legal, ethical, clinical, quality, data, cybersecurity, economic, and public-value findings.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Conduct multidisciplinary assurance",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 5,
+    "stage": "Decide and monitor",
+    "purpose": "Approve, condition, restrict, defer, redesign, or reject; assign review triggers and owners.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Decide and monitor",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  }
+]

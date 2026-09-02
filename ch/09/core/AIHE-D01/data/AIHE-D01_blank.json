@@ -1,0 +1,90 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-D01",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Supplier identity",
+      "field_or_question": "Supplier, exact product, version, intended use, and deployment configuration",
+      "guidance": "Claims must match the deployed system.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Claim register",
+      "field_or_question": "Clinical, technical, economic, workflow, equity, security, and sustainability claim",
+      "guidance": "Treat each claim as a verifiable proposition.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Evidence",
+      "field_or_question": "Evidence supplied, applicability, limitations, and independent verification",
+      "guidance": "Record gaps and conditions.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Dependencies",
+      "field_or_question": "Foundation model, cloud, data, library, device, and subcontractor dependencies",
+      "guidance": "Require disclosure of upstream change.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Rights",
+      "field_or_question": "Data access, performance data, audit, testing, pub, and learning rights",
+      "guidance": "Ensure continuing assurance.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Obligations",
+      "field_or_question": "Disclosure, notification, remediation, support, and reporting obligations",
+      "guidance": "Assign frequency and owner.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Commercial terms",
+      "field_or_question": "Pricing units, volume exposure, escalation, service levels, remedies, and risk sharing",
+      "guidance": "Link to lifecycle cost.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Change control",
+      "field_or_question": "Material-change notification and revalidation duties",
+      "guidance": "Preserve version identity.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Renewal and exit",
+      "field_or_question": "Renewal evidence, portability, continuity, transition assistance, and termination",
+      "guidance": "Treat renewal as a new decision.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

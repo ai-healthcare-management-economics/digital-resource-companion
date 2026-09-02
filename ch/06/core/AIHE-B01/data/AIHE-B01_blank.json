@@ -1,0 +1,90 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-B01",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Specification",
+      "field_or_question": "Decision problem, population, setting, and comparator",
+      "guidance": "Define the economic question.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Specification",
+      "field_or_question": "Perspective, budget holder, time horizon, and discounting",
+      "guidance": "Keep economic and financial views distinct.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Intervention",
+      "field_or_question": "Complete intervention and implementation assumptions",
+      "guidance": "Include human and organizational components.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Costs",
+      "field_or_question": "Incremental resource categories and evidence sources",
+      "guidance": "Include lifecycle and exit.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Outcomes",
+      "field_or_question": "Health, service, workforce, equity, and public-value outcomes",
+      "guidance": "State observed and modelled outcomes separately.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Method",
+      "field_or_question": "Economic analysis and modelling approach",
+      "guidance": "Match the method to the question.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Uncertainty",
+      "field_or_question": "Parameter, structural, methodological, implementation, and future-state uncertainty",
+      "guidance": "Identify decision-critical uncertainty.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Distribution",
+      "field_or_question": "Distribution of costs, outcomes, and opportunity costs",
+      "guidance": "Avoid reliance on averages alone.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision rule",
+      "field_or_question": "Threshold, affordability test, safeguards, and review conditions",
+      "guidance": "State how evidence will inform a decision.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

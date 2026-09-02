@@ -1,7 +1,0 @@
-item,response,status,owner,evidence_date,confidence,section,complete,owner_missing,confidence_numeric
-Local validation,Retrospective validation pending,pending,Data science owner,,0.35,Evidence,False,False,0.35
-Subgroup evidence,Older-adult analysis incomplete,pending,Equity owner,,0.4,Evidence,False,False,0.4
-Budget impact,Funding source unresolved,pending,Finance lead,,0.5,Economics,False,False,0.5
-Cybersecurity review,Penetration test planned,pending,Security lead,,0.45,Governance,False,False,0.45
-Benefit realization,Capacity owner not assigned,pending,,,0.3,Implementation,False,True,0.3
-Equity thresholds,Draft only,pending,Equity owner,,0.45,Monitoring,False,False,0.45

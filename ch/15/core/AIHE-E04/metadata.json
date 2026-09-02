@@ -1,0 +1,19 @@
+﻿{
+  "resource_id": "AIHE-E04",
+  "title": "Circularity-Adjusted Evaluation Record",
+  "primary_chapter": 15,
+  "primary_chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
+  "aligned_chapters": [
+    15
+  ],
+  "legacy_aliases": [
+    "AIHE-CE6"
+  ],
+  "purpose": "Extend conventional economic evaluation with environmental, material, residual-value, resilience, equity, rebound, and burden evidence.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 15: Circularity-Adjusted Economic Evaluation and Sustainable Value",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

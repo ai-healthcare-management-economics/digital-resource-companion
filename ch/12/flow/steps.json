@@ -1,0 +1,58 @@
+﻿[
+  {
+    "step": 1,
+    "stage": "Open and maintain the lifecycle dossier",
+    "purpose": "Record the problem, evidence, economics, governance, implementation, monitoring, changes, and decision status.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Open and maintain the lifecycle dossier",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 2,
+    "stage": "Apply stage gates",
+    "purpose": "Require proportionate evidence before procurement, silent validation, pilot, scale, or institutional dependence.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Apply stage gates",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 3,
+    "stage": "Implement through controlled validation",
+    "purpose": "Verify readiness, train users, validate locally, test fallback, and define acceptance criteria.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Implement through controlled validation",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 4,
+    "stage": "Operate algorithmovigilance",
+    "purpose": "Review technical, clinical, workflow, workforce, equity, economic, contractual, and trust indicators at defined intervals.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Operate algorithmovigilance",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 5,
+    "stage": "Investigate incidents and material changes",
+    "purpose": "Preserve data, versions, outputs, human actions, context, causes, corrective action, and revalidation.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Investigate incidents and material changes",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 6,
+    "stage": "Renew, restrict, replace, or de-adopt",
+    "purpose": "Compare current value, safeguards, alternatives, continuity, and exit readiness.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Renew, restrict, replace, or de-adopt",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 7,
+    "stage": "Feed lessons into portfolio governance",
+    "purpose": "Update policy, capability, procurement, training, standards, and strategic priorities.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Feed lessons into portfolio governance",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  }
+]

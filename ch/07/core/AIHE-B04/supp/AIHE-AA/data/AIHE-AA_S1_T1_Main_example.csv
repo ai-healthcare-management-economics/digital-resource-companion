@@ -1,0 +1,11 @@
+﻿Item,AI pathway,Comparator,Difference
+Cost per patient,1450,1200,250
+Outcome per patient,0.770,0.740,0.030
+QALYs or effect measure,0.770 QALYs,0.740 QALYs,0.030 QALYs
+Incremental cost,250,0,250
+Incremental effect,0.030,0,0.030
+ICER or net benefit,"EUR 8,333/QALY",Comparator,"EUR 8,333/QALY"
+Eligible population,1000,1000,0
+Adoption rate,60%,0%,60 percentage points
+Annual budget impact,"EUR 190,000 in Year 1",EUR 0,"EUR 190,000"
+Sensitivity/scn result,"ICER rises to EUR 16,667/QALY if effect falls to 0.015 QALY.",Usual care.,"Decision remains favorable below EUR 20,000/QALY in base case."

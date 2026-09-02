@@ -1,0 +1,32 @@
+﻿{
+  "id": "AIHE-CASE04",
+  "chapter": 4,
+  "title": "Ambient Documentation Assistant: Productivity and Workforce Redesign",
+  "decision_question": "How much of the claimed notes time saving becomes usable capacity after review, correction, adoption, and implementation costs?",
+  "objectives": [
+    "Decompose gross productivity claims into net and realized value.",
+    "Separate capacity release from cashable savings.",
+    "Measure correction burden and quality alongside time.",
+    "Design a controlled pilot with role and training requirements."
+  ],
+  "related_resources": [
+    "AIHE-B03",
+    "AIHE-Z",
+    "AIHE-EX07",
+    "AIHE-R",
+    "AIHE-EX10"
+  ],
+  "demo_type": "productivity",
+  "chapter_title": "Productivity, Work Redesign, and Implementation",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "related_python_modules": [
+    "AIHE-PY22",
+    "AIHE-PY23",
+    "AIHE-PY28"
+  ],
+  "data_classification": "synthetic"
+}

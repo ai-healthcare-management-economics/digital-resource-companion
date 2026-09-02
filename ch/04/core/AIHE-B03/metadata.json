@@ -1,0 +1,23 @@
+﻿{
+  "resource_id": "AIHE-B03",
+  "title": "Benefit Realization and Capacity Conversion",
+  "primary_chapter": 4,
+  "primary_chapter_title": "Productivity, Work Redesign, and Implementation",
+  "aligned_chapters": [
+    4,
+    6,
+    7,
+    12
+  ],
+  "legacy_aliases": [
+    "AIHE-Z",
+    "AIHE-EX07"
+  ],
+  "purpose": "Translate claimed benefits into measurable mechanisms, owners, baselines, conversion conditions, and realized results.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 4: Productivity, Work Redesign, and Implementation",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

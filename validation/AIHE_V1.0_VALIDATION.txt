@@ -1,0 +1,53 @@
+﻿AIHE Digital Resource Companion V1.0 - Release Validation
+Release date: 2026-09-02
+Status: PASS
+Failures: 0
+
+AIHE_Canon_V1.0
+  files: 3658
+  bytes: 55597445
+  json_files: 552
+  json_failures: 0
+  csv_files: 446
+  csv_failures: 0
+  python_files: 222
+  python_failures: 0
+  packaged_files: 729
+  package_failures: 0
+  pdf_files: 6
+  pdf_failures: 0
+  html_files: 196
+  local_links_checked: 2522
+  broken_links: 0
+  principal_figures: 31
+  principal_tables: 46
+  worked_cases: 21
+  python_modules: 40
+  core_resources: 24
+  required_missing: []
+  stale_active_text_references: 0
+
+AIHE_Digital_Companion_Reader_Practitioner_V1.0
+  files: 841
+  bytes: 16451248
+  json_files: 107
+  json_failures: 0
+  csv_files: 50
+  csv_failures: 0
+  python_files: 12
+  python_failures: 0
+  packaged_files: 154
+  package_failures: 0
+  pdf_files: 6
+  pdf_failures: 0
+  html_files: 196
+  local_links_checked: 2522
+  broken_links: 0
+  principal_figures: 31
+  principal_tables: 46
+  worked_cases: 21
+  python_modules: 40
+  core_resources: 24
+  required_missing: []
+  stale_active_text_references: 0
+

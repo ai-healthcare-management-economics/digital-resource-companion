@@ -1,0 +1,24 @@
+﻿{
+  "resource_id": "AIHE-D05",
+  "title": "Material Change, Reauthorization, Renewal, Replacement, and Retirement Record",
+  "primary_chapter": 12,
+  "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
+  "aligned_chapters": [
+    9,
+    11,
+    12,
+    14
+  ],
+  "legacy_aliases": [
+    "AIHE-EX11",
+    "AIHE-T",
+    "AIHE-J"
+  ],
+  "purpose": "Assess material changes and periodic renewal across system, data, workflow, vendor, price, law, evidence, alternatives, and exit.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 12: Decision Architecture and Lifecycle Governance",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

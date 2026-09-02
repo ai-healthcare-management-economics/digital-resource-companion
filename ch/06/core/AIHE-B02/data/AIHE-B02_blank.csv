@@ -1,0 +1,9 @@
+﻿record_id,resource_id,resource_version,release_date,section,field_or_question,guidance,response_or_evidence,owner,due_or_review_date,evidence_cut_off,local_modifications,intervention_version
+,AIHE-B02,V1.0,2026-09-02,Cost and pricing,Cost item or pricing unit,Use a clinically and managerially legible unit.,,,,,,
+,AIHE-B02,V1.0,2026-09-02,Economic view,Incremental economic resource cost,Include opportunity cost even without a cash payment.,,,,,,
+,AIHE-B02,V1.0,2026-09-02,Cash view,Cash expenditure and payment timing,Identify the paying budget holder.,,,,,,
+,AIHE-B02,V1.0,2026-09-02,Accounting view,Accounting expense or capitalization treatment,Record the applicable policy assumption.,,,,,,
+,AIHE-B02,V1.0,2026-09-02,Exposure,"Fixed, variable, step, volume, escalation, and minimum-commitment exposure",Model plausible use scenarios.,,,,,,
+,AIHE-B02,V1.0,2026-09-02,Ownership,Responsible cost owner and evidence source,Assign accountability.,,,,,,
+,AIHE-B02,V1.0,2026-09-02,Residual value,Realizable residual value and recovery cost,Avoid nominal values that cannot be obtained.,,,,,,
+,AIHE-B02,V1.0,2026-09-02,Lifecycle decision,"Renewal, renegotiation, replacement, and exit assumptions",Preserve flexibility.,,,,,,

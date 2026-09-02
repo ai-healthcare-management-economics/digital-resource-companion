@@ -1,0 +1,90 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-D02",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Decision identity",
+      "field_or_question": "Intervention, product, model, configuration, data, workflow, and version",
+      "guidance": "A decision must have a stable identity.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Current state",
+      "field_or_question": "Exploratory, retrospective evaluation, silent evaluation, pilot, conditionally authorized, authorized, restricted, suspended, replacement in progress, retired",
+      "guidance": "Authorization is a current state.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "State scope",
+      "field_or_question": "Population, setting, users, functions, exclusions, and effective date",
+      "guidance": "Define the boundary of authorization.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Conditions",
+      "field_or_question": "Mandatory safeguards, use conditions, and unresolved uncertainty",
+      "guidance": "Do not collapse specialist evidence into one score.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Evidence status",
+      "field_or_question": "Authoritative evidence records and evidence cut-off",
+      "guidance": "Link the state to current evidence.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Triggers",
+      "field_or_question": "Open monitoring, incident, change, contract, cost, equity, or support triggers",
+      "guidance": "State default response.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Authority",
+      "field_or_question": "Decision authority, dissent, conflicts, and decision date",
+      "guidance": "Preserve provenance.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Review",
+      "field_or_question": "Next review date and evidence required",
+      "guidance": "Keep the judgement current.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "History",
+      "field_or_question": "Previous state, transition date, reason, evidence, and authority",
+      "guidance": "Maintain a versioned decision history.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

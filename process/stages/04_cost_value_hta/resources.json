@@ -1,0 +1,66 @@
+﻿[
+  {
+    "resource_id": "AIHE-B01",
+    "title": "Economic Evaluation Specification",
+    "role": "primary",
+    "primary_chapter": "6",
+    "tier": "Core",
+    "folder": "ch/06/core/AIHE-B01"
+  },
+  {
+    "resource_id": "AIHE-B02",
+    "title": "Lifecycle Cost and Pricing Record",
+    "role": "primary",
+    "primary_chapter": "6",
+    "tier": "Core",
+    "folder": "ch/06/core/AIHE-B02"
+  },
+  {
+    "resource_id": "AIHE-B03",
+    "title": "Benefit Realization and Capacity Conversion",
+    "role": "primary",
+    "primary_chapter": "4",
+    "tier": "Core",
+    "folder": "ch/04/core/AIHE-B03"
+  },
+  {
+    "resource_id": "AIHE-B04",
+    "title": "Cost-Effectiveness, Budget Impact, and HTA Record",
+    "role": "primary",
+    "primary_chapter": "7",
+    "tier": "Core",
+    "folder": "ch/07/core/AIHE-B04"
+  },
+  {
+    "resource_id": "AIHE-CASE06",
+    "title": "Five-Year Lifecycle Cost, Pricing, ROI, and Benefit Realization",
+    "role": "supporting",
+    "primary_chapter": "6",
+    "tier": "Worked case",
+    "folder": "cases/CASE06_cost_roi"
+  },
+  {
+    "resource_id": "AIHE-CASE07",
+    "title": "Remote Monitoring: Cost-Effectiveness, Budget Impact, and HTA",
+    "role": "supporting",
+    "primary_chapter": "7",
+    "tier": "Worked case",
+    "folder": "cases/CASE07_remote_monitor"
+  },
+  {
+    "resource_id": "AIHE-B",
+    "title": "Economic Evaluation Specification",
+    "role": "supporting",
+    "primary_chapter": "6",
+    "tier": "Supplemental specialist tool",
+    "folder": "ch/06/core/AIHE-B01/supp/AIHE-B"
+  },
+  {
+    "resource_id": "AIHE-M",
+    "title": "TCAIO Costing Workbook",
+    "role": "supporting",
+    "primary_chapter": "6",
+    "tier": "Supplemental specialist tool",
+    "folder": "ch/06/core/AIHE-B02/supp/AIHE-M"
+  }
+]

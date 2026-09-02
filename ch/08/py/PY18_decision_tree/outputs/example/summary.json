@@ -1,0 +1,8 @@
+﻿{
+  "comparator": "Usual care",
+  "ai_strategy": "AI pathway",
+  "incremental_cost": -65.59999999999991,
+  "incremental_effect": 0.019500000000000073,
+  "icer": -3364.1025641025467,
+  "incremental_nmb": 1040.6000000000058
+}

@@ -1,7 +1,0 @@
-{
-  "n_simulations": 6000,
-  "seed": 2026,
-  "probability_cost_effective_at_mid_threshold": 0.9811666666666666,
-  "mid_threshold": 50000.0,
-  "evpi_at_mid_threshold": 4.431502805145556
-}

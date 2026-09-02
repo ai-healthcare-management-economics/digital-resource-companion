@@ -1,0 +1,25 @@
+﻿{
+  "resource_id": "AIHE-D01",
+  "title": "Vendor Evidence and Contract Requirements",
+  "primary_chapter": 9,
+  "primary_chapter_title": "Problem-First Procurement and Vendor Governance",
+  "aligned_chapters": [
+    6,
+    9,
+    10,
+    12,
+    14
+  ],
+  "legacy_aliases": [
+    "AIHE-D",
+    "AIHE-EX08",
+    "AIHE-EX09"
+  ],
+  "purpose": "Translate evidence, interoperability, data, security, monitoring, update, service, remedy, portability, and exit requirements into contract terms.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 9: Problem-First Procurement and Vendor Governance",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

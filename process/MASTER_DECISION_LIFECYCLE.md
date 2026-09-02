@@ -1,4 +1,4 @@
-# Master Institutional Decision Lifecycle
+﻿# Master Institutional Decision Lifecycle
 
 This cross-cutting lifecycle connects the revised five-Part, fifteen-chapter book structure to a practical institutional decision sequence. It is a navigation aid rather than a mandatory linear workflow. Later evidence, incidents, material changes, new comparators, or changes in institutional capability can return the organization to an earlier stage.
 

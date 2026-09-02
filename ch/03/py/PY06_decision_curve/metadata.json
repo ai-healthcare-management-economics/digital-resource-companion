@@ -1,0 +1,26 @@
+﻿{
+  "resource_id": "AIHE-PY06",
+  "module_number": 6,
+  "title": "Decision-curve analysis",
+  "resource_type": "py",
+  "primary_chapter": 3,
+  "primary_chapter_title": "Human–AI Decision Systems and Managerial Action",
+  "additional_chapters": [
+    3,
+    7,
+    11
+  ],
+  "related_core_resources": [
+    "AIHE-C04",
+    "AIHE-B05"
+  ],
+  "related_case": "AIHE-CASE03",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Compares prediction-model net benefit with treat-all and treat-none strategies across clinically relevant thresholds.",
+  "input": "`Predictions` sheet with actual outcome and predicted score.",
+  "outputs": "Decision-curve table and figure, plus the threshold range in which the model provides positive incremental net benefit.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

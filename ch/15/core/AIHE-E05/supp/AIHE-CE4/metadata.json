@@ -1,0 +1,10 @@
+﻿{
+  "resource_id": "AIHE-CE4",
+  "title": "Environmental Footprint and Circularity Dashboard",
+  "canonical_resource_id": "AIHE-E05",
+  "primary_chapter": 15,
+  "aligned_chapters": "5,12,13,14,15",
+  "purpose": "Monitor absolute and per-functional-unit energy, water, carbon, materials, utilization, repair, life extension, recovery, rebound, resilience, and distributional effects.",
+  "version": "V1.0",
+  "status": "Supplemental specialist resource"
+}

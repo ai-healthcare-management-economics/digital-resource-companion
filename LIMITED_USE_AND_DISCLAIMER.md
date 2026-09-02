@@ -1,4 +1,4 @@
-# Responsible Use and Disclaimer
+﻿# Responsible Use and Disclaimer
 
 These materials support scholarly use, research, structured documentation, professional review, and institutional deliberation. They are not validated clinical instruments and do not constitute medical, legal, regulatory, procurement, accreditation, cybersecurity, financial, or health technology assessment advice.
 

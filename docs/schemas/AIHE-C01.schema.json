@@ -1,6 +1,6 @@
-{
+﻿{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ai-healthcare-economics.github.io/digital-resource-companion/schemas/AIHE-C01.schema.json",
+  "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-C01.schema.json",
   "title": "AIHE-C01 — AI Quality-Control and Accreditation Evidence Plan",
   "description": "Integrate AI-enabled services into quality control, accreditation evidence, monitoring, thresholds, action, and closure.",
   "type": "object",

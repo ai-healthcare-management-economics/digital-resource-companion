@@ -1,0 +1,33 @@
+﻿{
+  "id": "AIHE-CASE10",
+  "chapter": 10,
+  "title": "Patient-Facing Chatbot Institutional-Risk Review",
+  "decision_question": "Which uses can be permitted when convenience and call reduction coexist with privacy, safety, equity, and communication risks?",
+  "objectives": [
+    "Integrate ethics, equity, privacy, cybersecurity, and communication risk.",
+    "Distinguish inherent from residual risk.",
+    "Define bounded intended and prohibited uses.",
+    "Require human alternatives and incident communication."
+  ],
+  "related_resources": [
+    "AIHE-C03",
+    "AIHE-C",
+    "AIHE-AB",
+    "AIHE-AC",
+    "AIHE-C05",
+    "AIHE-EX13"
+  ],
+  "demo_type": "risk",
+  "chapter_title": "Governance, Accountability, and Institutional Risk",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "synthetic": true,
+  "status": "public",
+  "resource_type": "worked_case",
+  "related_python_modules": [
+    "AIHE-PY07",
+    "AIHE-PY08",
+    "AIHE-PY26"
+  ],
+  "data_classification": "synthetic"
+}

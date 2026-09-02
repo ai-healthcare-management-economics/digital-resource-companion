@@ -1,0 +1,24 @@
+﻿module_id,chapter,action,required_change
+ALL,1–15,METADATA,"Update chapter titles, section links, related-resource IDs, figure/table references, package version, synthetic-data notice and citation fields. Remove hard-coded page numbers."
+AIHE-PY01/PY03/PY33,2,UPDATE,"End analyses with use-case-specific readiness implications; separate remediable defects, pilot uncertainties and deployment-stopping deficiencies."
+AIHE-PY06,3/11,UPDATE,"Align decision-curve defaults and notes with the revised readmission example; report threshold range, comparator strategies and decision utility, not accuracy alone."
+AIHE-PY21/PY34/PY35,3,UPDATE,"Add signal, interpretation and action latency where relevant; require action-owner and capacity constraints in outputs."
+AIHE-PY22/PY23/PY28,4,MAJOR_UPDATE,"Add net labour saving, quality adjustment, fragmentation, work transfer, bottlenecks, capacity usability, capacity destination, work intensity and persistence."
+AIHE-PY02,5,MAJOR_UPDATE,"Expand from descriptive charts to surveillance records that identify signals, escalation, corrective action, effectiveness verification and closure."
+AIHE-PY10,6,MAJOR_UPDATE,"Separate economic cost, cash expenditure and accounting expense; add budget incidence, lifecycle timing, residual value and renewal/exit scenarios."
+AIHE-PY11,6,MAJOR_UPDATE,"Add explicit financial-recognition rules, NPV, ROI, payback, downside exposure and non-cash capacity benefits."
+AIHE-PY12,7,UPDATE,"Report efficiency frontier, dominance, ICER and NMB consistently, with explicit decision threshold and comparator."
+AIHE-PY13,7,UPDATE,Produce annual and cumulative budget impact by responsible budget holder and distinguish cashable offsets from capacity effects.
+AIHE-PY16,7,UPDATE,"Separate subgroup performance, access, outcomes, costs, opportunity costs and mitigation; report distribution without allowing averages to override safeguards."
+AIHE-PY14,8,UPDATE,Make one-way sensitivity and threshold analysis the principal outputs; label values synthetic and connect drivers to decision questions.
+AIHE-PY15,8,MAJOR_UPDATE,"Retain PSA, CEAC and EVPI; add EVPPI when defensible and add EVSI/ENBS or a clearly documented approximate route for staged research decisions."
+AIHE-PY18/PY19/PY20,8,UPDATE,"Add an explicit AI-characteristics specification: threshold, review burden, adoption, delay, drift, update, version, capacity and human response where material."
+AIHE-PY17/PY25,9,MAJOR_UPDATE,"Extend vendor comparison and pricing analyses to continuing disclosure, upstream dependencies, post-award obligations, change control, renewal and exit."
+AIHE-PY07/PY08/PY26,10,UPDATE,"Add residual-risk authority, contestability, assurance independence and reauthorization fields to governance/risk outputs."
+AIHE-PY04/PY05/PY24/PY30/PY31/PY32,11,MAJOR_UPDATE,"Attach each result to an evidentiary claim and estimand; state what the design can establish, unresolved limitations, transportability and material-change re-evaluation triggers."
+AIHE-PY09/PY27,12,MAJOR_UPDATE,"Convert monitoring outputs into trigger evaluations linked to current version, decision state, default response, accountable authority and evidence required for reauthorization."
+AIHE-PY29,12,REPLACE_PRIMARY_OUTPUT,Audit decision provenance and current authorization rather than producing a reassuring aggregate completeness score.
+AIHE-PY36/PY39,13,MAJOR_UPDATE,"Add stocks, flows, loop level, circular leakage, functional unit, resource intensity, rebound, induced demand and spatial distribution."
+AIHE-PY37,14,MAJOR_UPDATE,"Add eligibility gate before EAC, supported service life, obsolescence/dependency scenarios, realizable residual value, availability and closure conditions."
+AIHE-PY38,15,REBUILD,"Rebase on the AI-assisted remote diagnostic pathway; reconcile economic/environmental boundaries; distinguish average/marginal consequences; add double-counting tests, incomplete monetisation, rebound, resilience and burden transfer."
+AIHE-PY40,12,NEW,Add an optional lifecycle decision-state and trigger engine that reads versioned monitoring/change records and produces a transparent recommended transition requiring human authorization. It must not auto-authorize clinical use.

@@ -1,0 +1,23 @@
+﻿{
+  "resource_id": "AIHE-PY31",
+  "module_number": 31,
+  "title": "Difference-in-differences evaluation",
+  "resource_type": "py",
+  "primary_chapter": 11,
+  "primary_chapter_title": "Evidence, Validation, and Real-World Evaluation",
+  "additional_chapters": [
+    11
+  ],
+  "related_core_resources": [
+    "AIHE-B05"
+  ],
+  "related_case": "AIHE-CASE11",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Estimates the effect of AI implementation by comparing change over time in an intervention group with change in a comparison group.",
+  "input": "`Data` sheet with unit_id, time_period, treated_group, post_period, outcome, and optional covariates.",
+  "outputs": "Difference-in-differences estimate, regression table, group-time means, parallel-trends visualization, residual diagnostics, and interpretation.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

@@ -1,0 +1,82 @@
+﻿[
+  {
+    "resource_id": "AIHE-D02",
+    "title": "Lifecycle Decision State, Staged Evidence, and AI-HED Status",
+    "role": "primary",
+    "primary_chapter": "12",
+    "tier": "Core",
+    "folder": "ch/12/core/AIHE-D02"
+  },
+  {
+    "resource_id": "AIHE-D03",
+    "title": "Post-Deployment Monitoring and Algorithmovigilance Cadence",
+    "role": "primary",
+    "primary_chapter": "12",
+    "tier": "Core",
+    "folder": "ch/12/core/AIHE-D03"
+  },
+  {
+    "resource_id": "AIHE-D04",
+    "title": "Incident Classification and Reconstruction",
+    "role": "primary",
+    "primary_chapter": "12",
+    "tier": "Core",
+    "folder": "ch/12/core/AIHE-D04"
+  },
+  {
+    "resource_id": "AIHE-D05",
+    "title": "Material Change, Reauthorization, Renewal, Replacement, and Retirement Record",
+    "role": "primary",
+    "primary_chapter": "12",
+    "tier": "Core",
+    "folder": "ch/12/core/AIHE-D05"
+  },
+  {
+    "resource_id": "AIHE-RG03",
+    "title": "Implementation Framework Selection Guide",
+    "role": "primary",
+    "primary_chapter": "4",
+    "tier": "Reference guide",
+    "folder": "ch/04/guides/AIHE-RG03"
+  },
+  {
+    "resource_id": "AIHE-CASE04",
+    "title": "Ambient Documentation Assistant: Productivity and Workforce Redesign",
+    "role": "supporting",
+    "primary_chapter": "4",
+    "tier": "Worked case",
+    "folder": "cases/CASE04_ambient_docs"
+  },
+  {
+    "resource_id": "AIHE-CASE12",
+    "title": "Model Update, Incident Response, and Renewal Decision",
+    "role": "supporting",
+    "primary_chapter": "12",
+    "tier": "Worked case",
+    "folder": "cases/CASE12_update_renew"
+  },
+  {
+    "resource_id": "AIHE-EX10",
+    "title": "Workflow Change and Training Competency Log",
+    "role": "supporting",
+    "primary_chapter": "12",
+    "tier": "Supplemental specialist tool",
+    "folder": "ch/12/core/AIHE-D02/supp/AIHE-EX10"
+  },
+  {
+    "resource_id": "AIHE-EX11",
+    "title": "Material Change and Renewal Review",
+    "role": "supporting",
+    "primary_chapter": "12",
+    "tier": "Supplemental specialist tool",
+    "folder": "ch/12/core/AIHE-D05/supp/AIHE-EX11"
+  },
+  {
+    "resource_id": "AIHE-EX12",
+    "title": "Incident Corrective Action and Reconstruction Log",
+    "role": "supporting",
+    "primary_chapter": "12",
+    "tier": "Supplemental specialist tool",
+    "folder": "ch/12/core/AIHE-D04/supp/AIHE-EX12"
+  }
+]

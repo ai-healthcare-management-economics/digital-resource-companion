@@ -1,0 +1,90 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-A01",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "2026-09-02",
+    "local_modifications": "",
+    "organization": "Illustrative hospital",
+    "intervention": "Synthetic AI-enabled service",
+    "intervention_version": "1.0",
+    "accountable_owner": "Named owner",
+    "decision_authority": "Named committee",
+    "next_review_date": "2026-12-01"
+  },
+  "records": [
+    {
+      "section": "Decision definition",
+      "field_or_question": "Service problem and measurable baseline",
+      "guidance": "State the problem before selecting a product.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision definition",
+      "field_or_question": "Target population, setting, and intended users",
+      "guidance": "Define scope and exclusions.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Comparator",
+      "field_or_question": "Best realistic AI and non-AI alternatives",
+      "guidance": "Avoid an undefined or inefficient status quo.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Complete intervention",
+      "field_or_question": "Data, interfaces, model, thresholds, human review, workflow, capacity, governance, support, and exit",
+      "guidance": "Describe the whole intervention bundle.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Value pathway",
+      "field_or_question": "Mechanisms linking output to decision, action, outcome, resource consequence, and public value",
+      "guidance": "Separate technical potential from realized value.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Economics",
+      "field_or_question": "Lifecycle cost, budget incidence, opportunity cost, and distribution",
+      "guidance": "Identify who pays and who benefits.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Evidence",
+      "field_or_question": "Evidence adequate for intended use and local context",
+      "guidance": "Distinguish model evidence from intervention effects.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Uncertainty and flexibility",
+      "field_or_question": "Decision-critical uncertainty, threshold, option value, and reversible commitment",
+      "guidance": "Specify what can be learned before scale.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision conditions",
+      "field_or_question": "Proceed, redesign, restrict, pilot, defer, replace, or retire criteria",
+      "guidance": "State conditions and stopping rules.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    }
+  ]
+}

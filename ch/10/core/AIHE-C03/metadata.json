@@ -1,0 +1,24 @@
+﻿{
+  "resource_id": "AIHE-C03",
+  "title": "Integrated Institutional-Risk Review",
+  "primary_chapter": 10,
+  "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
+  "aligned_chapters": [
+    10,
+    12
+  ],
+  "legacy_aliases": [
+    "AIHE-C",
+    "AIHE-AB",
+    "AIHE-AC",
+    "AIHE-N",
+    "AIHE-G"
+  ],
+  "purpose": "Review ethics, equity, privacy, cybersecurity, safety, continuity, trust, legal, and economic risks as one institutional system.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 10: Governance, Accountability, and Institutional Risk",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

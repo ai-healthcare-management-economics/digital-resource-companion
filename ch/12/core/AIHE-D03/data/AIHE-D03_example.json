@@ -1,0 +1,66 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-D03",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "2026-09-02",
+    "local_modifications": "",
+    "organization": "Illustrative hospital",
+    "intervention": "Synthetic AI-enabled service",
+    "intervention_version": "1.0",
+    "accountable_owner": "Named owner",
+    "decision_authority": "Named committee",
+    "next_review_date": "2026-12-01"
+  },
+  "records": [
+    {
+      "section": "Monitoring",
+      "field_or_question": "Signal, measure, source, affected population, and system version",
+      "guidance": "Link each signal to the intervention identity.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Cadence",
+      "field_or_question": "Frequency, accumulation window, and review forum",
+      "guidance": "Use risk-appropriate surveillance.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Threshold",
+      "field_or_question": "Acceptability limit or transition trigger",
+      "guidance": "State statistical and decision thresholds separately.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Ownership",
+      "field_or_question": "Reviewer, response time, and escalation authority",
+      "guidance": "Monitoring without authority is incomplete.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Response",
+      "field_or_question": "Continue, investigate, restrict, suspend, revalidate, reauthorize, replace, or retire",
+      "guidance": "State the default response.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Closure",
+      "field_or_question": "Evidence required to resolve the trigger",
+      "guidance": "Link to decision history.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    }
+  ]
+}

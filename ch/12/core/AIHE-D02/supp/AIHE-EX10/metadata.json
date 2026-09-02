@@ -1,0 +1,10 @@
+﻿{
+  "resource_id": "AIHE-EX10",
+  "title": "Workflow Change and Training Competency Log",
+  "canonical_resource_id": "AIHE-D02",
+  "primary_chapter": 3,
+  "aligned_chapters": "3,4,12",
+  "purpose": "Document role, workflow, training, competency, downtime, escalation, refresh, and adoption requirements.",
+  "version": "V1.0",
+  "status": "Supplemental specialist resource"
+}

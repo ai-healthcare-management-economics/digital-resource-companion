@@ -1,0 +1,26 @@
+﻿{
+  "resource_id": "AIHE-PY27",
+  "module_number": 27,
+  "title": "Algorithmovigilance, lifecycle cadence, drift, and incident monitoring",
+  "resource_type": "py",
+  "primary_chapter": 12,
+  "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
+  "additional_chapters": [
+    5,
+    11,
+    12
+  ],
+  "related_core_resources": [
+    "AIHE-D03",
+    "AIHE-D04"
+  ],
+  "related_case": "AIHE-CASE12",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Monitors technical, clinical, workflow, equity, economic, and trust indicators against warning and stop thresholds over time.",
+  "input": "`Monitoring` sheet with date, indicator, domain, value, subgroup, model_version; `Thresholds` sheet with indicator, direction, warning threshold, stop threshold, owner, and response.",
+  "outputs": "Indicator status by date, warning/stop events, version comparison, subgroup signals, trend charts, and response register.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

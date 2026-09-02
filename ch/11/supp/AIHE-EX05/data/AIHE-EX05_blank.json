@@ -1,0 +1,78 @@
+﻿{
+  "resource_id": "AIHE-EX05",
+  "title": "Local Validation Report Template",
+  "version": "V1.0",
+  "record_type": "blank_template",
+  "status": "public",
+  "primary_chapter": 11,
+  "primary_chapter_title": "Evidence, Validation, and Real-World Evaluation",
+  "purpose": "Document intended use, local cohort, exact system version, discrimination, calibration, threshold-specific performance, subgroup findings, workflow, clinical utility, uncertainty, and the resulting local decision.",
+  "source_file": "ch/11/supp/AIHE-EX05/data/AIHE-EX05_blank.csv",
+  "synthetic": false,
+  "notes": "",
+  "columns": [
+    "Section",
+    "Field",
+    "Response",
+    "Owner",
+    "Status"
+  ],
+  "records": [
+    {
+      "Section": "Protocol",
+      "Field": "Validation question",
+      "Response": "",
+      "Owner": "",
+      "Status": "Not started"
+    },
+    {
+      "Section": "Data",
+      "Field": "Cohort definition",
+      "Response": "",
+      "Owner": "",
+      "Status": "Not started"
+    },
+    {
+      "Section": "Model",
+      "Field": "Version tested",
+      "Response": "",
+      "Owner": "",
+      "Status": "Not started"
+    },
+    {
+      "Section": "Performance",
+      "Field": "Discrimination",
+      "Response": "",
+      "Owner": "",
+      "Status": "Not started"
+    },
+    {
+      "Section": "Performance",
+      "Field": "Calibration",
+      "Response": "",
+      "Owner": "",
+      "Status": "Not started"
+    },
+    {
+      "Section": "Subgroups",
+      "Field": "Subgroup findings",
+      "Response": "",
+      "Owner": "",
+      "Status": "Not started"
+    },
+    {
+      "Section": "Limitations",
+      "Field": "Main limitation",
+      "Response": "",
+      "Owner": "",
+      "Status": "Not started"
+    },
+    {
+      "Section": "Decision",
+      "Field": "Validation recommendation",
+      "Response": "",
+      "Owner": "",
+      "Status": "Not started"
+    }
+  ]
+}

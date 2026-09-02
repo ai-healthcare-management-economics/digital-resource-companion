@@ -1,0 +1,24 @@
+﻿{
+  "resource_id": "AIHE-EX05",
+  "canonical_resource_id": "AIHE-EX05",
+  "title": "Local Validation Report Template",
+  "primary_chapter": 11,
+  "primary_chapter_title": "Evidence, Validation, and Real-World Evaluation",
+  "aligned_chapters": [
+    3,
+    8,
+    11,
+    12
+  ],
+  "related_resources": [
+    "AIHE-B05",
+    "AIHE-RG02",
+    "AIHE-RG06",
+    "AIHE-CASE11",
+    "AIHE-V"
+  ],
+  "purpose": "Document intended use, local cohort, exact system version, discrimination, calibration, threshold-specific performance, subgroup findings, workflow, clinical utility, uncertainty, and the resulting local decision.",
+  "version": "V1.0",
+  "status": "Current supp specialist resource",
+  "release_date": "2026-08-10"
+}

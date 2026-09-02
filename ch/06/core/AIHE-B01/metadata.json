@@ -1,0 +1,21 @@
+﻿{
+  "resource_id": "AIHE-B01",
+  "title": "Economic Evaluation Specification",
+  "primary_chapter": 6,
+  "primary_chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
+  "aligned_chapters": [
+    6,
+    7,
+    8
+  ],
+  "legacy_aliases": [
+    "AIHE-B"
+  ],
+  "purpose": "Define the economic decision, perspective, comparator, horizon, outcomes, costs, methods, uncertainty, safeguards, and validation.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 6: Lifecycle Cost, Pricing, and Benefit Realization",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

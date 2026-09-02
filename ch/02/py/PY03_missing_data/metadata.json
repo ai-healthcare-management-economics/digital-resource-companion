@@ -1,0 +1,25 @@
+﻿{
+  "resource_id": "AIHE-PY03",
+  "module_number": 3,
+  "title": "Missing-data sensitivity analysis",
+  "resource_type": "py",
+  "primary_chapter": 2,
+  "primary_chapter_title": "Institutional Readiness and Digital Foundations",
+  "additional_chapters": [
+    2,
+    11
+  ],
+  "related_core_resources": [
+    "AIHE-A04",
+    "AIHE-B05"
+  ],
+  "related_case": "AIHE-CASE02",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Shows how complete-case analysis, simple imputation, and best/worst-case assumptions can change estimated outcomes and costs.",
+  "input": "`Data` sheet with outcome, age, risk score, and cost; some cells may be blank.",
+  "outputs": "Missingness profile, scn table, sensitivity chart, and summary of the plausible estimate range.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

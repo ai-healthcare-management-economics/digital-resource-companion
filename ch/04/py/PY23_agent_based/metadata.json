@@ -1,0 +1,34 @@
+﻿{
+  "resource_id": "AIHE-PY23",
+  "module_number": 23,
+  "title": "Agent-based simulation of clinician adoption",
+  "resource_type": "py",
+  "primary_chapter": 4,
+  "primary_chapter_title": "Productivity, Work Redesign, and Implementation",
+  "additional_chapters": [
+    4,
+    8,
+    12
+  ],
+  "related_core_resources": [
+    "AIHE-D02",
+    "AIHE-RG03"
+  ],
+  "related_case": "AIHE-CASE04",
+  "version": "V1.0",
+  "release_date": "2026-08-10",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Models heterogeneous clinicians whose adoption changes through training, peer influence, perceived usefulness, workload, and adverse incidents.",
+  "input": "`Agents` sheet with agent_id, role, initial adoption, trust, digital skill, peer influence, and workload; `Parameters` sheet with periods and effect strengths.",
+  "outputs": "Agent-level adoption history, role summaries, adoption trajectory, heterogeneity distribution, and scn interpretation.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review.",
+  "primary_related_case": "AIHE-CASE04",
+  "additional_related_cases": [
+    "AIHE-CASE03B"
+  ],
+  "related_cases": [
+    "AIHE-CASE04",
+    "AIHE-CASE03B"
+  ]
+}

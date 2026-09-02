@@ -1,0 +1,50 @@
+﻿[
+  {
+    "step": 1,
+    "stage": "Define the decision and user",
+    "purpose": "Specify the output, user, decision window, consequence, and available action.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Define the decision and user",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 2,
+    "stage": "Set thresholds and abstention zones",
+    "purpose": "Choose action, review, and deferral thresholds in relation to uncertainty and response capacity.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Set thresholds and abstention zones",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 3,
+    "stage": "Design meaningful human oversight",
+    "purpose": "Define review duties, context, authority, override, escalation, documentation, and fallback.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Design meaningful human oversight",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 4,
+    "stage": "Embed the output in a signal-to-action pathway",
+    "purpose": "Connect dashboard or model output to feasible action and accountable ownership.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Embed the output in a signal-to-action pathway",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 5,
+    "stage": "Measure human–AI and managerial performance",
+    "purpose": "Assess uptake, overrides, delay, decision quality, outcomes, workload, and balancing harms.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Measure human–AI and managerial performance",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 6,
+    "stage": "Feed results into learning and governance",
+    "purpose": "Adjust thresholds, workflow, training, communication, or use restrictions.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Feed results into learning and governance",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  }
+]

@@ -1,0 +1,90 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-B05",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Model specification",
+      "field_or_question": "Decision problem, conceptual model, structure, and rationale",
+      "guidance": "Select structure from the dominant features of the decision.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "AI representation",
+      "field_or_question": "Thresholds, human response, adoption, capacity, error consequences, update, and drift",
+      "guidance": "Represent material AI characteristics explicitly.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Uncertainty",
+      "field_or_question": "Parameter, structural, methodological, implementation, and future-state uncertainty",
+      "guidance": "Classify before analysis.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Deterministic analysis",
+      "field_or_question": "One-way sensitivity, scenarios, and threshold analysis",
+      "guidance": "Identify drivers and decision boundaries.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Probabilistic analysis",
+      "field_or_question": "Distributions, correlations, simulation size, CE plane, CEAC, and EVPI",
+      "guidance": "Document reproducibility.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Partial information value",
+      "field_or_question": "EVPPI where the model supports it",
+      "guidance": "Identify priority parameter groups.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Research design",
+      "field_or_question": "EVSI, research cost, implementation delay, and ENBS",
+      "guidance": "Link information value to a feasible study.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Recommendation",
+      "field_or_question": "Proceed, collect evidence, redesign, defer, or reject",
+      "guidance": "State how uncertainty changes the decision.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Credibility",
+      "field_or_question": "Verification, calibration, validation, transparency, and version control",
+      "guidance": "Preserve model provenance.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

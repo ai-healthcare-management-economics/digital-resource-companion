@@ -1,9 +1,0 @@
-# Related resources
-
-- AIHE-D02
-- AIHE-D03
-- AIHE-D04
-- AIHE-D05
-- AIHE-S
-- AIHE-EX11
-- AIHE-EX12

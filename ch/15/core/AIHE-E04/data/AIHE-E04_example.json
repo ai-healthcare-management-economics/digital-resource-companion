@@ -1,0 +1,114 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-E04",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "2026-09-02",
+    "local_modifications": "",
+    "organization": "Illustrative hospital",
+    "intervention": "Synthetic AI-enabled service",
+    "intervention_version": "1.0",
+    "accountable_owner": "Named owner",
+    "decision_authority": "Named committee",
+    "next_review_date": "2026-12-01"
+  },
+  "records": [
+    {
+      "section": "Decision scope",
+      "field_or_question": "Decision problem, perspective, comparators, population, and time horizon",
+      "guidance": "Define the institutional decision.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Functional equivalence",
+      "field_or_question": "Service function and common functional unit",
+      "guidance": "Compare alternatives delivering the same useful service.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Boundaries",
+      "field_or_question": "Economic and environmental system boundaries and differences",
+      "guidance": "Reconcile before analysis.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Resource consequences",
+      "field_or_question": "Physical effects by lifecycle stage and evidence source",
+      "guidance": "Preserve provenance.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Average and marginal",
+      "field_or_question": "Average footprint and marginal consequence of the decision",
+      "guidance": "Do not substitute one for the other.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Monetisation",
+      "field_or_question": "Effect, physical unit, valuation method, monetised amount, and reason if not monetised",
+      "guidance": "Keep non-monetised consequences visible.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Residual value",
+      "field_or_question": "Realizable economic and material residual value",
+      "guidance": "Avoid double counting with avoided cost.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Resilience",
+      "field_or_question": "Continuity, recovery, redundancy, and supply-chain consequences",
+      "guidance": "Treat as a consequence where decision-relevant.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Double counting",
+      "field_or_question": "Potential overlap, rule applied, and final treatment",
+      "guidance": "Apply explicit accounting rules.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Rebound and burden transfer",
+      "field_or_question": "Induced demand, spatial transfer, intertemporal transfer, and affected groups",
+      "guidance": "Report distribution.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Uncertainty",
+      "field_or_question": "Scenario, parameter, structural, and valuation uncertainty",
+      "guidance": "Test preference reversal.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision",
+      "field_or_question": "Disaggregated results, safeguards, preferred option, and rationale",
+      "guidance": "Do not force complete monetisation.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    }
+  ]
+}

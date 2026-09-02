@@ -1,6 +1,0 @@
-{
-  "holdout_mae": 7.623164251046745,
-  "holdout_rmse": 9.949741498979275,
-  "forecast_horizon": 12,
-  "forecast_total": 4091.3221002098235
-}

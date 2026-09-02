@@ -1,0 +1,90 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-E01",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Resource system",
+      "field_or_question": "Service function, functional unit, and system boundary",
+      "guidance": "Anchor resource accounting to useful output.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Stocks and flows",
+      "field_or_question": "Asset or material stock, inflow, use, outflow, and destination",
+      "guidance": "Use physical quantities where possible.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Value-retention pathway",
+      "field_or_question": "Avoid, share/intensify, maintain, repair, reuse, refurbish, remanufacture, repurpose, recycle, recover, dispose",
+      "guidance": "Classify inner and outer loops.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Circular leakage",
+      "field_or_question": "Value or material lost between intended and realized pathway",
+      "guidance": "Identify causes and controls.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Resource intensity",
+      "field_or_question": "Energy, water, material, hardware, transport, or service resource per functional unit",
+      "guidance": "Distinguish average and marginal values.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "AI bidirectional effect",
+      "field_or_question": "AI-enabled reduction and AI-created resource demand",
+      "guidance": "Report both directions.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Rebound",
+      "field_or_question": "Volume growth, induced demand, or behavioural response",
+      "guidance": "Test total as well as per-unit effects.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Distribution",
+      "field_or_question": "Spatial burden, supply-chain burden, labour, and affected communities",
+      "guidance": "Avoid hidden burden shifting.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision",
+      "field_or_question": "Preferred value-retention option, safeguards, owner, and monitoring",
+      "guidance": "Prioritize safe and supportable value retention.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

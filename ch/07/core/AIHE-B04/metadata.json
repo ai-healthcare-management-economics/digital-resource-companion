@@ -1,0 +1,23 @@
+﻿{
+  "resource_id": "AIHE-B04",
+  "title": "Cost-Effectiveness, Budget Impact, and HTA Record",
+  "primary_chapter": 7,
+  "primary_chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
+  "aligned_chapters": [
+    7,
+    8,
+    9,
+    11
+  ],
+  "legacy_aliases": [
+    "AIHE-AA",
+    "AIHE-EX18"
+  ],
+  "purpose": "Summarize cost-effectiveness, affordability, distribution, HTA, reimbursement, adoption conditions, uncertainty, and recommendation.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 7: Economic Evaluation, Affordability, and Health Technology Assessment",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

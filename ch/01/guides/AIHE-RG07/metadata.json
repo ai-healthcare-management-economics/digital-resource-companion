@@ -1,0 +1,11 @@
+﻿{
+  "resource_id": "AIHE-RG07",
+  "title": "Common AI Adoption Failures and Corrective Actions",
+  "primary_chapter": 1,
+  "primary_chapter_title": "AI as a Health-System Intervention",
+  "aligned_chapters": "1-12",
+  "purpose": "Identify recurring technology-led, economic, workflow, evidence, governance, procurement, and lifecycle failures and record preventive controls.",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "Current cross-cutting guide"
+}

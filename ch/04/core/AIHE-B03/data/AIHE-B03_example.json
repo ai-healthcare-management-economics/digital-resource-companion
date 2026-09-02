@@ -1,0 +1,98 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-B03",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "2026-09-02",
+    "local_modifications": "",
+    "organization": "Illustrative hospital",
+    "intervention": "Synthetic AI-enabled service",
+    "intervention_version": "1.0",
+    "accountable_owner": "Named owner",
+    "decision_authority": "Named committee",
+    "next_review_date": "2026-12-01"
+  },
+  "records": [
+    {
+      "section": "Productivity",
+      "field_or_question": "Task and denominator",
+      "guidance": "Specify per note, case, encounter, session, or paid hour.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Productivity",
+      "field_or_question": "Baseline and AI-assisted gross task time",
+      "guidance": "Use locally observed values where possible.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Productivity",
+      "field_or_question": "Review, correction, coordination, support, and rework",
+      "guidance": "Calculate net labour saving.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Quality",
+      "field_or_question": "Quality, completeness, safety, and downstream rework adjustment",
+      "guidance": "Do not equate speed with productivity.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Capacity",
+      "field_or_question": "Fragmentation, regularity, and schedulability of released time",
+      "guidance": "Determine usable capacity.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Service system",
+      "field_or_question": "Binding bottleneck and downstream workload",
+      "guidance": "Assess service-level effects.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Allocation",
+      "field_or_question": "Actual destination of released capacity",
+      "guidance": "Throughput, backlog, patient communication, supervision, quality work, or recovery time.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Workforce",
+      "field_or_question": "Work transfer, work intensity, autonomy, and skill effects",
+      "guidance": "Assess distribution across professions.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Persistence",
+      "field_or_question": "Longitudinal effect after routine use and updates",
+      "guidance": "Avoid indefinite extrapolation from a short pilot.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Financial recognition",
+      "field_or_question": "Cashable saving, avoided cost, revenue, or non-cash capacity benefit",
+      "guidance": "Apply a stated recognition rule.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    }
+  ]
+}

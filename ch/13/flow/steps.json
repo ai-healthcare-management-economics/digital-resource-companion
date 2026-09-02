@@ -1,0 +1,58 @@
+﻿[
+  {
+    "step": 1,
+    "stage": "Define the service need and functional output",
+    "purpose": "Start with the health-system function rather than the asset or technology.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Define the service need and functional output",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 2,
+    "stage": "Prevent or avoid unnecessary demand",
+    "purpose": "Eliminate duplicate, low-value, over-specified, or avoidable acquisition, storage, computation, and activity.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Prevent or avoid unnecessary demand",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 3,
+    "stage": "Reduce and optimize resource intensity",
+    "purpose": "Improve utilization, model efficiency, storage, energy, water, material use, and maintenance.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Reduce and optimize resource intensity",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 4,
+    "stage": "Share and intensify safe use",
+    "purpose": "Evaluate shared infrastructure, service models, capacity, access, resilience, and dependency.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Share and intensify safe use",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 5,
+    "stage": "Maintain, repair, reuse, and refurbish",
+    "purpose": "Preserve safe useful life before replacement, recovery, or disposal.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Maintain, repair, reuse, and refurbish",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 6,
+    "stage": "Recover materials and dispose responsibly",
+    "purpose": "Use verified take-back, chain of custody, recovery, secure erasure, and lawful final disposition.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Recover materials and dispose responsibly",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 7,
+    "stage": "Monitor rebound, burden shifting, and equity",
+    "purpose": "Check whether lower unit burden increases total use or transfers burdens across populations or regions.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Monitor rebound, burden shifting, and equity",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  }
+]

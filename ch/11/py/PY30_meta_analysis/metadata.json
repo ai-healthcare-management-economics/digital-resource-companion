@@ -1,0 +1,24 @@
+﻿{
+  "resource_id": "AIHE-PY30",
+  "module_number": 30,
+  "title": "Random-effects meta-analysis and forest plot",
+  "resource_type": "py",
+  "primary_chapter": 11,
+  "primary_chapter_title": "Evidence, Validation, and Real-World Evaluation",
+  "additional_chapters": [
+    11
+  ],
+  "related_core_resources": [
+    "AIHE-B05",
+    "AIHE-RG02"
+  ],
+  "related_case": "AIHE-CASE11",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Pools study-level effects using inverse-variance fixed and DerSimonian-Laird random-effects methods, quantifies heterogeneity, and creates forest and funnel plots.",
+  "input": "`Studies` sheet with study_id, author_year, effect_estimate, standard_error, outcome, and subgroup.",
+  "outputs": "Pooled fixed and random effects, confidence intervals, Q, I-squared, tau-squared, study weights, forest plot, funnel plot, and subgroup summaries.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

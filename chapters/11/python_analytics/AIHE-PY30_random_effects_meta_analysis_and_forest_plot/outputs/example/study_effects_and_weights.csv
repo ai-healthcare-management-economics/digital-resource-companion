@@ -1,7 +1,0 @@
-study_id,author_year,effect_estimate,standard_error,outcome,subgroup,ci_low,ci_high,random_weight
-S01,"Smith et al., 2021",-0.22,0.08,Documentation time,All,-0.3768,-0.0632,0.12385398398542088
-S02,"Jones et al., 2022",-0.15,0.06,Documentation time,All,-0.2676,-0.0324,0.220184860418526
-S03,"Lee et al., 2023",-0.28,0.1,Documentation time,All,-0.47600000000000003,-0.08400000000000002,0.07926654975066935
-S04,"Garcia et al., 2024",-0.12,0.07,Documentation time,All,-0.2572,0.01720000000000002,0.16176846887891705
-S05,"Patel et al., 2025",-0.25,0.09,Documentation time,All,-0.4264,-0.0736,0.09785993796378935
-S06,"Miller et al., 2025",-0.18,0.05,Documentation time,All,-0.278,-0.08199999999999999,0.3170661990026774

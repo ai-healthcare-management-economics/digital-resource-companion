@@ -1,0 +1,25 @@
+﻿{
+  "resource_id": "AIHE-PY25",
+  "module_number": 25,
+  "title": "Weighted procurement scorecard with mandatory safeguards",
+  "resource_type": "py",
+  "primary_chapter": 9,
+  "primary_chapter_title": "Problem-First Procurement and Vendor Governance",
+  "additional_chapters": [
+    9,
+    12,
+    14
+  ],
+  "related_core_resources": [
+    "AIHE-D01"
+  ],
+  "related_case": "AIHE-CASE09",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Ranks candidate AI products using weighted evidence domains while enforcing non-compensatory safety, privacy, equity, cybersecurity, audit, and exit safeguards.",
+  "input": "`Scores` sheet with vendor, domain, score, weight, evidence confidence, safeguard_pass, and comment; `Parameters` sheet with minimum overall score and minimum domain score.",
+  "outputs": "Weighted and confidence-adjusted scores, failed safeguards, ranked vendors, radar-style profile, and proceed/conditional/stop recommendation.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

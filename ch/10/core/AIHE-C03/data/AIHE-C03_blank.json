@@ -1,0 +1,82 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-C03",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Risk",
+      "field_or_question": "Risk statement, affected groups, and plausible consequence",
+      "guidance": "Cover clinical, privacy, cybersecurity, equity, trust, continuity, legal, and institutional risks.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Evidence",
+      "field_or_question": "Evidence source, uncertainty, and affected versions",
+      "guidance": "Maintain traceability.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Control",
+      "field_or_question": "Preventive, detective, corrective, and continuity controls",
+      "guidance": "Name owners.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Residual risk",
+      "field_or_question": "Residual likelihood, consequence, and uncertainty",
+      "guidance": "Do not average away mandatory safeguards.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Authority",
+      "field_or_question": "Person or body authorized to accept residual risk",
+      "guidance": "State delegation limits.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Assurance",
+      "field_or_question": "Independent challenge, conflict declaration, and dissent",
+      "guidance": "Preserve material disagreement.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Contestability",
+      "field_or_question": "Route for review, complaint, appeal, or human alternative",
+      "guidance": "Make it accessible.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Lifecycle",
+      "field_or_question": "Monitoring, incident, material-change, and reauthorization triggers",
+      "guidance": "Connect risk to action.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿[
+  {
+    "step": 1,
+    "stage": "Define the service output and lifecycle boundary",
+    "purpose": "Clarify the functional unit, service requirement, assets, resources, and constraints relevant to Environmental Footprint and Circularity Dashboard.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Define the service output and lifecycle boundary",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 2,
+    "stage": "Apply the circularity hierarchy",
+    "purpose": "Evaluate avoidance, reduction, sharing, maintenance, repair, reuse, refurbishment, recovery, and disposal.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Apply the circularity hierarchy",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 3,
+    "stage": "Measure economic and environmental effects",
+    "purpose": "Document lifecycle cost, energy, water, carbon, materials, residual value, resilience, equity, and rebound.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Measure economic and environmental effects",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 4,
+    "stage": "Compare options under uncertainty",
+    "purpose": "Use common boundaries, safety requirements, sensitivity, and non-compensatory safeguards.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Compare options under uncertainty",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 5,
+    "stage": "Decide, contract, and monitor",
+    "purpose": "Set procurement, asset-life, take-back, disposition, annual review, and corrective-action requirements.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Decide, contract, and monitor",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  }
+]

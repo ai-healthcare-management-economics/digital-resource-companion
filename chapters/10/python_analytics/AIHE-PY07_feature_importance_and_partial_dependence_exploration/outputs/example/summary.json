@@ -1,6 +1,0 @@
-{
-  "rows_used": 500,
-  "test_auc": 0.7037037037037037,
-  "top_feature": "age",
-  "top_importance": 0.07088065843621401
-}

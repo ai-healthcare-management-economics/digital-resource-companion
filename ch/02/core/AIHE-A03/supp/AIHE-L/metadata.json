@@ -1,0 +1,10 @@
+﻿{
+  "resource_id": "AIHE-L",
+  "title": "Health-System AI Readiness Maturity Assessment",
+  "canonical_resource_id": "AIHE-A03",
+  "primary_chapter": 2,
+  "aligned_chapters": "2,4,12",
+  "purpose": "Rate health-system maturity by domain and identify the weakest critical capability and prerequisites before pilot or scale.",
+  "version": "V1.0",
+  "status": "Supplemental specialist resource"
+}

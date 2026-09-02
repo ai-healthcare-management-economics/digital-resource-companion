@@ -1,0 +1,58 @@
+﻿[
+  {
+    "step": 1,
+    "stage": "Define the cost boundary and perspective",
+    "purpose": "Identify decision-maker, time horizon, budget holder, functional unit, and relevant lifecycle phases.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Define the cost boundary and perspective",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 2,
+    "stage": "Build the lifecycle cost inventory",
+    "purpose": "Measure acquisition, data, integration, infrastructure, validation, training, review, governance, monitoring, incidents, updates, and exit.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Build the lifecycle cost inventory",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 3,
+    "stage": "Specify the pricing architecture",
+    "purpose": "Separate base, variable, volume, support, integration, escalation, and residual-value terms.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Specify the pricing architecture",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 4,
+    "stage": "Model volume and downside scenarios",
+    "purpose": "Test uptake, use intensity, implementation delay, review burden, price escalation, and uncertainty.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Model volume and downside scenarios",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 5,
+    "stage": "Map benefit mechanisms",
+    "purpose": "Link claimed savings or outcomes to measurable changes, owners, timing, and conversion conditions.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Map benefit mechanisms",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 6,
+    "stage": "Calculate ROI and net value cautiously",
+    "purpose": "Distinguish gross benefit, net benefit, cashable savings, released capacity, and non-monetized value.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Calculate ROI and net value cautiously",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  },
+  {
+    "step": 7,
+    "stage": "Set benefit-realization and renewal conditions",
+    "purpose": "Assign owners, thresholds, review dates, remedies, and continuation criteria.",
+    "required_input": "Local evidence and the prior approved step",
+    "expected_output": "Versioned record for: Set benefit-realization and renewal conditions",
+    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+  }
+]

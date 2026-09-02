@@ -1,0 +1,74 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-A02",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Stakeholder record",
+      "field_or_question": "Stakeholder or affected group",
+      "guidance": "Include patients, staff, services, budget holders, suppliers, and public bodies.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Stakeholder record",
+      "field_or_question": "Interest, benefit, burden, or risk",
+      "guidance": "State likely effects.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision rights",
+      "field_or_question": "Authority held and limits of delegation",
+      "guidance": "Clarify approval, escalation, restriction, and stopping authority.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Participation",
+      "field_or_question": "How and when participation will occur",
+      "guidance": "Record accessible and proportionate involvement.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Evidence contribution",
+      "field_or_question": "Information or expertise supplied",
+      "guidance": "Name the evidence source.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Dissent and conflict",
+      "field_or_question": "Dissenting view or declared conflict",
+      "guidance": "Preserve material disagreement.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Escalation",
+      "field_or_question": "Escalation route and responsible authority",
+      "guidance": "Define the route before a dispute occurs.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

@@ -1,6 +1,6 @@
-{
+﻿{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ai-healthcare-economics.github.io/digital-resource-companion/schemas/AIHE-B03.schema.json",
+  "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-B03.schema.json",
   "title": "AIHE-B03 — Benefit Realization and Capacity Conversion",
   "description": "Translate claimed benefits into measurable mechanisms, owners, baselines, conversion conditions, and realized results.",
   "type": "object",

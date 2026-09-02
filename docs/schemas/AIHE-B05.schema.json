@@ -1,6 +1,6 @@
-{
+﻿{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ai-healthcare-economics.github.io/digital-resource-companion/schemas/AIHE-B05.schema.json",
+  "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-B05.schema.json",
   "title": "AIHE-B05 — Model Selection, Uncertainty, and Reproducibility",
   "description": "Select a decision model from the problem structure and document evidence, verification, uncertainty, and reproducibility.",
   "type": "object",

@@ -1,0 +1,74 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-B04",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Economic evidence",
+      "field_or_question": "Analysis type and decision question",
+      "guidance": "Separate cost-effectiveness, budget impact, affordability, HTA, reimbursement, and local adoption.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Cost-effectiveness",
+      "field_or_question": "Incremental costs, outcomes, ICER, efficiency frontier, and NMB",
+      "guidance": "Report thresholds explicitly.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Budget impact",
+      "field_or_question": "Annual and cumulative cash-flow consequences",
+      "guidance": "Identify the responsible budget holder and timing.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Affordability",
+      "field_or_question": "Implementation capacity and budget constraints",
+      "guidance": "A cost-effective option may remain unaffordable.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Transferability",
+      "field_or_question": "Differences in population, costs, pathway, capacity, and implementation",
+      "guidance": "Document adaptation from external evidence.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Distribution",
+      "field_or_question": "Subgroup outcomes and opportunity costs",
+      "guidance": "Report equity consequences.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Translation",
+      "field_or_question": "HTA finding, reimbursement implication, and local decision",
+      "guidance": "Do not treat these layers as interchangeable.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

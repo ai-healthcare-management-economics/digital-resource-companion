@@ -1,0 +1,26 @@
+﻿{
+  "resource_id": "AIHE-PY09",
+  "module_number": 9,
+  "title": "Temporal validation and drift monitoring",
+  "resource_type": "py",
+  "primary_chapter": 12,
+  "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
+  "additional_chapters": [
+    11,
+    12
+  ],
+  "related_core_resources": [
+    "AIHE-D03",
+    "AIHE-D05",
+    "AIHE-B05"
+  ],
+  "related_case": "AIHE-CASE12",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Tracks discrimination, calibration error, score distribution, and feature drift across time periods.",
+  "input": "`Monitoring` sheet with period, actual outcome, score, feature 1, and feature 2.",
+  "outputs": "Period-level AUC and Brier score, PSI and KS drift measures, review flags, and performance/drift charts.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

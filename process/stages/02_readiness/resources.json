@@ -1,0 +1,42 @@
+﻿[
+  {
+    "resource_id": "AIHE-A03",
+    "title": "Institutional Readiness Assessment",
+    "role": "primary",
+    "primary_chapter": "2",
+    "tier": "Core",
+    "folder": "ch/02/core/AIHE-A03"
+  },
+  {
+    "resource_id": "AIHE-A04",
+    "title": "Data Source, Provenance, and Fitness Record",
+    "role": "primary",
+    "primary_chapter": "2",
+    "tier": "Core",
+    "folder": "ch/02/core/AIHE-A04"
+  },
+  {
+    "resource_id": "AIHE-CASE02",
+    "title": "Readmission-Model Readiness and Data-Fitness Assessment",
+    "role": "supporting",
+    "primary_chapter": "2",
+    "tier": "Worked case",
+    "folder": "cases/CASE02_readiness"
+  },
+  {
+    "resource_id": "AIHE-A",
+    "title": "AI Readiness Assessment for Health Systems",
+    "role": "supporting",
+    "primary_chapter": "2",
+    "tier": "Supplemental specialist tool",
+    "folder": "ch/02/core/AIHE-A03/supp/AIHE-A"
+  },
+  {
+    "resource_id": "AIHE-U",
+    "title": "SHARE-AI Secondary-Use Governance Worksheet",
+    "role": "supporting",
+    "primary_chapter": "2",
+    "tier": "Supplemental specialist tool",
+    "folder": "ch/02/core/AIHE-A04/supp/AIHE-U"
+  }
+]

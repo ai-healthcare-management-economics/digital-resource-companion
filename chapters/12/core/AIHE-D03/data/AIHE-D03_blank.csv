@@ -1,7 +1,0 @@
-﻿Frequency,Purpose,Minimum review content,Owner or forum
-Continuous or daily,Technical integrity and immediate service protection,"Availability, latency, interfaces, input completeness, deployed version, logging, cybersecurity alerts, and fallback",Technical operations and service owner
-Weekly during pilots or high-consequence use,Workflow and operational review,"Output volume, action, overrides, delays, workarounds, review burden, near misses, and downstream capacity",Clinical and operational leads
-Monthly,Multidisciplinary safety and performance review,"Technical and human–AI performance, outcomes, complaints, incidents, vendor notices, training, and corrective actions",Quality and AI-governance forum
-Quarterly or semi-annually,"Distributional, workforce, and economic review","Subgroups, access, workload, adoption, lifecycle cost, benefit realization, budget impact, equity, and trust","Economics, quality, equity, workforce, and governance leads"
-Annually,"Formal renewal, restriction, replacement, or retirement","Current intended use, evidence, value, residual risk, contract, updates, alternatives, monitoring capacity, and exit readiness",Executive decision authority
-Event triggered,Material change or serious incident review,"Model, data, threshold, interface, workflow, vendor, security, policy, population, price, or serious performance change",Named incident or change authority

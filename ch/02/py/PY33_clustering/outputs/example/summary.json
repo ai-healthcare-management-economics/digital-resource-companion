@@ -1,0 +1,8 @@
+﻿{
+  "n_clusters": 3,
+  "silhouette_score": 0.39936002711971935,
+  "pca_variance_explained": [
+    0.7456384657169498,
+    0.10738406043834556
+  ]
+}

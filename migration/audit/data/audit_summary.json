@@ -1,0 +1,40 @@
+﻿{
+  "audit_date": "2026-09-01",
+  "sources": {
+    "old_book": "AI_Healthcare_Economics_old.pdf",
+    "new_book": "AI_Healthcare_Economics_Book_Oxford_English_LaTeX_Revised_sep_1_Back_Matter_Implemented.pdf",
+    "companion_basis": [
+      "AIHE_FINAL_DELIVERY_README_V1.0.md",
+      "Digital Resource Companion V1.0 pub and guide",
+      "MASTER_RESOURCE_CATALOG",
+      "Core Resource Forms",
+      "package validation and inventory records available in the user's File Library"
+    ]
+  },
+  "book_comparison": {
+    "old_physical_pages": 382,
+    "new_physical_pages": 412,
+    "page_change": 30,
+    "old_figures": 58,
+    "new_figures": 31,
+    "figure_change": -27,
+    "old_tables": 62,
+    "new_tables": 46,
+    "table_change": -16,
+    "parts": 5,
+    "ch": 15
+  },
+  "highest_priority_resource_changes": [
+    "Rebuild Chapter 12 lifecycle decision-state and decision-provenance resources.",
+    "Replace the Chapter 15 principal worked case with an AI-assisted remote diagnostic pathway.",
+    "Revise Chapter 14 asset-life tools for eligibility, supported service life, EAC and realizable residual value.",
+    "Revise Chapter 6 financial tools to separate economic cost, cash expenditure and accounting expense.",
+    "Revise Chapter 8 computational resources for EVSI, ENBS and research design.",
+    "Update website/catalog visual registries and remove hard-coded page links."
+  ],
+  "archive_access_status": {
+    "pdfs": "Full text and rendered pages were available through file search.",
+    "zip_bytes": "The two uploaded ZIP archives were not exposed to the active filesystem or file-search index, so byte-level extraction, modification and repackaging could not be completed in this run.",
+    "consequence": "The crosswalk and action register are complete enough to drive the revision, but final replacement ZIPs require the exact archives to be mounted or re-uploaded."
+  }
+}

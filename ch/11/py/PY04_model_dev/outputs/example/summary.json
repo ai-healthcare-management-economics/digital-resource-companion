@@ -1,0 +1,6 @@
+﻿{
+  "rows_used": 500,
+  "test_rows": 150,
+  "best_model": "Logistic regression",
+  "best_auc": 0.8212345679012345
+}

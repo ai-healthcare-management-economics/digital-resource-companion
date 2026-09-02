@@ -1,6 +1,6 @@
-{
+﻿{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ai-healthcare-economics.github.io/digital-resource-companion/schemas/AIHE-A03.schema.json",
+  "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-A03.schema.json",
   "title": "AIHE-A03 — Institutional Readiness Assessment",
   "description": "Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and sustainability readiness.",
   "type": "object",

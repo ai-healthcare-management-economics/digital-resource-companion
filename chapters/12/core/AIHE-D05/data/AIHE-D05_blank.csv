@@ -1,9 +1,0 @@
-﻿Field,Guidance,Institutional response
-Change or review trigger,"Model, software, data, threshold, interface, intended use, population, workflow, provider, subprocessor, hosting, price, law, evidence, or alternative.",
-Affected dossier elements,"Identify evidence, validation, economics, quality, accreditation, governance, contract, training, communication, and monitoring records requiring revision.",
-Materiality and immediate control,"Classify minor, moderate, or major; record restriction, silent mode, rollback, or pause where required.",
-Revalidation and implementation,"Define tests, subgroups, human factors, pilot, training, acceptance thresholds, approval, and release plan.",
-Current value and comparator,"Reassess lifecycle cost, benefit realization, budget impact, risks, alternatives, and opportunity cost.",
-Decision,"Continue, continue with conditions, update, restrict, pause, restart, replace, or retire.",
-Continuity and exit,"Record fallback, data export, retention and deletion, workflow restoration, staff and patient communication, contract termination, and physical disposition.",
-Authority and next review,"Record accountable decision-maker, dissent, conditions, date, evidence cut-off, and next trigger.",

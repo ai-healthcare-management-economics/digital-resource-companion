@@ -1,0 +1,42 @@
+﻿[
+  {
+    "resource_id": "AIHE-D01",
+    "title": "Vendor Evidence and Contract Requirements",
+    "role": "primary",
+    "primary_chapter": "9",
+    "tier": "Core",
+    "folder": "ch/09/core/AIHE-D01"
+  },
+  {
+    "resource_id": "AIHE-CASE09",
+    "title": "AI Vendor Procurement and Contract Negotiation",
+    "role": "supporting",
+    "primary_chapter": "9",
+    "tier": "Worked case",
+    "folder": "cases/CASE09_vendor_contract"
+  },
+  {
+    "resource_id": "AIHE-D",
+    "title": "AI Procurement Checklist",
+    "role": "supporting",
+    "primary_chapter": "9",
+    "tier": "Supplemental specialist tool",
+    "folder": "ch/09/core/AIHE-D01/supp/AIHE-D"
+  },
+  {
+    "resource_id": "AIHE-EX08",
+    "title": "Vendor Demonstration Evaluation Form",
+    "role": "supporting",
+    "primary_chapter": "9",
+    "tier": "Supplemental specialist tool",
+    "folder": "ch/09/core/AIHE-D01/supp/AIHE-EX08"
+  },
+  {
+    "resource_id": "AIHE-EX09",
+    "title": "Contract Requirements and Exit Matrix",
+    "role": "supporting",
+    "primary_chapter": "9",
+    "tier": "Supplemental specialist tool",
+    "folder": "ch/09/core/AIHE-D01/supp/AIHE-EX09"
+  }
+]

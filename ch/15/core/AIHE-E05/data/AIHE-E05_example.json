@@ -1,0 +1,74 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-E05",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "2026-09-02",
+    "local_modifications": "",
+    "organization": "Illustrative hospital",
+    "intervention": "Synthetic AI-enabled service",
+    "intervention_version": "1.0",
+    "accountable_owner": "Named owner",
+    "decision_authority": "Named committee",
+    "next_review_date": "2026-12-01"
+  },
+  "records": [
+    {
+      "section": "Indicator",
+      "field_or_question": "Indicator name, definition, functional unit, and purpose",
+      "guidance": "Use a decision-relevant denominator.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Measurement",
+      "field_or_question": "Baseline, current value, target, period, and data source",
+      "guidance": "Preserve evidence provenance.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Interpretation",
+      "field_or_question": "Average or marginal measure, uncertainty, and limitations",
+      "guidance": "Avoid false precision.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Value-retention",
+      "field_or_question": "Stock, flow, inner/outer loop, leakage, and disposition",
+      "guidance": "Track physical consequences.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Rebound",
+      "field_or_question": "Volume, utilization, induced demand, and total-resource effect",
+      "guidance": "Monitor total as well as per-unit performance.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Distribution",
+      "field_or_question": "Location, supplier, community, and time period bearing the consequence",
+      "guidance": "Reveal burden transfer.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Ownership",
+      "field_or_question": "Named owner, threshold, response, and next review",
+      "guidance": "Connect measurement to action.",
+      "response_or_evidence": "Illustrative synthetic response; replace with local evidence.",
+      "owner": "Named institutional owner",
+      "due_or_review_date": ""
+    }
+  ]
+}

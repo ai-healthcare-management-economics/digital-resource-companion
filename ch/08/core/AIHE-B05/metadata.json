@@ -1,0 +1,28 @@
+﻿{
+  "resource_id": "AIHE-B05",
+  "title": "Model Selection, Uncertainty, and Reproducibility",
+  "primary_chapter": 8,
+  "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
+  "aligned_chapters": [
+    8,
+    11,
+    15
+  ],
+  "legacy_aliases": [
+    "AIHE-EX15",
+    "AIHE-EX16",
+    "AIHE-AF",
+    "AIHE-EX04",
+    "AIHE-EX06"
+  ],
+  "purpose": "Select a decision model from the problem structure and document evidence, verification, uncertainty, and reproducibility.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "related_resources": [
+    "AIHE-EX05"
+  ],
+  "book_alignment": "Chapter 8: Decision Modelling, Simulation, and the Value of Information",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

@@ -1,0 +1,84 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/aihe/1.1/AIHE-D02.schema.json",
+  "title": "AIHE-D02 Lifecycle Decision State, Staged Evidence, and AI-HED Status",
+  "type": "object",
+  "required": [
+    "metadata",
+    "records"
+  ],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "resource_id": {
+          "type": "string"
+        },
+        "resource_version": {
+          "type": "string"
+        },
+        "release_date": {
+          "type": "string"
+        },
+        "access_date": {
+          "type": "string"
+        },
+        "evidence_cut_off": {
+          "type": "string"
+        },
+        "local_modifications": {
+          "type": "string"
+        },
+        "organization": {
+          "type": "string"
+        },
+        "intervention": {
+          "type": "string"
+        },
+        "intervention_version": {
+          "type": "string"
+        },
+        "accountable_owner": {
+          "type": "string"
+        },
+        "decision_authority": {
+          "type": "string"
+        },
+        "next_review_date": {
+          "type": "string"
+        }
+      }
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "section",
+          "field_or_question",
+          "response_or_evidence"
+        ],
+        "properties": {
+          "section": {
+            "type": "string"
+          },
+          "field_or_question": {
+            "type": "string"
+          },
+          "guidance": {
+            "type": "string"
+          },
+          "response_or_evidence": {
+            "type": "string"
+          },
+          "owner": {
+            "type": "string"
+          },
+          "due_or_review_date": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

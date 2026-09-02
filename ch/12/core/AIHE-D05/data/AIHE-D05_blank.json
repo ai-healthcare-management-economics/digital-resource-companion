@@ -1,0 +1,90 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-D05",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Change identity",
+      "field_or_question": "Change ID, previous version, proposed version, date, and requester",
+      "guidance": "Maintain a controlled change record.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Changed component",
+      "field_or_question": "Model, data source, threshold, interface, workflow, intended use, infrastructure, supplier, price, or dependency",
+      "guidance": "Identify every material component.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Materiality",
+      "field_or_question": "Clinical, technical, economic, equity, security, contractual, and organizational rationale",
+      "guidance": "State why prior evidence may or may not remain applicable.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Evidence impact",
+      "field_or_question": "Evidence invalidated, weakened, unchanged, or newly required",
+      "guidance": "Link to authoritative records.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Interim state",
+      "field_or_question": "Continue, restrict, suspend, or maintain fallback during review",
+      "guidance": "Protect continuity.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Revalidation",
+      "field_or_question": "Testing, evaluation, assurance, and user preparation required",
+      "guidance": "Assign owners and dates.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision",
+      "field_or_question": "Approve change, reject, require redesign, reauthorize, renegotiate, replace, or retire",
+      "guidance": "Name the authority.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Transition",
+      "field_or_question": "Continuity, migration, data closure, communication, and exit plan",
+      "guidance": "Control the change.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "End of authorization",
+      "field_or_question": "Retired version, effective date, records retained, final liabilities, and closure authority",
+      "guidance": "Document when authorization ends.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

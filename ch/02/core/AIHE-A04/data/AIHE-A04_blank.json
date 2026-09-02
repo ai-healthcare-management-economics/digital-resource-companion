@@ -1,0 +1,74 @@
+﻿{
+  "metadata": {
+    "resource_id": "AIHE-A04",
+    "resource_version": "V1.0",
+    "release_date": "2026-09-02",
+    "access_date": "",
+    "evidence_cut_off": "",
+    "local_modifications": "",
+    "organization": "",
+    "intervention": "",
+    "intervention_version": "",
+    "accountable_owner": "",
+    "decision_authority": "",
+    "next_review_date": ""
+  },
+  "records": [
+    {
+      "section": "Data identity",
+      "field_or_question": "Source, owner, purpose, population, time period, and version",
+      "guidance": "Create a stable record of the data used.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Provenance",
+      "field_or_question": "Origin, collection context, transformations, mappings, and derived artefacts",
+      "guidance": "Maintain lineage.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Fitness",
+      "field_or_question": "Completeness, accuracy, timeliness, consistency, plausibility, label validity, and stability",
+      "guidance": "Assess dimensions relevant to the intended use.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Representation",
+      "field_or_question": "Missing or underrepresented populations and consequences",
+      "guidance": "Include subgroup assessment.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Authority",
+      "field_or_question": "Legal and institutional basis, access conditions, minimization, and retention",
+      "guidance": "Document legitimate use.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Observability",
+      "field_or_question": "Pipeline-health indicators, latency, interface failure, and shift monitoring",
+      "guidance": "Distinguish data defects from model drift.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Decision",
+      "field_or_question": "Fit, conditionally fit, remediation required, or not fit",
+      "guidance": "State restrictions and review triggers.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    }
+  ]
+}

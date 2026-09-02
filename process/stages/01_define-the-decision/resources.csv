@@ -1,5 +1,0 @@
-resource_id,title,role,primary_chapter,tier,folder
-AIHE-A01,Decision and Use-Case Specification,primary,1,Core,chapters/01/core/AIHE-A01
-AIHE-A02,"Stakeholders, Decision Rights, and Participation",primary,1,Core,chapters/01/core/AIHE-A02
-AIHE-RG07,Common AI Adoption Failures and Corrective Actions,supporting,1,Reference guide,chapters/01/guides/AIHE-RG07
-AIHE-CASE01,Emergency-Department Triage Portfolio Decision,supporting,1,Worked case,worked_examples/AIHE-CASE01_emergency_department_triage_portfolio_decision

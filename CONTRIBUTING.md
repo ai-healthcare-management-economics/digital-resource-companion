@@ -1,4 +1,4 @@
-# Contributing
+﻿# Contributing
 
 Contributions should improve accuracy, usability, accessibility, reproducibility, or alignment with the book without duplicating existing resources.
 

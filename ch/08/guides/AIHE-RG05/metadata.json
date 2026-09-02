@@ -1,0 +1,11 @@
+﻿{
+  "resource_id": "AIHE-RG05",
+  "title": "Scenario Planning and Real-Options Worksheet",
+  "primary_chapter": 8,
+  "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
+  "aligned_chapters": "1, 6-9, 12, 15",
+  "purpose": "Examine uncertainty through alternative futures, thresholds, staged commitments, learning options, contract flexibility, and explicit exit criteria.",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "Current cross-cutting guide"
+}

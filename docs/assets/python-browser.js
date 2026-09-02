@@ -1,4 +1,4 @@
-function initPythonBrowser(){
+﻿function initPythonBrowser(){
  const data=window.AIHE_PYTHON_CATALOG||[];
  const body=document.querySelector('#python-body'); if(!body)return;
  const q=document.querySelector('#py-q'), ch=document.querySelector('#py-chapter'), cs=document.querySelector('#py-case'), count=document.querySelector('#python-count');

@@ -1,6 +1,6 @@
-{
+﻿{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ai-healthcare-economics.github.io/digital-resource-companion/schemas/AIHE-B02.schema.json",
+  "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-B02.schema.json",
   "title": "AIHE-B02 — Lifecycle Cost and Pricing Record",
   "description": "Record acquisition through exit costs, resource use, pricing exposure, opportunity cost, residual value, and evidence.",
   "type": "object",

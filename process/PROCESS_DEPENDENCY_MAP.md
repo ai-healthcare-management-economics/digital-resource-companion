@@ -1,4 +1,4 @@
-# Process Dependency Map
+﻿# Process Dependency Map
 
 This map identifies recommended preceding records and the principal records typically used at each stage. It is a navigation aid, not a rule that every project must complete every resource. Local law, governance, risk, evidence maturity, and decision consequence may require a different sequence or additional records.
 

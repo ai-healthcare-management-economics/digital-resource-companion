@@ -1,0 +1,24 @@
+﻿{
+  "resource_id": "AIHE-PY04",
+  "module_number": 4,
+  "title": "Predictive model development: logistic regression and random forest",
+  "resource_type": "py",
+  "primary_chapter": 11,
+  "primary_chapter_title": "Evidence, Validation, and Real-World Evaluation",
+  "additional_chapters": [
+    3,
+    11
+  ],
+  "related_core_resources": [
+    "AIHE-B05"
+  ],
+  "related_case": "AIHE-CASE11",
+  "version": "V1.0",
+  "release_date": "2026-08-07",
+  "status": "public",
+  "data_classification": "synthetic",
+  "purpose": "Builds two baseline classifiers, compares test performance, and exports predictions for later validation modules.",
+  "input": "`Data` sheet with binary outcome and numeric predictors age, comorbidity index, lab value, and prior admissions.",
+  "outputs": "Model comparison, ROC chart, test predictions, logistic coefficients, and random-forest importance.",
+  "limitations": "This is an educational example. It is not a clinical device, validated decision instrument, or substitute for local statistical, economic, legal, privacy, cybersecurity, ethics, quality, or health-technology-assessment review."
+}

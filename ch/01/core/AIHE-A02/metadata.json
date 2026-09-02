@@ -1,0 +1,22 @@
+﻿{
+  "resource_id": "AIHE-A02",
+  "title": "Stakeholders, Decision Rights, and Participation",
+  "primary_chapter": 1,
+  "primary_chapter_title": "AI as a Health-System Intervention",
+  "aligned_chapters": [
+    1,
+    3,
+    10,
+    12
+  ],
+  "legacy_aliases": [
+    "AIHE-EX01"
+  ],
+  "purpose": "Identify affected parties, decision rights, participation duties, evidence contributions, and escalation authority.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 1: AI as a Health-System Intervention",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}

@@ -1,0 +1,21 @@
+﻿{
+  "resource_id": "AIHE-D03",
+  "title": "Post-Deployment Monitoring and Algorithmovigilance Cadence",
+  "primary_chapter": 12,
+  "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
+  "aligned_chapters": [
+    5,
+    11,
+    12
+  ],
+  "legacy_aliases": [
+    "AIHE-S"
+  ],
+  "purpose": "Define recurring and event-triggered surveillance across technical, workflow, safety, equity, economic, and contractual domains.",
+  "version": "V1.0",
+  "release_date": "2026-09-02",
+  "status": "Current consolidated resource",
+  "book_alignment": "Chapter 12: Decision Architecture and Lifecycle Governance",
+  "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",
+  "synthetic_data_notice": "Worked examples are synthetic unless a documented source states otherwise. Replace with authorized local evidence before institutional use."
+}
