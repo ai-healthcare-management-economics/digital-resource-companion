@@ -15,7 +15,7 @@ The companion follows the book's current **five-Part, fifteen-chapter structure*
 
 ## Start here
 
-Most users should begin with the **[GitHub Pages Web Companion](https://ai-healthcare-economics.github.io/digital-resource-companion/)** or the repository's [`START_HERE.html`](START_HERE.html).
+Most users should begin with the **[GitHub Pages Web Companion](https://ai-healthcare-management-economics.github.io/digital-resource-companion/)** or the repository's [`START_HERE.html`](START_HERE.html).
 
 For a downloadable collection, select the distribution that matches the intended use.
 
