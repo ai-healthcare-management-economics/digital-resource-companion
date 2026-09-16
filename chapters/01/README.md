@@ -1,4 +1,4 @@
-# Chapter 1: AI as a Health-System Intervention
+# Chapter 1: AI as a Health System Intervention
 
 **Part I — Managerial and Economic Foundations**
 
@@ -30,7 +30,7 @@ Additional specialist resources are stored within the relevant core-resource fol
 ## Use and version control
 
 - Release: **V1.0**
-- Book alignment: **Chapter 1: AI as a Health-System Intervention**
+- Book alignment: **Chapter 1: AI as a Health System Intervention**
 - Cite stable chapter, figure, table, case, and resource identifiers rather than printed page numbers.
 - Record the evidence cut-off, intervention version, accountable owner, review date, and local modifications in any institutional use.
 - Worked examples and bundled demonstration data are synthetic unless explicitly stated otherwise.

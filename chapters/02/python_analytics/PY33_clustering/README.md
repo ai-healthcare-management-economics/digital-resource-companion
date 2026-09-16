@@ -1,4 +1,4 @@
-﻿# AIHE-PY33 — Patient or service segmentation using clustering
+# AIHE-PY33 — Patient or service segmentation using clustering
 
 **Version:** V1.0 
 **Primary chapter:** 2. Institutional Readiness and Digital Foundations 

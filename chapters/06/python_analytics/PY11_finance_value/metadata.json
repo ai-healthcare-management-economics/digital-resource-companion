@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY11",
   "module_number": 11,
   "title": "ROI, net benefit, and benefit-realization analysis",
@@ -15,7 +15,7 @@
   ],
   "related_case": "AIHE-CASE06",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Calculates gross and risk-adjusted benefits, total cost, net benefit, ROI, payback period, and the effect of realization probability and attribution assumptions.",

@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY05
+# Notebook route — AIHE-PY05
 
 Open `05_performance_and_calibration.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

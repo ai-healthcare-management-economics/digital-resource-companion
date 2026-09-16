@@ -1,8 +1,8 @@
-﻿# AIHE-R — VALIDATE-AI Implementation Plan
+# AIHE-R — VALIDATE-AI Implementation Plan
 
 **Current canonical resource:** AIHE-D02 — Lifecycle Decision State, Staged Evidence, and AI-HED Status 
 **Primary chapter:** 12 — Decision Architecture and Lifecycle Governance 
-**Additional chapters:** 4,11,12
+**Additional chapters:** 4, 11, 12
 
 ## Why this tool is retained
 

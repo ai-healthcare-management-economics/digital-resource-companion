@@ -1,32 +1,55 @@
-﻿# AIHE-B05: Model Selection, Uncertainty, and Reproducibility
+# AIHE-B05 — Model Selection, Uncertainty, and Reproducibility
 
-Core consolidated process aligned to Chapter 8 and Resource Set B.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Formulate the decision structure
 
-### 1. Formulate the decision structure
 Define the states, events, queues, actors, feedback, outputs, and decision rule relevant to Model Selection, Uncertainty, and Reproducibility.
 
-### 2. Select and parameterize the model
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Formulate the decision structure
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Select and parameterize the model
+
 Choose an analytic or simulation method and document data, parameters, distributions, and versions.
 
-### 3. Verify implementation
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Select and parameterize the model
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Verify implementation
+
 Test logic, calculations, code, traces, convergence, and extreme values.
 
-### 4. Validate and characterize uncertainty
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Verify implementation
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Validate and characterize uncertainty
+
 Assess intended-use validity, sensitivity, structural alternatives, and value of information.
 
-### 5. Communicate and archive
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Validate and characterize uncertainty
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Communicate and archive
+
 Present results, limitations, reproducibility, decision implications, and update requirements.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-Select an analytic structure and document assumptions, verification, validation, uncertainty, and reproducibility.
+**Expected output:** Versioned record for: Communicate and archive
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-`AIHE-EX15`, `AIHE-EX16`
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

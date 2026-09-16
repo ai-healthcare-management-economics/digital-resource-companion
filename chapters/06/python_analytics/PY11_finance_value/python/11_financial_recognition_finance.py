@@ -1,4 +1,4 @@
-﻿"""AIHE-PY11 - Financial recognition, NPV, ROI, payback, and benefit-realization analysis
+"""AIHE-PY11 - Financial recognition, NPV, ROI, payback, and benefit-realization analysis
 Digital Resource Companion V1.0. Synthetic demonstration only.
 """
 from __future__ import annotations

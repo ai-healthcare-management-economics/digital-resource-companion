@@ -52,7 +52,7 @@
                               "boolean",
                               "null"
                             ],
-                            "title": "TAV dimension"
+                            "title": "trust and legitimacy dimension"
                           },
                           "Evidence source": {
                             "type": [
@@ -101,7 +101,7 @@
                           }
                         },
                         "required": [
-                          "TAV dimension",
+                          "trust and legitimacy dimension",
                           "Evidence source",
                           "Finding",
                           "Score 0-4",

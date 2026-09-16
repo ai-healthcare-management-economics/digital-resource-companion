@@ -1,12 +1,12 @@
 # Chapter-Aligned Resources
 
-The `chapters/` directory contains the canonical source resources aligned with the fifteen chapters of *Artificial Intelligence and Healthcare Economics: Evidence, Value, Governance, and Sustainability*.
+The `chapters/` directory contains the canonical source resources aligned with the twelve-chapters of *Artificial Intelligence in Healthcare Management and Economics: Evidence, Value, Governance, and Lifecycle Decision-Making*.
 
 The directory names retain the book's numerical sequence, while each chapter README gives the complete chapter title and links to its core records, reference guides, worked examples, analytical modules, and process material.
 
 | Chapter | Full chapter title | Directory |
 |---:|---|---|
-| 1 | AI as a Health-System Intervention | [`01/`](01/) |
+| 1 | AI as a Health System Intervention | [`01/`](01/) |
 | 2 | Institutional Readiness and Digital Foundations | [`02/`](02/) |
 | 3 | Human–AI Decision Systems and Managerial Action | [`03/`](03/) |
 | 4 | Productivity, Work Redesign, and Implementation | [`04/`](04/) |
@@ -18,9 +18,6 @@ The directory names retain the book's numerical sequence, while each chapter REA
 | 10 | Governance, Accountability, and Institutional Risk | [`10/`](10/) |
 | 11 | Evidence, Validation, and Real-World Evaluation | [`11/`](11/) |
 | 12 | Decision Architecture and Lifecycle Governance | [`12/`](12/) |
-| 13 | Circular Health Systems and Resource Stewardship | [`13/`](13/) |
-| 14 | Circular Procurement and Asset Stewardship | [`14/`](14/) |
-| 15 | Circularity-Adjusted Economic Evaluation and Sustainable Value | [`15/`](15/) |
 
 ## Source policy
 

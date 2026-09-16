@@ -1,47 +1,39 @@
-table,chapter,chapter_title,caption,status,version,release_date
-1,Front matter,How to Use This Book,Suggested pathways through the book,Current principal book table,V1.0,2026-09-02
-2,Front matter,How to Use This Book,The five-part decision architecture,Current principal book table,V1.0,2026-09-02
-1.1,1,AI as a Health-System Intervention,Core questions for evaluating AI as a health-system intervention,Current principal book table,V1.0,2026-09-02
-1.2,1,AI as a Health-System Intervention,"AI use patterns, value mechanisms, and evidence priorities",Current principal book table,V1.0,2026-09-02
-1.3,1,AI as a Health-System Intervention,"Technical, clinical, economic, and managerial value",Current principal book table,V1.0,2026-09-02
-1.4,1,AI as a Health-System Intervention,Common AI decision failures and corrective disciplines,Current principal book table,V1.0,2026-09-02
-2.1,2,Institutional Readiness and Digital Foundations,Common data-quality problems and their institutional consequences,Current principal book table,V1.0,2026-09-02
-3.1,3,Human–AI Decision Systems and Managerial Action,Decision-right configurations for AI-enabled decision support,Current principal book table,V1.0,2026-09-02
-3.2,3,Human–AI Decision Systems and Managerial Action,Managerial signal failure modes and design responses,Current principal book table,V1.0,2026-09-02
-4.1,4,"Productivity, Work Redesign, and Implementation",From AI-enabled task savings to usable service capacity,Current principal book table,V1.0,2026-09-02
-4.2,4,"Productivity, Work Redesign, and Implementation",Workforce effects to consider when AI changes the organization of work,Current principal book table,V1.0,2026-09-02
-4.3,4,"Productivity, Work Redesign, and Implementation",Matching implementation resources to analytical questions,Current principal book table,V1.0,2026-09-02
-5.1,5,"Quality Management, Accreditation, and Organizational Learning",Distinct roles of institutional quality and assurance functions,Current principal book table,V1.0,2026-09-02
-5.2,5,"Quality Management, Accreditation, and Organizational Learning","Quality signals, surveillance, and escalation in an AI-enabled service",Current principal book table,V1.0,2026-09-02
-6.1,6,"Lifecycle Cost, Pricing, and Benefit Realization",Lifecycle cost categories and sources of financial evidence,Current principal book table,V1.0,2026-09-02
-6.2,6,"Lifecycle Cost, Pricing, and Benefit Realization","Pricing structures, financial exposure, and contractual controls",Current principal book table,V1.0,2026-09-02
-6.3,6,"Lifecycle Cost, Pricing, and Benefit Realization",Benefit categories and their treatment in the institutional financial case,Current principal book table,V1.0,2026-09-02
-7.1,7,"Economic Evaluation, Affordability, and Health Technology Assessment",Economic analyses and the decision questions they address,Current principal book table,V1.0,2026-09-02
-7.2,7,"Economic Evaluation, Affordability, and Health Technology Assessment",Economic evidence across decision layers,Current principal book table,V1.0,2026-09-02
-8.1,8,"Decision Modelling, Simulation, and the Value of Information",Selecting a modelling structure from the dominant feature of the decision problem,Current principal book table,V1.0,2026-09-02
-8.2,8,"Decision Modelling, Simulation, and the Value of Information",AI characteristics that may require explicit representation in a decision model,Current principal book table,V1.0,2026-09-02
-8.3,8,"Decision Modelling, Simulation, and the Value of Information",Forms of uncertainty and appropriate analytical responses,Current principal book table,V1.0,2026-09-02
-8.4,8,"Decision Modelling, Simulation, and the Value of Information",Evidence required to establish model credibility,Current principal book table,V1.0,2026-09-02
-9.1,9,Problem-First Procurement and Vendor Governance,Supplier disclosure and contractual evidence schedule,Current principal book table,V1.0,2026-09-02
-9.2,9,Problem-First Procurement and Vendor Governance,Illustrative scored award criteria following mandatory eligibility screening,Current principal book table,V1.0,2026-09-02
-9.3,9,Problem-First Procurement and Vendor Governance,Renegotiation and exit options for an incumbent AI service,Current principal book table,V1.0,2026-09-02
-10.1,10,"Governance, Accountability, and Institutional Risk",Decision rights and escalation points in institutional AI governance,Current principal book table,V1.0,2026-09-02
-10.2,10,"Governance, Accountability, and Institutional Risk",Legal force and institutional function of selected AI governance instruments,Current principal book table,V1.0,2026-09-02
-11.1,11,"Evidence, Validation, and Real-World Evaluation",Evidentiary claims and what different designs can establish,Current principal book table,V1.0,2026-09-02
-11.2,11,"Evidence, Validation, and Real-World Evaluation",Functional roles of selected evidence instruments,Current principal book table,V1.0,2026-09-02
-11.3,11,"Evidence, Validation, and Real-World Evaluation",Causal designs for evaluating AI-enabled interventions,Current principal book table,V1.0,2026-09-02
-11.4,11,"Evidence, Validation, and Real-World Evaluation",Decision-ready evidence claims record,Current principal book table,V1.0,2026-09-02
-12.1,12,Decision Architecture and Lifecycle Governance,AI-HEVG domains and their contribution to institutional judgement,Current principal book table,V1.0,2026-09-02
-12.2,12,Decision Architecture and Lifecycle Governance,Minimum decision-provenance structure of the AI-HED,Current principal book table,V1.0,2026-09-02
-12.3,12,Decision Architecture and Lifecycle Governance,Institutional decision states and transition conditions,Current principal book table,V1.0,2026-09-02
-12.4,12,Decision Architecture and Lifecycle Governance,Lifecycle transition triggers and default decision response,Current principal book table,V1.0,2026-09-02
-12.5,12,Decision Architecture and Lifecycle Governance,Illustrative material-change classification and decision response,Current principal book table,V1.0,2026-09-02
-12.6,12,Decision Architecture and Lifecycle Governance,Illustrative decision history for a readmission risk intervention,Current principal book table,V1.0,2026-09-02
-13.1,13,Circular Health Systems and Resource Stewardship,Healthcare circularity hierarchy for AI-enabled services and infrastructure,Current principal book table,V1.0,2026-09-02
-13.2,13,Circular Health Systems and Resource Stewardship,AI-enabled resource mechanisms and countervailing effects,Current principal book table,V1.0,2026-09-02
-13.3,13,Circular Health Systems and Resource Stewardship,Core quantities for circular resource accounting,Current principal book table,V1.0,2026-09-02
-14.1,14,Circular Procurement and Asset Stewardship,Asset-stewardship requirements for procurement and contracting,Current principal book table,V1.0,2026-09-02
-14.2,14,Circular Procurement and Asset Stewardship,Asset-life strategies and their conditions of viability,Current principal book table,V1.0,2026-09-02
-14.3,14,Circular Procurement and Asset Stewardship,Asset disposition and closure record,Current principal book table,V1.0,2026-09-02
-15.1,15,Circularity-Adjusted Economic Evaluation and Sustainable Value,Analytic interfaces in circularity-adjusted economic evaluation,Current principal book table,V1.0,2026-09-02
-15.2,15,Circularity-Adjusted Economic Evaluation and Sustainable Value,Accounting treatment and double-counting rules,Current principal book table,V1.0,2026-09-02
+table,chapter,chapter_title,caption,status,version,release_date,source_book_page
+1,Front matter,How to Use This Book,Suggested pathways through the book,Current principal book table,V1.0,2026-09-16,ix
+2,Front matter,How to Use This Book,The four-part decision architecture,Current principal book table,V1.0,2026-09-16,xi
+1.1,1,AI as a Health System Intervention,Core questions for evaluating AI as a health system intervention,Current principal book table,V1.0,2026-09-16,11
+1.2,1,AI as a Health System Intervention,"AI use patterns, value mechanisms, and evidence priorities",Current principal book table,V1.0,2026-09-16,13
+1.3,1,AI as a Health System Intervention,"Technical, clinical, economic, and managerial value",Current principal book table,V1.0,2026-09-16,14
+1.4,1,AI as a Health System Intervention,Common AI decision failures and corrective disciplines,Current principal book table,V1.0,2026-09-16,27
+2.1,2,Institutional Readiness and Digital Foundations,Common data-quality problems and their institutional consequences,Current principal book table,V1.0,2026-09-16,40
+3.1,3,Human–AI Decision Systems and Managerial Action,Configurations of decision rights for AI-enabled decision support,Current principal book table,V1.0,2026-09-16,61
+3.2,3,Human–AI Decision Systems and Managerial Action,Managerial signal failure modes and design responses,Current principal book table,V1.0,2026-09-16,66
+4.1,4,"Productivity, Work Redesign, and Implementation",From AI-enabled task savings to usable service capacity,Current principal book table,V1.0,2026-09-16,76
+4.2,4,"Productivity, Work Redesign, and Implementation",Workforce effects to consider when AI changes the organization of work,Current principal book table,V1.0,2026-09-16,81
+4.3,4,"Productivity, Work Redesign, and Implementation",Matching implementation resources to analytical questions,Current principal book table,V1.0,2026-09-16,86
+5.1,5,"Quality Management, Accreditation, and Organizational Learning",Distinct roles of institutional quality and assurance functions,Current principal book table,V1.0,2026-09-16,100
+5.2,5,"Quality Management, Accreditation, and Organizational Learning","Quality signals, surveillance, and escalation in an AI-enabled service",Current principal book table,V1.0,2026-09-16,103
+6.1,6,"Lifecycle Cost, Pricing, and Benefit Realization",Lifecycle cost categories and sources of financial evidence,Current principal book table,V1.0,2026-09-16,121
+6.2,6,"Lifecycle Cost, Pricing, and Benefit Realization","Pricing structures, financial exposure, and contractual controls",Current principal book table,V1.0,2026-09-16,126
+6.3,6,"Lifecycle Cost, Pricing, and Benefit Realization",Benefit categories and their treatment in the institutional financial case,Current principal book table,V1.0,2026-09-16,129
+7.1,7,"Economic Evaluation, Affordability, and Health Technology Assessment",Economic analyses and the decision questions they address,Current principal book table,V1.0,2026-09-16,140
+7.2,7,"Economic Evaluation, Affordability, and Health Technology Assessment",Economic evidence across decision layers,Current principal book table,V1.0,2026-09-16,153
+8.1,8,"Decision Modelling, Simulation, and the Value of Information",Selecting a modelling structure from the dominant feature of the decision problem,Current principal book table,V1.0,2026-09-16,162
+8.2,8,"Decision Modelling, Simulation, and the Value of Information",AI characteristics that may require explicit representation in a decision model,Current principal book table,V1.0,2026-09-16,169
+8.3,8,"Decision Modelling, Simulation, and the Value of Information",Forms of uncertainty and appropriate analytical responses,Current principal book table,V1.0,2026-09-16,171
+8.4,8,"Decision Modelling, Simulation, and the Value of Information",Evidence required to establish model credibility,Current principal book table,V1.0,2026-09-16,180
+9.1,9,Problem-First Procurement and Vendor Governance,Supplier disclosure and contractual evidence schedule,Current principal book table,V1.0,2026-09-16,190
+9.2,9,Problem-First Procurement and Vendor Governance,Illustrative scored award criteria following mandatory eligibility screening,Current principal book table,V1.0,2026-09-16,200
+9.3,9,Problem-First Procurement and Vendor Governance,Renegotiation and exit options for an incumbent AI service,Current principal book table,V1.0,2026-09-16,205
+10.1,10,"Governance, Accountability, and Institutional Risk",Decision rights and escalation points in institutional AI governance,Current principal book table,V1.0,2026-09-16,215
+10.2,10,"Governance, Accountability, and Institutional Risk",Legal force and institutional function of selected AI governance instruments,Current principal book table,V1.0,2026-09-16,222
+11.1,11,"Evidence, Validation, and Real-World Evaluation",Evidentiary claims and what different designs can establish,Current principal book table,V1.0,2026-09-16,240
+11.2,11,"Evidence, Validation, and Real-World Evaluation",Functional roles of selected evidence instruments,Current principal book table,V1.0,2026-09-16,242
+11.3,11,"Evidence, Validation, and Real-World Evaluation",Causal designs for evaluating AI-enabled interventions,Current principal book table,V1.0,2026-09-16,254
+11.4,11,"Evidence, Validation, and Real-World Evaluation",Decision-ready evidence claims record,Current principal book table,V1.0,2026-09-16,261
+12.1,12,Decision Architecture and Lifecycle Governance,AI-HEVG domains and their contribution to institutional judgement,Current principal book table,V1.0,2026-09-16,275
+12.2,12,Decision Architecture and Lifecycle Governance,Minimum decision provenance structure of the AI-HED,Current principal book table,V1.0,2026-09-16,278
+12.3,12,Decision Architecture and Lifecycle Governance,Institutional decision states and transition conditions,Current principal book table,V1.0,2026-09-16,280
+12.4,12,Decision Architecture and Lifecycle Governance,Lifecycle transition triggers and default decision response,Current principal book table,V1.0,2026-09-16,283
+12.5,12,Decision Architecture and Lifecycle Governance,Illustrative material change classification and decision response,Current principal book table,V1.0,2026-09-16,285
+12.6,12,Decision Architecture and Lifecycle Governance,Illustrative decision history for a readmission risk intervention,Current principal book table,V1.0,2026-09-16,290

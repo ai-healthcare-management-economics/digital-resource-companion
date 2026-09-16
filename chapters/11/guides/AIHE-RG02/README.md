@@ -1,4 +1,4 @@
-﻿# AIHE-RG02 — Reporting and Appraisal Tool Selection Guide
+# AIHE-RG02 — Reporting and Appraisal Tool Selection Guide
 
 **Primary chapter:** 11 — Evidence, Validation, and Real-World Evaluation 
 **Additional chapter alignment:** 7, 8, 11 

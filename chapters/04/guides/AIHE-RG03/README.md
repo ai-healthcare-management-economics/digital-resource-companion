@@ -1,4 +1,4 @@
-﻿# AIHE-RG03 — Implementation Framework Selection Guide
+# AIHE-RG03 — Implementation Framework Selection Guide
 
 **Primary chapter:** 4 — Productivity, Work Redesign, and Implementation 
 **Additional chapter alignment:** 4, 11, 12 

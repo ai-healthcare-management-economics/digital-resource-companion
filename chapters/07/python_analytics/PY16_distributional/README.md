@@ -1,4 +1,4 @@
-﻿# AIHE-PY16 — Distributional cost-effectiveness and equity-weighted analysis
+# AIHE-PY16 — Distributional cost-effectiveness and equity-weighted analysis
 
 **Version:** V1.0 
 **Primary chapter:** 7. Economic Evaluation, Affordability, and Health Technology Assessment 

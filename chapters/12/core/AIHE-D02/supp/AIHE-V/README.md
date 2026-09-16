@@ -1,8 +1,8 @@
-﻿# AIHE-V — Validation Protocol for the Proposed Framework Package
+# AIHE-V — Validation Protocol for the Proposed Framework Package
 
 **Current canonical resource:** AIHE-D02 — Lifecycle Decision State, Staged Evidence, and AI-HED Status 
 **Primary chapter:** 12 — Decision Architecture and Lifecycle Governance 
-**Additional chapters:** 11,12
+**Additional chapters:** 11, 12
 
 ## Why this tool is retained
 

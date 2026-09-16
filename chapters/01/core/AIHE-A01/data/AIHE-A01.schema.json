@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-A01.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-A01.schema.json",
   "title": "AIHE-A01 Decision and Use-Case Specification",
   "type": "object",
   "required": [

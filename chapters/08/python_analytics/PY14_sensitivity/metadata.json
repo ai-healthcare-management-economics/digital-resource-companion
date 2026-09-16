@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY14",
   "module_number": 14,
   "title": "Deterministic sensitivity and tornado analysis",
@@ -14,7 +14,7 @@
   ],
   "related_case": "AIHE-CASE08",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Tests how one uncertain input at a time changes net monetary benefit or another linear decision outcome and ranks decision drivers.",

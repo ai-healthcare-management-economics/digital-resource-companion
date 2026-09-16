@@ -1,4 +1,4 @@
-﻿# Data files
+# Data files
 
 - `09_temporal_validation_and_drift_sample.xlsx` is a fully synthetic worked example and is the default input.
 - `09_temporal_validation_and_drift_template.xlsx` is a blank input wb with the required worksheets and fields.

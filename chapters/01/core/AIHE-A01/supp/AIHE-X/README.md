@@ -1,8 +1,8 @@
-﻿# AIHE-X — Decision Problem Template
+# AIHE-X — Decision Problem Template
 
 **Current canonical resource:** AIHE-A01 — Decision and Use-Case Specification 
-**Primary chapter:** 1 — AI as a Health-System Intervention 
-**Additional chapters:** 1,6,7,8,12
+**Primary chapter:** 1 — AI as a Health System Intervention 
+**Additional chapters:** 1, 6, 7, 8, 12
 
 ## Why this tool is retained
 

@@ -1,8 +1,8 @@
-﻿# AIHE-AA — Cost-Effectiveness and Budget-Impact Tool
+# AIHE-AA — Cost-Effectiveness and Budget-Impact Tool
 
 **Current canonical resource:** AIHE-B04 — Cost-Effectiveness, Budget Impact, and HTA Record 
 **Primary chapter:** 7 — Economic Evaluation, Affordability, and Health Technology Assessment 
-**Additional chapters:** 7,8
+**Additional chapters:** 7, 8
 
 ## Why this tool is retained
 

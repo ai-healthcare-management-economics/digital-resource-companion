@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY27",
   "module_number": 27,
   "title": "Algorithmovigilance, lifecycle cadence, drift, and incident monitoring",
@@ -16,7 +16,7 @@
   ],
   "related_case": "AIHE-CASE12",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Monitors technical, clinical, workflow, equity, economic, and trust indicators against warning and stop thresholds over time.",

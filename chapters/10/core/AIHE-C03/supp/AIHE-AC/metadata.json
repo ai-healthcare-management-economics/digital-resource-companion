@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-AC",
   "title": "Equity Impact Tool",
   "canonical_resource_id": "AIHE-C03",
   "primary_chapter": 7,
-  "aligned_chapters": "7,10,12,15",
+  "aligned_chapters": "7, 10, 12",
   "purpose": "Identify affected groups, barriers, harms, mitigations, costs, residual concerns, and monitoring indicators.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

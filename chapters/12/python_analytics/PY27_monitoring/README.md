@@ -1,4 +1,4 @@
-﻿# AIHE-PY27 — Algorithmovigilance, lifecycle cadence, drift, and incident monitoring
+# AIHE-PY27 — Algorithmovigilance, lifecycle cadence, drift, and incident monitoring
 
 **Version:** V1.0 
 **Primary chapter:** 12. Decision Architecture and Lifecycle Governance 

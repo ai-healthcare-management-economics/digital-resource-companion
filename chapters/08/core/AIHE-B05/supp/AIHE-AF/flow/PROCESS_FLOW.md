@@ -1,32 +1,55 @@
-﻿# AIHE-AF: Evidence, Reporting, and Assurance Crosswalk
+# AIHE-AF — Evidence, Reporting, and Assurance Crosswalk
 
-Primary lifecycle stage: Establish evidence and quality requirements. Primary book chapter: 11.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Define the evidence or quality question
 
-### 1. Define the evidence or quality question
 Clarify the claim, intended use, consequence, and decision supported by Evidence, Reporting, and Assurance Crosswalk.
 
-### 2. Identify standards and evidence sources
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Define the evidence or quality question
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Identify standards and evidence sources
+
 Select applicable reporting, appraisal, quality, accreditation, and assurance requirements.
 
-### 3. Appraise relevance and quality
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Identify standards and evidence sources
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Appraise relevance and quality
+
 Assess bias, applicability, transportability, completeness, and uncertainty.
 
-### 4. Plan local validation and thresholds
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Appraise relevance and quality
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Plan local validation and thresholds
+
 Define data, metrics, subgroups, workflow, acceptance criteria, and balancing indicators.
 
-### 5. Approve the evidence plan
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Plan local validation and thresholds
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Approve the evidence plan
+
 Document gaps, owners, review dates, and conditions for proceeding.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-Match evidence and assurance needs to reporting standards, appraisal tools, lifecycle guidance, and management systems.
+**Expected output:** Versioned record for: Approve the evidence plan
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-`AIHE-B05`
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

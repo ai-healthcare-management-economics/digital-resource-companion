@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-P",
   "title": "AI-HED Dossier Template",
   "canonical_resource_id": "AIHE-D02",
   "primary_chapter": 12,
-  "aligned_chapters": "6,7,8,9,10,11,12",
+  "aligned_chapters": "6, 7, 8, 9, 10, 11, 12",
   "purpose": "Maintain a versioned evidence, economics, governance, implementation, monitoring, update, and decision record.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

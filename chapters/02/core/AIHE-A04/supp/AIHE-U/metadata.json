@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-U",
   "title": "SHARE-AI Secondary-Use Governance Worksheet",
   "canonical_resource_id": "AIHE-A04",
   "primary_chapter": 2,
-  "aligned_chapters": "2,10,11,12",
+  "aligned_chapters": "2, 10, 11, 12",
   "purpose": "Authorize secondary data use through purpose, harmonization, access, risk, public value, and audit controls.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

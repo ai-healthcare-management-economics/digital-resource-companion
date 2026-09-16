@@ -1,8 +1,8 @@
-﻿# AIHE-EX16 — Reproducible Analysis, Model Risk, and Code Quality Checklist
+# AIHE-EX16 — Reproducible Analysis, Model Risk, and Code Quality Checklist
 
 **Current canonical resource:** AIHE-B05 — Model Selection, Uncertainty, and Reproducibility 
 **Primary chapter:** 8 — Decision Modelling, Simulation, and the Value of Information 
-**Additional chapters:** 8,11,12
+**Additional chapters:** 8, 11, 12
 
 ## Why this tool is retained
 

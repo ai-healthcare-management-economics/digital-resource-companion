@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY02",
   "module_number": 2,
   "title": "Descriptive statistics and visual comparisons",
@@ -15,7 +15,7 @@
   ],
   "related_case": "AIHE-CASE05",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Summarizes numerical and categorical variables, compares groups, and creates baseline visual diagnostics before modeling.",

@@ -1,4 +1,4 @@
-﻿# AIHE-PY15 — Probabilistic sensitivity analysis, CEAC, and EVPI
+# AIHE-PY15 — Probabilistic sensitivity analysis, CEAC, and EVPI
 
 **Version:** V1.0 
 **Primary chapter:** 8. Decision Modelling, Simulation, and the Value of Information 

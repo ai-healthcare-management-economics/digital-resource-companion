@@ -1,4 +1,4 @@
-﻿# Data files
+# Data files
 
 - `10_tcaio_lifecycle_costing_sample.xlsx` is a fully synthetic worked example and is the default input.
 - `10_tcaio_lifecycle_costing_template.xlsx` is a blank input wb with the required worksheets and fields.

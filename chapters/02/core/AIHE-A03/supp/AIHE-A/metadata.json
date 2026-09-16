@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-A",
   "title": "AI Readiness Assessment for Health Systems",
   "canonical_resource_id": "AIHE-A03",
   "primary_chapter": 2,
-  "aligned_chapters": "2,4,9,12",
+  "aligned_chapters": "2, 4, 9, 12",
   "purpose": "Assess strategic, data, infrastructure, workforce, governance, economic, ethical, security, and monitoring readiness at organizational and use-case levels.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

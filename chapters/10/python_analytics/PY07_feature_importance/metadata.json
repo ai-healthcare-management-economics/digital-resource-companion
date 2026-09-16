@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY07",
   "module_number": 7,
   "title": "Feature importance and partial-dependence exploration",
@@ -15,7 +15,7 @@
   ],
   "related_case": "AIHE-CASE10",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Fits a tree ensemble, calculates permutation importance, and visualizes the relationship between the top feature and predicted risk.",

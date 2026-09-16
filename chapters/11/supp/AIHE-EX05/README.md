@@ -29,7 +29,7 @@ A completed report should identify:
 
 - Word template and worked example
 - LibreOffice Writer template and worked example
-- XLSX and ODS workbooks
+- XLSX workbook
 - CSV blank record
 - process flow in Markdown, Mermaid, SVG, and PNG
 - metadata record

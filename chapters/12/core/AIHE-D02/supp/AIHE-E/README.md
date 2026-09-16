@@ -1,8 +1,8 @@
-﻿# AIHE-E — Applied Case and Decision Review Template
+# AIHE-E — Applied Case and Decision Review Template
 
 **Current canonical resource:** AIHE-D02 — Lifecycle Decision State, Staged Evidence, and AI-HED Status 
 **Primary chapter:** 12 — Decision Architecture and Lifecycle Governance 
-**Additional chapters:** 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+**Additional chapters:** 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
 
 ## Why this tool is retained
 

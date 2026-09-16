@@ -1,7 +1,7 @@
 # Emergency-Department Triage Portfolio Decision
 
 **Example ID:** AIHE-CASE01 
-**Aligned chapter:** Chapter 1 - AI as a Health-System Intervention 
+**Aligned chapter:** Chapter 1 - AI as a Health System Intervention 
 **Status:** Synthetic demonstration only 
 **Version:** V1.0 
 **Release date:** 2026-08-07

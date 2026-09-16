@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY28",
   "module_number": 28,
   "title": "Workflow time, capacity, productivity, and benefit realization",
@@ -14,7 +14,7 @@
   ],
   "related_case": "AIHE-CASE04",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Translates gross task-time savings into net time, usable capacity, realized output, quality-adjusted productivity, and economic value.",

@@ -1,4 +1,4 @@
-﻿# AIHE-RG04 — Regulatory, Standards, and Policy Update Register
+# AIHE-RG04 — Regulatory, Standards, and Policy Update Register
 
 **Primary chapter:** 10 — Governance, Accountability, and Institutional Risk 
 **Additional chapter alignment:** 2, 5, 7, 9, 10, 12-15 

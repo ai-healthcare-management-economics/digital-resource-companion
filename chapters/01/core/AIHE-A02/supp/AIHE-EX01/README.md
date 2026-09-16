@@ -1,8 +1,8 @@
-﻿# AIHE-EX01 — Project Intake and Stakeholder Register
+# AIHE-EX01 — Project Intake and Stakeholder Register
 
 **Current canonical resource:** AIHE-A02 — Stakeholders, Decision Rights, and Participation 
-**Primary chapter:** 1 — AI as a Health-System Intervention 
-**Additional chapters:** 1,9,12
+**Primary chapter:** 1 — AI as a Health System Intervention 
+**Additional chapters:** 1, 9, 12
 
 ## Why this tool is retained
 

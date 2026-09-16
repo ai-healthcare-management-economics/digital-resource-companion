@@ -1,4 +1,0 @@
-scenario,base_volume,new_volume,base_intensity,new_intensity,local_change,supplier_change,future_change
-expected adoption,10000,14500,5.0,3.3,-12000,9000,2500
-high induced demand,10000,17000,5.0,3.3,-15000,13500,4000
-controlled volume,10000,11500,5.0,3.3,-9000,5500,1200

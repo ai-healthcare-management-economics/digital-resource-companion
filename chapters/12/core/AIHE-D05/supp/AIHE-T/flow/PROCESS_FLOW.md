@@ -1,32 +1,55 @@
-﻿# AIHE-T: AI De-adoption and Decommissioning Plan
+# AIHE-T — AI De-adoption and Decommissioning Plan
 
-Primary lifecycle stage: Implement, monitor, and control change. Primary book chapter: 9.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Prepare implementation and control conditions
 
-### 1. Prepare implementation and control conditions
 Define readiness, training, workflow, fallback, evidence, and governance requirements for AI De-adoption and Decommissioning Plan.
 
-### 2. Implement in stages
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Prepare implementation and control conditions
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Implement in stages
+
 Use silent mode, controlled pilot, acceptance criteria, and accountable decision gates.
 
-### 3. Monitor technical and service performance
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Implement in stages
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Monitor technical and service performance
+
 Review outcomes, workload, subgroups, incidents, costs, adoption, and contract performance.
 
-### 4. Investigate incidents and material changes
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Monitor technical and service performance
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Investigate incidents and material changes
+
 Reconstruct data, versions, outputs, human actions, causes, corrective action, and revalidation.
 
-### 5. Renew, restrict, replace, or retire
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Investigate incidents and material changes
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Renew, restrict, replace, or retire
+
 Compare current value and risk with alternatives, continuity, and exit readiness.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-Define stopping triggers, fallback, transition, data disposition, communication, contract exit, validation, and post-retirement review.
+**Expected output:** Versioned record for: Renew, restrict, replace, or retire
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-`AIHE-D05`
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

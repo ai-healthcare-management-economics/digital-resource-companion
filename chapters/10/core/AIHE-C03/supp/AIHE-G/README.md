@@ -1,8 +1,8 @@
-﻿# AIHE-G — Sample Health-System AI Governance Charter
+# AIHE-G — Sample Health-System AI Governance Charter
 
 **Current canonical resource:** AIHE-C03 — Integrated Institutional-Risk Review 
 **Primary chapter:** 10 — Governance, Accountability, and Institutional Risk 
-**Additional chapters:** 10,12
+**Additional chapters:** 10, 12
 
 ## Why this tool is retained
 

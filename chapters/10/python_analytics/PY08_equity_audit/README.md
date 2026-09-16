@@ -1,4 +1,4 @@
-﻿# AIHE-PY08 — Subgroup performance and equity audit
+# AIHE-PY08 — Subgroup performance and equity audit
 
 **Version:** V1.0 
 **Primary chapter:** 10. Governance, Accountability, and Institutional Risk 

@@ -1,8 +1,8 @@
-﻿# AIHE-K — AI-HEVG Assessment Workbook
+# AIHE-K — AI-HEVG Assessment Workbook
 
 **Current canonical resource:** AIHE-D02 — Lifecycle Decision State, Staged Evidence, and AI-HED Status 
 **Primary chapter:** 12 — Decision Architecture and Lifecycle Governance 
-**Additional chapters:** 1,2,6,7,10,12
+**Additional chapters:** 1, 2, 6, 7, 10, 12
 
 ## Why this tool is retained
 

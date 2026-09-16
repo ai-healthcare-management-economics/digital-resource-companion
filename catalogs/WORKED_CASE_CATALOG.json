@@ -2,9 +2,9 @@
   {
     "case_id": "AIHE-CASE00",
     "title": "Common Case-Analysis Method",
-    "chapter": "0",
+    "chapter": "",
     "chapter_title": "Cross-chapter resource",
-    "related_core_resources": "AIHE-A01; AIHE-B01; AIHE-C03; AIHE-D02; AIHE-E01",
+    "related_core_resources": "AIHE-A01; AIHE-B01; AIHE-C03; AIHE-D02",
     "related_python_modules": "",
     "formats": "md; docx; xlsx; csv; json",
     "version": "V1.0",
@@ -13,13 +13,13 @@
     "canonical_folder": "worked_examples/00_case_analysis_method",
     "browser_demo_path": "",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE01",
     "title": "Emergency-Department Triage Portfolio Decision",
     "chapter": "1",
-    "chapter_title": "AI as a Health-System Intervention",
+    "chapter_title": "AI as a Health System Intervention",
     "related_core_resources": "AIHE-A01; AIHE-W; AIHE-X; AIHE-EX01; AIHE-K; AIHE-H",
     "related_python_modules": "",
     "formats": "md; csv; json; xlsx",
@@ -29,7 +29,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE01_emergency_department_triage_portfolio_decision",
     "browser_demo_path": "docs/demos/AIHE-CASE01/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE02",
@@ -45,7 +45,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE02_readmission_model_readiness_and_data_fitness_assessment",
     "browser_demo_path": "docs/demos/AIHE-CASE02/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE03",
@@ -61,7 +61,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE03_deterioration_alert_under_constrained_review_capacity",
     "browser_demo_path": "docs/demos/AIHE-CASE03/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE03B",
@@ -77,7 +77,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE03B_hospital_command_dashboard_and_patient_flow",
     "browser_demo_path": "docs/demos/AIHE-CASE03B/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE04",
@@ -93,7 +93,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE04_ambient_documentation_assistant_productivity_and_work_redesign",
     "browser_demo_path": "docs/demos/AIHE-CASE04/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE05",
@@ -109,7 +109,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE05_ai_quality_management_accreditation_and_corrective_action",
     "browser_demo_path": "docs/demos/AIHE-CASE05/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE06",
@@ -125,7 +125,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE06_five_year_lifecycle_cost_pricing_roi_and_benefit_realization",
     "browser_demo_path": "docs/demos/AIHE-CASE06/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE06B",
@@ -141,7 +141,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE06B_financial_recognition_and_budget_incidence",
     "browser_demo_path": "docs/demos/AIHE-CASE06B/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE07",
@@ -157,7 +157,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE07_remote_monitoring_cost_effectiveness_budget_impact_and_hta",
     "browser_demo_path": "docs/demos/AIHE-CASE07/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE08",
@@ -173,7 +173,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE08_imaging_prioritization_decision_model_and_value_of_information",
     "browser_demo_path": "docs/demos/AIHE-CASE08/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE08B",
@@ -189,7 +189,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE08B_evsi_and_expected_net_benefit_of_sampling",
     "browser_demo_path": "docs/demos/AIHE-CASE08B/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE09",
@@ -205,7 +205,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE09_ai_vendor_procurement_and_contract_negotiation",
     "browser_demo_path": "docs/demos/AIHE-CASE09/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE09B",
@@ -221,7 +221,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE09B_upstream_model_provider_change_during_vendor_contract",
     "browser_demo_path": "docs/demos/AIHE-CASE09B/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE10",
@@ -237,7 +237,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE10_patient_facing_chatbot_institutional_risk_review",
     "browser_demo_path": "docs/demos/AIHE-CASE10/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE11",
@@ -253,7 +253,7 @@
     "canonical_folder": "worked_examples/AIHE-CASE11_local_validation_and_causal_evaluation_of_readmission_model",
     "browser_demo_path": "docs/demos/AIHE-CASE11/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "case_id": "AIHE-CASE12",
@@ -269,70 +269,6 @@
     "canonical_folder": "worked_examples/AIHE-CASE12_model_update_incident_response_and_renewal_decision",
     "browser_demo_path": "docs/demos/AIHE-CASE12/index.html",
     "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
-  },
-  {
-    "case_id": "AIHE-CASE13",
-    "title": "Circular AI Infrastructure Strategy",
-    "chapter": "13",
-    "chapter_title": "Circular Health Systems and Resource Stewardship",
-    "related_core_resources": "AIHE-E01; AIHE-CE1; AIHE-CE4; AIHE-I",
-    "related_python_modules": "AIHE-PY36; AIHE-PY39",
-    "formats": "md; csv; json; xlsx",
-    "version": "V1.0",
-    "status": "public",
-    "folder": "worked_examples/AIHE-CASE13_circular_ai_infrastructure_strategy",
-    "canonical_folder": "worked_examples/AIHE-CASE13_circular_ai_infrastructure_strategy",
-    "browser_demo_path": "docs/demos/AIHE-CASE13/index.html",
-    "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
-  },
-  {
-    "case_id": "AIHE-CASE13B",
-    "title": "Rebound and Burden Transfer",
-    "chapter": "13",
-    "chapter_title": "Circular Health Systems and Resource Stewardship",
-    "related_core_resources": "AIHE-E01; AIHE-E05",
-    "related_python_modules": "AIHE-PY36; AIHE-PY39",
-    "formats": "md; csv; json; xlsx",
-    "version": "V1.0",
-    "status": "public",
-    "folder": "worked_examples/AIHE-CASE13B_rebound_and_burden_transfer",
-    "canonical_folder": "worked_examples/AIHE-CASE13B_rebound_and_burden_transfer",
-    "browser_demo_path": "docs/demos/AIHE-CASE13B/index.html",
-    "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
-  },
-  {
-    "case_id": "AIHE-CASE14",
-    "title": "Imaging Platform: Maintain, Refurbish, Replace, or Share",
-    "chapter": "14",
-    "chapter_title": "Circular Procurement and Asset Stewardship",
-    "related_core_resources": "AIHE-E02; AIHE-E03; AIHE-CE2; AIHE-CE3; AIHE-D01; AIHE-T",
-    "related_python_modules": "AIHE-PY37",
-    "formats": "md; csv; json; xlsx",
-    "version": "V1.0",
-    "status": "public",
-    "folder": "worked_examples/AIHE-CASE14_imaging_platform_maintain_refurbish_replace_or_share",
-    "canonical_folder": "worked_examples/AIHE-CASE14_imaging_platform_maintain_refurbish_replace_or_share",
-    "browser_demo_path": "docs/demos/AIHE-CASE14/index.html",
-    "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
-  },
-  {
-    "case_id": "AIHE-CASE15",
-    "title": "AI-Assisted Remote Diagnostic Pathway: Circularity-Adjusted Economic Evaluation",
-    "chapter": "15",
-    "chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "related_core_resources": "AIHE-E04; AIHE-E05; AIHE-E03; AIHE-B04; AIHE-D02",
-    "related_python_modules": "AIHE-PY38; AIHE-PY39; AIHE-PY40",
-    "formats": "md; csv; json; xlsx",
-    "version": "V1.0",
-    "status": "public",
-    "folder": "worked_examples/AIHE-CASE15_ai_assisted_remote_diagnostic_pathway",
-    "canonical_folder": "worked_examples/AIHE-CASE15_ai_assisted_remote_diagnostic_pathway",
-    "browser_demo_path": "docs/demos/AIHE-CASE15/index.html",
-    "synthetic_data_status": "Synthetic instructional data; replace with authorized local evidence before institutional use.",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   }
 ]

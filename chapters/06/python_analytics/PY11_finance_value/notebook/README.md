@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY11
+# Notebook route — AIHE-PY11
 
 Open `11_roi_benefit_realization.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

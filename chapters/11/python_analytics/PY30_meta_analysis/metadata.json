@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY30",
   "module_number": 30,
   "title": "Random-effects meta-analysis and forest plot",
@@ -14,7 +14,7 @@
   ],
   "related_case": "AIHE-CASE11",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Pools study-level effects using inverse-variance fixed and DerSimonian-Laird random-effects methods, quantifies heterogeneity, and creates forest and funnel plots.",

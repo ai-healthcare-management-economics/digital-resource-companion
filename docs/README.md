@@ -1,7 +1,7 @@
 # GitHub Pages Web Companion
 
-This directory contains the public V1.0 Web Companion for *Artificial Intelligence and Healthcare Economics: Evidence, Value, Governance, and Sustainability*.
+This directory contains the public V1.0 Web Companion for *Artificial Intelligence in Healthcare Management and Economics: Evidence, Value, Governance, and Lifecycle Decision-Making*.
 
-The site preserves the cover-derived burgundy, navy, cream, and gold design while reflecting the current 15-chapter book, 24 core records, 20 worked examples, 40 Python modules, 31 principal figures, and 46 principal tables.
+The site preserves the cover-derived burgundy, charcoal, cream, and muted gold design while reflecting the current 15-chapter book, 19 core records, 16 worked examples, 36 Python modules, 29 principal figures, and 38 tables (including two front-matter tables).
 
 Canonical resource sources are maintained outside `docs/`. The website is a synchronized distribution layer and should be regenerated when source records, catalogues, cases, modules, figures, or tables change.

@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-A03",
   "title": "Institutional Readiness Assessment",
   "primary_chapter": 2,
@@ -15,9 +15,9 @@
     "AIHE-A",
     "AIHE-L"
   ],
-  "purpose": "Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and sustainability readiness.",
+  "purpose": "Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and continuing support readiness.",
   "version": "V1.0",
-  "release_date": "2026-09-02",
+  "release_date": "2026-09-16",
   "status": "Current consolidated resource",
   "book_alignment": "Chapter 2: Institutional Readiness and Digital Foundations",
   "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",

@@ -1,8 +1,8 @@
-﻿# AIHE-EX04 — Evidence and Assumption Log
+# AIHE-EX04 — Evidence and Assumption Log
 
 **Current canonical resource:** AIHE-B05 — Model Selection, Uncertainty, and Reproducibility 
 **Primary chapter:** 11 — Evidence, Validation, and Real-World Evaluation 
-**Additional chapters:** 7,8,11,12
+**Additional chapters:** 7, 8, 11, 12
 
 ## Why this tool is retained
 

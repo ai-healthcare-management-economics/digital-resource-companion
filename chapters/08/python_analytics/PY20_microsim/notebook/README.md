@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY20
+# Notebook route — AIHE-PY20
 
 Open `20_patient_microsimulation.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "stage": 1,
     "stage_name": "Define the decision",
@@ -25,7 +25,7 @@
     "stage": 3,
     "stage_name": "Establish evidence and quality requirements",
     "decision_purpose": "Define validation, reporting, appraisal, quality-control, accreditation, patient-safety, and independent-assurance requirements before consequential use.",
-    "primary_chapters": "5; 11",
+    "primary_chapters": "5, 11",
     "primary_resources": "AIHE-C01; AIHE-C02; AIHE-EX05; AIHE-RG02; AIHE-RG06",
     "supporting_resources": "AIHE-CASE05; AIHE-CASE11; AIHE-V",
     "recommended_preceding_records": "AIHE-A01; AIHE-A03; AIHE-A04",
@@ -36,7 +36,7 @@
     "stage": 4,
     "stage_name": "Model cost, value, affordability, and HTA",
     "decision_purpose": "Estimate lifecycle cost, pricing exposure, benefit realization, cost-effectiveness, budget impact, affordability, distribution, reimbursement, and HTA implications.",
-    "primary_chapters": "6; 7",
+    "primary_chapters": "6, 7",
     "primary_resources": "AIHE-B01; AIHE-B02; AIHE-B03; AIHE-B04",
     "supporting_resources": "AIHE-CASE06; AIHE-CASE07; AIHE-B; AIHE-M",
     "recommended_preceding_records": "AIHE-A01; AIHE-A03; AIHE-A04",
@@ -80,7 +80,7 @@
     "stage": 8,
     "stage_name": "Implement, monitor, and control change",
     "decision_purpose": "Use staged implementation, role and competency design, post-deployment monitoring, algorithmovigilance, incident reconstruction, corrective action, material-change review, and renewal controls.",
-    "primary_chapters": "4; 12",
+    "primary_chapters": "4, 12",
     "primary_resources": "AIHE-D02; AIHE-D03; AIHE-D04; AIHE-D05; AIHE-RG03",
     "supporting_resources": "AIHE-CASE04; AIHE-CASE12; AIHE-EX10; AIHE-EX11; AIHE-EX12",
     "recommended_preceding_records": "AIHE-D01; AIHE-D02; AIHE-C01",
@@ -89,22 +89,22 @@
   },
   {
     "stage": 9,
-    "stage_name": "Apply circular and sustainable-value analysis",
-    "decision_purpose": "Assess resource stewardship, circular procurement, asset life, environmental and material effects, residual value, resilience, equity, rebound, recovery, and responsible disposition.",
-    "primary_chapters": "13; 14; 15",
-    "primary_resources": "AIHE-E01; AIHE-E02; AIHE-E03; AIHE-E04; AIHE-E05",
-    "supporting_resources": "AIHE-CASE13; AIHE-CASE14; AIHE-CASE15; AIHE-CE1; AIHE-CE2; AIHE-CE6",
-    "recommended_preceding_records": "AIHE-A01; AIHE-B01; AIHE-D01",
-    "typical_output": "Circularity assessment, asset-option appraisal, circularity-adjusted evaluation, disposition plan, and sustainable-value dashboard.",
-    "decision_gate": "Does the preferred option preserve health-system value while controlling material, environmental, resilience, and disposition burdens?"
+    "stage_name": "Reassess continuing value, affordability, and support",
+    "decision_purpose": "Reassess the current comparator, realized benefits, lifecycle costs, budget exposure, supplier support, infrastructure dependencies, continuity, residual value, and credible replacement or exit options.",
+    "primary_chapters": "6, 9, 12",
+    "primary_resources": "AIHE-B02; AIHE-B03; AIHE-B04; AIHE-D01; AIHE-D05",
+    "supporting_resources": "AIHE-CASE06; AIHE-CASE06B; AIHE-CASE09B; AIHE-CASE12; AIHE-PY10; AIHE-PY11; AIHE-PY17",
+    "recommended_preceding_records": "AIHE-A01; AIHE-B01; AIHE-D01; AIHE-D03",
+    "typical_output": "Updated financial case, supportability and continuity assessment, current alternatives, and a justified renewal, renegotiation, restriction, replacement, or retirement recommendation.",
+    "decision_gate": "Does continuing use remain justified, affordable, supportable, and preferable to current alternatives without compromising mandatory safeguards?"
   },
   {
     "stage": 10,
     "stage_name": "Assemble the decision record and renew or retire",
-    "decision_purpose": "Integrate evidence, economics, governance, implementation, monitoring, circularity, conditions, dissent, and accountability into a versioned decision record and make an explicit continue, redesign, restrict, replace, or retire decision.",
-    "primary_chapters": "12; 14; 15",
+    "decision_purpose": "Integrate evidence, economics, governance, implementation, monitoring, conditions, dissent, and accountability into a versioned decision record and make an explicit continue, redesign, restrict, replace, or retire decision.",
+    "primary_chapters": "12",
     "primary_resources": "AIHE-D02; AIHE-D05; AIHE-P; AIHE-AE",
-    "supporting_resources": "AIHE-C03; AIHE-E03; AIHE-E04; AIHE-E05; AIHE-PY29; AIHE-CASE12",
+    "supporting_resources": "AIHE-C03; AIHE-B02; AIHE-PY29; AIHE-PY40; AIHE-CASE12",
     "recommended_preceding_records": "AIHE-D02; AIHE-C03; AIHE-B01; AIHE-D05",
     "typical_output": "Versioned AI-HED or equivalent decision dossier, final recommendation, review date, renewal or de-adoption decision, and transition record.",
     "decision_gate": "Is continuing use still preferable to redesign, restriction, replacement, or retirement under current evidence and alternatives?"

@@ -1,8 +1,8 @@
-﻿# Decision gates
+# Decision review points
 
-- **Gate 1: Define the institutional problem** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 2: Map the complete intervention bundle** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 3: Identify realistic comparators** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 4: Formulate the causal value hypothesis** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 5: Specify evidence and safeguards** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 6: Set a reversible decision rule** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
+- **1. Define the institutional problem:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **2. Map the complete intervention bundle:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **3. Identify realistic comparators:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **4. Formulate the causal value hypothesis:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **5. Specify evidence and safeguards:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **6. Set a reversible decision rule:** Proceed, revise, escalate, restrict, or stop as appropriate.

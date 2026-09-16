@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-R",
   "title": "VALIDATE-AI Implementation Plan",
   "canonical_resource_id": "AIHE-D02",
   "primary_chapter": 12,
-  "aligned_chapters": "4,11,12",
+  "aligned_chapters": "4, 11, 12",
   "purpose": "Manage implementation as an evidence-producing sequence from problem verification through continuous evaluation.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY08
+# Notebook route — AIHE-PY08
 
 Open `08_subgroup_equity_audit.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

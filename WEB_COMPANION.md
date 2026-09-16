@@ -7,9 +7,9 @@ It includes:
 - guided navigation by chapter and decision pathway
 - browser-readable core institutional forms
 - process maps and decision stages
-- 20 worked examples and the common case-analysis method
-- a searchable catalogue of 146 resources
-- a catalogue of 40 Python modules
+- 16 worked examples and the common case-analysis method
+- a searchable catalogue of 126 resources
+- a catalogue of 36 Python modules
 - the current 31-figure and 46-table book alignment; and
 - links to downloadable Word, Excel, PDF, and canonical source resources.
 

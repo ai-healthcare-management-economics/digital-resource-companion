@@ -6,7 +6,7 @@
 
 ## Purpose
 
-Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and sustainability readiness.
+Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and continuing support readiness.
 
 ## Included files
 

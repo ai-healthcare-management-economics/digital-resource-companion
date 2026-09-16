@@ -1,6 +1,6 @@
-﻿# AIHE-RG07 — Common AI Adoption Failures and Corrective Actions
+# AIHE-RG07 — Common AI Adoption Failures and Corrective Actions
 
-**Aligned chapters:** 1–12 
+**Aligned chapters:** 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 
 **Primary use:** identify recurring failure patterns early and assign preventive controls.
 
 | Failure pattern | Why it persists | Consequence | Corrective discipline |

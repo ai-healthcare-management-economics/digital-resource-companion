@@ -1,5 +1,0 @@
-option,mandatory_eligible,present_value_cost,realizable_residual_value,supported_years,discount_rate,expected_downtime_days,minimum_supported_years
-maintain,false,180000,0,3,0.035,18,4
-refurbish,true,420000,35000,5,0.035,8,4
-replace,true,650000,80000,8,0.035,3,6
-shared service,true,490000,15000,6,0.035,5,5

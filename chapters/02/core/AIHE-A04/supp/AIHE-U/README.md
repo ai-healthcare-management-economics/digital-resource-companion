@@ -1,8 +1,8 @@
-﻿# AIHE-U — SHARE-AI Secondary-Use Governance Worksheet
+# AIHE-U — SHARE-AI Secondary-Use Governance Worksheet
 
 **Current canonical resource:** AIHE-A04 — Data Source, Provenance, and Fitness Record 
 **Primary chapter:** 2 — Institutional Readiness and Digital Foundations 
-**Additional chapters:** 2,10,11,12
+**Additional chapters:** 2, 10, 11, 12
 
 ## Why this tool is retained
 

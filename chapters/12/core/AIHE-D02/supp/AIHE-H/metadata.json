@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-H",
   "title": "AI Project One-Page Decision Memo",
   "canonical_resource_id": "AIHE-D02",
   "primary_chapter": 12,
-  "aligned_chapters": "1,6,7,9,10,12",
+  "aligned_chapters": "1, 6, 7, 9, 10, 12",
   "purpose": "Summarize the decision problem, comparator, evidence, economics, risks, implementation, conditions, and decision requested.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

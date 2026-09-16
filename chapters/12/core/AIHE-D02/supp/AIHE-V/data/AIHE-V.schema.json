@@ -1,4 +1,4 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://example.org/schemas/AIHE-V.schema.json",
   "title": "Validation Protocol for the Proposed Framework Package",

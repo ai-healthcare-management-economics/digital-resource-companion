@@ -1,4 +1,4 @@
-﻿# AIHE-PY25 — Weighted procurement scorecard with mandatory safeguards
+# AIHE-PY25 — Weighted procurement scorecard with mandatory safeguards
 
 **Version:** V1.0 
 **Primary chapter:** 9. Problem-First Procurement and Vendor Governance 

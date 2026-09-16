@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-EX12",
   "title": "Incident Corrective Action and Reconstruction Log",
   "canonical_resource_id": "AIHE-D04",
   "primary_chapter": 5,
-  "aligned_chapters": "5,10,12",
+  "aligned_chapters": "5, 10, 12",
   "purpose": "Classify and reconstruct technical, clinical, workflow, privacy, cybersecurity, equity, and communication incidents.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

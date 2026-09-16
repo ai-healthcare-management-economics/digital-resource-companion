@@ -1,32 +1,55 @@
-﻿# AIHE-EX07: Benefit Realization and Capacity Conversion Log
+# AIHE-EX07 — Benefit Realization and Capacity Conversion Log
 
-Primary lifecycle stage: Model cost, value, affordability, and HTA. Primary book chapter: 6.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Specify the economic decision
 
-### 1. Specify the economic decision
 Define perspective, comparator, population, horizon, and decision rule for Benefit Realization and Capacity Conversion Log.
 
-### 2. Collect cost, outcome, and pricing evidence
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Specify the economic decision
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Collect cost, outcome, and pricing evidence
+
 Document lifecycle resources, benefit mechanisms, uptake, reimbursement, and uncertainty.
 
-### 3. Construct base and alternative scenarios
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Collect cost, outcome, and pricing evidence
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Construct base and alternative scenarios
+
 Model volume, implementation, prices, outcomes, distribution, and affordability.
 
-### 4. Review validity and uncertainty
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Construct base and alternative scenarios
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Review validity and uncertainty
+
 Test assumptions, thresholds, sensitivity, and decision-critical evidence gaps.
 
-### 5. Issue a conditional economic recommendation
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Review validity and uncertainty
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Issue a conditional economic recommendation
+
 State value, affordability, funding, conditions, evidence needs, and review triggers.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-Assign each benefit to a mechanism, measure, owner, baseline, timing, accounting treatment, and verification source.
+**Expected output:** Versioned record for: Issue a conditional economic recommendation
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-`AIHE-B03`
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

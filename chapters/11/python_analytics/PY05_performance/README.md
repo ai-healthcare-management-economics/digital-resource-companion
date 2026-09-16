@@ -1,4 +1,4 @@
-﻿# AIHE-PY05 — Model performance, threshold trade-offs, and calibration
+# AIHE-PY05 — Model performance, threshold trade-offs, and calibration
 
 **Version:** V1.0 
 **Primary chapter:** 11. Evidence, Validation, and Real-World Evaluation 

@@ -1,4 +1,4 @@
-﻿# AIHE-PY11 — ROI, net benefit, and benefit-realization analysis
+# AIHE-PY11 — ROI, net benefit, and benefit-realization analysis
 
 **Version:** V1.0 
 **Primary chapter:** 6. Lifecycle Cost, Pricing, and Benefit Realization 

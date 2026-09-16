@@ -1,8 +1,8 @@
-﻿# AIHE-Y — Data Quality and Fitness-for-Purpose Assessment
+# AIHE-Y — Data Quality and Fitness-for-Purpose Assessment
 
 **Current canonical resource:** AIHE-A04 — Data Source, Provenance, and Fitness Record 
 **Primary chapter:** 2 — Institutional Readiness and Digital Foundations 
-**Additional chapters:** 2,11,12
+**Additional chapters:** 2, 11, 12
 
 ## Why this tool is retained
 

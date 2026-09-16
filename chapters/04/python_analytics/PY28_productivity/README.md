@@ -1,4 +1,4 @@
-﻿# AIHE-PY28 — Workflow time, capacity, productivity, and benefit realization
+# AIHE-PY28 — Workflow time, capacity, productivity, and benefit realization
 
 **Version:** V1.0 
 **Primary chapter:** 4. Productivity, Work Redesign, and Implementation 

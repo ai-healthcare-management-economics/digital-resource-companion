@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY26
+# Notebook route — AIHE-PY26
 
 Open `26_integrated_risk_register.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

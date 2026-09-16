@@ -1,6 +1,6 @@
 # AIHE-RG01 — Framework Status and Selection Guide
 
-**Aligned chapters:** 2, 4, 5, 7, 9–12 
+**Aligned chapters:** 2, 4, 5, 7, 9, 10, 11, 12 
 **Primary use:** distinguish instruments by authority, evidentiary role, and decision function before selecting them.
 
 ## Why this guide is needed
@@ -32,7 +32,7 @@ Healthcare AI literature often places legislation, standards, reporting guidance
 | CFIR, NASSS-CAT, RE-AIM/PRISM | Established implementation frameworks or models | Analyse determinants, complexity, outcomes, adaptation, scale, and sustainment | Selection should match the question; none is a complete AI governance system |
 | TAM and UTAUT | Established acceptance theories | Examine perceived usefulness, effort, social influence, facilitating conditions, and intention | Individual acceptance does not establish safe implementation or sustained value |
 | FAIR, FHIR, and OMOP | Data principles, interoperability standard, and common data model | Data stewardship, exchange, standardization, and reproducible evidence infrastructure | Technical conformance does not guarantee semantic validity, lawful use, or decision utility |
-| AI-HEVG, AI-HED, TCAIO, TAV, EWAHE, HOAM, institutional decision-state and transition logic, VALIDATE-AI, SHARE-AI | Author-developed or adapted decision aids proposed in the book | Integrate evidence, economics, governance, implementation, and lifecycle records | Not external standards, validated clinical instruments, or regulatory pathways |
+| AI-HEVG, AI-HED, TCAIO, institutional decision-state and transition logic, VALIDATE-AI, SHARE-AI | Author-developed or adapted decision aids proposed in the book | Integrate evidence, economics, governance, implementation, and lifecycle records | Not external standards, validated clinical instruments, or regulatory pathways |
 
 ## Local selection record
 

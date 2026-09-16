@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY15
+# Notebook route — AIHE-PY15
 
 Open `15_probabilistic_sensitivity_ceac_evpi.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

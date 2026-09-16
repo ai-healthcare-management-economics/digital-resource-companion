@@ -1,4 +1,4 @@
-﻿# AIHE-PY30 — Random-effects meta-analysis and forest plot
+# AIHE-PY30 — Random-effects meta-analysis and forest plot
 
 **Version:** V1.0 
 **Primary chapter:** 11. Evidence, Validation, and Real-World Evaluation 

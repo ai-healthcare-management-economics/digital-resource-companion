@@ -1,4 +1,4 @@
-﻿# AIHE-PY35 — Constrained resource-allocation optimization
+# AIHE-PY35 — Constrained resource-allocation optimization
 
 **Version:** V1.0 
 **Primary chapter:** 3. Human–AI Decision Systems and Managerial Action 

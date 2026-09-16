@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-C05.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-C05.schema.json",
   "title": "AIHE-C05 Public Transparency and Communication Record",
   "type": "object",
   "required": [

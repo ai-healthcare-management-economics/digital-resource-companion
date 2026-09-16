@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-A04.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-A04.schema.json",
   "title": "AIHE-A04 Data Source, Provenance, and Fitness Record",
   "type": "object",
   "required": [

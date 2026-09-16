@@ -1,4 +1,4 @@
-﻿# AIHE-PY26 — Integrated privacy, cybersecurity, equity, safety, and trust risk register
+# AIHE-PY26 — Integrated privacy, cybersecurity, equity, safety, and trust risk register
 
 **Version:** V1.0 
 **Primary chapter:** 10. Governance, Accountability, and Institutional Risk 

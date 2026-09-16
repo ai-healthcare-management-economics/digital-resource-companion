@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-D02.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-D02.schema.json",
   "title": "AIHE-D02 Lifecycle Decision State, Staged Evidence, and AI-HED Status",
   "type": "object",
   "required": [

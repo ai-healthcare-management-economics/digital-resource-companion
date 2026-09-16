@@ -4,7 +4,7 @@
 
 This method provides a consistent way to analyse the companion's worked cases and locally developed institutional cases. It does not force all decisions into one score. Its purpose is to make the decision problem, evidence, assumptions, uncertainty, responsibilities, and conditions visible.
 
-## Five-part analysis
+## four-part analysis
 
 ### 1. Problem, comparator, and intervention
 

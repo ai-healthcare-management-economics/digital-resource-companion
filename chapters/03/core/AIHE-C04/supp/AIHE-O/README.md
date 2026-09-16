@@ -1,8 +1,8 @@
-﻿# AIHE-O — HOAM Accountability Workbook
+# AIHE-O — Human Oversight and Accountability Workbook
 
 **Current canonical resource:** AIHE-C04 — Human Oversight and Accountability Matrix 
 **Primary chapter:** 3 — Human–AI Decision Systems and Managerial Action 
-**Additional chapters:** 3,10,12
+**Additional chapters:** 3, 10, 12
 
 ## Why this tool is retained
 

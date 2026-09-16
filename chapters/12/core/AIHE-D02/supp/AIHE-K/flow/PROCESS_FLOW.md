@@ -1,32 +1,55 @@
-﻿# AIHE-K: AI-HEVG Assessment Workbook
+# AIHE-K — AI-HEVG Assessment Workbook
 
-Primary lifecycle stage: Assemble the decision record and renew or retire. Primary book chapter: 12.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Define the assessment boundary
 
-### 1. Assemble the current decision dossier
-Bring together the problem, evidence, economics, governance, implementation, monitoring, and changes relevant to AI-HEVG Assessment Workbook.
+Identify the complete intervention, use case, population, setting, version, decision, and realistic comparator.
 
-### 2. Check completeness and mandatory safeguards
-Resolve inconsistencies, evidence gaps, unowned risks, expired reviews, and non-compensatory failures.
+**Required input:** Current, version-matched evidence and the defined decision identity
 
-### 3. Conduct accountable deliberation
-Compare options, dissent, uncertainty, opportunity cost, continuity, and public-value implications.
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
 
-### 4. Issue the decision and conditions
-Approve, pilot, scale, restrict, pause, replace, or retire with owners and thresholds.
+**Decision:** Accountable review; no automatic authorization
 
-### 5. Maintain review and archival traceability
-Record version, evidence cut-off, next review, trigger events, change log, and final disposition.
+## 2. Assess distinct AI-HEVG domains
 
-## Illustrative application
+Review problem relevance, data readiness, clinical validity, economic value, ethical acceptability, organizational feasibility, and lifecycle governability.
 
-Assess problem relevance, data, validity, economics, ethics, feasibility, lifecycle governance, safeguards, and final decision.
+**Required input:** Current, version-matched evidence and the defined decision identity
 
-## Related resource IDs
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
 
-`AIHE-D02`
+**Decision:** Accountable review; no automatic authorization
 
-## Status and limitations
+## 3. Preserve safeguards and uncertainty
 
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+Record evidence sources, limitations, outstanding issues, dissent, and mandatory safeguards without a composite authorization score.
+
+**Required input:** Current, version-matched evidence and the defined decision identity
+
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+## 4. Integrate judgement into the AI-HED
+
+Link authoritative specialist records and record the current decision state, conditions, accountable authority, effective date, and next review.
+
+**Required input:** Current, version-matched evidence and the defined decision identity
+
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+## 5. Reassess when conditions change
+
+Use monitoring, incidents, version changes, costs, support, evidence, and alternatives to trigger renewed institutional judgement.
+
+**Required input:** Current, version-matched evidence and the defined decision identity
+
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

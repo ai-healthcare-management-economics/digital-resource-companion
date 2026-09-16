@@ -1,42 +1,42 @@
-﻿[
+[
   {
     "step": 1,
-    "stage": "Prepare implementation and control conditions",
-    "purpose": "Define readiness, training, workflow, fallback, evidence, and governance requirements for Lifecycle Decision State, Staged Evidence, and AI-HED Status.",
-    "required_input": "Local evidence and the prior approved step",
-    "expected_output": "Versioned record for: Prepare implementation and control conditions",
-    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+    "stage": "Define and preserve the decision identity",
+    "purpose": "Record intervention, supplier, model, configuration, data, workflow, population, setting, comparator, and version.",
+    "required_input": "Current, version-matched evidence and the defined decision identity",
+    "expected_output": "A dated institutional record with evidence, conditions, owner, and next review",
+    "decision_or_gate": "Accountable review; no automatic authorization"
   },
   {
     "step": 2,
-    "stage": "Implement in stages",
-    "purpose": "Use silent mode, controlled pilot, acceptance criteria, and accountable decision gates.",
-    "required_input": "Local evidence and the prior approved step",
-    "expected_output": "Versioned record for: Implement in stages",
-    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+    "stage": "Link authoritative evidence and safeguards",
+    "purpose": "Link specialist evidence, its cut-off and limitations; preserve non-compensatory safeguards, uncertainty, dissent, and accountable review.",
+    "required_input": "Current, version-matched evidence and the defined decision identity",
+    "expected_output": "A dated institutional record with evidence, conditions, owner, and next review",
+    "decision_or_gate": "Accountable review; no automatic authorization"
   },
   {
     "step": 3,
-    "stage": "Monitor technical and service performance",
-    "purpose": "Review outcomes, workload, subgroups, incidents, costs, adoption, and contract performance.",
-    "required_input": "Local evidence and the prior approved step",
-    "expected_output": "Versioned record for: Monitor technical and service performance",
-    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+    "stage": "Record the current decision state",
+    "purpose": "Use one of the seven institutional states: Under consideration; Evaluation authorized; Conditional use; Authorized use; Restricted use; Paused or suspended; Retired or superseded. Do not substitute an implementation activity for permission.",
+    "required_input": "Current, version-matched evidence and the defined decision identity",
+    "expected_output": "A dated institutional record with evidence, conditions, owner, and next review",
+    "decision_or_gate": "Accountable review; no automatic authorization"
   },
   {
     "step": 4,
-    "stage": "Investigate incidents and material changes",
-    "purpose": "Reconstruct data, versions, outputs, human actions, causes, corrective action, and revalidation.",
-    "required_input": "Local evidence and the prior approved step",
-    "expected_output": "Versioned record for: Investigate incidents and material changes",
-    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+    "stage": "Specify scope, conditions, and transition triggers",
+    "purpose": "Record permitted users and functions, exclusions, effective date, expiry or review, conditions, thresholds, and responsible owners.",
+    "required_input": "Current, version-matched evidence and the defined decision identity",
+    "expected_output": "A dated institutional record with evidence, conditions, owner, and next review",
+    "decision_or_gate": "Accountable review; no automatic authorization"
   },
   {
     "step": 5,
-    "stage": "Renew, restrict, replace, or retire",
-    "purpose": "Compare current value and risk with alternatives, continuity, and exit readiness.",
-    "required_input": "Local evidence and the prior approved step",
-    "expected_output": "Versioned record for: Renew, restrict, replace, or retire",
-    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+    "stage": "Maintain decision history and continuing review",
+    "purpose": "Document reasons, authority, dates, and changes. Reconsider permission after relevant triggers, material change, renewal, replacement, or retirement.",
+    "required_input": "Current, version-matched evidence and the defined decision identity",
+    "expected_output": "A dated institutional record with evidence, conditions, owner, and next review",
+    "decision_or_gate": "Accountable review; no automatic authorization"
   }
 ]

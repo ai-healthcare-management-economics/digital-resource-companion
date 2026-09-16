@@ -1,4 +1,4 @@
-﻿# AIHE-PY01 — Data quality, fitness-for-purpose, and mapping audit
+# AIHE-PY01 — Data quality, fitness-for-purpose, and mapping audit
 
 **Version:** V1.0 
 **Primary chapter:** 2. Institutional Readiness and Digital Foundations 

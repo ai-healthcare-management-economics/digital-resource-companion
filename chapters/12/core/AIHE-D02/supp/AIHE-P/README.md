@@ -1,8 +1,8 @@
-﻿# AIHE-P — AI-HED Dossier Template
+# AIHE-P — AI-HED Dossier Template
 
 **Current canonical resource:** AIHE-D02 — Lifecycle Decision State, Staged Evidence, and AI-HED Status 
 **Primary chapter:** 12 — Decision Architecture and Lifecycle Governance 
-**Additional chapters:** 6,7,8,9,10,11,12
+**Additional chapters:** 6, 7, 8, 9, 10, 11, 12
 
 ## Why this tool is retained
 

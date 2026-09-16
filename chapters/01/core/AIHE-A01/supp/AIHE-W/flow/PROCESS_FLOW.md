@@ -1,32 +1,55 @@
-﻿# AIHE-W: AI Use-Case Canvas
+# AIHE-W — AI Use-Case Canvas
 
-Primary lifecycle stage: Define the decision. Primary book chapter: 1.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Confirm the initiating problem
 
-### 1. Confirm the initiating problem
 Clarify why AI Use-Case Canvas is needed and what decision it supports.
 
-### 2. Identify stakeholders and authority
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Confirm the initiating problem
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Identify stakeholders and authority
+
 Name accountable owners, affected groups, specialists, and participation requirements.
 
-### 3. Define scope and comparator
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Identify stakeholders and authority
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Define scope and comparator
+
 Specify population, setting, intervention bundle, alternatives, outcomes, and exclusions.
 
-### 4. Complete and review the record
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Define scope and comparator
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Complete and review the record
+
 Document evidence, assumptions, unresolved questions, and required approvals.
 
-### 5. Authorize the next stage
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Complete and review the record
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Authorize the next stage
+
 Approve, revise, defer, or stop; archive the versioned record and review date.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-Define the problem, population, intended users, intervention bundle, comparator, outcomes, and initial risks.
+**Expected output:** Versioned record for: Authorize the next stage
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-`AIHE-A01`
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

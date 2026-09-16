@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-Y",
   "title": "Data Quality and Fitness-for-Purpose Assessment",
   "canonical_resource_id": "AIHE-A04",
   "primary_chapter": 2,
-  "aligned_chapters": "2,11,12",
+  "aligned_chapters": "2, 11, 12",
   "purpose": "Assess completeness, plausibility, consistency, timeliness, representativeness, lineage, and actionability.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

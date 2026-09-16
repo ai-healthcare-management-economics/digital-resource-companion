@@ -1,8 +1,8 @@
-﻿[
+[
   {
     "step": 1,
     "stage": "Define the institutional-risk context",
-    "purpose": "Identify rights, affected groups, consequence, and mandatory obligations relevant to HOAM Accountability Workbook.",
+    "purpose": "Identify rights, affected groups, consequence, and mandatory obligations relevant to Human Oversight and Accountability Workbook.",
     "required_input": "Local evidence and the prior approved step",
     "expected_output": "Versioned record for: Define the institutional-risk context",
     "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"

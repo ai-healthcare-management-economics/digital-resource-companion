@@ -1,8 +1,8 @@
-﻿# AIHE-L — Health-System AI Readiness Maturity Assessment
+# AIHE-L — Health-System AI Readiness Maturity Assessment
 
 **Current canonical resource:** AIHE-A03 — Institutional Readiness Assessment 
 **Primary chapter:** 2 — Institutional Readiness and Digital Foundations 
-**Additional chapters:** 2,4,12
+**Additional chapters:** 2, 4, 12
 
 ## Why this tool is retained
 

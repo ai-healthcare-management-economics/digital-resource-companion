@@ -14,5 +14,8 @@ Use the smallest sufficient resource set. The pathways are starting points rathe
 | Model uncertainty and value of evidence | AIHE-B05 | AIHE-CASE08, AIHE-CASE08B, AIHE-PY14, AIHE-PY15 |
 | Procure or renew an AI service | AIHE-D01, AIHE-D05 | AIHE-CASE09, AIHE-CASE09B, AIHE-PY17, AIHE-PY25 |
 | Reach and maintain a lifecycle decision | AIHE-D02 | AIHE-D03, AIHE-D04, AIHE-D05, AIHE-PY29, AIHE-PY40 |
-| Evaluate circular resource and asset options | AIHE-E01, AIHE-E02, AIHE-E03 | AIHE-CASE13, AIHE-CASE14, AIHE-PY36, AIHE-PY37, AIHE-PY39 |
-| Extend economic evaluation to sustainable value | AIHE-E04, AIHE-E05 | AIHE-CASE15, AIHE-PY38, AIHE-PY39 |
+| Reassess continuing value, support, and exit options | AIHE-B02, AIHE-D01, AIHE-D05 | AIHE-CASE06, AIHE-CASE09B, AIHE-CASE12, AIHE-PY10, AIHE-PY17 |
+
+## Continuing value and lifecycle review
+
+Use AIHE-B02, AIHE-B03, AIHE-B04, AIHE-D01, and AIHE-D05 to reassess cost, benefit realization, affordability, supplier support, and current alternatives. Chapters 6, 9, and 12 establish the relevant boundaries. Record any resulting permission-state transition in AIHE-D02.

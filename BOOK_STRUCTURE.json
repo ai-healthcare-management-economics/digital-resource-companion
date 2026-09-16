@@ -1,1219 +1,1215 @@
 {
   "version": "V1.0",
-  "release_date": "2026-09-02",
+  "release_date": "2026-09-16",
+  "book_title": "Artificial Intelligence in Healthcare Management and Economics",
+  "book_subtitle": "Evidence, Value, Governance, and Lifecycle Decision-Making",
+  "parts": [
+    {
+      "part": "I",
+      "title": "Managerial and Economic Foundations",
+      "chapters": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "part": "II",
+      "title": "Organizational Performance, Workforce, and Quality",
+      "chapters": [
+        4,
+        5
+      ]
+    },
+    {
+      "part": "III",
+      "title": "Economic Evaluation, Decision Modelling, and Procurement",
+      "chapters": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "part": "IV",
+      "title": "Governance, Evidence, and Lifecycle Decision-Making",
+      "chapters": [
+        10,
+        11,
+        12
+      ]
+    }
+  ],
   "ch": [
     {
       "chapter": 1,
-      "title": "AI as a Health-System Intervention",
+      "title": "AI as a Health System Intervention",
+      "part": "I",
       "sections": [
         {
           "level": 1,
+          "number": "1.1",
           "title": "The Complete Intervention"
         },
         {
           "level": 2,
+          "number": "1.1.1",
           "title": "From Model Performance to Value"
         },
         {
           "level": 2,
+          "number": "1.1.2",
           "title": "Designing the Intervention"
         },
         {
           "level": 1,
+          "number": "1.2",
           "title": "Economic Logic"
         },
         {
           "level": 2,
+          "number": "1.2.1",
           "title": "Comparators and Opportunity Cost"
         },
         {
           "level": 2,
+          "number": "1.2.2",
           "title": "Value, Affordability, and Distribution"
         },
         {
           "level": 2,
+          "number": "1.2.3",
           "title": "Uncertainty, Thresholds, and Option Value"
         },
         {
           "level": 1,
+          "number": "1.3",
           "title": "Evidence and Reversible Adoption"
         },
         {
           "level": 2,
+          "number": "1.3.1",
           "title": "Matching Evidence to Intended Use"
         },
         {
           "level": 2,
+          "number": "1.3.2",
           "title": "Local Evaluation and Attribution"
         },
         {
           "level": 2,
+          "number": "1.3.3",
           "title": "Staged Commitment and Continuing Review"
         },
         {
           "level": 1,
+          "number": "1.4",
           "title": "Managerial Decision Rules"
         }
-      ],
-      "source_file": "chapter01_managerial-and-economic-intervention.tex"
+      ]
     },
     {
       "chapter": 2,
       "title": "Institutional Readiness and Digital Foundations",
+      "part": "I",
       "sections": [
         {
           "level": 1,
+          "number": "2.1",
           "title": "Digital Capability and Institutional Readiness"
         },
         {
           "level": 2,
+          "number": "2.1.1",
           "title": "From Digitization to Digital Capability"
         },
         {
           "level": 2,
+          "number": "2.1.2",
           "title": "Digital Maturity and Context"
         },
         {
           "level": 2,
+          "number": "2.1.3",
           "title": "Operating Models and Shared Capability Development"
         },
         {
           "level": 1,
+          "number": "2.2",
           "title": "Technical and Data Foundations"
         },
         {
           "level": 2,
+          "number": "2.2.1",
           "title": "Layered Institutional Readiness"
         },
         {
           "level": 2,
+          "number": "2.2.2",
           "title": "Interoperability and Reusable Data Foundations"
         },
         {
           "level": 2,
+          "number": "2.2.3",
           "title": "Data Quality and Observability"
         },
         {
           "level": 2,
+          "number": "2.2.4",
           "title": "Reliability, Version Control, and Technical Debt"
         },
         {
           "level": 1,
+          "number": "2.3",
           "title": "Data Stewardship and Secondary Use"
         },
         {
           "level": 2,
+          "number": "2.3.1",
           "title": "Governance, Stewardship, and Decision Rights"
         },
         {
           "level": 2,
+          "number": "2.3.2",
           "title": "Purpose, Minimization, and Provenance"
         },
         {
           "level": 2,
+          "number": "2.3.3",
           "title": "Secure and Distributed Data Use"
         },
         {
           "level": 2,
+          "number": "2.3.4",
           "title": "EHDS and Cross-Border Data Use"
         },
         {
           "level": 2,
+          "number": "2.3.5",
           "title": "Public Trust and Proportionate Governance"
         },
         {
           "level": 1,
+          "number": "2.4",
           "title": "From Readiness Assessment to Decision"
         },
         {
           "level": 2,
-          "title": "Use-Case Readiness"
+          "number": "2.4.1",
+          "title": "Use Case Readiness"
         },
         {
           "level": 2,
+          "number": "2.4.2",
           "title": "Readiness Decision"
         }
-      ],
-      "source_file": "chapter02_institutional-readiness-digital-data-infrastructure.tex"
+      ]
     },
     {
       "chapter": 3,
       "title": "Human–AI Decision Systems and Managerial Action",
+      "part": "I",
       "sections": [
         {
           "level": 1,
+          "number": "3.1",
           "title": "From AI Output to Human Decision"
         },
         {
           "level": 2,
+          "number": "3.1.1",
           "title": "The Anatomy of an AI-Mediated Decision"
         },
         {
           "level": 2,
+          "number": "3.1.2",
           "title": "Human–AI Team Performance"
         },
         {
           "level": 2,
+          "number": "3.1.3",
           "title": "Thresholds, Uncertainty, and Deferral"
         },
         {
           "level": 1,
+          "number": "3.2",
           "title": "Decision Rights and Delegation"
         },
         {
           "level": 2,
+          "number": "3.2.1",
           "title": "Allocating Authority"
         },
         {
           "level": 2,
+          "number": "3.2.2",
           "title": "Meaningful Oversight"
         },
         {
           "level": 1,
+          "number": "3.3",
           "title": "Managerial Intelligence and Collective Sensemaking"
         },
         {
           "level": 2,
+          "number": "3.3.1",
           "title": "Dashboards as Systems of Attention"
         },
         {
           "level": 2,
+          "number": "3.3.2",
           "title": "Indicator Design and Signal Detection"
         },
         {
           "level": 2,
+          "number": "3.3.3",
           "title": "Ownership, Interpretation, and Behaviour"
         },
         {
           "level": 1,
+          "number": "3.4",
           "title": "Accountable Action"
         }
-      ],
-      "source_file": "chapter03_human-ai-decision-support-and-managerial-action.tex"
+      ]
     },
     {
       "chapter": 4,
       "title": "Productivity, Work Redesign, and Implementation",
+      "part": "II",
       "sections": [
         {
           "level": 1,
+          "number": "4.1",
           "title": "Measuring Productivity in AI-Enabled Work"
         },
         {
           "level": 2,
+          "number": "4.1.1",
           "title": "From Task Efficiency to Service Productivity"
         },
         {
           "level": 2,
+          "number": "4.1.2",
           "title": "From Saved Time to Usable Capacity"
         },
         {
           "level": 2,
+          "number": "4.1.3",
           "title": "Bottlenecks and Service-Level Productivity"
         },
         {
           "level": 1,
+          "number": "4.2",
           "title": "Redesigning Work and Workforce Roles"
         },
         {
           "level": 2,
+          "number": "4.2.1",
           "title": "Task Allocation and Skill Mix"
         },
         {
           "level": 2,
+          "number": "4.2.2",
           "title": "Workload, Autonomy, and Quality of Work"
         },
         {
           "level": 2,
+          "number": "4.2.3",
           "title": "Workforce Capability and Learning"
         },
         {
           "level": 1,
+          "number": "4.3",
           "title": "Implementing and Sustaining Organizational Change"
         },
         {
           "level": 2,
+          "number": "4.3.1",
           "title": "Implementation Determinants"
         },
         {
           "level": 2,
+          "number": "4.3.2",
           "title": "Matching Implementation Frameworks to Questions"
         },
         {
           "level": 2,
+          "number": "4.3.3",
           "title": "Strategies, Adaptation, and Implementation Cost"
         },
         {
           "level": 2,
+          "number": "4.3.4",
           "title": "Scale, Sustainment, and Implementation Debt"
         },
         {
           "level": 2,
+          "number": "4.3.5",
           "title": "The VALIDATE-AI Staged Implementation Pathway"
         },
         {
           "level": 1,
+          "number": "4.4",
           "title": "Applied Case: Generative Clinical Documentation"
         },
         {
           "level": 2,
+          "number": "4.4.1",
           "title": "Productivity and Review Burden"
         },
         {
           "level": 2,
+          "number": "4.4.2",
           "title": "Role Redistribution and Downstream Consequences"
         },
         {
           "level": 2,
+          "number": "4.4.3",
           "title": "Pilot, Renewal, and Discontinuation"
         },
         {
           "level": 1,
+          "number": "4.5",
           "title": "Allocating Released Capacity"
         },
         {
           "level": 1,
+          "number": "4.6",
           "title": "From Task Efficiency to Sustainable Capacity"
         }
-      ],
-      "source_file": "chapter04_productivity-workforce-redesign-and-implementation.tex"
+      ]
     },
     {
       "chapter": 5,
       "title": "Quality Management, Accreditation, and Organizational Learning",
+      "part": "II",
       "sections": [
         {
           "level": 1,
+          "number": "5.1",
           "title": "Quality Management and Accreditation"
         },
         {
           "level": 2,
+          "number": "5.1.1",
           "title": "Quality Management and Accountability"
         },
         {
           "level": 2,
+          "number": "5.1.2",
           "title": "Accreditation, Certification, and Local Assurance"
         },
         {
           "level": 2,
+          "number": "5.1.3",
           "title": "Quality Improvement, Service Evaluation, and Research"
         },
         {
           "level": 1,
+          "number": "5.2",
           "title": "Monitoring and Assurance"
         },
         {
           "level": 2,
+          "number": "5.2.1",
           "title": "Quality Signals and Escalation"
         },
         {
           "level": 2,
+          "number": "5.2.2",
           "title": "Patient Experience and Equity as Quality Signals"
         },
         {
           "level": 2,
+          "number": "5.2.3",
           "title": "Statistical Process Control"
         },
         {
           "level": 2,
+          "number": "5.2.4",
           "title": "Audit, Traceability, and Independent Assurance"
         },
         {
           "level": 1,
+          "number": "5.3",
           "title": "Incident Response and Corrective Action"
         },
         {
           "level": 2,
+          "number": "5.3.1",
           "title": "Incident Investigation and CAPA"
         },
         {
           "level": 2,
+          "number": "5.3.2",
           "title": "Corrective Change and Revalidation"
         },
         {
           "level": 2,
+          "number": "5.3.3",
           "title": "Effectiveness Verification and Closure"
         },
         {
           "level": 1,
+          "number": "5.4",
           "title": "Organizational Learning from Quality Evidence"
         },
         {
           "level": 2,
+          "number": "5.4.1",
           "title": "Closing the Learning Loop"
         },
         {
           "level": 2,
+          "number": "5.4.2",
           "title": "Institutional Memory and Recurrence Prevention"
         },
         {
           "level": 2,
+          "number": "5.4.3",
           "title": "From Assurance to Organizational Learning"
         }
-      ],
-      "source_file": "chapter05_quality-management-accreditation-and-learning.tex"
+      ]
     },
     {
       "chapter": 6,
       "title": "Lifecycle Cost, Pricing, and Benefit Realization",
+      "part": "III",
       "sections": [
         {
           "level": 1,
+          "number": "6.1",
           "title": "The Financial Boundary of AI Adoption"
         },
         {
           "level": 2,
+          "number": "6.1.1",
           "title": "Perspective, Incrementality, and Budget Incidence"
         },
         {
           "level": 2,
+          "number": "6.1.2",
           "title": "Economic Cost, Cash Expenditure, and Accounting Expense"
         },
         {
           "level": 2,
+          "number": "6.1.3",
           "title": "Cost Behaviour, Timing, and Responsibility"
         },
         {
           "level": 1,
+          "number": "6.2",
           "title": "Measuring Lifecycle Cost"
         },
         {
           "level": 2,
+          "number": "6.2.1",
           "title": "Lifecycle Cost Categories"
         },
         {
           "level": 2,
+          "number": "6.2.2",
           "title": "The Total Cost of AI Ownership"
         },
         {
           "level": 2,
+          "number": "6.2.3",
           "title": "Present Value and Residual Value"
         },
         {
           "level": 2,
+          "number": "6.2.4",
           "title": "Physical Assets and Recoverable Value"
         },
         {
           "level": 1,
+          "number": "6.3",
           "title": "Pricing Architecture and Financial Exposure"
         },
         {
           "level": 2,
+          "number": "6.3.1",
           "title": "Pricing Units and Budget Predictability"
         },
         {
           "level": 2,
+          "number": "6.3.2",
           "title": "Volume, Escalation, and Contractual Exposure"
         },
         {
           "level": 2,
+          "number": "6.3.3",
           "title": "Threshold Pricing and Contractual Flexibility"
         },
         {
           "level": 1,
+          "number": "6.4",
           "title": "Recognizing and Valuing Financial Benefits"
         },
         {
           "level": 2,
+          "number": "6.4.1",
           "title": "From Observed Change to Financial Recognition"
         },
         {
           "level": 2,
+          "number": "6.4.2",
           "title": "Attribution and Budget Incidence"
         },
         {
           "level": 2,
+          "number": "6.4.3",
           "title": "Net Present Value, Return on Investment, and Payback"
         },
         {
           "level": 1,
+          "number": "6.5",
           "title": "Uncertainty, Renewal, and Exit"
         },
         {
           "level": 2,
+          "number": "6.5.1",
           "title": "Timing and the Financial Profile of Ownership"
         },
         {
           "level": 2,
+          "number": "6.5.2",
           "title": "Scenario Analysis and Downside Exposure"
         },
         {
           "level": 2,
+          "number": "6.5.3",
           "title": "Renewal, Renegotiation, and Exit"
         },
         {
           "level": 1,
+          "number": "6.6",
           "title": "The Financial Case Across the Lifecycle"
         }
-      ],
-      "source_file": "chapter06_total-lifecycle-cost-pricing-roi-benefit-realization.tex"
+      ]
     },
     {
       "chapter": 7,
       "title": "Economic Evaluation, Affordability, and Health Technology Assessment",
+      "part": "III",
       "sections": [
         {
           "level": 1,
+          "number": "7.1",
           "title": "The Economic Decision"
         },
         {
           "level": 1,
+          "number": "7.2",
           "title": "Cost-Effectiveness and Net Benefit"
         },
         {
           "level": 2,
+          "number": "7.2.1",
           "title": "Incremental Costs and Outcomes"
         },
         {
           "level": 2,
+          "number": "7.2.2",
           "title": "ICERs and the Efficiency Frontier"
         },
         {
           "level": 2,
+          "number": "7.2.3",
           "title": "Net Monetary Benefit and Decision Thresholds"
         },
         {
           "level": 1,
+          "number": "7.3",
           "title": "Budget Impact and Affordability"
         },
         {
           "level": 2,
+          "number": "7.3.1",
           "title": "The Budget Holder and the Timing of Expenditure"
         },
         {
           "level": 2,
+          "number": "7.3.2",
           "title": "Interpreting Budget Impact"
         },
         {
           "level": 1,
+          "number": "7.4",
           "title": "Uncertainty, Heterogeneity, and Distribution"
         },
         {
           "level": 2,
+          "number": "7.4.1",
           "title": "Probabilistic Uncertainty"
         },
         {
           "level": 2,
+          "number": "7.4.2",
           "title": "Economic Transferability"
         },
         {
           "level": 2,
+          "number": "7.4.3",
           "title": "Distribution and Equity"
         },
         {
           "level": 1,
+          "number": "7.5",
           "title": "Health Technology Assessment and Evidence Translation"
         },
         {
           "level": 2,
+          "number": "7.5.1",
           "title": "Reference Cases and Reporting"
         },
         {
           "level": 2,
+          "number": "7.5.2",
           "title": "HTA and the Translation of Economic Evidence"
         },
         {
           "level": 2,
+          "number": "7.5.3",
           "title": "From HTA to Reimbursement and Local Adoption"
         },
         {
           "level": 2,
-          "title": "A Jurisdictional Illustration: European Joint Assessment"
+          "number": "7.5.4",
+          "title": "A Jurisdictional Illustration: European Joint Clinical Assessment"
         },
         {
           "level": 1,
+          "number": "7.6",
           "title": "From Economic Evidence to Decision"
         }
-      ],
-      "source_file": "chapter07_cost-effectiveness-budget-impact-affordability-hta.tex"
+      ]
     },
     {
       "chapter": 8,
       "title": "Decision Modelling, Simulation, and the Value of Information",
+      "part": "III",
       "sections": [
         {
           "level": 1,
+          "number": "8.1",
           "title": "From Decision Problem to Conceptual Model"
         },
         {
           "level": 1,
+          "number": "8.2",
           "title": "Selecting the Appropriate Modelling Structure"
         },
         {
           "level": 1,
+          "number": "8.3",
           "title": "Core Model Structures"
         },
         {
           "level": 2,
+          "number": "8.3.1",
           "title": "Decision Trees and State-Transition Models"
         },
         {
           "level": 2,
+          "number": "8.3.2",
           "title": "Individual-Level Microsimulation"
         },
         {
           "level": 2,
+          "number": "8.3.3",
           "title": "Discrete-Event Simulation and Queueing"
         },
         {
           "level": 2,
+          "number": "8.3.4",
           "title": "System Dynamics, Agent-Based, and Hybrid Models"
         },
         {
           "level": 1,
+          "number": "8.4",
           "title": "Representing AI Within the Decision Model"
         },
         {
           "level": 1,
+          "number": "8.5",
           "title": "Characterizing Uncertainty"
         },
         {
           "level": 2,
+          "number": "8.5.1",
           "title": "Deterministic Sensitivity and Threshold Analysis"
         },
         {
           "level": 2,
+          "number": "8.5.2",
           "title": "Probabilistic and Structural Uncertainty"
         },
         {
           "level": 1,
+          "number": "8.6",
           "title": "Value of Information and Research Design"
         },
         {
           "level": 1,
+          "number": "8.7",
           "title": "Model Credibility"
         },
         {
           "level": 2,
+          "number": "8.7.1",
           "title": "Conceptual Validity and Calibration"
         },
         {
           "level": 2,
+          "number": "8.7.2",
           "title": "Verification, Validation, and Reproducibility"
         },
         {
           "level": 2,
+          "number": "8.7.3",
           "title": "Communicating Model Results"
         },
         {
           "level": 1,
+          "number": "8.8",
           "title": "Model Selection in Practice: Imaging Prioritization"
         },
         {
           "level": 1,
+          "number": "8.9",
           "title": "Decision Implications"
         }
-      ],
-      "source_file": "chapter08_decision-modelling-simulation-and-uncertainty.tex"
+      ]
     },
     {
       "chapter": 9,
       "title": "Problem-First Procurement and Vendor Governance",
+      "part": "III",
       "sections": [
         {
           "level": 1,
+          "number": "9.1",
           "title": "Procurement under Information Asymmetry and Incomplete Contracts"
         },
         {
           "level": 1,
+          "number": "9.2",
           "title": "From Decision Brief to Market Specification"
         },
         {
           "level": 2,
+          "number": "9.2.1",
           "title": "Translating the Decision into a Procurable Requirement"
         },
         {
           "level": 2,
+          "number": "9.2.2",
           "title": "Market Engagement and Competitive Tension"
         },
         {
           "level": 1,
+          "number": "9.3",
           "title": "Supplier Disclosure, Due Diligence, and Assurance Rights"
         },
         {
           "level": 2,
+          "number": "9.3.1",
           "title": "Claims as Verifiable Propositions"
         },
         {
           "level": 2,
+          "number": "9.3.2",
           "title": "Disclosure as a Continuing Obligation"
         },
         {
           "level": 2,
+          "number": "9.3.3",
           "title": "Due Diligence as Verification"
         },
         {
           "level": 1,
+          "number": "9.4",
           "title": "Contracting for Lifecycle Control"
         },
         {
           "level": 2,
+          "number": "9.4.1",
           "title": "Updates, Material Change, and Upstream Dependencies"
         },
         {
           "level": 2,
+          "number": "9.4.2",
           "title": "Data, Intellectual Property, and Learning Rights"
         },
         {
           "level": 2,
+          "number": "9.4.3",
           "title": "Pricing, Incentives, and Risk Allocation"
         },
         {
           "level": 2,
+          "number": "9.4.4",
           "title": "Continuity, Portability, and Exit"
         },
         {
           "level": 1,
+          "number": "9.5",
           "title": "Vendor Selection and Award"
         },
         {
           "level": 2,
+          "number": "9.5.1",
           "title": "Mandatory Eligibility before Comparative Scoring"
         },
         {
           "level": 2,
+          "number": "9.5.2",
           "title": "Scored Award Criteria"
         },
         {
           "level": 1,
+          "number": "9.6",
           "title": "Post-Award Vendor Governance"
         },
         {
           "level": 2,
+          "number": "9.6.1",
           "title": "Contract Ownership and the Obligation Register"
         },
         {
           "level": 2,
+          "number": "9.6.2",
           "title": "Service Review, Change, and Escalation"
         },
         {
           "level": 2,
+          "number": "9.6.3",
           "title": "Renewal as a New Commercial Decision"
         },
         {
           "level": 1,
+          "number": "9.7",
           "title": "Renegotiation and Credible Exit"
         },
         {
           "level": 1,
+          "number": "9.8",
           "title": "Decision Implications"
         }
-      ],
-      "source_file": "chapter09_problem-first-procurement-contracting-vendor-governance.tex"
+      ]
     },
     {
       "chapter": 10,
       "title": "Governance, Accountability, and Institutional Risk",
+      "part": "IV",
       "sections": [
         {
           "level": 1,
+          "number": "10.1",
           "title": "Governance as Institutional Authority"
         },
         {
           "level": 2,
+          "number": "10.1.1",
           "title": "Decision Rights and Residual Risk"
         },
         {
           "level": 2,
+          "number": "10.1.2",
           "title": "Accountability, Answerability, and Contestability"
         },
         {
           "level": 1,
+          "number": "10.2",
           "title": "Institutional Governance Architecture"
         },
         {
           "level": 2,
+          "number": "10.2.1",
           "title": "Assurance Independence, Conflicts, and Dissent"
         },
         {
           "level": 1,
+          "number": "10.3",
           "title": "Law, Standards, and Sources of Assurance"
         },
         {
           "level": 1,
+          "number": "10.4",
           "title": "Institutional Risk, Equity, and Legitimacy"
         },
         {
           "level": 2,
+          "number": "10.4.1",
           "title": "Privacy, Cybersecurity, and Continuity"
         },
         {
           "level": 2,
+          "number": "10.4.2",
           "title": "Equity, Effective Access, and Algorithmic Audit"
         },
         {
           "level": 2,
+          "number": "10.4.3",
           "title": "Trust and Institutional Legitimacy"
         },
         {
           "level": 1,
+          "number": "10.5",
           "title": "Material Change, Incidents, and Reauthorization"
         },
         {
           "level": 1,
+          "number": "10.6",
           "title": "Governance in Practice: Patient-Facing AI"
         },
         {
           "level": 1,
+          "number": "10.7",
           "title": "Accountability Beyond Approval"
         }
-      ],
-      "source_file": "chapter10_governance-accountability-and-institutional-risk.tex"
+      ]
     },
     {
       "chapter": 11,
       "title": "Evidence, Validation, and Real-World Evaluation",
+      "part": "IV",
       "sections": [
         {
           "level": 1,
+          "number": "11.1",
           "title": "Evidence Claims and Evidentiary Progression"
         },
         {
           "level": 2,
+          "number": "11.1.1",
           "title": "From Internal Validity to Decision-Grade Evidence"
         },
         {
           "level": 2,
+          "number": "11.1.2",
           "title": "Reporting, Appraisal, and Evidence Frameworks"
         },
         {
           "level": 1,
+          "number": "11.2",
           "title": "Validity, Transportability, and Clinical Utility"
         },
         {
           "level": 2,
+          "number": "11.2.1",
           "title": "Data Design, Leakage, and Transportability"
         },
         {
           "level": 2,
+          "number": "11.2.2",
           "title": "Performance, Calibration, and Thresholds"
         },
         {
           "level": 2,
-          "title": "Diagnostic Accuracy and Reference-Standard Bias"
+          "number": "11.2.3",
+          "title": "Diagnostic Accuracy and Reference Standard Bias"
         },
         {
           "level": 2,
+          "number": "11.2.4",
           "title": "Local Validation and Silent Evaluation"
         },
         {
           "level": 2,
+          "number": "11.2.5",
           "title": "Generative, Multimodal, and Agentic Systems"
         },
         {
           "level": 1,
+          "number": "11.3",
           "title": "From Predictive Performance to Causal Effect"
         },
         {
           "level": 2,
+          "number": "11.3.1",
           "title": "The Intervention, Exposure, and Estimand"
         },
         {
           "level": 2,
+          "number": "11.3.2",
           "title": "Causal Designs"
         },
         {
           "level": 1,
+          "number": "11.4",
           "title": "Explaining Real-World Effects"
         },
         {
           "level": 2,
+          "number": "11.4.1",
           "title": "Programme Theory and Intermediate Mechanisms"
         },
         {
           "level": 2,
+          "number": "11.4.2",
           "title": "Implementation Fidelity, Adaptation, and Context"
         },
         {
           "level": 2,
+          "number": "11.4.3",
           "title": "Qualitative and Mixed-Methods Evidence"
         },
         {
           "level": 2,
+          "number": "11.4.4",
           "title": "Heterogeneity and Transfer of Effects"
         },
         {
           "level": 1,
+          "number": "11.5",
           "title": "Evidence Synthesis for Decision Use"
         },
         {
           "level": 2,
+          "number": "11.5.1",
           "title": "Synthesis Across Evidence Types"
         },
         {
           "level": 2,
+          "number": "11.5.2",
           "title": "Decision-Ready Evidence Claims Record"
         },
         {
           "level": 2,
+          "number": "11.5.3",
           "title": "Re-Evaluation After Material Change"
         },
         {
           "level": 1,
-          "title": "Evaluation in Practice: Readmission-Risk Prediction"
+          "number": "11.6",
+          "title": "Evaluation in Practice: Readmission Risk Prediction"
         },
         {
           "level": 2,
+          "number": "11.6.1",
           "title": "Local Validity"
         },
         {
           "level": 2,
+          "number": "11.6.2",
           "title": "Decision Utility"
         },
         {
           "level": 2,
+          "number": "11.6.3",
           "title": "Causal Effect of the Complete Intervention"
         },
         {
           "level": 2,
+          "number": "11.6.4",
           "title": "Interpretation and Re-Evaluation"
         },
         {
           "level": 1,
+          "number": "11.7",
           "title": "Decision Implications"
         }
-      ],
-      "source_file": "chapter11_evidence-local-validation-causal-evaluation.tex"
+      ]
     },
     {
       "chapter": 12,
       "title": "Decision Architecture and Lifecycle Governance",
+      "part": "IV",
       "sections": [
         {
           "level": 1,
+          "number": "12.1",
           "title": "Decision Architecture as a Lifecycle Problem"
         },
         {
           "level": 2,
+          "number": "12.1.1",
           "title": "The Decision Must Have an Identity"
         },
         {
           "level": 2,
+          "number": "12.1.2",
           "title": "Integration Without Aggregation"
         },
         {
           "level": 2,
+          "number": "12.1.3",
           "title": "Proportionality and Framework Status"
         },
         {
           "level": 1,
+          "number": "12.2",
           "title": "Integrated Assessment and Decision Provenance"
         },
         {
           "level": 2,
+          "number": "12.2.1",
           "title": "AI-HEVG: Integrative Assessment Architecture"
         },
         {
           "level": 2,
-          "title": "AI-HED: The Living Decision-Provenance Record"
+          "number": "12.2.2",
+          "title": "AI-HED: The Living Decision Provenance Record"
         },
         {
           "level": 1,
+          "number": "12.3",
           "title": "Institutional Decision States and Transition Logic"
         },
         {
-          "level": 2,
-          "title": "Authorization as a State, Not a Permanent Approval"
-        },
-        {
           "level": 1,
+          "number": "12.4",
           "title": "Lifecycle Transition Triggers and Material Change"
         },
         {
           "level": 2,
+          "number": "12.4.1",
           "title": "Monitoring as a Trigger System"
         },
         {
           "level": 2,
+          "number": "12.4.2",
           "title": "Material Change and Version Identity"
         },
         {
           "level": 2,
+          "number": "12.4.3",
           "title": "Configuration Control for Generative and Agentic Systems"
         },
         {
           "level": 1,
+          "number": "12.5",
           "title": "Renewal, De-adoption, and Retirement"
         },
         {
           "level": 2,
+          "number": "12.5.1",
           "title": "Renewal Is a New Decision"
         },
         {
           "level": 2,
+          "number": "12.5.2",
           "title": "De-adoption as a Governed Decision"
         },
         {
           "level": 2,
+          "number": "12.5.3",
           "title": "Continuity, Records, and the End of Authorization"
         },
         {
           "level": 1,
-          "title": "Decision Architecture in Practice: Readmission-Risk Management"
+          "number": "12.6",
+          "title": "Decision Architecture in Practice: Readmission Risk Management"
         },
         {
           "level": 1,
+          "number": "12.7",
           "title": "Principles for Defensible Lifecycle Decisions"
         }
-      ],
-      "source_file": "chapter12_integrated-decision-architecture-lifecycle-governance.tex"
-    },
-    {
-      "chapter": 13,
-      "title": "Circular Health Systems and Resource Stewardship",
-      "sections": [
-        {
-          "level": 1,
-          "title": "From Resource Throughput to Value Retention"
-        },
-        {
-          "level": 2,
-          "title": "Linear Throughput and Circular Value"
-        },
-        {
-          "level": 2,
-          "title": "Circularity, Sustainability, and Low-Carbon Care"
-        },
-        {
-          "level": 1,
-          "title": "Resource Stocks, Flows, and Value-Retention Pathways"
-        },
-        {
-          "level": 2,
-          "title": "Stocks and Flows"
-        },
-        {
-          "level": 2,
-          "title": "Healthcare Circularity Hierarchy"
-        },
-        {
-          "level": 2,
-          "title": "Inner Loops, Outer Loops, and Circular Leakage"
-        },
-        {
-          "level": 1,
-          "title": "Physical and Digital Circularity"
-        },
-        {
-          "level": 1,
-          "title": "Circular Value Networks and Reverse Flows"
-        },
-        {
-          "level": 2,
-          "title": "Reverse Logistics"
-        },
-        {
-          "level": 2,
-          "title": "Information and Traceability"
-        },
-        {
-          "level": 1,
-          "title": "AI and the Bidirectional Resource Effect"
-        },
-        {
-          "level": 2,
-          "title": "AI as an Enabler of Value Retention"
-        },
-        {
-          "level": 2,
-          "title": "AI as a Source of Resource Demand"
-        },
-        {
-          "level": 1,
-          "title": "Measuring Circular Resource Performance"
-        },
-        {
-          "level": 2,
-          "title": "Functional Units and Resource Intensity"
-        },
-        {
-          "level": 2,
-          "title": "Core Quantities for Circular Resource Accounting"
-        },
-        {
-          "level": 2,
-          "title": "Rebound and Induced Demand"
-        },
-        {
-          "level": 1,
-          "title": "Resilience, Burden Shifting, and the Geography of Circularity"
-        },
-        {
-          "level": 1,
-          "title": "Standards and Policy Context"
-        },
-        {
-          "level": 1,
-          "title": "Decision Implications"
-        }
-      ],
-      "source_file": "chapter13_circular-health-systems-resource-stewardship.tex"
-    },
-    {
-      "chapter": 14,
-      "title": "Circular Procurement and Asset Stewardship",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Asset Stewardship and the Boundary of Useful Life"
-        },
-        {
-          "level": 2,
-          "title": "From Physical Life to Supported Service"
-        },
-        {
-          "level": 2,
-          "title": "Condition, Dependence, and Remaining Life"
-        },
-        {
-          "level": 1,
-          "title": "Asset-Specific Procurement Commitments"
-        },
-        {
-          "level": 2,
-          "title": "Contracting for Supportable Life"
-        },
-        {
-          "level": 2,
-          "title": "Ownership, Incentives, and Service Models"
-        },
-        {
-          "level": 1,
-          "title": "Supportability and Obsolescence"
-        },
-        {
-          "level": 2,
-          "title": "Maintenance and Repair as Value Preservation"
-        },
-        {
-          "level": 2,
-          "title": "Forms of Obsolescence"
-        },
-        {
-          "level": 2,
-          "title": "Component Bottlenecks and Critical Dependencies"
-        },
-        {
-          "level": 1,
-          "title": "Repair, Upgrade, and Second-Life Eligibility"
-        },
-        {
-          "level": 1,
-          "title": "Asset-Life Option Appraisal"
-        },
-        {
-          "level": 2,
-          "title": "Eligibility Before Economic Comparison"
-        },
-        {
-          "level": 2,
-          "title": "Equivalent Annual Cost and Service-Life Differences"
-        },
-        {
-          "level": 2,
-          "title": "Realizable Residual Value"
-        },
-        {
-          "level": 2,
-          "title": "Asset-Specific Decision Thresholds"
-        },
-        {
-          "level": 1,
-          "title": "Disposition After Retirement Authorization"
-        },
-        {
-          "level": 2,
-          "title": "Asset Closure"
-        },
-        {
-          "level": 2,
-          "title": "Recovery, Transfer, and Final Destination"
-        },
-        {
-          "level": 1,
-          "title": "Asset Stewardship in Practice: Imaging Platform Refresh"
-        },
-        {
-          "level": 1,
-          "title": "Decision Implications"
-        }
-      ],
-      "source_file": "chapter14_circular-procurement-asset-life-decommissioning.tex"
-    },
-    {
-      "chapter": 15,
-      "title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-      "sections": [
-        {
-          "level": 1,
-          "title": "Extending the Economic Decision Boundary"
-        },
-        {
-          "level": 2,
-          "title": "Decision Problem and Functional Equivalence"
-        },
-        {
-          "level": 2,
-          "title": "Reconciling Economic and Environmental Boundaries"
-        },
-        {
-          "level": 2,
-          "title": "Average and Marginal Consequences"
-        },
-        {
-          "level": 1,
-          "title": "Reconciling Environmental and Economic Evidence"
-        },
-        {
-          "level": 2,
-          "title": "Evidence Quality and Provenance"
-        },
-        {
-          "level": 1,
-          "title": "From Physical Effects to Decision Value"
-        },
-        {
-          "level": 2,
-          "title": "Monetising Selected Environmental Effects"
-        },
-        {
-          "level": 2,
-          "title": "Residual Value"
-        },
-        {
-          "level": 2,
-          "title": "Resilience as a Consequence"
-        },
-        {
-          "level": 1,
-          "title": "Circularity-Adjusted Net Monetary Benefit"
-        },
-        {
-          "level": 1,
-          "title": "Decision-Making Under Incomplete Monetisation"
-        },
-        {
-          "level": 1,
-          "title": "Uncertainty, Preference Reversal, and Burden Transfer"
-        },
-        {
-          "level": 2,
-          "title": "Rebound as a Decision Scenario"
-        },
-        {
-          "level": 2,
-          "title": "Spatial and Intertemporal Burden Transfer"
-        },
-        {
-          "level": 1,
-          "title": "Evaluation in Practice: An AI-Assisted Remote Diagnostic Pathway"
-        },
-        {
-          "level": 1,
-          "title": "Decision Implications"
-        }
-      ],
-      "source_file": "chapter15_circularity-adjusted-economic-evaluation.tex"
+      ]
     }
   ]
 }

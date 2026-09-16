@@ -1,4 +1,4 @@
-﻿# AIHE-PY18 — Decision-tree pathway model
+# AIHE-PY18 — Decision-tree pathway model
 
 **Version:** V1.0 
 **Primary chapter:** 8. Decision Modelling, Simulation, and the Value of Information 

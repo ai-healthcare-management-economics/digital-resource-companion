@@ -1,8 +1,8 @@
-﻿# AIHE-EX15 — Analytic and Simulation Method Selection Guide
+# AIHE-EX15 — Analytic and Simulation Method Selection Guide
 
 **Current canonical resource:** AIHE-B05 — Model Selection, Uncertainty, and Reproducibility 
 **Primary chapter:** 8 — Decision Modelling, Simulation, and the Value of Information 
-**Additional chapters:** 7,8,11
+**Additional chapters:** 7, 8, 11
 
 ## Why this tool is retained
 

@@ -29,7 +29,7 @@ Third-party publications, standards, trademarks, software dependencies, and exte
 
 A suitable attribution for adapted documentary resources is:
 
-> Zouri, M., and Cumpăt, C. M. *Digital Resource Companion for Artificial Intelligence and Healthcare Economics: Evidence, Value, Governance, and Sustainability*, V1.0, 2026. Adapted under CC BY-NC 4.0.
+> Zouri, M., and Cumpăt, C. M. *Digital Resource Companion for Artificial Intelligence in Healthcare Management and Economics: Evidence, Value, Governance, and Lifecycle Decision-Making*, V1.0, 2026. Adapted under CC BY-NC 4.0.
 
 For software, retain the copyright and MIT licence notice.
 

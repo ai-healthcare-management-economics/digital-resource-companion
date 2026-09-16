@@ -1,15 +1,13 @@
----
-title: AIHE-EX04: Evidence and Assumption Log
----
 flowchart TD
- S1["1. Define the evidence or quality question\nClarify the claim, intended use, consequence, and decision supported by Evidence and Assumption Log."]
- S2["2. Identify standards and evidence sources\nSelect applicable reporting, appraisal, quality, accreditation, and assurance requirements."]
+ S1["1. Define the evidence or quality question"]
+ S2["2. Identify standards and evidence sources"]
+ S3["3. Appraise relevance and quality"]
+ S4["4. Plan local validation and thresholds"]
+ S5["5. Approve the evidence plan"]
  S1 --> S2
- S3["3. Appraise relevance and quality\nAssess bias, applicability, transportability, completeness, and uncertainty."]
  S2 --> S3
- S4["4. Plan local validation and thresholds\nDefine data, metrics, subgroups, workflow, acceptance criteria, and balancing indicators."]
  S3 --> S4
- S5["5. Approve the evidence plan\nDocument gaps, owners, review dates, and conditions for proceeding."]
  S4 --> S5
- classDef process fill:#fff,stroke:#7A1730,stroke-width:2px,color:#222
- class S1,S2,S3,S4,S5,S6,S7,S8,S9,S10 process
+ S5 -. "Review trigger / new evidence" .-> S1
+ classDef record fill:#F5F0E7,stroke:#6B2230,color:#303236;
+ class S1,S2,S3,S4,S5 record;

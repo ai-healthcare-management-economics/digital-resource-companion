@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY09
+# Notebook route — AIHE-PY09
 
 Open `09_temporal_validation_and_drift.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

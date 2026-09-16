@@ -1,8 +1,8 @@
-﻿# AIHE-EX10 — Workflow Change and Training Competency Log
+# AIHE-EX10 — Workflow Change and Training Competency Log
 
 **Current canonical resource:** AIHE-D02 — Lifecycle Decision State, Staged Evidence, and AI-HED Status 
 **Primary chapter:** 3 — Human–AI Decision Systems and Managerial Action 
-**Additional chapters:** 3,4,12
+**Additional chapters:** 3, 4, 12
 
 ## Why this tool is retained
 

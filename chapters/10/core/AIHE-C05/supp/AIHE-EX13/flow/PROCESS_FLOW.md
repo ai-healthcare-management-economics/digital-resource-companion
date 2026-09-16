@@ -1,32 +1,55 @@
-﻿# AIHE-EX13: Public Transparency and Communication Notice
+# AIHE-EX13 — Public Transparency and Communication Notice
 
-Primary lifecycle stage: Assess governance and institutional risk. Primary book chapter: 3.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Define the institutional-risk context
 
-### 1. Define the institutional-risk context
 Identify rights, affected groups, consequence, and mandatory obligations relevant to Public Transparency and Communication Notice.
 
-### 2. Assess accountability, ethics, equity, privacy, and security
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Define the institutional-risk context
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Assess accountability, ethics, equity, privacy, and security
+
 Document evidence, threats, burdens, controls, and residual uncertainty.
 
-### 3. Design safeguards and human oversight
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Assess accountability, ethics, equity, privacy, and security
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Design safeguards and human oversight
+
 Specify decision rights, access, review, escalation, fallback, communication, and monitoring.
 
-### 4. Conduct multidisciplinary assurance
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Design safeguards and human oversight
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Conduct multidisciplinary assurance
+
 Review legal, ethical, clinical, quality, data, cybersecurity, economic, and public-value findings.
 
-### 5. Decide and monitor
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Conduct multidisciplinary assurance
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Decide and monitor
+
 Approve, condition, restrict, defer, redesign, or reject; assign review triggers and owners.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-Explain AI use, limits, human oversight, data handling, accessibility, questions, complaints, incidents, and human alternatives.
+**Expected output:** Versioned record for: Decide and monitor
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-`AIHE-C05`
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

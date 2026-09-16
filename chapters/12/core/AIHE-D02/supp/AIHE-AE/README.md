@@ -1,4 +1,4 @@
-﻿# AIHE-AE — AI-HED Completeness and Decision-Quality Review
+# AIHE-AE — AI-HED Completeness and Decision-Quality Review
 
 **Current canonical resource:** AIHE-D02 — Lifecycle Decision State, Staged Evidence, and AI-HED Status 
 **Primary chapter:** 12 — Decision Architecture and Lifecycle Governance 

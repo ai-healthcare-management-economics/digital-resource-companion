@@ -1,8 +1,8 @@
-﻿# AIHE-EX13 — Public Transparency and Communication Notice
+# AIHE-EX13 — Public Transparency and Communication Notice
 
 **Current canonical resource:** AIHE-C05 — Public Transparency and Communication Record 
 **Primary chapter:** 3 — Human–AI Decision Systems and Managerial Action 
-**Additional chapters:** 3,10,12
+**Additional chapters:** 3, 10, 12
 
 ## Why this tool is retained
 

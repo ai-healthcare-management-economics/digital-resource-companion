@@ -1,4 +1,4 @@
-﻿# AIHE-RG01 — Framework Status and Selection Guide
+# AIHE-RG01 — Framework Status and Selection Guide
 
 **Primary chapter:** 12 — Decision Architecture and Lifecycle Governance 
 **Additional chapter alignment:** 2, 4, 5, 7, 9-12 

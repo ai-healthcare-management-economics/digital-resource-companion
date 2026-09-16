@@ -1,4 +1,4 @@
-﻿# Decision-Lifecycle and Process Navigation
+# Decision-Lifecycle and Process Navigation
 
 This folder provides a cross-cutting navigation layer for the Digital Resource Companion. It does not replace chapter organization. It helps readers move through the institutional decision from problem definition to renewal or retirement and shows which records typically precede, support, or follow one another.
 

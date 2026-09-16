@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-B02.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-B02.schema.json",
   "title": "AIHE-B02 Lifecycle Cost and Pricing Record",
   "type": "object",
   "required": [

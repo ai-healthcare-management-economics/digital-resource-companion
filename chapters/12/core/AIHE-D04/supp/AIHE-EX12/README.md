@@ -1,8 +1,8 @@
-﻿# AIHE-EX12 — Incident Corrective Action and Reconstruction Log
+# AIHE-EX12 — Incident Corrective Action and Reconstruction Log
 
 **Current canonical resource:** AIHE-D04 — Incident Classification and Reconstruction 
 **Primary chapter:** 5 — Quality Management, Accreditation, and Organizational Learning 
-**Additional chapters:** 5,10,12
+**Additional chapters:** 5, 10, 12
 
 ## Why this tool is retained
 

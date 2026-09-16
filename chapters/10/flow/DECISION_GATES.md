@@ -1,9 +1,9 @@
-﻿# Decision gates
+# Decision review points
 
-- **Gate 1: Define the institutional risk context** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 2: Assign accountability and decision rights** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 3: Assess ethics, equity, privacy, and cybersecurity** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 4: Assess transparency, trust, and contestability** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 5: Design mandatory safeguards** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 6: Make and document the governance decision** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 7: Review performance and residual risk** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
+- **1. Define the institutional risk context:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **2. Assign accountability and decision rights:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **3. Assess ethics, equity, privacy, and cybersecurity:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **4. Assess transparency, trust, and contestability:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **5. Design mandatory safeguards:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **6. Make and document the governance decision:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **7. Review performance and residual risk:** Proceed, revise, escalate, restrict, or stop as appropriate.

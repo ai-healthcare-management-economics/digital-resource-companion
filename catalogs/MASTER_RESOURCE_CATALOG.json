@@ -9,7 +9,7 @@
     "status": "public",
     "aligned_chapters": "1, 2, 3",
     "folder": "chapters/01/core/AIHE-A01",
-    "primary_chapter_title": "AI as a Health-System Intervention",
+    "primary_chapter_title": "AI as a Health System Intervention",
     "related_resources": "AIHE-W; AIHE-X",
     "tier": "Core",
     "legacy_aliases": "AIHE-W; AIHE-X",
@@ -29,7 +29,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Define a new proposal",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-A02",
@@ -41,7 +41,7 @@
     "status": "public",
     "aligned_chapters": "1, 3, 10, 12",
     "folder": "chapters/01/core/AIHE-A02",
-    "primary_chapter_title": "AI as a Health-System Intervention",
+    "primary_chapter_title": "AI as a Health System Intervention",
     "related_resources": "AIHE-EX01",
     "tier": "Core",
     "legacy_aliases": "AIHE-EX01",
@@ -61,7 +61,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Define a new proposal",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE00",
@@ -71,10 +71,10 @@
     "purpose": "Provide a consistent problem-first, evidence, economic, governance, and lifecycle method for analysing worked and local cases.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "1-15",
+    "aligned_chapters": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
     "folder": "worked_examples/00_case_analysis_method",
-    "primary_chapter_title": "Cross-chapter resource",
-    "related_resources": "AIHE-A01; AIHE-B01; AIHE-C03; AIHE-D02; AIHE-E01",
+    "primary_chapter_title": "AI as a Health System Intervention",
+    "related_resources": "AIHE-A01; AIHE-B01; AIHE-C03; AIHE-D02",
     "tier": "Case-analysis method",
     "legacy_aliases": "",
     "has_browser_form": "no",
@@ -93,7 +93,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE01",
@@ -105,7 +105,7 @@
     "status": "public",
     "aligned_chapters": "1",
     "folder": "worked_examples/AIHE-CASE01_emergency_department_triage_portfolio_decision",
-    "primary_chapter_title": "AI as a Health-System Intervention",
+    "primary_chapter_title": "AI as a Health System Intervention",
     "related_resources": "AIHE-A01; AIHE-W; AIHE-X; AIHE-EX01; AIHE-K; AIHE-H",
     "tier": "Worked case",
     "legacy_aliases": "",
@@ -125,7 +125,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-RG07",
@@ -135,9 +135,9 @@
     "purpose": "Identify recurring technology-led, economic, workflow, evidence, governance, procurement, and lifecycle failures and record preventive controls.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "1-12",
+    "aligned_chapters": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
     "folder": "chapters/01/guides/AIHE-RG07",
-    "primary_chapter_title": "AI as a Health-System Intervention",
+    "primary_chapter_title": "AI as a Health System Intervention",
     "related_resources": "",
     "tier": "Reference guide",
     "legacy_aliases": "",
@@ -157,7 +157,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Consult a reference guide",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX01",
@@ -167,9 +167,9 @@
     "purpose": "Capture the initiating problem, project scope, accountable owners, affected groups, and decision rights.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "1,9,12",
+    "aligned_chapters": "1, 9, 12",
     "folder": "chapters/01/core/AIHE-A02/supp/AIHE-EX01",
-    "primary_chapter_title": "AI as a Health-System Intervention",
+    "primary_chapter_title": "AI as a Health System Intervention",
     "related_resources": "AIHE-A02",
     "tier": "Supplemental specialist tool",
     "legacy_aliases": "",
@@ -189,7 +189,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-W",
@@ -199,9 +199,9 @@
     "purpose": "Define the problem, population, intended users, intervention bundle, comparator, outcomes, and initial risks.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "1,9,12",
+    "aligned_chapters": "1, 9, 12",
     "folder": "chapters/01/core/AIHE-A01/supp/AIHE-W",
-    "primary_chapter_title": "AI as a Health-System Intervention",
+    "primary_chapter_title": "AI as a Health System Intervention",
     "related_resources": "AIHE-A01",
     "tier": "Supplemental specialist tool",
     "legacy_aliases": "",
@@ -221,7 +221,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-X",
@@ -231,9 +231,9 @@
     "purpose": "Specify population, intervention, comparator, outcomes, perspective, setting, time horizon, and decision rule.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "1,6,7,8,12",
+    "aligned_chapters": "1, 6, 7, 8, 12",
     "folder": "chapters/01/core/AIHE-A01/supp/AIHE-X",
-    "primary_chapter_title": "AI as a Health-System Intervention",
+    "primary_chapter_title": "AI as a Health System Intervention",
     "related_resources": "AIHE-A01",
     "tier": "Supplemental specialist tool",
     "legacy_aliases": "",
@@ -253,14 +253,14 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-A03",
     "title": "Institutional Readiness Assessment",
     "primary_chapter": "2",
     "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and sustainability readiness.",
+    "purpose": "Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and continuing support readiness.",
     "version": "V1.0",
     "status": "public",
     "aligned_chapters": "2, 4, 5, 9, 10, 12",
@@ -285,7 +285,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Define a new proposal",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-A04",
@@ -317,7 +317,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Define a new proposal",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE02",
@@ -349,7 +349,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-A",
@@ -359,7 +359,7 @@
     "purpose": "Assess strategic, data, infrastructure, workforce, governance, economic, ethical, security, and monitoring readiness at organizational and use-case levels.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "2,4,9,12",
+    "aligned_chapters": "2, 4, 9, 12",
     "folder": "chapters/02/core/AIHE-A03/supp/AIHE-A",
     "primary_chapter_title": "Institutional Readiness and Digital Foundations",
     "related_resources": "AIHE-A03",
@@ -381,7 +381,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX03",
@@ -391,7 +391,7 @@
     "purpose": "Document data sources, access authority, interoperability, quality, provenance, and reuse constraints.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "2,11,12",
+    "aligned_chapters": "2, 11, 12",
     "folder": "chapters/02/core/AIHE-A04/supp/AIHE-EX03",
     "primary_chapter_title": "Institutional Readiness and Digital Foundations",
     "related_resources": "AIHE-A04",
@@ -413,7 +413,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-L",
@@ -423,7 +423,7 @@
     "purpose": "Rate health-system maturity by domain and identify the weakest critical capability and prerequisites before pilot or scale.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "2,4,12",
+    "aligned_chapters": "2, 4, 12",
     "folder": "chapters/02/core/AIHE-A03/supp/AIHE-L",
     "primary_chapter_title": "Institutional Readiness and Digital Foundations",
     "related_resources": "AIHE-A03",
@@ -445,7 +445,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-U",
@@ -455,7 +455,7 @@
     "purpose": "Authorize secondary data use through purpose, harmonization, access, risk, public value, and audit controls.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "2,10,11,12",
+    "aligned_chapters": "2, 10, 11, 12",
     "folder": "chapters/02/core/AIHE-A04/supp/AIHE-U",
     "primary_chapter_title": "Institutional Readiness and Digital Foundations",
     "related_resources": "AIHE-A04",
@@ -477,7 +477,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-Y",
@@ -487,7 +487,7 @@
     "purpose": "Assess completeness, plausibility, consistency, timeliness, representativeness, lineage, and actionability.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "2,11,12",
+    "aligned_chapters": "2, 11, 12",
     "folder": "chapters/02/core/AIHE-A04/supp/AIHE-Y",
     "primary_chapter_title": "Institutional Readiness and Digital Foundations",
     "related_resources": "AIHE-A04",
@@ -509,7 +509,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY01",
@@ -541,7 +541,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY03",
@@ -573,7 +573,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY33",
@@ -605,7 +605,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-C04",
@@ -637,7 +637,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Define accountable human oversight",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE03",
@@ -669,7 +669,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE03B",
@@ -701,17 +701,17 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-O",
-    "title": "HOAM Accountability Workbook",
+    "title": "Human Oversight and Accountability Workbook",
     "primary_chapter": "3",
     "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
     "purpose": "Assign accountable and responsible owners, consultation, information, escalation, pause, update, restart, and retirement authority.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "3,10,12",
+    "aligned_chapters": "3, 10, 12",
     "folder": "chapters/03/core/AIHE-C04/supp/AIHE-O",
     "primary_chapter_title": "Human–AI Decision Systems and Managerial Action",
     "related_resources": "AIHE-C04",
@@ -733,7 +733,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY06",
@@ -765,7 +765,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY21",
@@ -797,7 +797,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY34",
@@ -807,7 +807,7 @@
     "purpose": "Fits simple trend and exponential-smoothing forecasts to operational or financial time series and compares forecast accuracy.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "3, 6, 8, 13",
+    "aligned_chapters": "3, 6, 8",
     "folder": "chapters/03/python_analytics/PY34_forecasting",
     "primary_chapter_title": "Human–AI Decision Systems and Managerial Action",
     "related_resources": "AIHE-C01; AIHE-B03; AIHE-CASE03",
@@ -829,7 +829,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY35",
@@ -839,7 +839,7 @@
     "purpose": "Selects an allocation across candidate AI or service options to maximize expected value subject to budget, workforce, capacity, and minimum-service constraints.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "3, 8, 13",
+    "aligned_chapters": "3, 8",
     "folder": "chapters/03/python_analytics/PY35_allocation",
     "primary_chapter_title": "Human–AI Decision Systems and Managerial Action",
     "related_resources": "AIHE-B05; AIHE-CASE03",
@@ -861,7 +861,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-B03",
@@ -893,7 +893,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Prepare an economic and affordability case",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE04",
@@ -925,7 +925,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-RG03",
@@ -957,7 +957,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Consult a reference guide",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX07",
@@ -967,7 +967,7 @@
     "purpose": "Assign each benefit to a mechanism, measure, owner, baseline, timing, accounting treatment, and verification source.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "4,6,7",
+    "aligned_chapters": "4, 6, 7",
     "folder": "chapters/04/core/AIHE-B03/supp/AIHE-EX07",
     "primary_chapter_title": "Productivity, Work Redesign, and Implementation",
     "related_resources": "AIHE-B03",
@@ -989,7 +989,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-Z",
@@ -999,7 +999,7 @@
     "purpose": "Distinguish gross time saved, review burden, capacity released, capacity used, and realized value.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "4,6,7",
+    "aligned_chapters": "4, 6, 7",
     "folder": "chapters/04/core/AIHE-B03/supp/AIHE-Z",
     "primary_chapter_title": "Productivity, Work Redesign, and Implementation",
     "related_resources": "AIHE-B03",
@@ -1021,7 +1021,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY22",
@@ -1053,7 +1053,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY23",
@@ -1085,7 +1085,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY28",
@@ -1117,7 +1117,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-C01",
@@ -1149,7 +1149,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Implement and monitor safely",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-C02",
@@ -1181,7 +1181,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Review an update, incident, or renewal",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE05",
@@ -1213,17 +1213,17 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-I",
     "title": "Health-System AI Indicator Library",
     "primary_chapter": "5",
     "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Select outcome, process, balancing, equity, workforce, economic, governance, environmental, and lifecycle indicators with definitions, owners, sources, thresholds, and actions.",
+    "purpose": "Select outcome, process, balancing, equity, workforce, economic, governance, and lifecycle indicators with definitions, owners, sources, thresholds, and actions.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "3,4,5,10,12,13,15",
+    "aligned_chapters": "3, 4, 5, 10, 12",
     "folder": "chapters/05/core/AIHE-C01/supp/AIHE-I",
     "primary_chapter_title": "Quality Management, Accreditation, and Organizational Learning",
     "related_resources": "AIHE-C01",
@@ -1245,7 +1245,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY02",
@@ -1277,7 +1277,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-B01",
@@ -1309,7 +1309,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Prepare an economic and affordability case",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-B02",
@@ -1319,7 +1319,7 @@
     "purpose": "Record acquisition through exit costs, resource use, pricing exposure, opportunity cost, residual value, and evidence.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "6, 9, 12, 14, 15",
+    "aligned_chapters": "6, 9, 12",
     "folder": "chapters/06/core/AIHE-B02",
     "primary_chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
     "related_resources": "AIHE-M; AIHE-EX17",
@@ -1341,7 +1341,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Prepare an economic and affordability case",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE06",
@@ -1373,7 +1373,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE06B",
@@ -1405,7 +1405,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-B",
@@ -1415,7 +1415,7 @@
     "purpose": "Specify the decision, perspective, comparator, costs, outcomes, horizon, uncertainty, distribution, and reporting plan.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "6,7,8,15",
+    "aligned_chapters": "6, 7, 8",
     "folder": "chapters/06/core/AIHE-B01/supp/AIHE-B",
     "primary_chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
     "related_resources": "AIHE-B01",
@@ -1437,7 +1437,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX17",
@@ -1447,7 +1447,7 @@
     "purpose": "Model base and variable fees in clinically legible units, cap exposure, price support explicitly, and link renewal to realized value.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "6,9,12",
+    "aligned_chapters": "6, 9, 12",
     "folder": "chapters/06/core/AIHE-B02/supp/AIHE-EX17",
     "primary_chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
     "related_resources": "AIHE-B02",
@@ -1469,7 +1469,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-M",
@@ -1479,7 +1479,7 @@
     "purpose": "Estimate incremental lifecycle costs from acquisition through operation, monitoring, material change, and exit.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "6,9,14,15",
+    "aligned_chapters": "6, 9",
     "folder": "chapters/06/core/AIHE-B02/supp/AIHE-M",
     "primary_chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
     "related_resources": "AIHE-B02",
@@ -1501,7 +1501,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY10",
@@ -1511,7 +1511,7 @@
     "purpose": "Calculates one-time and recurring AI costs, discounted present value, cost per use, and optimistic/base/conservative scenarios across the full lifecycle.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "6, 9, 14, 15",
+    "aligned_chapters": "6, 9",
     "folder": "chapters/06/python_analytics/PY10_cost_budget",
     "primary_chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
     "related_resources": "AIHE-B02; AIHE-CASE06",
@@ -1533,7 +1533,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY11",
@@ -1565,7 +1565,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-B04",
@@ -1597,7 +1597,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Prepare an economic and affordability case",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE07",
@@ -1629,7 +1629,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-AA",
@@ -1639,7 +1639,7 @@
     "purpose": "Compare incremental costs and outcomes, net benefit, affordability, uptake, cash flow, and sensitivity scenarios.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "7,8",
+    "aligned_chapters": "7, 8",
     "folder": "chapters/07/core/AIHE-B04/supp/AIHE-AA",
     "primary_chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
     "related_resources": "AIHE-B04",
@@ -1661,7 +1661,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX18",
@@ -1671,7 +1671,7 @@
     "purpose": "Distinguish regulatory authorization, HTA, reimbursement or payment, procurement, and local adoption; record the authority, perspective, evidence, gaps, and continuing evidence conditions for each layer.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "7,9,11,12",
+    "aligned_chapters": "7, 9, 11, 12",
     "folder": "chapters/07/core/AIHE-B04/supp/AIHE-EX18",
     "primary_chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
     "related_resources": "AIHE-B04",
@@ -1693,7 +1693,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY12",
@@ -1703,7 +1703,7 @@
     "purpose": "Compares an AI-enabled pathway with a comparator using incremental cost, incremental effect, ICER, net monetary benefit, and dominance rules.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "7, 8, 15",
+    "aligned_chapters": "7, 8",
     "folder": "chapters/07/python_analytics/PY12_cost_effect",
     "primary_chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
     "related_resources": "AIHE-B04; AIHE-CASE07",
@@ -1725,7 +1725,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY13",
@@ -1757,7 +1757,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY16",
@@ -1767,7 +1767,7 @@
     "purpose": "Compares costs, effects, net monetary benefit, access, and equity-weighted value across population groups.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "7, 10, 15",
+    "aligned_chapters": "7, 10",
     "folder": "chapters/07/python_analytics/PY16_distributional",
     "primary_chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
     "related_resources": "AIHE-B04; AIHE-C03; AIHE-CASE07",
@@ -1789,7 +1789,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-B05",
@@ -1799,7 +1799,7 @@
     "purpose": "Select a decision model from the problem structure and document evidence, verification, uncertainty, and reproducibility.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "8, 11, 15",
+    "aligned_chapters": "8, 11",
     "folder": "chapters/08/core/AIHE-B05",
     "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
     "related_resources": "AIHE-EX15; AIHE-EX16; AIHE-AF; AIHE-EX04; AIHE-EX05; AIHE-EX06",
@@ -1821,7 +1821,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Prepare an economic and affordability case",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE08",
@@ -1853,7 +1853,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE08B",
@@ -1885,7 +1885,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-RG05",
@@ -1895,7 +1895,7 @@
     "purpose": "Examine uncertainty through alternative futures, thresholds, staged commitments, learning options, contract flexibility, and explicit exit criteria.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "1, 6-9, 12, 15",
+    "aligned_chapters": "1, 6, 7, 8, 9, 12",
     "folder": "chapters/08/guides/AIHE-RG05",
     "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
     "related_resources": "",
@@ -1917,7 +1917,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Consult a reference guide",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-AF",
@@ -1927,7 +1927,7 @@
     "purpose": "Match evidence and assurance needs to reporting standards, appraisal tools, lifecycle guidance, and management systems.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "9,10,11,12",
+    "aligned_chapters": "9, 10, 11, 12",
     "folder": "chapters/08/core/AIHE-B05/supp/AIHE-AF",
     "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
     "related_resources": "AIHE-B05",
@@ -1949,7 +1949,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX04",
@@ -1959,7 +1959,7 @@
     "purpose": "Link each material claim and assumption to evidence, quality, applicability, uncertainty, owner, and action.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "7,8,11,12",
+    "aligned_chapters": "7, 8, 11, 12",
     "folder": "chapters/08/core/AIHE-B05/supp/AIHE-EX04",
     "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
     "related_resources": "AIHE-B05",
@@ -1981,7 +1981,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX06",
@@ -1991,7 +1991,7 @@
     "purpose": "Record the exact system, version, intended and prohibited uses, evidence, limitations, human oversight, and monitoring.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "3,9,11,12",
+    "aligned_chapters": "3, 9, 11, 12",
     "folder": "chapters/08/core/AIHE-B05/supp/AIHE-EX06",
     "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
     "related_resources": "AIHE-B05",
@@ -2013,7 +2013,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX15",
@@ -2023,7 +2023,7 @@
     "purpose": "Select decision trees, Markov models, microsimulation, discrete-event simulation, system dynamics, or agent-based modeling by problem structure.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "7,8,11",
+    "aligned_chapters": "7, 8, 11",
     "folder": "chapters/08/core/AIHE-B05/supp/AIHE-EX15",
     "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
     "related_resources": "AIHE-B05",
@@ -2045,7 +2045,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX16",
@@ -2055,7 +2055,7 @@
     "purpose": "Verify data provenance, environments, versioning, testing, validation, uncertainty, security, release, and archive controls.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "8,11,12",
+    "aligned_chapters": "8, 11, 12",
     "folder": "chapters/08/core/AIHE-B05/supp/AIHE-EX16",
     "primary_chapter_title": "Decision Modelling, Simulation, and the Value of Information",
     "related_resources": "AIHE-B05",
@@ -2077,7 +2077,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY14",
@@ -2109,7 +2109,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY15",
@@ -2141,7 +2141,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY18",
@@ -2173,7 +2173,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY19",
@@ -2205,7 +2205,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY20",
@@ -2237,7 +2237,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-D01",
@@ -2247,7 +2247,7 @@
     "purpose": "Translate evidence, interoperability, data, security, monitoring, update, service, remedy, portability, and exit requirements into contract terms.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "6, 9, 10, 12, 14",
+    "aligned_chapters": "6, 9, 10, 12",
     "folder": "chapters/09/core/AIHE-D01",
     "primary_chapter_title": "Problem-First Procurement and Vendor Governance",
     "related_resources": "AIHE-D; AIHE-EX08; AIHE-EX09",
@@ -2269,7 +2269,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Evaluate and contract with a vendor",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE09",
@@ -2301,7 +2301,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE09B",
@@ -2333,7 +2333,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-D",
@@ -2343,7 +2343,7 @@
     "purpose": "Evaluate problem fit, evidence, integration, lifecycle cost, data rights, security, monitoring, updates, audit, and exit.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "9,12,14",
+    "aligned_chapters": "9, 12",
     "folder": "chapters/09/core/AIHE-D01/supp/AIHE-D",
     "primary_chapter_title": "Problem-First Procurement and Vendor Governance",
     "related_resources": "AIHE-D01",
@@ -2365,7 +2365,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX08",
@@ -2375,7 +2375,7 @@
     "purpose": "Structure demonstrations around real workflows, evidence, limitations, usability, interoperability, monitoring, and unsupported claims.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "9,12",
+    "aligned_chapters": "9, 12",
     "folder": "chapters/09/core/AIHE-D01/supp/AIHE-EX08",
     "primary_chapter_title": "Problem-First Procurement and Vendor Governance",
     "related_resources": "AIHE-D01",
@@ -2397,7 +2397,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX09",
@@ -2407,7 +2407,7 @@
     "purpose": "Document intended use, evidence, audit, updates, data, security, service levels, pricing, termination, portability, and decommissioning clauses.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "9,12,14",
+    "aligned_chapters": "9, 12",
     "folder": "chapters/09/core/AIHE-D01/supp/AIHE-EX09",
     "primary_chapter_title": "Problem-First Procurement and Vendor Governance",
     "related_resources": "AIHE-D01",
@@ -2429,7 +2429,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY17",
@@ -2461,7 +2461,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY25",
@@ -2471,7 +2471,7 @@
     "purpose": "Ranks candidate AI products using weighted evidence domains while enforcing non-compensatory safety, privacy, equity, cybersecurity, audit, and exit safeguards.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "9, 12, 14",
+    "aligned_chapters": "9, 12",
     "folder": "chapters/09/python_analytics/PY25_procurement",
     "primary_chapter_title": "Problem-First Procurement and Vendor Governance",
     "related_resources": "AIHE-D01; AIHE-CASE09",
@@ -2493,7 +2493,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-C03",
@@ -2525,7 +2525,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Evaluate and govern institutional risk",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-C05",
@@ -2557,7 +2557,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Communicate publicly and transparently",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE10",
@@ -2589,7 +2589,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-RG04",
@@ -2599,7 +2599,7 @@
     "purpose": "Maintain date-stamped records for European, Romanian, and global legal, policy, standards, reimbursement, and guidance sources whose scope or implementation status may change.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "2, 5, 7, 9, 10, 12-15",
+    "aligned_chapters": "2, 5, 7, 9, 10, 12",
     "folder": "chapters/10/guides/AIHE-RG04",
     "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
     "related_resources": "",
@@ -2621,7 +2621,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Consult a reference guide",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-AB",
@@ -2631,7 +2631,7 @@
     "purpose": "Record privacy, security, continuity, supplier, model, and incident risks with controls, owners, and review dates.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "10,12",
+    "aligned_chapters": "10, 12",
     "folder": "chapters/10/core/AIHE-C03/supp/AIHE-AB",
     "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
     "related_resources": "AIHE-C03",
@@ -2653,7 +2653,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-AC",
@@ -2663,7 +2663,7 @@
     "purpose": "Identify affected groups, barriers, harms, mitigations, costs, residual concerns, and monitoring indicators.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "7,10,12,15",
+    "aligned_chapters": "7, 10, 12",
     "folder": "chapters/10/core/AIHE-C03/supp/AIHE-AC",
     "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
     "related_resources": "AIHE-C03",
@@ -2685,7 +2685,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-C",
@@ -2695,7 +2695,7 @@
     "purpose": "Translate autonomy, safety, transparency, fairness, oversight, accountability, and public value into evidence and action.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "10,12",
+    "aligned_chapters": "10, 12",
     "folder": "chapters/10/core/AIHE-C03/supp/AIHE-C",
     "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
     "related_resources": "AIHE-C03",
@@ -2717,7 +2717,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX13",
@@ -2727,7 +2727,7 @@
     "purpose": "Explain AI use, limits, human oversight, data handling, accessibility, questions, complaints, incidents, and human alternatives.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "3,10,12",
+    "aligned_chapters": "3, 10, 12",
     "folder": "chapters/10/core/AIHE-C05/supp/AIHE-EX13",
     "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
     "related_resources": "AIHE-C05",
@@ -2749,7 +2749,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-G",
@@ -2759,7 +2759,7 @@
     "purpose": "Establish a health-system governance charter covering purpose, scope, membership, evidence, decisions, monitoring, incidents, updates, and de-adoption.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "10,12",
+    "aligned_chapters": "10, 12",
     "folder": "chapters/10/core/AIHE-C03/supp/AIHE-G",
     "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
     "related_resources": "AIHE-C03",
@@ -2781,7 +2781,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-N",
@@ -2791,7 +2791,7 @@
     "purpose": "Integrate trust-adjusted value, distributional effects, mitigation, public value, confidence, and mandatory safeguards.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "1,7,10,12",
+    "aligned_chapters": "1, 7, 10, 12",
     "folder": "chapters/10/core/AIHE-C03/supp/AIHE-N",
     "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
     "related_resources": "AIHE-C03",
@@ -2813,7 +2813,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY07",
@@ -2845,7 +2845,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY08",
@@ -2855,7 +2855,7 @@
     "purpose": "Compares AUC, calibration, sensitivity, specificity, predictive values, and selection rates across population groups.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "7, 10, 11, 15",
+    "aligned_chapters": "7, 10, 11",
     "folder": "chapters/10/python_analytics/PY08_equity_audit",
     "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
     "related_resources": "AIHE-C03; AIHE-CASE10",
@@ -2877,7 +2877,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY26",
@@ -2909,7 +2909,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE11",
@@ -2941,7 +2941,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-RG02",
@@ -2973,7 +2973,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Consult a reference guide",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-RG06",
@@ -3005,7 +3005,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Consult a reference guide",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX05",
@@ -3037,7 +3037,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Validate a system locally",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY04",
@@ -3069,7 +3069,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY05",
@@ -3101,7 +3101,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY24",
@@ -3133,7 +3133,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY30",
@@ -3165,7 +3165,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY31",
@@ -3197,7 +3197,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY32",
@@ -3229,7 +3229,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-D02",
@@ -3261,7 +3261,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Implement and monitor safely",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-D03",
@@ -3293,7 +3293,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Implement and monitor safely",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-D04",
@@ -3325,7 +3325,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Review an update, incident, or renewal",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-D05",
@@ -3335,7 +3335,7 @@
     "purpose": "Assess material change, revalidation, current authorization, renewal, renegotiation, replacement, retirement, continuity, and the end of authorization.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "9, 11, 12, 14",
+    "aligned_chapters": "9, 11, 12",
     "folder": "chapters/12/core/AIHE-D05",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-EX11; AIHE-T; AIHE-J",
@@ -3357,7 +3357,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Review an update, incident, or renewal",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-CASE12",
@@ -3389,7 +3389,7 @@
     "technical_skill_required": "Low",
     "reader_pathway": "Explore a worked example",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-RG01",
@@ -3399,7 +3399,7 @@
     "purpose": "Distinguish legal instruments, standards, guidance, reporting guidelines, appraisal tools, implementation frameworks, and author-developed decision aids; select them according to function and authority.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "2, 4, 5, 7, 9-12",
+    "aligned_chapters": "2, 4, 5, 7, 9, 10, 11, 12",
     "folder": "chapters/12/guides/AIHE-RG01",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "",
@@ -3421,7 +3421,7 @@
     "technical_skill_required": "Low to moderate",
     "reader_pathway": "Consult a reference guide",
     "default_visibility": "default",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-AE",
@@ -3453,7 +3453,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-E",
@@ -3463,7 +3463,7 @@
     "purpose": "Apply the book architecture to an institutional case and produce a defendable decision with conditions and lifecycle controls.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+    "aligned_chapters": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
     "folder": "chapters/12/core/AIHE-D02/supp/AIHE-E",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D02",
@@ -3485,7 +3485,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX02",
@@ -3495,7 +3495,7 @@
     "purpose": "Maintain a controlled inventory of proposed and deployed AI systems, owners, versions, risk levels, and review dates.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "9,10,12",
+    "aligned_chapters": "9, 10, 12",
     "folder": "chapters/12/core/AIHE-D02/supp/AIHE-EX02",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D02",
@@ -3517,7 +3517,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX10",
@@ -3527,7 +3527,7 @@
     "purpose": "Document role, workflow, training, competency, downtime, escalation, refresh, and adoption requirements.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "3,4,12",
+    "aligned_chapters": "3, 4, 12",
     "folder": "chapters/12/core/AIHE-D02/supp/AIHE-EX10",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D02",
@@ -3549,7 +3549,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX11",
@@ -3559,7 +3559,7 @@
     "purpose": "Assess model, data, interface, workflow, vendor, contract, policy, performance, risk, and annual renewal changes.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "9,12,14",
+    "aligned_chapters": "9, 12",
     "folder": "chapters/12/core/AIHE-D05/supp/AIHE-EX11",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D05",
@@ -3581,7 +3581,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX12",
@@ -3591,7 +3591,7 @@
     "purpose": "Classify and reconstruct technical, clinical, workflow, privacy, cybersecurity, equity, and communication incidents.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "5,10,12",
+    "aligned_chapters": "5, 10, 12",
     "folder": "chapters/12/core/AIHE-D04/supp/AIHE-EX12",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D04",
@@ -3613,7 +3613,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-EX14",
@@ -3623,7 +3623,7 @@
     "purpose": "Prepare a decision-ready executive recommendation, options, evidence, economics, residual risk, dissent, conditions, owners, and next review.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "1,6,7,9,10,11,12,15",
+    "aligned_chapters": "1, 6, 7, 9, 10, 11, 12",
     "folder": "chapters/12/core/AIHE-D02/supp/AIHE-EX14",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D02",
@@ -3645,7 +3645,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-H",
@@ -3655,7 +3655,7 @@
     "purpose": "Summarize the decision problem, comparator, evidence, economics, risks, implementation, conditions, and decision requested.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "1,6,7,9,10,12",
+    "aligned_chapters": "1, 6, 7, 9, 10, 12",
     "folder": "chapters/12/core/AIHE-D02/supp/AIHE-H",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D02",
@@ -3677,7 +3677,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-J",
@@ -3687,7 +3687,7 @@
     "purpose": "Bundle lifecycle checklists for monitoring, version control, scn planning, policy updates, procurement, and decommissioning.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "9,12,13,14,15",
+    "aligned_chapters": "9, 12",
     "folder": "chapters/12/core/AIHE-D05/supp/AIHE-J",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D05",
@@ -3709,7 +3709,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-K",
@@ -3719,7 +3719,7 @@
     "purpose": "Assess problem relevance, data, validity, economics, ethics, feasibility, lifecycle governance, safeguards, and final decision.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "1,2,6,7,10,12",
+    "aligned_chapters": "1, 2, 6, 7, 10, 12",
     "folder": "chapters/12/core/AIHE-D02/supp/AIHE-K",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D02",
@@ -3741,7 +3741,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-P",
@@ -3751,7 +3751,7 @@
     "purpose": "Maintain a versioned evidence, economics, governance, implementation, monitoring, update, and decision record.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "6,7,8,9,10,11,12",
+    "aligned_chapters": "6, 7, 8, 9, 10, 11, 12",
     "folder": "chapters/12/core/AIHE-D02/supp/AIHE-P",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D02",
@@ -3773,7 +3773,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-R",
@@ -3783,7 +3783,7 @@
     "purpose": "Manage implementation as an evidence-producing sequence from problem verification through continuous evaluation.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "4,11,12",
+    "aligned_chapters": "4, 11, 12",
     "folder": "chapters/12/core/AIHE-D02/supp/AIHE-R",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D02",
@@ -3805,7 +3805,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-S",
@@ -3815,7 +3815,7 @@
     "purpose": "Operate daily technical checks, periodic service and economic review, incident classification, reconstruction, escalation, and annual renewal.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "5,11,12",
+    "aligned_chapters": "5, 11, 12",
     "folder": "chapters/12/core/AIHE-D03/supp/AIHE-S",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D03",
@@ -3837,7 +3837,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-T",
@@ -3847,7 +3847,7 @@
     "purpose": "Define stopping triggers, fallback, transition, data disposition, communication, contract exit, validation, and post-retirement review.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "9,12,14",
+    "aligned_chapters": "9, 12",
     "folder": "chapters/12/core/AIHE-D05/supp/AIHE-T",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D05",
@@ -3869,7 +3869,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-V",
@@ -3879,7 +3879,7 @@
     "purpose": "Define construct, content, reliability, feasibility, decision, implementation, and prospective validation for proposed frameworks.",
     "version": "V1.0",
     "status": "optional",
-    "aligned_chapters": "11,12",
+    "aligned_chapters": "11, 12",
     "folder": "chapters/12/core/AIHE-D02/supp/AIHE-V",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
     "related_resources": "AIHE-D02",
@@ -3901,7 +3901,7 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Use a specialist resource",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY09",
@@ -3933,7 +3933,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY27",
@@ -3965,7 +3965,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY29",
@@ -3997,7 +3997,7 @@
     "technical_skill_required": "High",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   },
   {
     "resource_id": "AIHE-PY40",
@@ -4007,10 +4007,10 @@
     "purpose": "Provide an advisory review of the current institutional decision state, conditions, safeguards, transition triggers, authority, and next review without issuing an institutional authorization.",
     "version": "V1.0",
     "status": "public",
-    "aligned_chapters": "5, 9, 10, 11, 12, 14, 15",
+    "aligned_chapters": "5, 9, 10, 11, 12",
     "folder": "chapters/12/python_analytics/PY40_decision_state",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
-    "related_resources": "AIHE-D02; AIHE-D03; AIHE-D04; AIHE-D05; AIHE-CASE12; AIHE-CASE09B; AIHE-CASE15",
+    "related_resources": "AIHE-D02; AIHE-D03; AIHE-D04; AIHE-D05; AIHE-CASE12; AIHE-CASE09B",
     "tier": "Python analytics",
     "legacy_aliases": "",
     "has_browser_form": "no",
@@ -4029,646 +4029,6 @@
     "technical_skill_required": "Moderate",
     "reader_pathway": "Run an analysis",
     "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-E01",
-    "title": "Circular-Economy and Sustainable-AI Assessment",
-    "primary_chapter": "13",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Apply the circularity hierarchy from prevention and reduction through sharing, maintenance, reuse, refurbishment, recovery, and disposal.",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "13, 14, 15",
-    "folder": "chapters/13/core/AIHE-E01",
-    "primary_chapter_title": "Circular Health Systems and Resource Stewardship",
-    "related_resources": "AIHE-CE1",
-    "tier": "Core",
-    "legacy_aliases": "AIHE-CE1",
-    "has_browser_form": "yes",
-    "browser_form_path": "docs/forms/AIHE-E01/index.html",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-E01.html",
-    "reader_level": "Applied",
-    "primary_audience": "Institutional decision-makers and multidisciplinary project teams",
-    "estimated_time": "60–180 minutes",
-    "required_inputs": "Defined decision problem, realistic comparator, local evidence, named owners, and applicable institutional requirements",
-    "expected_output": "Versioned institutional decision record with conditions, monitoring, review date, and exit route",
-    "prerequisites": "Book Chapter 13; governed working copy; accountable owner",
-    "use_frequency": "At initiation and each material review",
-    "essential_or_optional": "Essential when relevant to the decision",
-    "recommended_format": "DOCX for narrative work; XLSX for registers and calculations",
-    "technical_skill_required": "Low to moderate",
-    "reader_pathway": "Assess circularity and asset stewardship",
-    "default_visibility": "default",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CASE13",
-    "title": "Circular AI Infrastructure Strategy",
-    "primary_chapter": "13",
-    "formats": "md; csv; json; xlsx",
-    "purpose": "Can the health system meet its analytic need through avoidance, optimization, sharing, and life extension before acquiring new infrastructure?",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "13",
-    "folder": "worked_examples/AIHE-CASE13_circular_ai_infrastructure_strategy",
-    "primary_chapter_title": "Circular Health Systems and Resource Stewardship",
-    "related_resources": "AIHE-E01; AIHE-CE1; AIHE-CE4; AIHE-I; AIHE-PY36; AIHE-PY39",
-    "tier": "Worked case",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "no",
-    "process_flow_path": "",
-    "reader_level": "Introductory to applied",
-    "primary_audience": "Readers, students, and practitioners",
-    "estimated_time": "45–120 minutes",
-    "required_inputs": "No local data required; synthetic assumptions are supplied",
-    "expected_output": "Completed case interpretation and conditional recommendation",
-    "prerequisites": "Book Chapter 13 or the case orientation",
-    "use_frequency": "Orientation, self-study, or method demonstration",
-    "essential_or_optional": "Recommended",
-    "recommended_format": "Browser demonstration, workbook, scenario, and worked solution",
-    "technical_skill_required": "Low",
-    "reader_pathway": "Explore a worked example",
-    "default_visibility": "default",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CASE13B",
-    "title": "Rebound and Burden Transfer",
-    "primary_chapter": "13",
-    "formats": "md; csv; json; xlsx",
-    "purpose": "Can lower resource intensity coexist with higher total demand or burdens shifted across places, suppliers, populations, or periods?",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "13",
-    "folder": "worked_examples/AIHE-CASE13B_rebound_and_burden_transfer",
-    "primary_chapter_title": "Circular Health Systems and Resource Stewardship",
-    "related_resources": "AIHE-E01; AIHE-E05; AIHE-PY36; AIHE-PY39",
-    "tier": "Worked case",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "no",
-    "process_flow_path": "",
-    "reader_level": "Introductory to applied",
-    "primary_audience": "Readers, students, analysts, and practitioners",
-    "estimated_time": "45–120 minutes",
-    "required_inputs": "No local data required; synthetic assumptions are supplied",
-    "expected_output": "Completed case interpretation and conditional recommendation",
-    "prerequisites": "Book Chapter 13 or the case orientation",
-    "use_frequency": "Orientation, self-study, or method demonstration",
-    "essential_or_optional": "Recommended",
-    "recommended_format": "Browser demonstration, workbook, scenario, and worked solution",
-    "technical_skill_required": "Low to moderate",
-    "reader_pathway": "Explore a worked example",
-    "default_visibility": "default",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CE1",
-    "title": "Circular Economy and Sustainable AI Assessment",
-    "primary_chapter": "13",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Assess service need, the circularity hierarchy, resource demand, rebound, resilience, equity, evidence, and lifecycle review across AI-enabled health services.",
-    "version": "V1.0",
-    "status": "optional",
-    "aligned_chapters": "13,14,15",
-    "folder": "chapters/13/core/AIHE-E01/supp/AIHE-CE1",
-    "primary_chapter_title": "Circular Health Systems and Resource Stewardship",
-    "related_resources": "AIHE-E01",
-    "tier": "Supplemental specialist tool",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-CE1.html",
-    "reader_level": "Applied to advanced",
-    "primary_audience": "Specialist project contributors and institutional reviewers",
-    "estimated_time": "30–120 minutes",
-    "required_inputs": "A defined decision and the evidence required by the specialist task",
-    "expected_output": "Supporting analysis, register, checklist, or decision record",
-    "prerequisites": "Aligned core resource or Book Chapter 13",
-    "use_frequency": "As required by the decision",
-    "essential_or_optional": "Optional or conditionally required",
-    "recommended_format": "DOCX, XLSX, or structured data",
-    "technical_skill_required": "Moderate",
-    "reader_pathway": "Use a specialist resource",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-PY36",
-    "title": "Circular Stock-Flow, Value-Retention, and Leakage Accounting",
-    "primary_chapter": "13",
-    "formats": "py; ipynb; csv; json; md",
-    "purpose": "Quantify resource stocks, flows, inner and outer value-retention loops, leakage, intensity, and absolute demand for AI-enabled services.",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "13, 15",
-    "folder": "chapters/13/python_analytics/PY36_circular_flow",
-    "primary_chapter_title": "Circular Health Systems and Resource Stewardship",
-    "related_resources": "AIHE-E01; AIHE-E05; AIHE-CASE13",
-    "tier": "Python analytics",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "no",
-    "process_flow_path": "",
-    "reader_level": "Advanced",
-    "primary_audience": "Health economists, analysts, researchers, informatics teams, and technical reviewers",
-    "estimated_time": "1–4 hours",
-    "required_inputs": "Defined model question, governed input data, and a supported Python environment",
-    "expected_output": "Reproducible analytical output with archived inputs, code, assumptions, and interpretation",
-    "prerequisites": "Book Chapter 13; method knowledge; Python or Jupyter capability",
-    "use_frequency": "When quantitative analysis is decision-relevant",
-    "essential_or_optional": "Optional advanced analysis",
-    "recommended_format": "Python script, Jupyter notebook, and accompanying wb",
-    "technical_skill_required": "High",
-    "reader_pathway": "Run an analysis",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-PY39",
-    "title": "Rebound, Induced Demand, and Burden-Transfer Analysis",
-    "primary_chapter": "13",
-    "formats": "py; ipynb; csv; json; md",
-    "purpose": "Assess whether lower resource intensity reduces absolute demand and whether costs, environmental effects, material burdens, or labour consequences are shifted across places, populations, suppliers, or periods.",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "12, 13, 14, 15",
-    "folder": "chapters/13/python_analytics/PY39_rebound_burden_transfer",
-    "primary_chapter_title": "Circular Health Systems and Resource Stewardship",
-    "related_resources": "AIHE-E05; AIHE-CASE13",
-    "tier": "Python analytics",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "no",
-    "process_flow_path": "",
-    "reader_level": "Advanced",
-    "primary_audience": "Health economists, analysts, researchers, informatics teams, and technical reviewers",
-    "estimated_time": "1–4 hours",
-    "required_inputs": "Defined model question, governed input data, and a supported Python environment",
-    "expected_output": "Reproducible analytical output with archived inputs, code, assumptions, and interpretation",
-    "prerequisites": "Book Chapter 13; method knowledge; Python or Jupyter capability",
-    "use_frequency": "When quantitative analysis is decision-relevant",
-    "essential_or_optional": "Optional advanced analysis",
-    "recommended_format": "Python script, Jupyter notebook, and accompanying wb",
-    "technical_skill_required": "High",
-    "reader_pathway": "Run an analysis",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-E02",
-    "title": "Circular Procurement and Supplier Scorecard",
-    "primary_chapter": "14",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Evaluate durability, modularity, repairability, interoperability, resource information, take-back, pricing, residual value, and exit.",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "9, 13, 14",
-    "folder": "chapters/14/core/AIHE-E02",
-    "primary_chapter_title": "Circular Procurement and Asset Stewardship",
-    "related_resources": "AIHE-CE2",
-    "tier": "Core",
-    "legacy_aliases": "AIHE-CE2",
-    "has_browser_form": "yes",
-    "browser_form_path": "docs/forms/AIHE-E02/index.html",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-E02.html",
-    "reader_level": "Applied",
-    "primary_audience": "Institutional decision-makers and multidisciplinary project teams",
-    "estimated_time": "60–180 minutes",
-    "required_inputs": "Defined decision problem, realistic comparator, local evidence, named owners, and applicable institutional requirements",
-    "expected_output": "Versioned institutional decision record with conditions, monitoring, review date, and exit route",
-    "prerequisites": "Book Chapter 14; governed working copy; accountable owner",
-    "use_frequency": "At initiation and each material review",
-    "essential_or_optional": "Essential when relevant to the decision",
-    "recommended_format": "DOCX for narrative work; XLSX for registers and calculations",
-    "technical_skill_required": "Low to moderate",
-    "reader_pathway": "Assess circularity and asset stewardship",
-    "default_visibility": "default",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-E03",
-    "title": "Supported Asset-Life Decision Record",
-    "primary_chapter": "14",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Compare eligible asset and service options using supported service life, obsolescence, equivalent annual cost, realizable residual value, resilience, and closure conditions.",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "6, 14, 15",
-    "folder": "chapters/14/core/AIHE-E03",
-    "primary_chapter_title": "Circular Procurement and Asset Stewardship",
-    "related_resources": "AIHE-CE3",
-    "tier": "Core",
-    "legacy_aliases": "AIHE-CE3",
-    "has_browser_form": "yes",
-    "browser_form_path": "docs/forms/AIHE-E03/index.html",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-E03.html",
-    "reader_level": "Applied",
-    "primary_audience": "Institutional decision-makers and multidisciplinary project teams",
-    "estimated_time": "60–180 minutes",
-    "required_inputs": "Defined decision problem, realistic comparator, local evidence, named owners, and applicable institutional requirements",
-    "expected_output": "Versioned institutional decision record with conditions, monitoring, review date, and exit route",
-    "prerequisites": "Book Chapter 14; governed working copy; accountable owner",
-    "use_frequency": "At initiation and each material review",
-    "essential_or_optional": "Essential when relevant to the decision",
-    "recommended_format": "DOCX for narrative work; XLSX for registers and calculations",
-    "technical_skill_required": "Low to moderate",
-    "reader_pathway": "Assess circularity and asset stewardship",
-    "default_visibility": "default",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CASE14",
-    "title": "Imaging Platform: Maintain, Refurbish, Replace, or Share",
-    "primary_chapter": "14",
-    "formats": "md; csv; json; xlsx",
-    "purpose": "Which asset-life strategy preserves safe service value while controlling lifecycle cost, downtime, material demand, and dependency?",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "14",
-    "folder": "worked_examples/AIHE-CASE14_imaging_platform_maintain_refurbish_replace_or_share",
-    "primary_chapter_title": "Circular Procurement and Asset Stewardship",
-    "related_resources": "AIHE-E02; AIHE-E03; AIHE-CE2; AIHE-CE3; AIHE-D01; AIHE-T; AIHE-PY37",
-    "tier": "Worked case",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "no",
-    "process_flow_path": "",
-    "reader_level": "Introductory to applied",
-    "primary_audience": "Readers, students, and practitioners",
-    "estimated_time": "45–120 minutes",
-    "required_inputs": "No local data required; synthetic assumptions are supplied",
-    "expected_output": "Completed case interpretation and conditional recommendation",
-    "prerequisites": "Book Chapter 14 or the case orientation",
-    "use_frequency": "Orientation, self-study, or method demonstration",
-    "essential_or_optional": "Recommended",
-    "recommended_format": "Browser demonstration, workbook, scenario, and worked solution",
-    "technical_skill_required": "Low",
-    "reader_pathway": "Explore a worked example",
-    "default_visibility": "default",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CE2",
-    "title": "Circular Procurement and Supplier Scorecard",
-    "primary_chapter": "14",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Evaluate lifecycle specifications, durability, modularity, repairability, service support, product circularity data, take-back, residual value, and responsible end of life.",
-    "version": "V1.0",
-    "status": "optional",
-    "aligned_chapters": "9,13,14",
-    "folder": "chapters/14/core/AIHE-E02/supp/AIHE-CE2",
-    "primary_chapter_title": "Circular Procurement and Asset Stewardship",
-    "related_resources": "AIHE-E02",
-    "tier": "Supplemental specialist tool",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-CE2.html",
-    "reader_level": "Applied to advanced",
-    "primary_audience": "Specialist project contributors and institutional reviewers",
-    "estimated_time": "30–120 minutes",
-    "required_inputs": "A defined decision and the evidence required by the specialist task",
-    "expected_output": "Supporting analysis, register, checklist, or decision record",
-    "prerequisites": "Aligned core resource or Book Chapter 14",
-    "use_frequency": "As required by the decision",
-    "essential_or_optional": "Optional or conditionally required",
-    "recommended_format": "DOCX, XLSX, or structured data",
-    "technical_skill_required": "Moderate",
-    "reader_pathway": "Use a specialist resource",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CE3",
-    "title": "Circular Asset-Life Decision Workbook",
-    "primary_chapter": "14",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Compare maintain, repair, upgrade, share, refurbish, remanufacture, replace, and service-model options using safety, cost, life, validation, resilience, and residual value.",
-    "version": "V1.0",
-    "status": "optional",
-    "aligned_chapters": "6,9,14,15",
-    "folder": "chapters/14/core/AIHE-E03/supp/AIHE-CE3",
-    "primary_chapter_title": "Circular Procurement and Asset Stewardship",
-    "related_resources": "AIHE-E03",
-    "tier": "Supplemental specialist tool",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-CE3.html",
-    "reader_level": "Applied to advanced",
-    "primary_audience": "Specialist project contributors and institutional reviewers",
-    "estimated_time": "30–120 minutes",
-    "required_inputs": "A defined decision and the evidence required by the specialist task",
-    "expected_output": "Supporting analysis, register, checklist, or decision record",
-    "prerequisites": "Aligned core resource or Book Chapter 14",
-    "use_frequency": "As required by the decision",
-    "essential_or_optional": "Optional or conditionally required",
-    "recommended_format": "DOCX, XLSX, or structured data",
-    "technical_skill_required": "Moderate",
-    "reader_pathway": "Use a specialist resource",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-PY37",
-    "title": "Supported Asset-Life, Eligibility, Equivalent Annual Cost, and Residual-Value Analysis",
-    "primary_chapter": "14",
-    "formats": "py; ipynb; csv; json; md",
-    "purpose": "Compare eligible asset options using supported service life, obsolescence, equivalent annual cost, availability, realizable residual value, and closure thresholds.",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "6, 14, 15",
-    "folder": "chapters/14/python_analytics/PY37_asset_life",
-    "primary_chapter_title": "Circular Procurement and Asset Stewardship",
-    "related_resources": "AIHE-E03; AIHE-CASE14",
-    "tier": "Python analytics",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "no",
-    "process_flow_path": "",
-    "reader_level": "Advanced",
-    "primary_audience": "Health economists, analysts, researchers, informatics teams, and technical reviewers",
-    "estimated_time": "1–4 hours",
-    "required_inputs": "Defined model question, governed input data, and a supported Python environment",
-    "expected_output": "Reproducible analytical output with archived inputs, code, assumptions, and interpretation",
-    "prerequisites": "Book Chapter 14; method knowledge; Python or Jupyter capability",
-    "use_frequency": "When quantitative analysis is decision-relevant",
-    "essential_or_optional": "Optional advanced analysis",
-    "recommended_format": "Python script, Jupyter notebook, and accompanying wb",
-    "technical_skill_required": "High",
-    "reader_pathway": "Run an analysis",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-E04",
-    "title": "Circularity-Adjusted Evaluation Record",
-    "primary_chapter": "15",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Reconcile functionally equivalent comparators, economic and environmental boundaries, physical consequences, monetary values, residual value, resilience, incomplete monetization, double counting, rebound, and burden transfer.",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "15",
-    "folder": "chapters/15/core/AIHE-E04",
-    "primary_chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "related_resources": "AIHE-CE6",
-    "tier": "Core",
-    "legacy_aliases": "AIHE-CE6",
-    "has_browser_form": "yes",
-    "browser_form_path": "docs/forms/AIHE-E04/index.html",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-E04.html",
-    "reader_level": "Applied",
-    "primary_audience": "Institutional decision-makers and multidisciplinary project teams",
-    "estimated_time": "60–180 minutes",
-    "required_inputs": "Defined decision problem, realistic comparator, local evidence, named owners, and applicable institutional requirements",
-    "expected_output": "Versioned institutional decision record with conditions, monitoring, review date, and exit route",
-    "prerequisites": "Book Chapter 15; governed working copy; accountable owner",
-    "use_frequency": "At initiation and each material review",
-    "essential_or_optional": "Essential when relevant to the decision",
-    "recommended_format": "DOCX for narrative work; XLSX for registers and calculations",
-    "technical_skill_required": "Low to moderate",
-    "reader_pathway": "Assess circularity and asset stewardship",
-    "default_visibility": "default",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-E05",
-    "title": "Environmental, Circularity, and Disposition Dashboard",
-    "primary_chapter": "15",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Monitor acquisition, utilization, asset life, resource intensity, materials, take-back, recovery, rebound, resilience, and disposition.",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "13, 14, 15",
-    "folder": "chapters/15/core/AIHE-E05",
-    "primary_chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "related_resources": "AIHE-CE4; AIHE-CE5; AIHE-CE7",
-    "tier": "Core",
-    "legacy_aliases": "AIHE-CE4; AIHE-CE5; AIHE-CE7",
-    "has_browser_form": "yes",
-    "browser_form_path": "docs/forms/AIHE-E05/index.html",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-E05.html",
-    "reader_level": "Applied",
-    "primary_audience": "Institutional decision-makers and multidisciplinary project teams",
-    "estimated_time": "60–180 minutes",
-    "required_inputs": "Defined decision problem, realistic comparator, local evidence, named owners, and applicable institutional requirements",
-    "expected_output": "Versioned institutional decision record with conditions, monitoring, review date, and exit route",
-    "prerequisites": "Book Chapter 15; governed working copy; accountable owner",
-    "use_frequency": "At initiation and each material review",
-    "essential_or_optional": "Essential when relevant to the decision",
-    "recommended_format": "DOCX for narrative work; XLSX for registers and calculations",
-    "technical_skill_required": "Low to moderate",
-    "reader_pathway": "Assess circularity and asset stewardship",
-    "default_visibility": "default",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CASE15",
-    "title": "AI-Assisted Remote Diagnostic Pathway: Circularity-Adjusted Economic Evaluation",
-    "primary_chapter": "15",
-    "formats": "md; csv; json; xlsx",
-    "purpose": "How does the preferred option change when conventional economic value is considered with environmental effects, residual value, resilience, equity, and rebound?",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "15",
-    "folder": "worked_examples/AIHE-CASE15_ai_assisted_remote_diagnostic_pathway",
-    "primary_chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "related_resources": "AIHE-E04; AIHE-E05; AIHE-CE6; AIHE-CE7; AIHE-B01; AIHE-B05; AIHE-PY38",
-    "tier": "Worked case",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "no",
-    "process_flow_path": "",
-    "reader_level": "Introductory to applied",
-    "primary_audience": "Readers, students, and practitioners",
-    "estimated_time": "45–120 minutes",
-    "required_inputs": "No local data required; synthetic assumptions are supplied",
-    "expected_output": "Completed case interpretation and conditional recommendation",
-    "prerequisites": "Book Chapter 15 or the case orientation",
-    "use_frequency": "Orientation, self-study, or method demonstration",
-    "essential_or_optional": "Recommended",
-    "recommended_format": "Browser demonstration, workbook, scenario, and worked solution",
-    "technical_skill_required": "Low",
-    "reader_pathway": "Explore a worked example",
-    "default_visibility": "default",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CE4",
-    "title": "Environmental Footprint and Circularity Dashboard",
-    "primary_chapter": "15",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Monitor absolute and per-functional-unit energy, water, carbon, materials, utilization, repair, life extension, recovery, rebound, resilience, and distributional effects.",
-    "version": "V1.0",
-    "status": "optional",
-    "aligned_chapters": "5,12,13,14,15",
-    "folder": "chapters/15/core/AIHE-E05/supp/AIHE-CE4",
-    "primary_chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "related_resources": "AIHE-E05",
-    "tier": "Supplemental specialist tool",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-CE4.html",
-    "reader_level": "Applied to advanced",
-    "primary_audience": "Specialist project contributors and institutional reviewers",
-    "estimated_time": "30–120 minutes",
-    "required_inputs": "A defined decision and the evidence required by the specialist task",
-    "expected_output": "Supporting analysis, register, checklist, or decision record",
-    "prerequisites": "Aligned core resource or Book Chapter 15",
-    "use_frequency": "As required by the decision",
-    "essential_or_optional": "Optional or conditionally required",
-    "recommended_format": "DOCX, XLSX, or structured data",
-    "technical_skill_required": "Moderate",
-    "reader_pathway": "Use a specialist resource",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CE5",
-    "title": "Circular Decommissioning and Asset Disposition Record",
-    "primary_chapter": "15",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Document continuity, secure erasure, chain of custody, recipient due diligence, reuse, refurbishment, recovery, residual value, communication, and closure.",
-    "version": "V1.0",
-    "status": "optional",
-    "aligned_chapters": "12,13,14",
-    "folder": "chapters/15/core/AIHE-E05/supp/AIHE-CE5",
-    "primary_chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "related_resources": "AIHE-E05",
-    "tier": "Supplemental specialist tool",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-CE5.html",
-    "reader_level": "Applied to advanced",
-    "primary_audience": "Specialist project contributors and institutional reviewers",
-    "estimated_time": "30–120 minutes",
-    "required_inputs": "A defined decision and the evidence required by the specialist task",
-    "expected_output": "Supporting analysis, register, checklist, or decision record",
-    "prerequisites": "Aligned core resource or Book Chapter 15",
-    "use_frequency": "As required by the decision",
-    "essential_or_optional": "Optional or conditionally required",
-    "recommended_format": "DOCX, XLSX, or structured data",
-    "technical_skill_required": "Moderate",
-    "reader_pathway": "Use a specialist resource",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CE6",
-    "title": "Circularity-Adjusted Evaluation Record",
-    "primary_chapter": "15",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Specify a common functional unit and boundary; integrate clinical, lifecycle-cost, environmental, residual-value, resilience, equity, rebound, and uncertainty evidence without arbitrary monetization or double counting.",
-    "version": "V1.0",
-    "status": "optional",
-    "aligned_chapters": "6,7,8,15",
-    "folder": "chapters/15/core/AIHE-E04/supp/AIHE-CE6",
-    "primary_chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "related_resources": "AIHE-E04",
-    "tier": "Supplemental specialist tool",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-CE6.html",
-    "reader_level": "Applied to advanced",
-    "primary_audience": "Specialist project contributors and institutional reviewers",
-    "estimated_time": "30–120 minutes",
-    "required_inputs": "A defined decision and the evidence required by the specialist task",
-    "expected_output": "Supporting analysis, register, checklist, or decision record",
-    "prerequisites": "Aligned core resource or Book Chapter 15",
-    "use_frequency": "As required by the decision",
-    "essential_or_optional": "Optional or conditionally required",
-    "recommended_format": "DOCX, XLSX, or structured data",
-    "technical_skill_required": "Moderate",
-    "reader_pathway": "Use a specialist resource",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-CE7",
-    "title": "Annual Circularity Review",
-    "primary_chapter": "15",
-    "formats": "docx; xlsx; csv; json; md; mmd; svg; png",
-    "purpose": "Conduct a portfolio-level annual review of resource flows, asset-life extension, environmental trends, supplier performance, recovery, rebound, incidents, capability gaps, and next-year decisions.",
-    "version": "V1.0",
-    "status": "optional",
-    "aligned_chapters": "12,13,14,15",
-    "folder": "chapters/15/core/AIHE-E05/supp/AIHE-CE7",
-    "primary_chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "related_resources": "AIHE-E05",
-    "tier": "Supplemental specialist tool",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "yes",
-    "process_flow_path": "docs/process/resources/AIHE-CE7.html",
-    "reader_level": "Applied to advanced",
-    "primary_audience": "Specialist project contributors and institutional reviewers",
-    "estimated_time": "30–120 minutes",
-    "required_inputs": "A defined decision and the evidence required by the specialist task",
-    "expected_output": "Supporting analysis, register, checklist, or decision record",
-    "prerequisites": "Aligned core resource or Book Chapter 15",
-    "use_frequency": "As required by the decision",
-    "essential_or_optional": "Optional or conditionally required",
-    "recommended_format": "DOCX, XLSX, or structured data",
-    "technical_skill_required": "Moderate",
-    "reader_pathway": "Use a specialist resource",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
-  },
-  {
-    "resource_id": "AIHE-PY38",
-    "title": "Circularity-Adjusted Evaluation of an AI-Assisted Remote Diagnostic Pathway",
-    "primary_chapter": "15",
-    "formats": "py; ipynb; csv; json; md",
-    "purpose": "Compare functionally equivalent remote-diagnostic pathways using conventional economic evidence, physical consequences, resilience, residual value, rebound, burden transfer, and explicit double-counting controls.",
-    "version": "V1.0",
-    "status": "public",
-    "aligned_chapters": "7, 8, 15",
-    "folder": "chapters/15/python_analytics/PY38_circular_eval",
-    "primary_chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "related_resources": "AIHE-E04; AIHE-CASE15",
-    "tier": "Python analytics",
-    "legacy_aliases": "",
-    "has_browser_form": "no",
-    "browser_form_path": "",
-    "has_process_flow": "no",
-    "process_flow_path": "",
-    "reader_level": "Advanced",
-    "primary_audience": "Health economists, analysts, researchers, informatics teams, and technical reviewers",
-    "estimated_time": "1–4 hours",
-    "required_inputs": "Defined model question, governed input data, and a supported Python environment",
-    "expected_output": "Reproducible analytical output with archived inputs, code, assumptions, and interpretation",
-    "prerequisites": "Book Chapter 15; method knowledge; Python or Jupyter capability",
-    "use_frequency": "When quantitative analysis is decision-relevant",
-    "essential_or_optional": "Optional advanced analysis",
-    "recommended_format": "Python script, Jupyter notebook, and accompanying wb",
-    "technical_skill_required": "High",
-    "reader_pathway": "Run an analysis",
-    "default_visibility": "advanced",
-    "release_date": "2026-09-02"
+    "release_date": "2026-09-16"
   }
 ]

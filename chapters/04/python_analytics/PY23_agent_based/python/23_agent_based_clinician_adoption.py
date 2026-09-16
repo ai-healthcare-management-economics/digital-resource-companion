@@ -1,6 +1,6 @@
-﻿"""Self-contained runner: Agent-based simulation of clinician adoption.
+"""Self-contained runner: Agent-based simulation of clinician adoption.
 
-The default command uses the supplied synthetic wb and writes to outputs/generated.
+The default command uses the supplied synthetic workbook and writes to outputs/generated.
 Use --input and --output to select governed local files and a different result directory.
 """
 

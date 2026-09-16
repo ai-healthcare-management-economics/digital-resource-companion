@@ -1,19 +1,17 @@
----
-title: Chapter 5: Quality Management, Accreditation, and Organizational Learning
----
 flowchart TD
- S1["1. Translate requirements into measurable controls\nConnect quality, safety, accreditation, and governance requirements to indicators and evidence."]
- S2["2. Establish baselines and control limits\nDefine data sources, versions, acceptable ranges, review frequency, owners, and balancing indicators."]
+ S1["1. Translate requirements into measurable controls"]
+ S2["2. Establish baselines and control limits"]
+ S3["3. Monitor process, outcome, and experience"]
+ S4["4. Detect nonconformity or adverse trends"]
+ S5["5. Investigate and apply corrective action"]
+ S6["6. Verify effectiveness and close"]
+ S7["7. Convert findings into organizational learning"]
  S1 --> S2
- S3["3. Monitor process, outcome, and experience\nReview technical, human–AI, clinical, workflow, equity, economic, and patient-reported signals."]
  S2 --> S3
- S4["4. Detect nonconformity or adverse trends\nTrigger review for control-limit breaches, incidents, complaints, audit findings, or accreditation gaps."]
  S3 --> S4
- S5["5. Investigate and apply corrective action\nReconstruct the event, identify causes, contain risk, and implement corrective and preventive action."]
  S4 --> S5
- S6["6. Verify effectiveness and close\nConfirm remediation, residual risk, evidence quality, authority, and next review."]
  S5 --> S6
- S7["7. Convert findings into organizational learning\nUpdate standards, training, design, procurement, and portfolio governance."]
  S6 --> S7
- classDef process fill:#fff,stroke:#7A1730,stroke-width:2px,color:#222
- class S1,S2,S3,S4,S5,S6,S7,S8,S9,S10 process
+ S7 -. "Review trigger / new evidence" .-> S1
+ classDef record fill:#F5F0E7,stroke:#6B2230,color:#303236;
+ class S1,S2,S3,S4,S5,S6,S7 record;

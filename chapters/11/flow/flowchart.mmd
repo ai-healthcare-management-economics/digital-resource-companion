@@ -1,19 +1,17 @@
----
-title: Chapter 11: Evidence, Validation, and Real-World Evaluation
----
 flowchart TD
- S1["1. Formulate the evidence question\nLink intended use, comparator, population, outcome, decision consequence, and uncertainty."]
- S2["2. Map and appraise external evidence\nAssess reporting quality, risk of bias, applicability, transportability, and evidence gaps."]
+ S1["1. Formulate the evidence question"]
+ S2["2. Map and appraise external evidence"]
+ S3["3. Plan local validation and silent-mode evaluation"]
+ S4["4. Select a causal evaluation design"]
+ S5["5. Collect real-world clinical and implementation evidence"]
+ S6["6. Synthesize quantitative and qualitative evidence"]
+ S7["7. Update the decision and evidence plan"]
  S1 --> S2
- S3["3. Plan local validation and silent-mode evaluation\nDefine cohort, data period, metrics, subgroups, workflow, human–AI interaction, and acceptance thresholds."]
  S2 --> S3
- S4["4. Select a causal evaluation design\nUse randomized, stepped-wedge, interrupted time series, difference-in-differences, target-trial, or other appropriate designs."]
  S3 --> S4
- S5["5. Collect real-world clinical and implementation evidence\nMeasure use, fidelity, adaptations, context, outcomes, workload, equity, cost, and balancing effects."]
  S4 --> S5
- S6["6. Synthesize quantitative and qualitative evidence\nIntegrate technical, clinical, economic, implementation, governance, and lived-experience findings."]
  S5 --> S6
- S7["7. Update the decision and evidence plan\nScale, modify, continue, restrict, stop, or collect additional decision-critical evidence."]
  S6 --> S7
- classDef process fill:#fff,stroke:#7A1730,stroke-width:2px,color:#222
- class S1,S2,S3,S4,S5,S6,S7,S8,S9,S10 process
+ S7 -. "Review trigger / new evidence" .-> S1
+ classDef record fill:#F5F0E7,stroke:#6B2230,color:#303236;
+ class S1,S2,S3,S4,S5,S6,S7 record;

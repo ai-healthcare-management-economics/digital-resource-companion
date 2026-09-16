@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-B04.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-B04.schema.json",
   "title": "AIHE-B04 Cost-Effectiveness, Budget Impact, and HTA Record",
   "type": "object",
   "required": [

@@ -1,8 +1,8 @@
-﻿# AIHE-EX06 — Model Card and AI Intervention Fact Sheet
+# AIHE-EX06 — Model Card and AI Intervention Fact Sheet
 
 **Current canonical resource:** AIHE-B05 — Model Selection, Uncertainty, and Reproducibility 
 **Primary chapter:** 11 — Evidence, Validation, and Real-World Evaluation 
-**Additional chapters:** 3,9,11,12
+**Additional chapters:** 3, 9, 11, 12
 
 ## Why this tool is retained
 

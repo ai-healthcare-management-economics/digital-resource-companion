@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY05",
   "module_number": 5,
   "title": "Model performance, threshold trade-offs, and calibration",
@@ -14,7 +14,7 @@
   ],
   "related_case": "AIHE-CASE11",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Calculates ROC AUC, Brier score, confusion-matrix measures across thresholds, calibration intercept and slope, and calibration bins.",

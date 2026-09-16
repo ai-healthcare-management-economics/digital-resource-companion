@@ -1,4 +1,4 @@
-﻿# AIHE-PY19 — Markov cohort model for long-term AI evaluation
+# AIHE-PY19 — Markov cohort model for long-term AI evaluation
 
 **Version:** V1.0 
 **Primary chapter:** 8. Decision Modelling, Simulation, and the Value of Information 

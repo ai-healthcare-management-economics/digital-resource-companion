@@ -17,11 +17,7 @@ REQUIRED_FIELDS = {
     "decision_id", "intervention_version", "current_state", "effective_date",
     "evidence_cut_off", "decision_authority", "next_review", "open_triggers",
 }
-VALID_STATES = {
-    "not authorized", "evidence development", "silent evaluation",
-    "restricted pilot", "conditional use", "routine authorized use",
-    "suspended", "replacement", "retired",
-}
+VALID_STATES = {'restricted use', 'authorized use', 'paused or suspended', 'conditional use', 'retired or superseded', 'under consideration', 'evaluation authorized'}
 
 def _parse_date(value: Any) -> date | None:
     if value in (None, ""):
@@ -35,7 +31,7 @@ def provenance_audit(record: dict[str, Any], today: date | None = None) -> dict[
     """Return traceable findings rather than an aggregate completeness score."""
     today = today or date.today()
     findings: list[dict[str, str]] = []
-    missing = sorted(k for k in REQUIRED_FIELDS if record.get(k) in (None, "", []))
+    missing = sorted(k for k in REQUIRED_FIELDS if k not in record or record[k] in (None, ""))
     for field in missing:
         findings.append({"category": "missing record", "finding": field, "response": "complete or justify absence"})
 
@@ -46,7 +42,7 @@ def provenance_audit(record: dict[str, Any], today: date | None = None) -> dict[
 
     state = str(record.get("current_state", "")).strip().lower()
     if state and state not in VALID_STATES:
-        findings.append({"category": "decision state", "finding": str(record.get("current_state")), "response": "map to an authorized institutional state"})
+        findings.append({"category": "decision state", "finding": str(record.get("current_state")), "response": "record one of the seven institutional permission states; document implementation activity separately"})
 
     next_review = _parse_date(record.get("next_review"))
     if record.get("next_review") and next_review is None:

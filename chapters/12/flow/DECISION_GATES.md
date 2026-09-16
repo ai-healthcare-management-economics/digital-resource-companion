@@ -1,9 +1,9 @@
-﻿# Decision gates
+# Decision review points
 
-- **Gate 1: Open and maintain the lifecycle dossier** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 2: Apply stage gates** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 3: Implement through controlled validation** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 4: Operate algorithmovigilance** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 5: Investigate incidents and material changes** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 6: Renew, restrict, replace, or de-adopt** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 7: Feed lessons into portfolio governance** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
+- **1. Establish the decision identity:** Accountable review; no automatic authorization.
+- **2. Integrate evidence without aggregation:** Accountable review; no automatic authorization.
+- **3. Record current institutional permission:** Accountable review; no automatic authorization.
+- **4. Monitor decision-relevant triggers:** Accountable review; no automatic authorization.
+- **5. Assess incidents and material change:** Accountable review; no automatic authorization.
+- **6. Reassess renewal and alternatives:** Accountable review; no automatic authorization.
+- **7. Close authorization and preserve learning:** Accountable review; no automatic authorization.

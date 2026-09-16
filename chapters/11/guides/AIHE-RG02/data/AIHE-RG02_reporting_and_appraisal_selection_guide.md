@@ -1,4 +1,4 @@
-﻿# AIHE-RG02 — Reporting and Appraisal Tool Selection Guide
+# AIHE-RG02 — Reporting and Appraisal Tool Selection Guide
 
 **Aligned chapters:** 7, 8, and 11 
 **Primary use:** match study design and evidence stage to the appropriate reporting or appraisal instrument.

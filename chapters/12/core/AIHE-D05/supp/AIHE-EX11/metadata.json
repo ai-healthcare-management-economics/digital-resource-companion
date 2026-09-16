@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-EX11",
   "title": "Material Change and Renewal Review",
   "canonical_resource_id": "AIHE-D05",
   "primary_chapter": 9,
-  "aligned_chapters": "9,12,14",
+  "aligned_chapters": "9, 12",
   "purpose": "Assess model, data, interface, workflow, vendor, contract, policy, performance, risk, and annual renewal changes.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

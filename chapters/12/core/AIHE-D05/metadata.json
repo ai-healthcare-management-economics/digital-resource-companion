@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-D05",
   "title": "Material Change, Reauthorization, Renewal, Replacement, and Retirement Record",
   "primary_chapter": 12,
@@ -6,17 +6,16 @@
   "aligned_chapters": [
     9,
     11,
-    12,
-    14
+    12
   ],
   "legacy_aliases": [
     "AIHE-EX11",
     "AIHE-T",
     "AIHE-J"
   ],
-  "purpose": "Assess material changes and periodic renewal across system, data, workflow, vendor, price, law, evidence, alternatives, and exit.",
+  "purpose": "Assess material change, revalidation, current authorization, renewal, renegotiation, replacement, retirement, continuity, and the end of authorization.",
   "version": "V1.0",
-  "release_date": "2026-09-02",
+  "release_date": "2026-09-16",
   "status": "Current consolidated resource",
   "book_alignment": "Chapter 12: Decision Architecture and Lifecycle Governance",
   "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",

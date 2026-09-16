@@ -1,4 +1,0 @@
-pathway,health_net_monetary_benefit,lifecycle_cost,monetized_environmental_effect,realizable_residual_value,resilience_value,mandatory_eligible,non_monetized_evidence
-regional remote pathway,410000,275000,-18000,25000,45000,true,improved specialist access; supplier-region water burden
-local-only pathway,360000,300000,-12000,18000,70000,true,greater local continuity; longer patient travel for some groups
-centralized cloud pathway,430000,260000,-24000,10000,30000,false,fails required outage fallback

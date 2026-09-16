@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY24",
   "module_number": 24,
   "title": "Implementation evaluation with interrupted time series and control charts",
@@ -15,7 +15,7 @@
   ],
   "related_case": "AIHE-CASE11",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Evaluates change after an AI implementation using segmented regression, run charts, control limits, uptake, and balancing measures.",

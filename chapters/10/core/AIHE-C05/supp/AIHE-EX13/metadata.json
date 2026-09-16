@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-EX13",
   "title": "Public Transparency and Communication Notice",
   "canonical_resource_id": "AIHE-C05",
   "primary_chapter": 3,
-  "aligned_chapters": "3,10,12",
+  "aligned_chapters": "3, 10, 12",
   "purpose": "Explain AI use, limits, human oversight, data handling, accessibility, questions, complaints, incidents, and human alternatives.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

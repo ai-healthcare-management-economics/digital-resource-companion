@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-B05.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-B05.schema.json",
   "title": "AIHE-B05 Model Selection, Uncertainty, and Reproducibility",
   "type": "object",
   "required": [

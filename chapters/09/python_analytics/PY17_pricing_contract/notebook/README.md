@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY17
+# Notebook route — AIHE-PY17
 
 Open `17_ai_pricing_contract_scenarios.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

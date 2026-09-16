@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY26",
   "module_number": 26,
   "title": "Integrated privacy, cybersecurity, equity, safety, and trust risk register",
@@ -14,7 +14,7 @@
   ],
   "related_case": "AIHE-CASE10",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Scores inherent and residual risk, checks mitigation completeness, prioritizes overdue actions, and produces an accountable risk dashboard.",

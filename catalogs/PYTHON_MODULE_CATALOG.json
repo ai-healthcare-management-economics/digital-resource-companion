@@ -20,7 +20,7 @@
     "xlsx_template_path": "chapters/02/python_analytics/PY01_data_quality/data/xlsx/01_data_quality_and_mapping_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/02/python_analytics/PY01_data_quality/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -44,7 +44,7 @@
     "xlsx_template_path": "chapters/05/python_analytics/PY02_descriptive/data/xlsx/02_descriptive_statistics_and_visuals_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/05/python_analytics/PY02_descriptive/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -68,7 +68,7 @@
     "xlsx_template_path": "chapters/02/python_analytics/PY03_missing_data/data/xlsx/03_missing_data_sensitivity_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/02/python_analytics/PY03_missing_data/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -92,7 +92,7 @@
     "xlsx_template_path": "chapters/11/python_analytics/PY04_model_dev/data/xlsx/04_predictive_model_comparison_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/11/python_analytics/PY04_model_dev/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -116,7 +116,7 @@
     "xlsx_template_path": "chapters/11/python_analytics/PY05_performance/data/xlsx/05_performance_and_calibration_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/11/python_analytics/PY05_performance/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -140,7 +140,7 @@
     "xlsx_template_path": "chapters/03/python_analytics/PY06_decision_curve/data/xlsx/06_decision_curve_analysis_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/03/python_analytics/PY06_decision_curve/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -164,7 +164,7 @@
     "xlsx_template_path": "chapters/10/python_analytics/PY07_feature_importance/data/xlsx/07_feature_importance_explainability_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/10/python_analytics/PY07_feature_importance/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -173,7 +173,7 @@
     "title": "Subgroup performance and equity audit",
     "primary_chapter": "10",
     "primary_chapter_title": "Governance, Accountability, and Institutional Risk",
-    "additional_chapters": "7, 10, 11, 15",
+    "additional_chapters": "7, 10, 11",
     "related_core_resources": "AIHE-C03",
     "related_case": "AIHE-CASE10",
     "formats": "py; ipynb; xlsx; csv; json; png; md",
@@ -188,7 +188,7 @@
     "xlsx_template_path": "chapters/10/python_analytics/PY08_equity_audit/data/xlsx/08_subgroup_equity_audit_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/10/python_analytics/PY08_equity_audit/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -212,7 +212,7 @@
     "xlsx_template_path": "chapters/12/python_analytics/PY09_drift/data/xlsx/09_temporal_validation_and_drift_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/12/python_analytics/PY09_drift/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -221,7 +221,7 @@
     "title": "Total Cost of AI Ownership (TCAIO) lifecycle costing",
     "primary_chapter": "6",
     "primary_chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
-    "additional_chapters": "6, 9, 14, 15",
+    "additional_chapters": "6, 9",
     "related_core_resources": "AIHE-B02",
     "related_case": "AIHE-CASE06",
     "formats": "py; ipynb; xlsx; csv; json; png; md",
@@ -236,7 +236,7 @@
     "xlsx_template_path": "chapters/06/python_analytics/PY10_cost_budget/data/xlsx/10_tcaio_lifecycle_costing_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/06/python_analytics/PY10_cost_budget/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -260,7 +260,7 @@
     "xlsx_template_path": "chapters/06/python_analytics/PY11_finance_value/data/xlsx/11_roi_benefit_realization_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/06/python_analytics/PY11_finance_value/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -269,7 +269,7 @@
     "title": "Cost-effectiveness, ICER, and net monetary benefit",
     "primary_chapter": "7",
     "primary_chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
-    "additional_chapters": "7, 8, 15",
+    "additional_chapters": "7, 8",
     "related_core_resources": "AIHE-B04",
     "related_case": "AIHE-CASE07",
     "formats": "py; ipynb; xlsx; csv; json; png; md",
@@ -284,7 +284,7 @@
     "xlsx_template_path": "chapters/07/python_analytics/PY12_cost_effect/data/xlsx/12_cost_effectiveness_icer_nmb_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/07/python_analytics/PY12_cost_effect/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -308,7 +308,7 @@
     "xlsx_template_path": "chapters/07/python_analytics/PY13_budget_impact/data/xlsx/13_budget_impact_analysis_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/07/python_analytics/PY13_budget_impact/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -332,7 +332,7 @@
     "xlsx_template_path": "chapters/08/python_analytics/PY14_sensitivity/data/xlsx/14_deterministic_sensitivity_tornado_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/08/python_analytics/PY14_sensitivity/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -356,7 +356,7 @@
     "xlsx_template_path": "chapters/08/python_analytics/PY15_psa_voi/data/xlsx/15_probabilistic_sensitivity_ceac_evpi_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/08/python_analytics/PY15_psa_voi/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -365,7 +365,7 @@
     "title": "Distributional cost-effectiveness and equity-weighted analysis",
     "primary_chapter": "7",
     "primary_chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
-    "additional_chapters": "7, 10, 15",
+    "additional_chapters": "7, 10",
     "related_core_resources": "AIHE-B04; AIHE-C03",
     "related_case": "AIHE-CASE07",
     "formats": "py; ipynb; xlsx; csv; json; png; md",
@@ -380,7 +380,7 @@
     "xlsx_template_path": "chapters/07/python_analytics/PY16_distributional/data/xlsx/16_distributional_cost_effectiveness_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/07/python_analytics/PY16_distributional/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -404,7 +404,7 @@
     "xlsx_template_path": "chapters/09/python_analytics/PY17_pricing_contract/data/xlsx/17_ai_pricing_contract_scenarios_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/09/python_analytics/PY17_pricing_contract/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -428,7 +428,7 @@
     "xlsx_template_path": "chapters/08/python_analytics/PY18_decision_tree/data/xlsx/18_decision_tree_pathway_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/08/python_analytics/PY18_decision_tree/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -452,7 +452,7 @@
     "xlsx_template_path": "chapters/08/python_analytics/PY19_markov/data/xlsx/19_markov_cohort_model_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/08/python_analytics/PY19_markov/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -476,7 +476,7 @@
     "xlsx_template_path": "chapters/08/python_analytics/PY20_microsim/data/xlsx/20_patient_microsimulation_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/08/python_analytics/PY20_microsim/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -500,7 +500,7 @@
     "xlsx_template_path": "chapters/03/python_analytics/PY21_discrete_event/data/xlsx/21_discrete_event_hospital_flow_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/03/python_analytics/PY21_discrete_event/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -524,7 +524,7 @@
     "xlsx_template_path": "chapters/04/python_analytics/PY22_system_dynamics/data/xlsx/22_system_dynamics_adoption_capacity_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/04/python_analytics/PY22_system_dynamics/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -548,7 +548,7 @@
     "xlsx_template_path": "chapters/04/python_analytics/PY23_agent_based/data/xlsx/23_agent_based_clinician_adoption_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/04/python_analytics/PY23_agent_based/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -572,7 +572,7 @@
     "xlsx_template_path": "chapters/11/python_analytics/PY24_impl_eval/data/xlsx/24_implementation_evaluation_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/11/python_analytics/PY24_impl_eval/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -581,7 +581,7 @@
     "title": "Weighted procurement scorecard with mandatory safeguards",
     "primary_chapter": "9",
     "primary_chapter_title": "Problem-First Procurement and Vendor Governance",
-    "additional_chapters": "9, 12, 14",
+    "additional_chapters": "9, 12",
     "related_core_resources": "AIHE-D01",
     "related_case": "AIHE-CASE09",
     "formats": "py; ipynb; xlsx; csv; json; png; md",
@@ -596,7 +596,7 @@
     "xlsx_template_path": "chapters/09/python_analytics/PY25_procurement/data/xlsx/25_procurement_mcda_scorecard_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/09/python_analytics/PY25_procurement/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -620,7 +620,7 @@
     "xlsx_template_path": "chapters/10/python_analytics/PY26_risk_register/data/xlsx/26_integrated_risk_register_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/10/python_analytics/PY26_risk_register/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -644,7 +644,7 @@
     "xlsx_template_path": "chapters/12/python_analytics/PY27_monitoring/data/xlsx/27_algorithmovigilance_monitoring_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/12/python_analytics/PY27_monitoring/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -668,7 +668,7 @@
     "xlsx_template_path": "chapters/04/python_analytics/PY28_productivity/data/xlsx/28_workflow_productivity_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/04/python_analytics/PY28_productivity/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -692,7 +692,7 @@
     "xlsx_template_path": "",
     "ods_template_path": "",
     "example_outputs_path": "chapters/12/python_analytics/PY29_decision_audit/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -716,7 +716,7 @@
     "xlsx_template_path": "chapters/11/python_analytics/PY30_meta_analysis/data/xlsx/30_random_effects_meta_analysis_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/11/python_analytics/PY30_meta_analysis/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -740,7 +740,7 @@
     "xlsx_template_path": "chapters/11/python_analytics/PY31_diff_in_diff/data/xlsx/31_difference_in_differences_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/11/python_analytics/PY31_diff_in_diff/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -764,7 +764,7 @@
     "xlsx_template_path": "chapters/11/python_analytics/PY32_survival/data/xlsx/32_survival_time_to_event_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/11/python_analytics/PY32_survival/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -788,7 +788,7 @@
     "xlsx_template_path": "chapters/02/python_analytics/PY33_clustering/data/xlsx/33_patient_segmentation_clustering_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/02/python_analytics/PY33_clustering/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -797,7 +797,7 @@
     "title": "Time-series forecasting for demand, capacity, and budget planning",
     "primary_chapter": "3",
     "primary_chapter_title": "Human–AI Decision Systems and Managerial Action",
-    "additional_chapters": "3, 6, 8, 13",
+    "additional_chapters": "3, 6, 8",
     "related_core_resources": "AIHE-C01; AIHE-B03",
     "related_case": "AIHE-CASE03",
     "formats": "py; ipynb; xlsx; csv; json; png; md",
@@ -812,7 +812,7 @@
     "xlsx_template_path": "chapters/03/python_analytics/PY34_forecasting/data/xlsx/34_time_series_forecasting_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/03/python_analytics/PY34_forecasting/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -821,7 +821,7 @@
     "title": "Constrained resource-allocation optimization",
     "primary_chapter": "3",
     "primary_chapter_title": "Human–AI Decision Systems and Managerial Action",
-    "additional_chapters": "3, 8, 13",
+    "additional_chapters": "3, 8",
     "related_core_resources": "AIHE-B05",
     "related_case": "AIHE-CASE03",
     "formats": "py; ipynb; xlsx; csv; json; png; md",
@@ -836,103 +836,7 @@
     "xlsx_template_path": "chapters/03/python_analytics/PY35_allocation/data/xlsx/35_resource_allocation_optimization_template.xlsx",
     "ods_template_path": "",
     "example_outputs_path": "chapters/03/python_analytics/PY35_allocation/outputs/example",
-    "release_date": "2026-09-02",
-    "safeguard": ""
-  },
-  {
-    "resource_id": "AIHE-PY36",
-    "module_number": "36",
-    "title": "Circular Stock-Flow, Value-Retention, and Leakage Accounting",
-    "primary_chapter": "13",
-    "primary_chapter_title": "Circular Health Systems and Resource Stewardship",
-    "additional_chapters": "13, 15",
-    "related_core_resources": "AIHE-E01; AIHE-E05",
-    "related_case": "AIHE-CASE13; AIHE-CASE13B",
-    "formats": "py; ipynb; csv; json; md",
-    "version": "V1.0",
-    "status": "public",
-    "folder": "chapters/13/python_analytics/PY36_circular_flow",
-    "primary_related_case": "AIHE-CASE13",
-    "additional_related_cases": "AIHE-CASE13B",
-    "related_cases": "AIHE-CASE13; AIHE-CASE13B",
-    "script_path": "chapters/13/python_analytics/PY36_circular_flow/python/36_circular_stock_flow_value_retention_and_leakage_accounting.py",
-    "notebook_path": "chapters/13/python_analytics/PY36_circular_flow/notebook/36_circular_stock_flow_value_retention_and_leakage_accounting.ipynb",
-    "xlsx_template_path": "",
-    "ods_template_path": "",
-    "example_outputs_path": "chapters/13/python_analytics/PY36_circular_flow/outputs/example",
-    "release_date": "2026-09-02",
-    "safeguard": ""
-  },
-  {
-    "resource_id": "AIHE-PY37",
-    "module_number": "37",
-    "title": "Supported Asset-Life, Eligibility, Equivalent Annual Cost, and Residual-Value Analysis",
-    "primary_chapter": "14",
-    "primary_chapter_title": "Circular Procurement and Asset Stewardship",
-    "additional_chapters": "6, 14, 15",
-    "related_core_resources": "AIHE-E03",
-    "related_case": "AIHE-CASE14",
-    "formats": "py; ipynb; csv; json; md",
-    "version": "V1.0",
-    "status": "public",
-    "folder": "chapters/14/python_analytics/PY37_asset_life",
-    "primary_related_case": "AIHE-CASE14",
-    "additional_related_cases": "",
-    "related_cases": "AIHE-CASE14",
-    "script_path": "chapters/14/python_analytics/PY37_asset_life/python/37_supported_asset_life_and_eac.py",
-    "notebook_path": "chapters/14/python_analytics/PY37_asset_life/notebook/37_supported_asset_life_and_eac.ipynb",
-    "xlsx_template_path": "",
-    "ods_template_path": "",
-    "example_outputs_path": "chapters/14/python_analytics/PY37_asset_life/outputs/example",
-    "release_date": "2026-09-02",
-    "safeguard": ""
-  },
-  {
-    "resource_id": "AIHE-PY38",
-    "module_number": "38",
-    "title": "Circularity-Adjusted Evaluation of an AI-Assisted Remote Diagnostic Pathway",
-    "primary_chapter": "15",
-    "primary_chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "additional_chapters": "7, 8, 15",
-    "related_core_resources": "AIHE-E04; AIHE-E05; AIHE-E03; AIHE-B04; AIHE-D02",
-    "related_case": "AIHE-CASE15",
-    "formats": "py; ipynb; csv; json; md",
-    "version": "V1.0",
-    "status": "public",
-    "folder": "chapters/15/python_analytics/PY38_circular_eval",
-    "primary_related_case": "AIHE-CASE15",
-    "additional_related_cases": "",
-    "related_cases": "AIHE-CASE15",
-    "script_path": "chapters/15/python_analytics/PY38_circular_eval/python/38_remote_diagnostic_circularity_evaluation.py",
-    "notebook_path": "chapters/15/python_analytics/PY38_circular_eval/notebook/38_remote_diagnostic_circularity_evaluation.ipynb",
-    "xlsx_template_path": "",
-    "ods_template_path": "",
-    "example_outputs_path": "chapters/15/python_analytics/PY38_circular_eval/outputs/example",
-    "release_date": "2026-09-02",
-    "safeguard": ""
-  },
-  {
-    "resource_id": "AIHE-PY39",
-    "module_number": "39",
-    "title": "Rebound, Induced Demand, and Burden-Transfer Analysis",
-    "primary_chapter": "13",
-    "primary_chapter_title": "Circular Health Systems and Resource Stewardship",
-    "additional_chapters": "12, 13, 14, 15",
-    "related_core_resources": "AIHE-E01; AIHE-E04; AIHE-E05",
-    "related_case": "AIHE-CASE13B; AIHE-CASE15",
-    "formats": "py; ipynb; csv; json; md",
-    "version": "V1.0",
-    "status": "public",
-    "folder": "chapters/13/python_analytics/PY39_rebound_burden_transfer",
-    "primary_related_case": "AIHE-CASE13B",
-    "additional_related_cases": "AIHE-CASE15",
-    "related_cases": "AIHE-CASE13B; AIHE-CASE15",
-    "script_path": "chapters/13/python_analytics/PY39_rebound_burden_transfer/python/39_rebound_and_burden_transfer.py",
-    "notebook_path": "chapters/13/python_analytics/PY39_rebound_burden_transfer/notebook/39_rebound_and_burden_transfer.ipynb",
-    "xlsx_template_path": "",
-    "ods_template_path": "",
-    "example_outputs_path": "chapters/13/python_analytics/PY39_rebound_burden_transfer/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": ""
   },
   {
@@ -941,22 +845,22 @@
     "title": "Lifecycle Decision-State and Trigger Review",
     "primary_chapter": "12",
     "primary_chapter_title": "Decision Architecture and Lifecycle Governance",
-    "additional_chapters": "5, 9, 10, 11, 12, 14, 15",
+    "additional_chapters": "5, 9, 10, 11, 12",
     "related_core_resources": "AIHE-D02; AIHE-D03; AIHE-D04; AIHE-D05",
-    "related_case": "AIHE-CASE12; AIHE-CASE09B; AIHE-CASE15",
+    "related_case": "AIHE-CASE12; AIHE-CASE09B",
     "formats": "py; ipynb; csv; json; md",
     "version": "V1.0",
     "status": "public",
     "folder": "chapters/12/python_analytics/PY40_decision_state",
     "primary_related_case": "AIHE-CASE12",
-    "additional_related_cases": "AIHE-CASE09B; AIHE-CASE15",
-    "related_cases": "AIHE-CASE12; AIHE-CASE09B; AIHE-CASE15",
+    "additional_related_cases": "AIHE-CASE09B",
+    "related_cases": "AIHE-CASE12; AIHE-CASE09B",
     "script_path": "chapters/12/python_analytics/PY40_decision_state/python/40_lifecycle_decision_state_and_trigger_review.py",
     "notebook_path": "chapters/12/python_analytics/PY40_decision_state/notebook/40_lifecycle_decision_state_and_trigger_review.ipynb",
     "xlsx_template_path": "",
     "ods_template_path": "",
     "example_outputs_path": "chapters/12/python_analytics/PY40_decision_state/outputs/example",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "safeguard": "Advisory only; accountable human authority is required for every state transition."
   }
 ]

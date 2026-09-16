@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-D03.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-D03.schema.json",
   "title": "AIHE-D03 Post-Deployment Monitoring and Algorithmovigilance Cadence",
   "type": "object",
   "required": [

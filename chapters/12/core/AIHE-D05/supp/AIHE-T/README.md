@@ -1,8 +1,8 @@
-﻿# AIHE-T — AI De-adoption and Decommissioning Plan
+# AIHE-T — AI De-adoption and Decommissioning Plan
 
 **Current canonical resource:** AIHE-D05 — Material Change, Reauthorization, Renewal, Replacement, and Retirement Record 
 **Primary chapter:** 9 — Problem-First Procurement and Vendor Governance 
-**Additional chapters:** 9,12,14
+**Additional chapters:** 9, 12
 
 ## Why this tool is retained
 

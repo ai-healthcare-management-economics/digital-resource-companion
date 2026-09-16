@@ -1,38 +1,75 @@
-﻿# Chapter 4: Productivity, Work Redesign, and Implementation
+# Chapter 4: Productivity, Work Redesign, and Implementation
 
-Chapter-level decision process aligned to the fifteen-chapter reference edition.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Decompose tasks and establish the baseline
 
-### 1. Decompose tasks and establish the baseline
 Measure current work, handoffs, delay, rework, quality, burden, and role boundaries.
 
-### 2. Identify AI–human allocation options
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Decompose tasks and establish the baseline
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Identify AI–human allocation options
+
 Separate tasks suitable for automation, augmentation, review, escalation, and human-only performance.
 
-### 3. Redesign workflow and roles
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Identify AI–human allocation options
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Redesign workflow and roles
+
 Define new responsibilities, supervision, competencies, fallback, and downstream capacity.
 
-### 4. Implement a controlled pilot
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Redesign workflow and roles
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Implement a controlled pilot
+
 Train users, monitor adoption, collect workflow evidence, and preserve reversibility.
 
-### 5. Measure gross and net productivity
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Implement a controlled pilot
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Measure gross and net productivity
+
 Subtract review, correction, coordination, downtime, and displaced work from gross time saved.
 
-### 6. Convert released capacity into realized value
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Measure gross and net productivity
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 6. Convert released capacity into realized value
+
 Document redeployment, improved quality, reduced delay, avoided harm, or other verified outcomes.
 
-### 7. Adapt and sustain
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Convert released capacity into realized value
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 7. Adapt and sustain
+
 Address implementation determinants, professional effects, maintenance, and scale conditions.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-An ambient notes assistant is piloted to determine whether gross time savings become usable capacity without degrading notes quality.
+**Expected output:** Versioned record for: Adapt and sustain
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-No dedicated stable resource is assigned; use the chapter-level flow and cross-referenced resources.
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

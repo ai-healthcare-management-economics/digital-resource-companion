@@ -1,8 +1,8 @@
 # Start Here
 
-## Artificial Intelligence and Healthcare Economics
+## Artificial Intelligence in Healthcare Management and Economics
 
-*Evidence, Value, Governance, and Sustainability*
+*Evidence, Value, Governance, and Lifecycle Decision-Making*
 
 **Muthana Zouri and Carmen Marinela Cumpăt**  
 Grigore T. Popa University of Medicine and Pharmacy Publishing House, 2026
@@ -18,7 +18,7 @@ The companion does not replace the book's reasoning. It supports application to 
 | Entry point | Recommended for | What it provides |
 |---|---|---|
 | **GitHub Pages Web Companion** | Most users beginning online | Guided navigation by chapter, decision stage, form, workbook, worked example, and analytical method |
-| **Reader and Practitioner Edition** | Readers, practitioners, managers, analysts, educators, and institutional teams | A complete accessible offline collection with forms, workbooks, cases, guides, selected analytics, catalogues, the printable companion, and the offline website |
+| **Reader and Practitioner Edition** | Readers, practitioners, managers, analysts, educators, and institutional teams | A complete accessible offline collection with forms, workbooks, cases, guides, analytical guidance and browser demonstrations, catalogues, the printable companion, and the offline website |
 | **Core Tools Pack** | Teams needing the principal institutional documents | The consolidated Core Resource Forms, consolidated Core Resource Workbook, practical guidance, licence, disclaimer, and manifest |
 | **Canonical Source** | Researchers, developers, maintainers, advanced analysts, educators, and institutions | The complete authoritative editable, computational, machine-readable, process, publication, and website source collection |
 | **Printable Digital Resource Companion** | Readers preferring a coherent readable reference | A book-like PDF and Word volume explaining the companion architecture, resources, cases, methods, and use |
@@ -27,13 +27,13 @@ Most readers should begin with the **Web Companion** or the **Reader and Practit
 
 ## V1.0 resource scope
 
-- 5 Parts and 15 chapters
-- 31 principal figures
-- 46 principal tables
-- 24 core institutional records
-- 20 worked examples, plus AIHE-CASE00 as the common case-analysis method
-- 40 Python analytical modules
-- 146 catalogued companion resources
+- 4 Parts and 12 chapters
+- 29 principal figures
+- 38 tables (including two front-matter tables)
+- 19 core institutional records
+- 16 worked examples, plus AIHE-CASE00 as the common case-analysis method
+- 36 Python analytical modules
+- 126 catalogued companion resources
 
 ## Recommended institutional sequence
 
@@ -52,7 +52,6 @@ Most readers should begin with the **Web Companion** or the **Reader and Practit
 - **B — Economics, affordability, benefits, and modelling**
 - **C — Quality, risk, accountability, and communication**
 - **D — Procurement and lifecycle governance**
-- **E — Circularity, assets, and sustainable value**
 
 The families are not mandatory sequences. Select only the records needed to make assumptions, evidence, responsibilities, safeguards, resource consequences, and lifecycle conditions sufficiently explicit.
 
@@ -69,4 +68,4 @@ Do not enter identifiable patient information, credentials, private keys, confid
 - Web Companion: https://ai-healthcare-economics.github.io/digital-resource-companion/
 - Canonical repository: https://github.com/ai-healthcare-economics/digital-resource-companion
 - GitHub Releases: https://github.com/ai-healthcare-economics/digital-resource-companion/releases
-- Zenodo V1.0 DOI: https://doi.org/10.5281/zenodo.21753927
+- Persistent companion record (Concept DOI): https://doi.org/10.5281/zenodo.21753927

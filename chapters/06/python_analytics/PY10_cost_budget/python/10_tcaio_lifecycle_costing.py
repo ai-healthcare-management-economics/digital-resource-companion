@@ -1,6 +1,6 @@
-﻿"""Self-contained runner: Total Cost of AI Ownership (TCAIO) lifecycle costing.
+"""Self-contained runner: Total Cost of AI Ownership (TCAIO) lifecycle costing.
 
-The default command uses the supplied synthetic wb and writes to outputs/generated.
+The default command uses the supplied synthetic workbook and writes to outputs/generated.
 Use --input and --output to select governed local files and a different result directory.
 """
 

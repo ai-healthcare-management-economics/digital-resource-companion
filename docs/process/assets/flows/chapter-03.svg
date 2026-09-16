@@ -1,47 +1,31 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1079" viewBox="0 0 1200 1079">
-<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4D5560"/></marker><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.12"/></filter></defs>
-<rect width="100%" height="100%" fill="#FBF8F3"/>
-<rect x="0" y="0" width="1200" height="14" fill="#7A1730"/>
-<text x="60" y="58" font-family="DejaVu Sans, Arial" font-size="32" font-weight="700" fill="#222A33">Chapter 3: Human–AI Decision Systems and Managerial Action</text>
-<text x="60" y="90" font-family="DejaVu Sans, Arial" font-size="18" fill="#5A6470">Chapter-level decision process aligned to the fifteen-chapter reference edition.</text>
-<rect x="110" y="160" rx="18" ry="18" width="980" height="104" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="208" r="28" fill="#7A1730"/>
-<text x="158" y="217" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">1</text>
-<text x="205" y="197" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Define the decision and user</text>
-<text x="205" y="232" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Specify the output, user, decision window, consequence, and available action.</text>
-<line x1="600.0" y1="268" x2="600.0" y2="290" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="298" rx="18" ry="18" width="980" height="109" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="346" r="28" fill="#7A1730"/>
-<text x="158" y="355" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">2</text>
-<text x="205" y="335" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Set thresholds and abstention zones</text>
-<text x="205" y="370" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Choose action, review, and deferral thresholds in relation to uncertainty and</text>
-<text x="205" y="392" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">response capacity.</text>
-<line x1="600.0" y1="411" x2="600.0" y2="433" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="441" rx="18" ry="18" width="980" height="109" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="489" r="28" fill="#7A1730"/>
-<text x="158" y="498" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">3</text>
-<text x="205" y="478" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Design meaningful human oversight</text>
-<text x="205" y="513" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Define review duties, context, authority, override, escalation, documentation,</text>
-<text x="205" y="535" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">and fallback.</text>
-<line x1="600.0" y1="554" x2="600.0" y2="576" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="584" rx="18" ry="18" width="980" height="109" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="632" r="28" fill="#7A1730"/>
-<text x="158" y="641" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">4</text>
-<text x="205" y="621" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Embed the output in a signal-to-action pathway</text>
-<text x="205" y="656" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Connect dashboard or model output to feasible action and accountable</text>
-<text x="205" y="678" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">ownership.</text>
-<line x1="600.0" y1="697" x2="600.0" y2="719" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="727" rx="18" ry="18" width="980" height="109" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="775" r="28" fill="#7A1730"/>
-<text x="158" y="784" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">5</text>
-<text x="205" y="764" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Measure human–AI and managerial performance</text>
-<text x="205" y="799" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Assess uptake, overrides, delay, decision quality, outcomes, workload, and</text>
-<text x="205" y="821" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">balancing harms.</text>
-<line x1="600.0" y1="840" x2="600.0" y2="862" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="870" rx="18" ry="18" width="980" height="104" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="918" r="28" fill="#7A1730"/>
-<text x="158" y="927" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">6</text>
-<text x="205" y="907" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Feed results into learning and governance</text>
-<text x="205" y="942" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Adjust thresholds, workflow, training, communication, or use restrictions.</text>
-<text x="1145" y="1051" text-anchor="end" font-family="DejaVu Sans, Arial" font-size="14" fill="#7A828B">AI Healthcare Economics Digital Companion • Process-flow reference</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1008" viewBox="0 0 1200 1008">
+<rect width="1200" height="1008" fill="#F5F0E7"/>
+<rect width="1200" height="110" fill="#6B2230"/>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#877567"/></marker></defs>
+<text x="60" y="43" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#FFFFFF">Chapter 3: Human–AI Decision Systems and Managerial Action</text>
+<rect x="75" y="148" width="1050" height="90" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="181" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">1. Define the decision and user</text>
+<text x="101" y="216" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Specify the output, user, decision window, consequence, and available action.</text>
+<path d="M600,241 V270" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="278" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="311" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">2. Set thresholds and abstention zones</text>
+<text x="101" y="346" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Choose action, review, and deferral thresholds in relation to uncertainty and response</text>
+<text x="101" y="371" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">capacity.</text>
+<path d="M600,396 V425" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="433" width="1050" height="90" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="466" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">3. Design meaningful human oversight</text>
+<text x="101" y="501" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Define review duties, context, authority, override, escalation, documentation, and fallback.</text>
+<path d="M600,526 V555" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="563" width="1050" height="90" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="596" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">4. Embed the output in a signal-to-action pathway</text>
+<text x="101" y="631" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Connect dashboard or model output to feasible action and accountable ownership.</text>
+<path d="M600,656 V685" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="693" width="1050" height="90" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="726" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">5. Measure human–AI and managerial performance</text>
+<text x="101" y="761" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Assess uptake, overrides, delay, decision quality, outcomes, workload, and balancing harms.</text>
+<path d="M600,786 V815" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="823" width="1050" height="90" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="856" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">6. Feed results into learning and governance</text>
+<text x="101" y="891" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Adjust thresholds, workflow, training, communication, or use restrictions.</text>
+<text x="60" y="966" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#877567">Iterative decision support: return to earlier evidence or assessment when a review trigger requires it.</text>
 </svg>

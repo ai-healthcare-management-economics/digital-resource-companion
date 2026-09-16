@@ -1,4 +1,4 @@
-﻿# AIHE-RG03 — Implementation Framework Selection Guide
+# AIHE-RG03 — Implementation Framework Selection Guide
 
 **Aligned chapters:** 4, 11, and 12 
 **Primary use:** select implementation theories, models, or frameworks according to the question being asked.

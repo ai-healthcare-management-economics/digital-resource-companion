@@ -21,7 +21,17 @@ class Trigger:
 def propose_transition(current_state: str, triggers: list[Trigger]) -> dict[str, object]:
     open_triggers=[t for t in triggers if not t.resolved]
     severities={t.severity.strip().lower() for t in open_triggers}
-    if "critical" in severities:
+    valid_states = {"under consideration", "evaluation authorized", "conditional use", "authorized use", "restricted use", "paused or suspended", "retired or superseded"}
+    state = current_state.strip().lower()
+    if state not in valid_states:
+        raise ValueError("Use one of the seven institutional permission states in Chapter 12, Table 12.3.")
+    if state == "retired or superseded":
+        proposed="preserve closure; prevent unauthorized reuse; assign any outstanding closure obligations for review"
+    elif state == "under consideration":
+        proposed="do not commence consequential use; resolve evidence requirements and obtain an accountable decision"
+    elif state == "paused or suspended":
+        proposed="maintain the pause; no restart without version-matched evidence and explicit reauthorization"
+    elif "critical" in severities:
         proposed="suspend and convene accountable review"
     elif "major" in severities:
         proposed="restrict use and reassess"

@@ -1,8 +1,8 @@
-﻿# AIHE-EX17 — AI Pricing and Contract Scenario Record
+# AIHE-EX17 — AI Pricing and Contract Scenario Record
 
 **Current canonical resource:** AIHE-B02 — Lifecycle Cost and Pricing Record 
 **Primary chapter:** 6 — Lifecycle Cost, Pricing, and Benefit Realization 
-**Additional chapters:** 6,9,12
+**Additional chapters:** 6, 9, 12
 
 ## Why this tool is retained
 

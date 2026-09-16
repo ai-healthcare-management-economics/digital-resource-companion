@@ -1,38 +1,75 @@
-﻿# Chapter 10: Governance, Accountability, and Institutional Risk
+# Chapter 10: Governance, Accountability, and Institutional Risk
 
-Chapter-level decision process aligned to the fifteen-chapter reference edition.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Define the institutional risk context
 
-### 1. Define the institutional risk context
 Identify intended use, consequence, affected rights, stakeholders, and mandatory obligations.
 
-### 2. Assign accountability and decision rights
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Define the institutional risk context
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Assign accountability and decision rights
+
 Name accountable owners, responsible teams, consultation duties, and pause, update, restart, and retirement authority.
 
-### 3. Assess ethics, equity, privacy, and cybersecurity
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Assign accountability and decision rights
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Assess ethics, equity, privacy, and cybersecurity
+
 Examine autonomy, fairness, lawful use, data protection, threats, resilience, and burden distribution.
 
-### 4. Assess transparency, trust, and contestability
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Assess ethics, equity, privacy, and cybersecurity
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Assess transparency, trust, and contestability
+
 Define explanations, communication, human alternatives, challenge routes, and incident transparency.
 
-### 5. Design mandatory safeguards
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Assess transparency, trust, and contestability
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Design mandatory safeguards
+
 Specify human oversight, access controls, monitoring, fallback, escalation, and independent assurance.
 
-### 6. Make and document the governance decision
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Design mandatory safeguards
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 6. Make and document the governance decision
+
 Approve, approve with conditions, restrict, defer, redesign, or reject.
 
-### 7. Review performance and residual risk
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Make and document the governance decision
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 7. Review performance and residual risk
+
 Monitor incidents, complaints, subgroup effects, regulatory change, and trust signals.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-A patient-facing chatbot undergoes an integrated review of autonomy, privacy, cybersecurity, equity, accountability, communication, and human alternatives.
+**Expected output:** Versioned record for: Review performance and residual risk
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-`AIHE-AB`, `AIHE-C`, `AIHE-G`
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

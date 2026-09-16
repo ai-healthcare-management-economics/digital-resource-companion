@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-O",
-  "title": "HOAM Accountability Workbook",
+  "title": "Human Oversight and Accountability Workbook",
   "canonical_resource_id": "AIHE-C04",
   "primary_chapter": 3,
-  "aligned_chapters": "3,10,12",
+  "aligned_chapters": "3, 10, 12",
   "purpose": "Assign accountable and responsible owners, consultation, information, escalation, pause, update, restart, and retirement authority.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

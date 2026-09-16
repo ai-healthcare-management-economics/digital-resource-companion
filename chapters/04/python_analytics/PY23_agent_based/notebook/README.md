@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY23
+# Notebook route — AIHE-PY23
 
 Open `23_agent_based_clinician_adoption.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

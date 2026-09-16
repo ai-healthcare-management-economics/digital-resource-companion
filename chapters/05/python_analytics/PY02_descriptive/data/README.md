@@ -1,4 +1,4 @@
-﻿# Data files
+# Data files
 
 - `02_descriptive_statistics_and_visuals_sample.xlsx` is a fully synthetic worked example and is the default input.
 - `02_descriptive_statistics_and_visuals_template.xlsx` is a blank input wb with the required worksheets and fields.

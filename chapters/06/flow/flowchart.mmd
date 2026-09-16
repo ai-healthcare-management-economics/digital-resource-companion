@@ -1,19 +1,17 @@
----
-title: Chapter 6: Lifecycle Cost, Pricing, and Benefit Realization
----
 flowchart TD
- S1["1. Define the cost boundary and perspective\nIdentify decision-maker, time horizon, budget holder, functional unit, and relevant lifecycle phases."]
- S2["2. Build the lifecycle cost inventory\nMeasure acquisition, data, integration, infrastructure, validation, training, review, governance, monitoring, incidents, updates, and exit."]
+ S1["1. Define the cost boundary and perspective"]
+ S2["2. Build the lifecycle cost inventory"]
+ S3["3. Specify the pricing architecture"]
+ S4["4. Model volume and downside scenarios"]
+ S5["5. Map benefit mechanisms"]
+ S6["6. Calculate ROI and net value cautiously"]
+ S7["7. Set benefit-realization and renewal conditions"]
  S1 --> S2
- S3["3. Specify the pricing architecture\nSeparate base, variable, volume, support, integration, escalation, and residual-value terms."]
  S2 --> S3
- S4["4. Model volume and downside scenarios\nTest uptake, use intensity, implementation delay, review burden, price escalation, and uncertainty."]
  S3 --> S4
- S5["5. Map benefit mechanisms\nLink claimed savings or outcomes to measurable changes, owners, timing, and conversion conditions."]
  S4 --> S5
- S6["6. Calculate ROI and net value cautiously\nDistinguish gross benefit, net benefit, cashable savings, released capacity, and non-monetized value."]
  S5 --> S6
- S7["7. Set benefit-realization and renewal conditions\nAssign owners, thresholds, review dates, remedies, and continuation criteria."]
  S6 --> S7
- classDef process fill:#fff,stroke:#7A1730,stroke-width:2px,color:#222
- class S1,S2,S3,S4,S5,S6,S7,S8,S9,S10 process
+ S7 -. "Review trigger / new evidence" .-> S1
+ classDef record fill:#F5F0E7,stroke:#6B2230,color:#303236;
+ class S1,S2,S3,S4,S5,S6,S7 record;

@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY32",
   "module_number": 32,
   "title": "Time-to-event and survival analysis",
@@ -15,7 +15,7 @@
   ],
   "related_case": "AIHE-CASE11",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Estimates Kaplan-Meier survival curves and compares event timing between AI and comparator groups using a log-rank test.",

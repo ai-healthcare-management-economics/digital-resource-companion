@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY34",
   "module_number": 34,
   "title": "Time-series forecasting for demand, capacity, and budget planning",
@@ -8,8 +8,7 @@
   "additional_chapters": [
     3,
     6,
-    8,
-    13
+    8
   ],
   "related_core_resources": [
     "AIHE-C01",
@@ -17,7 +16,7 @@
   ],
   "related_case": "AIHE-CASE03",
   "version": "V1.0",
-  "release_date": "2026-08-10",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Fits simple trend and exponential-smoothing forecasts to operational or financial time series and compares forecast accuracy.",

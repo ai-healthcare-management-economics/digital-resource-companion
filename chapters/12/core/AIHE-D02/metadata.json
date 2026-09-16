@@ -10,7 +10,6 @@
     12
   ],
   "legacy_aliases": [
-    "",
     "AIHE-R",
     "AIHE-EX14",
     "AIHE-EX10",
@@ -22,9 +21,9 @@
     "AIHE-P",
     "AIHE-V"
   ],
-  "purpose": "Record the current institutional decision state, exact intervention identity, scope, evidence, conditions, safeguards, transition triggers, accountable authority, decision history, and next review.",
+  "purpose": "Record the current institutional decision state, exact intervention identity, scope, evidence, conditions, safeguards, triggers, authority, history, and next review.",
   "version": "V1.0",
-  "release_date": "2026-09-02",
+  "release_date": "2026-09-16",
   "status": "Current consolidated resource",
   "book_alignment": "Chapter 12: Decision Architecture and Lifecycle Governance",
   "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",

@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY02
+# Notebook route — AIHE-PY02
 
 Open `02_descriptive_statistics_and_visuals.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

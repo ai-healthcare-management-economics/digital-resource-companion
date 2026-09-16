@@ -7,16 +7,14 @@
   "primary_chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
   "additional_chapters": [
     6,
-    9,
-    14,
-    15
+    9
   ],
   "related_core_resources": [
     "AIHE-B02"
   ],
   "related_case": "AIHE-CASE06",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Calculates one-time and recurring AI costs, discounted present value, cost per use, and optimistic/base/conservative scenarios across the full lifecycle.",

@@ -1,4 +1,4 @@
-﻿# AIHE-PY12 — Cost-effectiveness, ICER, and net monetary benefit
+# AIHE-PY12 — Cost-effectiveness, ICER, and net monetary benefit
 
 **Version:** V1.0 
 **Primary chapter:** 7. Economic Evaluation, Affordability, and Health Technology Assessment 

@@ -1,15 +1,13 @@
----
-title: AIHE-D03: Post-Deployment Monitoring and Algorithmovigilance Cadence
----
 flowchart TD
- S1["1. Prepare implementation and control conditions\nDefine readiness, training, workflow, fallback, evidence, and governance requirements for Post-Deployment Monitoring and Algorithmovigilance Cadence."]
- S2["2. Implement in stages\nUse silent mode, controlled pilot, acceptance criteria, and accountable decision gates."]
+ S1["1. Prepare implementation and control conditions"]
+ S2["2. Implement in stages"]
+ S3["3. Monitor technical and service performance"]
+ S4["4. Investigate incidents and material changes"]
+ S5["5. Renew, restrict, replace, or retire"]
  S1 --> S2
- S3["3. Monitor technical and service performance\nReview outcomes, workload, subgroups, incidents, costs, adoption, and contract performance."]
  S2 --> S3
- S4["4. Investigate incidents and material changes\nReconstruct data, versions, outputs, human actions, causes, corrective action, and revalidation."]
  S3 --> S4
- S5["5. Renew, restrict, replace, or retire\nCompare current value and risk with alternatives, continuity, and exit readiness."]
  S4 --> S5
- classDef process fill:#fff,stroke:#7A1730,stroke-width:2px,color:#222
- class S1,S2,S3,S4,S5,S6,S7,S8,S9,S10 process
+ S5 -. "Review trigger / new evidence" .-> S1
+ classDef record fill:#F5F0E7,stroke:#6B2230,color:#303236;
+ class S1,S2,S3,S4,S5 record;

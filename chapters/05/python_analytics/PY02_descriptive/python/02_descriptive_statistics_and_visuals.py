@@ -1,6 +1,6 @@
-﻿"""Self-contained runner: Descriptive statistics and visual comparisons.
+"""Self-contained runner: Descriptive statistics and visual comparisons.
 
-The default command uses the supplied synthetic wb and writes to outputs/generated.
+The default command uses the supplied synthetic workbook and writes to outputs/generated.
 Use --input and --output to select governed local files and a different result directory.
 """
 

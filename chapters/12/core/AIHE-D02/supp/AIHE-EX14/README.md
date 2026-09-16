@@ -1,8 +1,8 @@
-﻿# AIHE-EX14 — Final Board Recommendation Pack
+# AIHE-EX14 — Final Board Recommendation Pack
 
 **Current canonical resource:** AIHE-D02 — Lifecycle Decision State, Staged Evidence, and AI-HED Status 
-**Primary chapter:** 1 — AI as a Health-System Intervention 
-**Additional chapters:** 1,6,7,9,10,11,12,15
+**Primary chapter:** 1 — AI as a Health System Intervention 
+**Additional chapters:** 1, 6, 7, 9, 10, 11, 12
 
 ## Why this tool is retained
 

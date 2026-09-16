@@ -1,6 +1,6 @@
 # Worked Examples
 
-The V1.0 collection contains 20 worked examples plus AIHE-CASE00, the common case-analysis method.
+The V1.0 collection contains 16 worked examples plus AIHE-CASE00, the common case-analysis method.
 
 All scenarios and numerical inputs are synthetic unless explicitly stated otherwise.
 
@@ -23,7 +23,3 @@ All scenarios and numerical inputs are synthetic unless explicitly stated otherw
 | AIHE-CASE10 | Patient-Facing Chatbot Institutional-Risk Review | 10 | AIHE-PY07; AIHE-PY08; AIHE-PY26 |
 | AIHE-CASE11 | Local Validation and Causal Evaluation of a Readmission Model | 11 | AIHE-PY04; AIHE-PY05; AIHE-PY24; AIHE-PY30; AIHE-PY31; AIHE-PY32 |
 | AIHE-CASE12 | Model Update, Incident Response, and Renewal Decision | 12 | AIHE-PY09; AIHE-PY27; AIHE-PY29 |
-| AIHE-CASE13 | Circular AI Infrastructure Strategy | 13 | AIHE-PY36; AIHE-PY39 |
-| AIHE-CASE13B | Rebound and Burden Transfer | 13 | AIHE-PY36; AIHE-PY39 |
-| AIHE-CASE14 | Imaging Platform: Maintain, Refurbish, Replace, or Share | 14 | AIHE-PY37 |
-| AIHE-CASE15 | AI-Assisted Remote Diagnostic Pathway: Circularity-Adjusted Economic Evaluation | 15 | AIHE-PY38; AIHE-PY39; AIHE-PY40 |

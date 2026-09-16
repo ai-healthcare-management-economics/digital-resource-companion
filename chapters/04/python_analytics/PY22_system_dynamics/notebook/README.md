@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY22
+# Notebook route — AIHE-PY22
 
 Open `22_system_dynamics_adoption_capacity.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY13
+# Notebook route — AIHE-PY13
 
 Open `13_budget_impact_analysis.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

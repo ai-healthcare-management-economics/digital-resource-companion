@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-B02",
   "title": "Lifecycle Cost and Pricing Record",
   "primary_chapter": 6,
@@ -6,9 +6,7 @@
   "aligned_chapters": [
     6,
     9,
-    12,
-    14,
-    15
+    12
   ],
   "legacy_aliases": [
     "AIHE-M",
@@ -16,7 +14,7 @@
   ],
   "purpose": "Record acquisition through exit costs, resource use, pricing exposure, opportunity cost, residual value, and evidence.",
   "version": "V1.0",
-  "release_date": "2026-09-02",
+  "release_date": "2026-09-16",
   "status": "Current consolidated resource",
   "book_alignment": "Chapter 6: Lifecycle Cost, Pricing, and Benefit Realization",
   "stable_reference_policy": "Use chapter, section, figure, table, and resource identifiers rather than printed page numbers.",

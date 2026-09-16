@@ -1,6 +1,6 @@
-﻿# AIHE-RG07 — Common AI Adoption Failures and Corrective Actions
+# AIHE-RG07 — Common AI Adoption Failures and Corrective Actions
 
-**Primary chapter:** 1 — AI as a Health-System Intervention 
+**Primary chapter:** 1 — AI as a Health System Intervention 
 **Additional chapter alignment:** 1-12 
 **Version:** V1.0
 

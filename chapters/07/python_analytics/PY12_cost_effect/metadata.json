@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY12",
   "module_number": 12,
   "title": "Cost-effectiveness, ICER, and net monetary benefit",
@@ -7,15 +7,14 @@
   "primary_chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
   "additional_chapters": [
     7,
-    8,
-    15
+    8
   ],
   "related_core_resources": [
     "AIHE-B04"
   ],
   "related_case": "AIHE-CASE07",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Compares an AI-enabled pathway with a comparator using incremental cost, incremental effect, ICER, net monetary benefit, and dominance rules.",

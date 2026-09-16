@@ -1,4 +1,4 @@
-﻿"""AIHE-PY15 - Probabilistic analysis, value of information, EVSI, and expected net benefit of sampling
+"""AIHE-PY15 - Probabilistic analysis, value of information, EVSI, and expected net benefit of sampling
 Digital Resource Companion V1.0. Synthetic demonstration only.
 """
 from __future__ import annotations

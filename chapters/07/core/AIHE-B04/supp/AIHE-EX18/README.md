@@ -1,8 +1,8 @@
-﻿# AIHE-EX18 — HTA, Reimbursement, and Adoption Record
+# AIHE-EX18 — HTA, Reimbursement, and Adoption Record
 
 **Current canonical resource:** AIHE-B04 — Cost-Effectiveness, Budget Impact, and HTA Record 
 **Primary chapter:** 7 — Economic Evaluation, Affordability, and Health Technology Assessment 
-**Additional chapters:** 7,9,11,12
+**Additional chapters:** 7, 9, 11, 12
 
 ## Why this tool is retained
 

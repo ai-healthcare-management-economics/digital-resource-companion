@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY35",
   "module_number": 35,
   "title": "Constrained resource-allocation optimization",
@@ -7,15 +7,14 @@
   "primary_chapter_title": "Human–AI Decision Systems and Managerial Action",
   "additional_chapters": [
     3,
-    8,
-    13
+    8
   ],
   "related_core_resources": [
     "AIHE-B05"
   ],
   "related_case": "AIHE-CASE03",
   "version": "V1.0",
-  "release_date": "2026-08-10",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Selects an allocation across candidate AI or service options to maximize expected value subject to budget, workforce, capacity, and minimum-service constraints.",

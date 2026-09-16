@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-D05.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-D05.schema.json",
   "title": "AIHE-D05 Material Change, Reauthorization, Renewal, Replacement, and Retirement Record",
   "type": "object",
   "required": [

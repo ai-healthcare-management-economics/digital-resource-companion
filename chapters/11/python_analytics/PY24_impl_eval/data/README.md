@@ -1,4 +1,4 @@
-﻿# Data files
+# Data files
 
 - `24_implementation_evaluation_sample.xlsx` is a fully synthetic worked example and is the default input.
 - `24_implementation_evaluation_template.xlsx` is a blank input wb with the required worksheets and fields.

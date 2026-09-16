@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-B",
   "title": "Economic Evaluation Specification",
   "canonical_resource_id": "AIHE-B01",
   "primary_chapter": 7,
-  "aligned_chapters": "6,7,8,15",
+  "aligned_chapters": "6, 7, 8",
   "purpose": "Specify the decision, perspective, comparator, costs, outcomes, horizon, uncertainty, distribution, and reporting plan.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

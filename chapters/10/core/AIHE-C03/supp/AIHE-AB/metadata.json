@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-AB",
   "title": "Privacy and Cybersecurity Risk Register",
   "canonical_resource_id": "AIHE-C03",
   "primary_chapter": 10,
-  "aligned_chapters": "10,12",
+  "aligned_chapters": "10, 12",
   "purpose": "Record privacy, security, continuity, supplier, model, and incident risks with controls, owners, and review dates.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

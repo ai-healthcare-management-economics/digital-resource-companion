@@ -1,9 +1,9 @@
-﻿# Decision gates
+# Decision review points
 
-- **Gate 1: Define the cost boundary and perspective** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 2: Build the lifecycle cost inventory** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 3: Specify the pricing architecture** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 4: Model volume and downside scenarios** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 5: Map benefit mechanisms** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 6: Calculate ROI and net value cautiously** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
-- **Gate 7: Set benefit-realization and renewal conditions** — confirm evidence, accountable owner, unresolved uncertainty, and authority before advancing.
+- **1. Define the cost boundary and perspective:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **2. Build the lifecycle cost inventory:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **3. Specify the pricing architecture:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **4. Model volume and downside scenarios:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **5. Map benefit mechanisms:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **6. Calculate ROI and net value cautiously:** Proceed, revise, escalate, restrict, or stop as appropriate.
+- **7. Set benefit-realization and renewal conditions:** Proceed, revise, escalate, restrict, or stop as appropriate.

@@ -1,32 +1,55 @@
-# AIHE-D02: Lifecycle Decision State, Staged Evidence, and AI-HED Status
+# AIHE-D02 — Lifecycle Decision State, Staged Evidence, and AI-HED Status
 
-Core consolidated process aligned to Chapter 12 and Resource Set D.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Define and preserve the decision identity
 
-### 1. Prepare implementation and control conditions
-Define readiness, training, workflow, fallback, evidence, and governance requirements for Lifecycle Decision State, Staged Evidence, and AI-HED Status.
+Record intervention, supplier, model, configuration, data, workflow, population, setting, comparator, and version.
 
-### 2. Implement in stages
-Use silent mode, controlled pilot, acceptance criteria, and accountable decision gates.
+**Required input:** Current, version-matched evidence and the defined decision identity
 
-### 3. Monitor technical and service performance
-Review outcomes, workload, subgroups, incidents, costs, adoption, and contract performance.
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
 
-### 4. Investigate incidents and material changes
-Reconstruct data, versions, outputs, human actions, causes, corrective action, and revalidation.
+**Decision:** Accountable review; no automatic authorization
 
-### 5. Renew, restrict, replace, or retire
-Compare current value and risk with alternatives, continuity, and exit readiness.
+## 2. Link authoritative evidence and safeguards
 
-## Illustrative application
+Link specialist evidence, its cut-off and limitations; preserve non-compensatory safeguards, uncertainty, dissent, and accountable review.
 
-Control commitment through staged evidence gates and maintain a current lifecycle decision dossier.
+**Required input:** Current, version-matched evidence and the defined decision identity
 
-## Related resource IDs
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
 
-``, `AIHE-R`
+**Decision:** Accountable review; no automatic authorization
 
-## Status and limitations
+## 3. Record the current decision state
 
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+Use one of the seven institutional states: Under consideration; Evaluation authorized; Conditional use; Authorized use; Restricted use; Paused or suspended; Retired or superseded. Do not substitute an implementation activity for permission.
+
+**Required input:** Current, version-matched evidence and the defined decision identity
+
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+## 4. Specify scope, conditions, and transition triggers
+
+Record permitted users and functions, exclusions, effective date, expiry or review, conditions, thresholds, and responsible owners.
+
+**Required input:** Current, version-matched evidence and the defined decision identity
+
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+## 5. Maintain decision history and continuing review
+
+Document reasons, authority, dates, and changes. Reconsider permission after relevant triggers, material change, renewal, replacement, or retirement.
+
+**Required input:** Current, version-matched evidence and the defined decision identity
+
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

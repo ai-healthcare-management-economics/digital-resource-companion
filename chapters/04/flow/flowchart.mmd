@@ -1,19 +1,17 @@
----
-title: Chapter 4: Productivity, Work Redesign, and Implementation
----
 flowchart TD
- S1["1. Decompose tasks and establish the baseline\nMeasure current work, handoffs, delay, rework, quality, burden, and role boundaries."]
- S2["2. Identify AI–human allocation options\nSeparate tasks suitable for automation, augmentation, review, escalation, and human-only performance."]
+ S1["1. Decompose tasks and establish the baseline"]
+ S2["2. Identify AI–human allocation options"]
+ S3["3. Redesign workflow and roles"]
+ S4["4. Implement a controlled pilot"]
+ S5["5. Measure gross and net productivity"]
+ S6["6. Convert released capacity into realized value"]
+ S7["7. Adapt and sustain"]
  S1 --> S2
- S3["3. Redesign workflow and roles\nDefine new responsibilities, supervision, competencies, fallback, and downstream capacity."]
  S2 --> S3
- S4["4. Implement a controlled pilot\nTrain users, monitor adoption, collect workflow evidence, and preserve reversibility."]
  S3 --> S4
- S5["5. Measure gross and net productivity\nSubtract review, correction, coordination, downtime, and displaced work from gross time saved."]
  S4 --> S5
- S6["6. Convert released capacity into realized value\nDocument redeployment, improved quality, reduced delay, avoided harm, or other verified outcomes."]
  S5 --> S6
- S7["7. Adapt and sustain\nAddress implementation determinants, professional effects, maintenance, and scale conditions."]
  S6 --> S7
- classDef process fill:#fff,stroke:#7A1730,stroke-width:2px,color:#222
- class S1,S2,S3,S4,S5,S6,S7,S8,S9,S10 process
+ S7 -. "Review trigger / new evidence" .-> S1
+ classDef record fill:#F5F0E7,stroke:#6B2230,color:#303236;
+ class S1,S2,S3,S4,S5,S6,S7 record;

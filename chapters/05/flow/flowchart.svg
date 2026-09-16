@@ -1,56 +1,40 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1254" viewBox="0 0 1200 1254">
-<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4D5560"/></marker><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000000" flood-opacity="0.12"/></filter></defs>
-<rect width="100%" height="100%" fill="#FBF8F3"/>
-<rect x="0" y="0" width="1200" height="14" fill="#7A1730"/>
-<text x="60" y="58" font-family="DejaVu Sans, Arial" font-size="32" font-weight="700" fill="#222A33">Chapter 5: Quality Management, Accreditation, and Organizational Learning</text>
-<text x="60" y="90" font-family="DejaVu Sans, Arial" font-size="18" fill="#5A6470">Chapter-level decision process aligned to the fifteen-chapter reference edition.</text>
-<rect x="110" y="160" rx="18" ry="18" width="980" height="136" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="208" r="28" fill="#7A1730"/>
-<text x="158" y="217" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">1</text>
-<text x="205" y="197" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Translate requirements into measurable</text>
-<text x="205" y="225" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">controls</text>
-<text x="205" y="260" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Connect quality, safety, accreditation, and governance requirements to</text>
-<text x="205" y="282" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">indicators and evidence.</text>
-<line x1="600.0" y1="300" x2="600.0" y2="322" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="330" rx="18" ry="18" width="980" height="109" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="378" r="28" fill="#7A1730"/>
-<text x="158" y="387" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">2</text>
-<text x="205" y="367" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Establish baselines and control limits</text>
-<text x="205" y="402" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Define data sources, versions, acceptable ranges, review frequency, owners,</text>
-<text x="205" y="424" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">and balancing indicators.</text>
-<line x1="600.0" y1="443" x2="600.0" y2="465" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="473" rx="18" ry="18" width="980" height="109" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="521" r="28" fill="#7A1730"/>
-<text x="158" y="530" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">3</text>
-<text x="205" y="510" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Monitor process, outcome, and experience</text>
-<text x="205" y="545" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Review technical, human–AI, clinical, workflow, equity, economic, and</text>
-<text x="205" y="567" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">patient-reported signals.</text>
-<line x1="600.0" y1="586" x2="600.0" y2="608" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="616" rx="18" ry="18" width="980" height="109" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="664" r="28" fill="#7A1730"/>
-<text x="158" y="673" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">4</text>
-<text x="205" y="653" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Detect nonconformity or adverse trends</text>
-<text x="205" y="688" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Trigger review for control-limit breaches, incidents, complaints, audit</text>
-<text x="205" y="710" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">findings, or accreditation gaps.</text>
-<line x1="600.0" y1="729" x2="600.0" y2="751" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="759" rx="18" ry="18" width="980" height="109" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="807" r="28" fill="#7A1730"/>
-<text x="158" y="816" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">5</text>
-<text x="205" y="796" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Investigate and apply corrective action</text>
-<text x="205" y="831" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Reconstruct the event, identify causes, contain risk, and implement corrective</text>
-<text x="205" y="853" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">and preventive action.</text>
-<line x1="600.0" y1="872" x2="600.0" y2="894" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="902" rx="18" ry="18" width="980" height="109" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="950" r="28" fill="#7A1730"/>
-<text x="158" y="959" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">6</text>
-<text x="205" y="939" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Verify effectiveness and close</text>
-<text x="205" y="974" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Confirm remediation, residual risk, evidence quality, authority, and next</text>
-<text x="205" y="996" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">review.</text>
-<line x1="600.0" y1="1015" x2="600.0" y2="1037" stroke="#4D5560" stroke-width="3" marker-end="url(#arrow)"/>
-<rect x="110" y="1045" rx="18" ry="18" width="980" height="104" fill="#FFFFFF" stroke="#C7CDD4" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="158" cy="1093" r="28" fill="#7A1730"/>
-<text x="158" y="1102" text-anchor="middle" font-family="DejaVu Sans, Arial" font-size="24" font-weight="700" fill="#FFFFFF">7</text>
-<text x="205" y="1082" font-family="DejaVu Sans, Arial" font-size="23" font-weight="700" fill="#252C35">Convert findings into organizational learning</text>
-<text x="205" y="1117" font-family="DejaVu Sans, Arial" font-size="18" fill="#4D5864">Update standards, training, design, procurement, and portfolio governance.</text>
-<text x="1145" y="1226" text-anchor="end" font-family="DejaVu Sans, Arial" font-size="14" fill="#7A828B">AI Healthcare Economics Digital Companion • Process-flow reference</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1238" viewBox="0 0 1200 1238">
+<rect width="1200" height="1238" fill="#F5F0E7"/>
+<rect width="1200" height="110" fill="#6B2230"/>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#877567"/></marker></defs>
+<text x="60" y="43" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#FFFFFF">Chapter 5: Quality Management, Accreditation, and Organizational</text>
+<text x="60" y="75" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#FFFFFF">Learning</text>
+<rect x="75" y="148" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="181" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">1. Translate requirements into measurable controls</text>
+<text x="101" y="216" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Connect quality, safety, accreditation, and governance requirements to indicators and</text>
+<text x="101" y="241" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">evidence.</text>
+<path d="M600,266 V295" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="303" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="336" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">2. Establish baselines and control limits</text>
+<text x="101" y="371" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Define data sources, versions, acceptable ranges, review frequency, owners, and balancing</text>
+<text x="101" y="396" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">indicators.</text>
+<path d="M600,421 V450" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="458" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="491" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">3. Monitor process, outcome, and experience</text>
+<text x="101" y="526" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Review technical, human–AI, clinical, workflow, equity, economic, and patient-reported</text>
+<text x="101" y="551" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">signals.</text>
+<path d="M600,576 V605" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="613" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="646" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">4. Detect nonconformity or adverse trends</text>
+<text x="101" y="681" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Trigger review for control-limit breaches, incidents, complaints, audit findings, or</text>
+<text x="101" y="706" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">accreditation gaps.</text>
+<path d="M600,731 V760" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="768" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="801" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">5. Investigate and apply corrective action</text>
+<text x="101" y="836" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Reconstruct the event, identify causes, contain risk, and implement corrective and preventive</text>
+<text x="101" y="861" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">action.</text>
+<path d="M600,886 V915" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="923" width="1050" height="90" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="956" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">6. Verify effectiveness and close</text>
+<text x="101" y="991" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Confirm remediation, residual risk, evidence quality, authority, and next review.</text>
+<path d="M600,1016 V1045" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="1053" width="1050" height="90" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="1086" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">7. Convert findings into organizational learning</text>
+<text x="101" y="1121" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Update standards, training, design, procurement, and portfolio governance.</text>
+<text x="60" y="1196" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#877567">Iterative decision support: return to earlier evidence or assessment when a review trigger requires it.</text>
 </svg>

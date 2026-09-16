@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-B01.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-B01.schema.json",
   "title": "AIHE-B01 Economic Evaluation Specification",
   "type": "object",
   "required": [

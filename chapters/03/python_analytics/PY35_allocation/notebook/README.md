@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY35
+# Notebook route — AIHE-PY35
 
 Open `35_resource_allocation_optimization.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

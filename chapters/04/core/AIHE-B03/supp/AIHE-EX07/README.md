@@ -1,8 +1,8 @@
-﻿# AIHE-EX07 — Benefit Realization and Capacity Conversion Log
+# AIHE-EX07 — Benefit Realization and Capacity Conversion Log
 
 **Current canonical resource:** AIHE-B03 — Benefit Realization and Capacity Conversion 
 **Primary chapter:** 6 — Lifecycle Cost, Pricing, and Benefit Realization 
-**Additional chapters:** 4,6,7
+**Additional chapters:** 4, 6, 7
 
 ## Why this tool is retained
 

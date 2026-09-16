@@ -1,4 +1,4 @@
-﻿# AIHE-PY04 — Predictive model development: logistic regression and random forest
+# AIHE-PY04 — Predictive model development: logistic regression and random forest
 
 **Version:** V1.0 
 **Primary chapter:** 11. Evidence, Validation, and Real-World Evaluation 

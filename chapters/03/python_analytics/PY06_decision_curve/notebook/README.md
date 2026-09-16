@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY06
+# Notebook route — AIHE-PY06
 
 Open `06_decision_curve_analysis.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

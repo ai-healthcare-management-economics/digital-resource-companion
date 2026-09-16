@@ -1,8 +1,8 @@
-﻿# AIHE-N — Trust, Equity, and Public Value Workbook
+# AIHE-N — Trust, Equity, and Public Value Workbook
 
 **Current canonical resource:** AIHE-C03 — Integrated Institutional-Risk Review 
-**Primary chapter:** 1 — AI as a Health-System Intervention 
-**Additional chapters:** 1,7,10,12
+**Primary chapter:** 1 — AI as a Health System Intervention 
+**Additional chapters:** 1, 7, 10, 12
 
 ## Why this tool is retained
 

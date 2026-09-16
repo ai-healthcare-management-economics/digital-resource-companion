@@ -1,4 +1,4 @@
-﻿"""AIHE-PY25 - Pricing, renewal, renegotiation, and credible-exit analysis
+"""AIHE-PY25 - Pricing, renewal, renegotiation, and credible-exit analysis
 Digital Resource Companion V1.0. Synthetic demonstration only.
 """
 from __future__ import annotations

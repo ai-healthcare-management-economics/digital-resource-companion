@@ -1,8 +1,8 @@
 # Python Analytics
 
-The V1.0 Canonical Source contains **40 catalogued Python analytical modules**. Select a module because it matches the decision question, not because a method is technically available.
+The V1.0 Canonical Source contains **36 catalogued Python analytical modules**. Select a module because it matches the decision question, not because a method is technically available.
 
-The modules cover data quality, model development and validation, calibration, decision utility, lifecycle cost, financial recognition, cost-effectiveness, budget impact, sensitivity analysis, probabilistic analysis, value of information, simulation, causal evaluation, forecasting, optimization, monitoring, decision provenance, circular resource accounting, supported asset life, circularity-adjusted economic evaluation, rebound, burden transfer, and lifecycle decision-state review.
+The modules cover data quality, model development and validation, calibration, decision utility, lifecycle cost, financial recognition, cost-effectiveness, budget impact, sensitivity analysis, probabilistic analysis, value of information, simulation, causal evaluation, forecasting, optimization, monitoring, decision provenance, lifecycle decision-state and trigger review.
 
 Each module should be used with:
 

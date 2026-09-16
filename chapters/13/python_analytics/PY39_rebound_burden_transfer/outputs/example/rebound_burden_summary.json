@@ -1,7 +1,0 @@
-{
-  "scenarios": 3,
-  "preference_warning": [
-    "high induced demand"
-  ],
-  "decision_note": "Report intensity and absolute demand together; report transferred burdens separately before drawing a conclusion."
-}

@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY18",
   "module_number": 18,
   "title": "Decision-tree pathway model",
@@ -13,7 +13,7 @@
   ],
   "related_case": "AIHE-CASE08",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Calculates expected cost, effect, events, and net monetary benefit for short AI and comparator pathways with mutually exclusive outcome branches.",

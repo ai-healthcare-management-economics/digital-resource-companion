@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY25",
   "module_number": 25,
   "title": "Weighted procurement scorecard with mandatory safeguards",
@@ -7,15 +7,14 @@
   "primary_chapter_title": "Problem-First Procurement and Vendor Governance",
   "additional_chapters": [
     9,
-    12,
-    14
+    12
   ],
   "related_core_resources": [
     "AIHE-D01"
   ],
   "related_case": "AIHE-CASE09",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Ranks candidate AI products using weighted evidence domains while enforcing non-compensatory safety, privacy, equity, cybersecurity, audit, and exit safeguards.",

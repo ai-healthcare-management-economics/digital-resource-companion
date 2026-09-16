@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-EX05",
   "canonical_resource_id": "AIHE-EX05",
   "title": "Local Validation Report Template",
@@ -20,5 +20,5 @@
   "purpose": "Document intended use, local cohort, exact system version, discrimination, calibration, threshold-specific performance, subgroup findings, workflow, clinical utility, uncertainty, and the resulting local decision.",
   "version": "V1.0",
   "status": "Current supp specialist resource",
-  "release_date": "2026-08-10"
+  "release_date": "2026-09-16"
 }

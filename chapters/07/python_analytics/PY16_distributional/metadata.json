@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY16",
   "module_number": 16,
   "title": "Distributional cost-effectiveness and equity-weighted analysis",
@@ -7,8 +7,7 @@
   "primary_chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
   "additional_chapters": [
     7,
-    10,
-    15
+    10
   ],
   "related_core_resources": [
     "AIHE-B04",
@@ -16,7 +15,7 @@
   ],
   "related_case": "AIHE-CASE07",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Compares costs, effects, net monetary benefit, access, and equity-weighted value across population groups.",

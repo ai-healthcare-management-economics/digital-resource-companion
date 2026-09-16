@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-G",
   "title": "Sample Health-System AI Governance Charter",
   "canonical_resource_id": "AIHE-C03",
   "primary_chapter": 10,
-  "aligned_chapters": "10,12",
+  "aligned_chapters": "10, 12",
   "purpose": "Establish a health-system governance charter covering purpose, scope, membership, evidence, decisions, monitoring, incidents, updates, and de-adoption.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

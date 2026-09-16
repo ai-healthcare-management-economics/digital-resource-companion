@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY31",
   "module_number": 31,
   "title": "Difference-in-differences evaluation",
@@ -13,7 +13,7 @@
   ],
   "related_case": "AIHE-CASE11",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Estimates the effect of AI implementation by comparing change over time in an intervention group with change in a comparison group.",

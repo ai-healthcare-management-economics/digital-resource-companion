@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://example.org/schemas/AIHE-O.schema.json",
-  "title": "HOAM Accountability Workbook",
+  "title": "Human Oversight and Accountability Workbook",
   "description": "Structured exchange schema for this companion resource. Do not store identifiable patient information.",
   "type": "object",
   "properties": {

@@ -1,4 +1,4 @@
-﻿"""AIHE-PY10 - Lifecycle cost, cash expenditure, accounting expense, and budget-incidence analysis
+"""AIHE-PY10 - Lifecycle cost, cash expenditure, accounting expense, and budget-incidence analysis
 Digital Resource Companion V1.0. Synthetic demonstration only.
 """
 from __future__ import annotations

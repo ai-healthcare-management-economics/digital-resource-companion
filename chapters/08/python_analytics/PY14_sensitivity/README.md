@@ -1,4 +1,4 @@
-﻿# AIHE-PY14 — Deterministic sensitivity and tornado analysis
+# AIHE-PY14 — Deterministic sensitivity and tornado analysis
 
 **Version:** V1.0 
 **Primary chapter:** 8. Decision Modelling, Simulation, and the Value of Information 

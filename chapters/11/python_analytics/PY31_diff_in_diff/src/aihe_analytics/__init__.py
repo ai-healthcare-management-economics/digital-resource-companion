@@ -1,1 +1,1 @@
-﻿"""AI and Healthcare Economics analytical companion package."""
+"""Artificial Intelligence in Healthcare Management and Economics analytical companion package."""

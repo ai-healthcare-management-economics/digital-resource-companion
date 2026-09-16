@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY31
+# Notebook route — AIHE-PY31
 
 Open `31_difference_in_differences.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

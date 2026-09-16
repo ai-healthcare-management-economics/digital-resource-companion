@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY33",
   "module_number": 33,
   "title": "Patient or service segmentation using clustering",
@@ -14,7 +14,7 @@
   ],
   "related_case": "AIHE-CASE02",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Uses standardized features and k-means clustering to identify groups with different utilization, risk, cost, or workflow patterns.",

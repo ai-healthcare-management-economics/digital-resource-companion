@@ -1,4 +1,0 @@
-pathway,eligible,circularity_adjusted_net_value,non_monetized_evidence,accounting_components
-regional remote pathway,True,187000.0,improved specialist access; supplier-region water burden,health NMB - lifecycle cost + environmental value + residual value + resilience value
-local-only pathway,True,136000.0,greater local continuity; longer patient travel for some groups,health NMB - lifecycle cost + environmental value + residual value + resilience value
-centralized cloud pathway,False,186000.0,fails required outage fallback,health NMB - lifecycle cost + environmental value + residual value + resilience value

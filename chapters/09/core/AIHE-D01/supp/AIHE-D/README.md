@@ -1,8 +1,8 @@
-﻿# AIHE-D — AI Procurement Checklist
+# AIHE-D — AI Procurement Checklist
 
 **Current canonical resource:** AIHE-D01 — Vendor Evidence and Contract Requirements 
 **Primary chapter:** 9 — Problem-First Procurement and Vendor Governance 
-**Additional chapters:** 9,12,14
+**Additional chapters:** 9, 12
 
 ## Why this tool is retained
 

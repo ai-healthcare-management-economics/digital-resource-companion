@@ -1,8 +1,8 @@
-﻿# AIHE-M — TCAIO Costing Workbook
+# AIHE-M — TCAIO Costing Workbook
 
 **Current canonical resource:** AIHE-B02 — Lifecycle Cost and Pricing Record 
 **Primary chapter:** 6 — Lifecycle Cost, Pricing, and Benefit Realization 
-**Additional chapters:** 6,9,14,15
+**Additional chapters:** 6, 9
 
 ## Why this tool is retained
 

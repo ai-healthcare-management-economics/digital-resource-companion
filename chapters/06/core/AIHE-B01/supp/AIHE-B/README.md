@@ -1,8 +1,8 @@
-﻿# AIHE-B — Economic Evaluation Specification
+# AIHE-B — Economic Evaluation Specification
 
 **Current canonical resource:** AIHE-B01 — Economic Evaluation Specification 
 **Primary chapter:** 7 — Economic Evaluation, Affordability, and Health Technology Assessment 
-**Additional chapters:** 6,7,8,15
+**Additional chapters:** 6, 7, 8
 
 ## Why this tool is retained
 

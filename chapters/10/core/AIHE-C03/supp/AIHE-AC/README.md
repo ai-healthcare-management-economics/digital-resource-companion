@@ -1,8 +1,8 @@
-﻿# AIHE-AC — Equity Impact Tool
+# AIHE-AC — Equity Impact Tool
 
 **Current canonical resource:** AIHE-C03 — Integrated Institutional-Risk Review 
 **Primary chapter:** 7 — Economic Evaluation, Affordability, and Health Technology Assessment 
-**Additional chapters:** 7,10,12,15
+**Additional chapters:** 7, 10, 12
 
 ## Why this tool is retained
 

@@ -1,8 +1,8 @@
-﻿# AIHE-W — AI Use-Case Canvas
+# AIHE-W — AI Use-Case Canvas
 
 **Current canonical resource:** AIHE-A01 — Decision and Use-Case Specification 
-**Primary chapter:** 1 — AI as a Health-System Intervention 
-**Additional chapters:** 1,9,12
+**Primary chapter:** 1 — AI as a Health System Intervention 
+**Additional chapters:** 1, 9, 12
 
 ## Why this tool is retained
 

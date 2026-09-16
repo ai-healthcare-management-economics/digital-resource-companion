@@ -1,50 +1,41 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1219" viewBox="0 0 1200 1219">
-<rect width="100%" height="100%" fill="#fffdf8"/>
-<style>.t{font-family:Georgia,serif;fill:#2c1d23}.h{font-size:30px;font-weight:700}.s{font-family:Arial,sans-serif;fill:#20232a}.n{font-size:18px;font-weight:700}.d{font-size:14px;fill:#4d555d}.box{fill:#ffffff;stroke:#7b1734;stroke-width:2}.arrow{stroke:#183b56;stroke-width:2.2;fill:none}.small{font-size:13px;fill:#5f6872}</style>
-<text x="600.0" y="48" text-anchor="middle" class="t h">AIHE-EX05 — Local Validation Report</text>
-<rect x="130" y="90" rx="14" ry="14" width="940" height="104" class="box"/>
-<text x="154" y="119" class="s n">1. Define the local decision and intended use</text>
-<text x="154" y="145" class="s d">Specify the population, setting, user, decision window, comparator, expected</text>
-<text x="154" y="163" class="s d">action, consequence of error, accountable owner, and exact system version.</text>
-<line x1="600.0" y1="194" x2="600.0" y2="226" class="arrow"/>
-<path d="M 593.0 217 L 600.0 226 L 607.0 217" class="arrow"/>
-<rect x="130" y="232" rx="14" ry="14" width="940" height="104" class="box"/>
-<text x="154" y="261" class="s n">2. Define the validation cohort and evidence</text>
-<text x="154" y="283" class="s n">period</text>
-<text x="154" y="309" class="s d">Record inclusion and exclusion criteria, data provenance, reference standard,</text>
-<text x="154" y="327" class="s d">missingness, representation, timing, and transformations or mappings.</text>
-<line x1="600.0" y1="336" x2="600.0" y2="368" class="arrow"/>
-<path d="M 593.0 359 L 600.0 368 L 607.0 359" class="arrow"/>
-<rect x="130" y="374" rx="14" ry="14" width="940" height="104" class="box"/>
-<text x="154" y="403" class="s n">3. Evaluate predictive or diagnostic performance</text>
-<text x="154" y="429" class="s d">Assess discrimination, calibration, sensitivity, specificity, predictive</text>
-<text x="154" y="447" class="s d">values, error burden, threshold-specific performance, and uncertainty as</text>
-<text x="154" y="465" class="s d">appropriate.</text>
-<line x1="600.0" y1="478" x2="600.0" y2="510" class="arrow"/>
-<path d="M 593.0 501 L 600.0 510 L 607.0 501" class="arrow"/>
-<rect x="130" y="516" rx="14" ry="14" width="940" height="104" class="box"/>
-<text x="154" y="545" class="s n">4. Examine subgroup and workflow performance</text>
-<text x="154" y="571" class="s d">Assess relevant subgroups, human–AI interaction, response capacity, overrides,</text>
-<text x="154" y="589" class="s d">action latency, workarounds, and balancing measures.</text>
-<line x1="600.0" y1="620" x2="600.0" y2="652" class="arrow"/>
-<path d="M 593.0 643 L 600.0 652 L 607.0 643" class="arrow"/>
-<rect x="130" y="658" rx="14" ry="14" width="940" height="104" class="box"/>
-<text x="154" y="687" class="s n">5. Assess clinical utility and decision</text>
-<text x="154" y="709" class="s n">consequences</text>
-<text x="154" y="735" class="s d">Determine whether the output improves a defined decision or pathway relative</text>
-<text x="154" y="753" class="s d">to the comparator; keep validation separate from causal claims about</text>
-<text x="154" y="771" class="s d">downstream outcomes.</text>
-<line x1="600.0" y1="762" x2="600.0" y2="794" class="arrow"/>
-<path d="M 593.0 785 L 600.0 794 L 607.0 785" class="arrow"/>
-<rect x="130" y="800" rx="14" ry="14" width="940" height="104" class="box"/>
-<text x="154" y="829" class="s n">6. Record limitations and decision conditions</text>
-<text x="154" y="855" class="s d">State evidence gaps, mitigation, monitoring, restrictions, additional</text>
-<text x="154" y="873" class="s d">evidence, and conditions for proceeding, piloting, recalibrating, deferring,</text>
-<text x="154" y="891" class="s d">or stopping.</text>
-<line x1="600.0" y1="904" x2="600.0" y2="936" class="arrow"/>
-<path d="M 593.0 927 L 600.0 936 L 607.0 927" class="arrow"/>
-<rect x="130" y="942" rx="14" ry="14" width="940" height="104" class="box"/>
-<text x="154" y="971" class="s n">7. Approve and preserve the versioned record</text>
-<text x="154" y="997" class="s d">Record accountable authority, evidence cut-off, decision date, dissent, next</text>
-<text x="154" y="1015" class="s d">review date, and triggers for revalidation after material change.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1288" viewBox="0 0 1200 1288">
+<rect width="1200" height="1288" fill="#F5F0E7"/>
+<rect width="1200" height="110" fill="#6B2230"/>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#877567"/></marker></defs>
+<text x="60" y="43" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#FFFFFF">AIHE-EX05 — Local Validation Report Template</text>
+<rect x="75" y="148" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="181" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">1. Define the local decision and intended use</text>
+<text x="101" y="216" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Specify the population, setting, user, decision window, comparator, expected action,</text>
+<text x="101" y="241" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">consequence of error, accountable owner, and exact system version.</text>
+<path d="M600,266 V295" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="303" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="336" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">2. Define the validation cohort and evidence period</text>
+<text x="101" y="371" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Record inclusion and exclusion criteria, data provenance, reference standard, missingness,</text>
+<text x="101" y="396" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">representation, timing, and transformations or mappings.</text>
+<path d="M600,421 V450" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="458" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="491" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">3. Evaluate predictive or diagnostic performance</text>
+<text x="101" y="526" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Assess discrimination, calibration, sensitivity, specificity, predictive values, error</text>
+<text x="101" y="551" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">burden, threshold-specific performance, and uncertainty as appropriate.</text>
+<path d="M600,576 V605" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="613" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="646" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">4. Examine subgroup and workflow performance</text>
+<text x="101" y="681" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Assess relevant subgroups, human–AI interaction, response capacity, overrides, action</text>
+<text x="101" y="706" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">latency, workarounds, and balancing measures.</text>
+<path d="M600,731 V760" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="768" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="801" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">5. Assess clinical utility and decision consequences</text>
+<text x="101" y="836" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Determine whether the output improves a defined decision or pathway relative to the</text>
+<text x="101" y="861" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">comparator; keep validation separate from causal claims about downstream outcomes.</text>
+<path d="M600,886 V915" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="923" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="956" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">6. Record limitations and decision conditions</text>
+<text x="101" y="991" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">State evidence gaps, mitigation, monitoring, restrictions, additional evidence, and</text>
+<text x="101" y="1016" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">conditions for proceeding, piloting, recalibrating, deferring, or stopping.</text>
+<path d="M600,1041 V1070" stroke="#877567" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="75" y="1078" width="1050" height="115" rx="12" fill="#FFFFFF" stroke="#BDA477" stroke-width="2"/>
+<text x="101" y="1111" font-family="DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#6B2230">7. Approve and preserve the versioned record</text>
+<text x="101" y="1146" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">Record accountable authority, evidence cut-off, decision date, dissent, next review date, and</text>
+<text x="101" y="1171" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#303236">triggers for revalidation after material change.</text>
+<text x="60" y="1246" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#877567">Iterative decision support: return to earlier evidence or assessment when a review trigger requires it.</text>
 </svg>

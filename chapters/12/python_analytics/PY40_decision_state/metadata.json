@@ -10,11 +10,10 @@
     "AIHE-D04",
     "AIHE-D05",
     "AIHE-CASE12",
-    "AIHE-CASE09B",
-    "AIHE-CASE15"
+    "AIHE-CASE09B"
   ],
   "version": "V1.0",
-  "release_date": "2026-09-02",
+  "release_date": "2026-09-16",
   "status": "Current analytical resource",
   "synthetic_data_notice": "The bundled data are synthetic. Replace with authorized local evidence before institutional use.",
   "authorization_effect": "None"

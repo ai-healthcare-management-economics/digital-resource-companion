@@ -1,4 +1,4 @@
-﻿# AIHE-PY06 — Decision-curve analysis
+# AIHE-PY06 — Decision-curve analysis
 
 **Version:** V1.0 
 **Primary chapter:** 3. Human–AI Decision Systems and Managerial Action 

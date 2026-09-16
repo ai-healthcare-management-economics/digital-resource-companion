@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY33
+# Notebook route — AIHE-PY33
 
 Open `33_patient_segmentation_clustering.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

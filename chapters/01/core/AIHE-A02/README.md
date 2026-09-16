@@ -1,6 +1,6 @@
 # AIHE-A02 — Stakeholders, Decision Rights, and Participation
 
-**Primary chapter:** Chapter 1: AI as a Health-System Intervention  
+**Primary chapter:** Chapter 1: AI as a Health System Intervention  
 **Release:** V1.0  
 **Status:** Current consolidated resource
 

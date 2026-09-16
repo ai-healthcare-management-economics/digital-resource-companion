@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY10
+# Notebook route — AIHE-PY10
 
 Open `10_tcaio_lifecycle_costing.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

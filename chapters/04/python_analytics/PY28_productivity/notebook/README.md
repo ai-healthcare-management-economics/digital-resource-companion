@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY28
+# Notebook route — AIHE-PY28
 
 Open `28_workflow_productivity.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

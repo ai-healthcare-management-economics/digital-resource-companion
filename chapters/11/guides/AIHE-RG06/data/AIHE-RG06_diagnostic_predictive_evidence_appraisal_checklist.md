@@ -1,4 +1,4 @@
-﻿# AIHE-RG06 — Diagnostic and Predictive Evidence Appraisal Checklist
+# AIHE-RG06 — Diagnostic and Predictive Evidence Appraisal Checklist
 
 **Aligned chapters:** 3, 7, 8, and 11 
 **Primary use:** connect statistical performance with intended use, bias, clinical utility, workflow, and resource consequences.

@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY21
+# Notebook route — AIHE-PY21
 
 Open `21_discrete_event_hospital_flow.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

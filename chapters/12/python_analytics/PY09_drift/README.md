@@ -1,4 +1,4 @@
-﻿# AIHE-PY09 — Temporal validation and drift monitoring
+# AIHE-PY09 — Temporal validation and drift monitoring
 
 **Version:** V1.0 
 **Primary chapter:** 12. Decision Architecture and Lifecycle Governance 

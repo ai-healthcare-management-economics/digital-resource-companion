@@ -1,8 +1,8 @@
-﻿# AIHE-C — Ethical Governance Checklist for Healthcare AI
+# AIHE-C — Ethical Governance Checklist for Healthcare AI
 
 **Current canonical resource:** AIHE-C03 — Integrated Institutional-Risk Review 
 **Primary chapter:** 10 — Governance, Accountability, and Institutional Risk 
-**Additional chapters:** 10,12
+**Additional chapters:** 10, 12
 
 ## Why this tool is retained
 

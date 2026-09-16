@@ -1,5 +1,0 @@
-option,eligible,supported_years,minimum_supported_years,net_present_value_cost,expected_downtime_days,equivalent_annual_cost,exclusion_reason
-maintain,False,3,4,180000.0,18.0,,Mandatory eligibility or minimum supported-life requirement not met
-refurbish,True,5,4,385000.0,8.0,85270.32866586847,
-replace,True,8,6,570000.0,3.0,82921.68853268723,
-shared service,True,6,5,475000.0,5.0,89142.39911602609,

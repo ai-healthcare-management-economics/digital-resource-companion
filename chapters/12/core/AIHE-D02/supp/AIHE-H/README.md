@@ -1,8 +1,8 @@
-﻿# AIHE-H — AI Project One-Page Decision Memo
+# AIHE-H — AI Project One-Page Decision Memo
 
 **Current canonical resource:** AIHE-D02 — Lifecycle Decision State, Staged Evidence, and AI-HED Status 
 **Primary chapter:** 12 — Decision Architecture and Lifecycle Governance 
-**Additional chapters:** 1,6,7,9,10,12
+**Additional chapters:** 1, 6, 7, 9, 10, 12
 
 ## Why this tool is retained
 

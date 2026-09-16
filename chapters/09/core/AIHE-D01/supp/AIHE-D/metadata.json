@@ -1,9 +1,9 @@
-﻿{
+{
   "resource_id": "AIHE-D",
   "title": "AI Procurement Checklist",
   "canonical_resource_id": "AIHE-D01",
   "primary_chapter": 9,
-  "aligned_chapters": "9,12,14",
+  "aligned_chapters": "9, 12",
   "purpose": "Evaluate problem fit, evidence, integration, lifecycle cost, data rights, security, monitoring, updates, audit, and exit.",
   "version": "V1.0",
   "status": "Supplemental specialist resource"

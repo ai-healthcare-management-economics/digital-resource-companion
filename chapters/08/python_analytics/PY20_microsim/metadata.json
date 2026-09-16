@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY20",
   "module_number": 20,
   "title": "Patient-level microsimulation",
@@ -13,7 +13,7 @@
   ],
   "related_case": "AIHE-CASE08",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Simulates heterogeneous patients over repeated cycles so history, subgroup risk, adherence, and individual outcomes can affect AI value.",

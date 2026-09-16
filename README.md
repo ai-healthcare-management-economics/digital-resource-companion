@@ -1,21 +1,21 @@
-# Artificial Intelligence and Healthcare Economics
+# Artificial Intelligence in Healthcare Management and Economics
 
 ## Digital Resource Companion
 
-*Evidence, Value, Governance, and Sustainability*
+*Evidence, Value, Governance, and Lifecycle Decision-Making*
 
 **Muthana Zouri and Carmen Marinela Cumpăt**  
 Grigore T. Popa University of Medicine and Pharmacy Publishing House, 2026
 
 **Current release: V1.0**
 
-The **Digital Resource Companion** accompanies *Artificial Intelligence and Healthcare Economics: Evidence, Value, Governance, and Sustainability*. It extends the book with practical resources for institutional decision-making, health-economic evaluation, implementation, governance, evidence assessment, lifecycle management, and sustainable resource stewardship.
+The **Digital Resource Companion** accompanies *Artificial Intelligence in Healthcare Management and Economics: Evidence, Value, Governance, and Lifecycle Decision-Making*. It extends the book with practical resources for institutional decision-making, health-economic evaluation, implementation, governance, evidence assessment, lifecycle management, and lifecycle stewardship.
 
-The companion follows the book's current **five-Part, fifteen-chapter structure**. It contains 24 core institutional records, 20 worked examples plus a common case-analysis method, 40 Python analytical modules, and current catalogues for the book's 31 principal figures and 46 principal tables.
+The companion follows the book's current **four-part, twelve-chapter structure**. It contains 19 core institutional records, 16 worked examples plus a common case-analysis method, 36 Python analytical modules, and current catalogues for the book's 29 principal figures and 38 tables (including two front-matter tables).
 
 ## Start here
 
-Most users should begin with the **[GitHub Pages Web Companion](https://ai-healthcare-management-economics.github.io/digital-resource-companion/)** or the repository's [`START_HERE.html`](START_HERE.html).
+Most users should begin with the **[GitHub Pages Web Companion](https://ai-healthcare-economics.github.io/digital-resource-companion/)** or the repository's [`START_HERE.html`](START_HERE.html).
 
 For a downloadable collection, select the distribution that matches the intended use.
 
@@ -31,15 +31,15 @@ The **Core Tools Pack is a convenience subset**, not a separate edition. It is i
 
 | Resource class | Scope |
 |---|---:|
-| Book Parts | 5 |
-| Chapters | 15 |
-| Principal figures | 31 |
-| Principal tables | 46 |
-| Core institutional records | 24 |
-| Worked examples | 20 |
+| Book Parts | 4 |
+| Chapters | 12 |
+| Principal figures | 29 |
+| Principal tables | 38 |
+| Core institutional records | 19 |
+| Worked examples | 16 |
 | Common case-analysis method | 1 |
-| Python analytical modules | 40 |
-| Catalogued companion resources | 146 |
+| Python analytical modules | 36 |
+| Catalogued companion resources | 126 |
 
 ## Repository structure
 
@@ -58,13 +58,12 @@ The repository is the **Canonical Source**. Material under `docs/`, `publication
 
 ## Core resource families
 
-The 24 core institutional records are organized into five families:
+The 19 core institutional records are organized into four families:
 
 - **A — Decision framing, participation, readiness, and data**
 - **B — Economic evaluation, lifecycle cost, benefits, affordability, and modelling**
 - **C — Quality, risk, accountability, and communication**
 - **D — Procurement, monitoring, material change, and lifecycle governance**
-- **E — Circular economy, asset stewardship, and sustainable value**
 
 Use [`RESOURCE_INDEX.md`](RESOURCE_INDEX.md), the master catalogue, or the Web Companion to select the smallest sufficient set of resources for the decision.
 
@@ -72,7 +71,7 @@ Use [`RESOURCE_INDEX.md`](RESOURCE_INDEX.md), the master catalogue, or the Web C
 
 Worked examples use fictional scenarios and synthetic data unless explicitly stated otherwise. They support learning, methodological illustration, reproducibility, and local adaptation; they do not constitute empirical evidence for an institutional decision.
 
-The Canonical Source contains 40 chapter-aligned Python modules, with Jupyter notebooks and supporting files where applicable. See [`PYTHON_ANALYTICS.md`](PYTHON_ANALYTICS.md).
+The Canonical Source contains 36 chapter-aligned Python modules, with Jupyter notebooks and supporting files where applicable. See [`PYTHON_ANALYTICS.md`](PYTHON_ANALYTICS.md).
 
 ## Release assets
 
@@ -109,16 +108,16 @@ See [`LIMITED_USE_AND_DISCLAIMER.md`](LIMITED_USE_AND_DISCLAIMER.md).
 
 ## Citation and archival record
 
-**Version-specific DOI:** `10.5281/zenodo.21753927`
+**Persistent companion record (Concept DOI):** `10.5281/zenodo.21753927`
 
-The DOI will resolve after the Zenodo V1.0 record is published. For reproducibility, cite the version-specific DOI and record the stable resource identifier, version, date accessed, evidence cut-off, and local modifications.
+The book identifies this address as the persistent companion record. Obtain the version-specific DOI from the archive record when this package is published. For reproducibility, cite the version-specific DOI and record the stable resource identifier, version, date accessed, evidence cut-off, and local modifications.
 
 ## Key links
 
-- [Web Companion](https://ai-healthcare-management-economics.github.io/digital-resource-companion/)
-- [Canonical GitHub repository](https://github.com/ai-healthcare-management-economics/digital-resource-companion)
-- [GitHub Releases](https://github.com/ai-healthcare-management-economics/digital-resource-companion/releases)
-- [Zenodo V1.0 DOI](https://doi.org/10.5281/zenodo.21753927)
+- [Web Companion](https://ai-healthcare-economics.github.io/digital-resource-companion/)
+- [Canonical GitHub repository](https://github.com/ai-healthcare-economics/digital-resource-companion)
+- [GitHub Releases](https://github.com/ai-healthcare-economics/digital-resource-companion/releases)
+- [Persistent companion record (Concept DOI)](https://doi.org/10.5281/zenodo.21753927)
 
 ## Contributing
 

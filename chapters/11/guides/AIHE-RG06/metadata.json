@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-RG06",
   "title": "Diagnostic and Predictive Evidence Appraisal Checklist",
   "primary_chapter": 11,
@@ -6,6 +6,6 @@
   "aligned_chapters": "3, 7, 8, 11",
   "purpose": "Appraise reference standards, index tests, data partitions, calibration, diagnostic accuracy, bias, subgroup performance, clinical utility, and downstream resource consequences.",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "Current cross-cutting guide"
 }

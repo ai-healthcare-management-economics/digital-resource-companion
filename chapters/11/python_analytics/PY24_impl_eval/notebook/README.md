@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY24
+# Notebook route — AIHE-PY24
 
 Open `24_implementation_evaluation.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

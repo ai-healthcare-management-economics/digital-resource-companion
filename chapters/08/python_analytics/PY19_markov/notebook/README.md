@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY19
+# Notebook route — AIHE-PY19
 
 Open `19_markov_cohort_model.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

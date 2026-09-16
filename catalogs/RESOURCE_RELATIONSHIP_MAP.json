@@ -1,7 +1,7 @@
 [
   {
     "chapter": "1",
-    "chapter_title": "AI as a Health-System Intervention",
+    "chapter_title": "AI as a Health System Intervention",
     "core_resources": "AIHE-A01; AIHE-A02",
     "guides": "AIHE-RG07",
     "worked_case": "AIHE-CASE01",
@@ -94,29 +94,5 @@
     "guides": "AIHE-RG01",
     "worked_case": "AIHE-CASE12",
     "python_applications": "AIHE-PY09; AIHE-PY27; AIHE-PY29; AIHE-PY40"
-  },
-  {
-    "chapter": "13",
-    "chapter_title": "Circular Health Systems and Resource Stewardship",
-    "core_resources": "AIHE-E01",
-    "guides": "",
-    "worked_case": "AIHE-CASE13; AIHE-CASE13B",
-    "python_applications": "AIHE-PY36; AIHE-PY39"
-  },
-  {
-    "chapter": "14",
-    "chapter_title": "Circular Procurement and Asset Stewardship",
-    "core_resources": "AIHE-E02; AIHE-E03",
-    "guides": "",
-    "worked_case": "AIHE-CASE14",
-    "python_applications": "AIHE-PY37"
-  },
-  {
-    "chapter": "15",
-    "chapter_title": "Circularity-Adjusted Economic Evaluation and Sustainable Value",
-    "core_resources": "AIHE-E04; AIHE-E05",
-    "guides": "",
-    "worked_case": "AIHE-CASE15",
-    "python_applications": "AIHE-PY38; AIHE-PY39"
   }
 ]

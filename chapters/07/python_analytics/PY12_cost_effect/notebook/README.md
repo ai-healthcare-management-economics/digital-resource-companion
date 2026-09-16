@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY12
+# Notebook route — AIHE-PY12
 
 Open `12_cost_effectiveness_icer_nmb.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

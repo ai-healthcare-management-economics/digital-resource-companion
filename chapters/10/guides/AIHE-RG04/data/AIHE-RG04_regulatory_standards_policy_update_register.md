@@ -1,6 +1,6 @@
-﻿# AIHE-RG04 — Regulatory, Standards, and Policy Update Register
+# AIHE-RG04 — Regulatory, Standards, and Policy Update Register
 
-**Aligned chapters:** 2, 5, 7, 9, 10, 12–15 
+**Aligned chapters:** 2, 5, 7, 9, 10, 12 
 **Primary use:** preserve a date-stamped record of external instruments that may change between book editions or institutional reviews.
 
 ## Instructions

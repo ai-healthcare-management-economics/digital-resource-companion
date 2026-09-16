@@ -1,4 +1,4 @@
-﻿# Google Colab instructions
+# Google Colab instructions
 
 1. Open the notebook from the repository or upload the complete `PY03_missing_data` folder to a controlled workspace.
 2. Ensure that `src/`, `data/xlsx/`, and `environment/requirements.txt` remain available.

@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-B03.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-B03.schema.json",
   "title": "AIHE-B03 Benefit Realization and Capacity Conversion",
   "type": "object",
   "required": [

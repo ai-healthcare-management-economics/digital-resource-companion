@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY30
+# Notebook route — AIHE-PY30
 
 Open `30_random_effects_meta_analysis.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

@@ -1,4 +1,4 @@
-﻿name: aihe-25-script
+name: aihe-25-script
 channels:
  - conda-forge
 dependencies:

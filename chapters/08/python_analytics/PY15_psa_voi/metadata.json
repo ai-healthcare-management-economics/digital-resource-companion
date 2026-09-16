@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY15",
   "module_number": 15,
   "title": "Probabilistic sensitivity analysis, CEAC, and EVPI",
@@ -14,7 +14,7 @@
   ],
   "related_case": "AIHE-CASE08",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Propagates uncertainty in incremental costs and effects through Monte Carlo simulation, estimates cost-effectiveness probabilities across thresholds, and computes expected value of perfect information.",

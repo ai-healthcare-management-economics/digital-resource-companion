@@ -1,8 +1,8 @@
-﻿# AIHE-I — Health-System AI Indicator Library
+# AIHE-I — Health-System AI Indicator Library
 
 **Current canonical resource:** AIHE-C01 — AI Quality-Control and Accreditation Evidence Plan 
 **Primary chapter:** 5 — Quality Management, Accreditation, and Organizational Learning 
-**Additional chapters:** 3,4,5,10,12,13,15
+**Additional chapters:** 3, 4, 5, 10, 12
 
 ## Why this tool is retained
 

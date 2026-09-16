@@ -1,4 +1,4 @@
-﻿# AIHE-PY07 — Feature importance and partial-dependence exploration
+# AIHE-PY07 — Feature importance and partial-dependence exploration
 
 **Version:** V1.0 
 **Primary chapter:** 10. Governance, Accountability, and Institutional Risk 

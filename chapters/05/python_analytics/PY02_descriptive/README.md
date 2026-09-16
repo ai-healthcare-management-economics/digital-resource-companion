@@ -1,4 +1,4 @@
-﻿# AIHE-PY02 — Descriptive statistics and visual comparisons
+# AIHE-PY02 — Descriptive statistics and visual comparisons
 
 **Version:** V1.0 
 **Primary chapter:** 5. Quality Management, Accreditation, and Organizational Learning 

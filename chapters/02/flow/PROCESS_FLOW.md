@@ -1,35 +1,65 @@
-﻿# Chapter 2: Institutional Readiness and Digital Foundations
+# Chapter 2: Institutional Readiness and Digital Foundations
 
-Chapter-level decision process aligned to the fifteen-chapter reference edition.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Confirm strategic and service requirements
 
-### 1. Confirm strategic and service requirements
 Link the proposed use to a documented priority and a realistic operating model.
 
-### 2. Inventory infrastructure and data assets
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Confirm strategic and service requirements
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Inventory infrastructure and data assets
+
 Document source systems, interfaces, identity, access, compute, storage, provenance, and support.
 
-### 3. Assess interoperability and data fitness
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Inventory infrastructure and data assets
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Assess interoperability and data fitness
+
 Evaluate syntactic, semantic, organizational, and temporal interoperability and use-case-specific data quality.
 
-### 4. Assess resilience, security, and technical debt
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Assess interoperability and data fitness
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Assess resilience, security, and technical debt
+
 Review availability, logging, fallback, recovery, maintainability, and cumulative integration burden.
 
-### 5. Identify readiness gaps and owners
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Assess resilience, security, and technical debt
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Identify readiness gaps and owners
+
 Classify critical deficiencies, assign remediation, resources, and completion evidence.
 
-### 6. Authorize readiness or restrict ambition
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Identify readiness gaps and owners
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 6. Authorize readiness or restrict ambition
+
 Proceed, remediate, use silent validation, limit scope, or select a non-AI alternative.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-A multi-site readmission model cannot proceed until data provenance, FHIR interfaces, OMOP mapping, identity matching, and recovery capability are demonstrated.
+**Expected output:** Versioned record for: Authorize readiness or restrict ambition
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-`AIHE-A`, `AIHE-EX03`, `AIHE-L`, `AIHE-U`, `AIHE-Y`
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

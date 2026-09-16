@@ -1,38 +1,75 @@
 # Chapter 12: Decision Architecture and Lifecycle Governance
 
-Chapter-level decision process aligned to the fifteen-chapter reference edition.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Establish the decision identity
 
-### 1. Open and maintain the lifecycle dossier
-Record the problem, evidence, economics, governance, implementation, monitoring, changes, and decision status.
+Specify the complete intervention, version, intended use, population, setting, comparator, and accountable authority.
 
-### 2. Apply stage gates
-Require proportionate evidence before procurement, silent validation, pilot, scale, or institutional dependence.
+**Required input:** Current, version-matched evidence and the defined decision identity
 
-### 3. Implement through controlled validation
-Verify readiness, train users, validate locally, test fallback, and define acceptance criteria.
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
 
-### 4. Operate algorithmovigilance
-Review technical, clinical, workflow, workforce, equity, economic, contractual, and trust indicators at defined intervals.
+**Decision:** Accountable review; no automatic authorization
 
-### 5. Investigate incidents and material changes
-Preserve data, versions, outputs, human actions, context, causes, corrective action, and revalidation.
+## 2. Integrate evidence without aggregation
 
-### 6. Renew, restrict, replace, or de-adopt
-Compare current value, safeguards, alternatives, continuity, and exit readiness.
+Use the AI-HEVG domains to preserve distinct specialist judgements, mandatory safeguards, uncertainties, and dissent.
 
-### 7. Feed lessons into portfolio governance
-Update policy, capability, procurement, training, standards, and strategic priorities.
+**Required input:** Current, version-matched evidence and the defined decision identity
 
-## Illustrative application
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
 
-A vendor model update triggers dossier revision, revalidation, algorithmovigilance review, decision authority, rollback readiness, and renewal analysis.
+**Decision:** Accountable review; no automatic authorization
 
-## Related resource IDs
+## 3. Record current institutional permission
 
-`AIHE-AE`, `AIHE-E`, `AIHE-EX02`, `AIHE-H`, `AIHE-K`, `AIHE-P`, ``, `AIHE-R`, `AIHE-S`, `AIHE-V`
+Maintain the AI-HED evidence links, current state, scope, effective date, conditions, triggers, and decision history. Implementation activity is recorded separately.
 
-## Status and limitations
+**Required input:** Current, version-matched evidence and the defined decision identity
 
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+## 4. Monitor decision-relevant triggers
+
+Assign owners, thresholds, cadence, and default responses for technical, clinical, workflow, equity, economic, contractual, and support changes.
+
+**Required input:** Current, version-matched evidence and the defined decision identity
+
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+## 5. Assess incidents and material change
+
+Reconstruct versions, data, outputs, human action, context, causes, and corrective action; determine which evidence and permissions require reconsideration.
+
+**Required input:** Current, version-matched evidence and the defined decision identity
+
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+## 6. Reassess renewal and alternatives
+
+Treat renewal as a new decision. Compare continuation, renegotiation, restriction, replacement, and de-adoption using current evidence and safeguards.
+
+**Required input:** Current, version-matched evidence and the defined decision identity
+
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+## 7. Close authorization and preserve learning
+
+Protect continuity, manage records and contracts, document retirement or supersession, and carry verified lessons into institutional governance.
+
+**Required input:** Current, version-matched evidence and the defined decision identity
+
+**Expected output:** A dated institutional record with evidence, conditions, owner, and next review
+
+**Decision:** Accountable review; no automatic authorization
+
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

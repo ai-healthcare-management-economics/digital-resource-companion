@@ -1,38 +1,75 @@
-﻿# Chapter 7: Economic Evaluation, Affordability, and Health Technology Assessment
+# Chapter 7: Economic Evaluation, Affordability, and Health Technology Assessment
 
-Chapter-level decision process aligned to the fifteen-chapter reference edition.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Specify the economic and HTA decision
 
-### 1. Specify the economic and HTA decision
 Define population, intervention, comparator, outcomes, perspective, horizon, and adoption authority.
 
-### 2. Select the evaluation form
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Specify the economic and HTA decision
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Select the evaluation form
+
 Choose cost-consequence, cost-effectiveness, cost-utility, budget impact, distributional, or combined analysis.
 
-### 3. Estimate incremental costs and outcomes
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Select the evaluation form
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Estimate incremental costs and outcomes
+
 Use the full pathway and document final, intermediate, workforce, quality, and equity effects.
 
-### 4. Assess affordability and reimbursement
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Estimate incremental costs and outcomes
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Assess affordability and reimbursement
+
 Model annual cash flow, funding source, eligible volume, payment, coding, tariff, and denial implications.
 
-### 5. Characterize uncertainty and distribution
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Assess affordability and reimbursement
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Characterize uncertainty and distribution
+
 Use sensitivity, scenarios, subgroups, thresholds, and value-of-information logic.
 
-### 6. Integrate HTA, procurement, and local readiness
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Characterize uncertainty and distribution
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 6. Integrate HTA, procurement, and local readiness
+
 Distinguish regulatory authorization, assessment, reimbursement, procurement, and local adoption.
 
-### 7. Issue a conditional recommendation
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Integrate HTA, procurement, and local readiness
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 7. Issue a conditional recommendation
+
 Adopt, pilot, restrict, defer, redesign, reject, or retire with explicit conditions.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-Remote monitoring is evaluated for cost-effectiveness, annual budget impact, reimbursement, access, and subgroup distribution.
+**Expected output:** Versioned record for: Issue a conditional recommendation
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-`AIHE-AA`, `AIHE-AC`, `AIHE-B`, `AIHE-EX18`
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

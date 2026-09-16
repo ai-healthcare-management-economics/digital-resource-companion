@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY14
+# Notebook route — AIHE-PY14
 
 Open `14_deterministic_sensitivity_tornado.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

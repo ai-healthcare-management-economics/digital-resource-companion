@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY01",
   "module_number": 1,
   "title": "Data quality, fitness-for-purpose, and mapping audit",
@@ -15,7 +15,7 @@
   ],
   "related_case": "AIHE-CASE02",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Profiles missingness, duplicates, implausible values, subgroup coverage, and terminology-mapping completeness before AI validation or economic analysis.",

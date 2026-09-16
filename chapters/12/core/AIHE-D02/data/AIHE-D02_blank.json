@@ -1,8 +1,8 @@
-﻿{
+{
   "metadata": {
     "resource_id": "AIHE-D02",
     "resource_version": "V1.0",
-    "release_date": "2026-09-02",
+    "release_date": "2026-09-16",
     "access_date": "",
     "evidence_cut_off": "",
     "local_modifications": "",
@@ -24,8 +24,16 @@
     },
     {
       "section": "Current state",
-      "field_or_question": "Exploratory, retrospective evaluation, silent evaluation, pilot, conditionally authorized, authorized, restricted, suspended, replacement in progress, retired",
+      "field_or_question": "Under consideration; Evaluation authorized; Conditional use; Authorized use; Restricted use; Paused or suspended; Retired or superseded",
       "guidance": "Authorization is a current state.",
+      "response_or_evidence": "",
+      "owner": "",
+      "due_or_review_date": ""
+    },
+    {
+      "section": "Implementation activity",
+      "field_or_question": "Retrospective study, silent evaluation, restricted pilot, phased rollout, or routine service",
+      "guidance": "Record this separately from the current permission state; an activity does not itself authorize use.",
       "response_or_evidence": "",
       "owner": "",
       "due_or_review_date": ""

@@ -1,4 +1,4 @@
-﻿# AIHE-PY24 — Implementation evaluation with interrupted time series and control charts
+# AIHE-PY24 — Implementation evaluation with interrupted time series and control charts
 
 **Version:** V1.0 
 **Primary chapter:** 11. Evidence, Validation, and Real-World Evaluation 

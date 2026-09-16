@@ -4,11 +4,11 @@ The `bundles/` directory provides public convenience files generated from the ca
 
 ## Core Resource Forms
 
-`core_forms/` contains the 24 core institutional records as a consolidated editable Word document and printable PDF.
+`core_forms/` contains the 19 core institutional records as a consolidated editable Word document and printable PDF.
 
 ## Core Resource Workbooks
 
-`core_workbooks/` contains the 24 records as a consolidated Excel workbook, together with completion guidance.
+`core_workbooks/` contains the 19 records as a consolidated Excel workbook, together with completion guidance.
 
 ## Core Tools Pack
 

@@ -1,8 +1,8 @@
-﻿# AIHE-J — Lifecycle and Future-Proofing Toolkit
+# AIHE-J — Lifecycle and Future-Proofing Toolkit
 
 **Current canonical resource:** AIHE-D05 — Material Change, Reauthorization, Renewal, Replacement, and Retirement Record 
 **Primary chapter:** 9 — Problem-First Procurement and Vendor Governance 
-**Additional chapters:** 9,12,13,14,15
+**Additional chapters:** 9, 12
 
 ## Why this tool is retained
 

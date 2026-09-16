@@ -1,7 +1,7 @@
 record_id,resource_id,resource_version,release_date,section,field_or_question,guidance,response_or_evidence,owner,due_or_review_date,evidence_cut_off,local_modifications,intervention_version
-,AIHE-D03,V1.0,2026-09-02,Monitoring,"Signal, measure, source, affected population, and system version",Link each signal to the intervention identity.,,,,,,
-,AIHE-D03,V1.0,2026-09-02,Cadence,"Frequency, accumulation window, and review forum",Use risk-appropriate surveillance.,,,,,,
-,AIHE-D03,V1.0,2026-09-02,Threshold,Acceptability limit or transition trigger,State statistical and decision thresholds separately.,,,,,,
-,AIHE-D03,V1.0,2026-09-02,Ownership,"Reviewer, response time, and escalation authority",Monitoring without authority is incomplete.,,,,,,
-,AIHE-D03,V1.0,2026-09-02,Response,"Continue, investigate, restrict, suspend, revalidate, reauthorize, replace, or retire",State the default response.,,,,,,
-,AIHE-D03,V1.0,2026-09-02,Closure,Evidence required to resolve the trigger,Link to decision history.,,,,,,
+,AIHE-D03,V1.0,2026-09-16,Monitoring,"Signal, measure, source, affected population, and system version",Link each signal to the intervention identity.,,,,,,
+,AIHE-D03,V1.0,2026-09-16,Cadence,"Frequency, accumulation window, and review forum",Use risk-appropriate surveillance.,,,,,,
+,AIHE-D03,V1.0,2026-09-16,Threshold,Acceptability limit or transition trigger,State statistical and decision thresholds separately.,,,,,,
+,AIHE-D03,V1.0,2026-09-16,Ownership,"Reviewer, response time, and escalation authority",Monitoring without authority is incomplete.,,,,,,
+,AIHE-D03,V1.0,2026-09-16,Response,"Continue, investigate, restrict, suspend, revalidate, reauthorize, replace, or retire",State the default response.,,,,,,
+,AIHE-D03,V1.0,2026-09-16,Closure,Evidence required to resolve the trigger,Link to decision history.,,,,,,

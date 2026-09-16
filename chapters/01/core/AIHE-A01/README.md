@@ -1,6 +1,6 @@
 # AIHE-A01 — Decision and Use-Case Specification
 
-**Primary chapter:** Chapter 1: AI as a Health-System Intervention  
+**Primary chapter:** Chapter 1: AI as a Health System Intervention  
 **Release:** V1.0  
 **Status:** Current consolidated resource
 

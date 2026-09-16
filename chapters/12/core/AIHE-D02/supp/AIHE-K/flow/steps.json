@@ -1,42 +1,42 @@
-﻿[
+[
   {
     "step": 1,
-    "stage": "Assemble the current decision dossier",
-    "purpose": "Bring together the problem, evidence, economics, governance, implementation, monitoring, and changes relevant to AI-HEVG Assessment Workbook.",
-    "required_input": "Local evidence and the prior approved step",
-    "expected_output": "Versioned record for: Assemble the current decision dossier",
-    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+    "stage": "Define the assessment boundary",
+    "purpose": "Identify the complete intervention, use case, population, setting, version, decision, and realistic comparator.",
+    "required_input": "Current, version-matched evidence and the defined decision identity",
+    "expected_output": "A dated institutional record with evidence, conditions, owner, and next review",
+    "decision_or_gate": "Accountable review; no automatic authorization"
   },
   {
     "step": 2,
-    "stage": "Check completeness and mandatory safeguards",
-    "purpose": "Resolve inconsistencies, evidence gaps, unowned risks, expired reviews, and non-compensatory failures.",
-    "required_input": "Local evidence and the prior approved step",
-    "expected_output": "Versioned record for: Check completeness and mandatory safeguards",
-    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+    "stage": "Assess distinct AI-HEVG domains",
+    "purpose": "Review problem relevance, data readiness, clinical validity, economic value, ethical acceptability, organizational feasibility, and lifecycle governability.",
+    "required_input": "Current, version-matched evidence and the defined decision identity",
+    "expected_output": "A dated institutional record with evidence, conditions, owner, and next review",
+    "decision_or_gate": "Accountable review; no automatic authorization"
   },
   {
     "step": 3,
-    "stage": "Conduct accountable deliberation",
-    "purpose": "Compare options, dissent, uncertainty, opportunity cost, continuity, and public-value implications.",
-    "required_input": "Local evidence and the prior approved step",
-    "expected_output": "Versioned record for: Conduct accountable deliberation",
-    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+    "stage": "Preserve safeguards and uncertainty",
+    "purpose": "Record evidence sources, limitations, outstanding issues, dissent, and mandatory safeguards without a composite authorization score.",
+    "required_input": "Current, version-matched evidence and the defined decision identity",
+    "expected_output": "A dated institutional record with evidence, conditions, owner, and next review",
+    "decision_or_gate": "Accountable review; no automatic authorization"
   },
   {
     "step": 4,
-    "stage": "Issue the decision and conditions",
-    "purpose": "Approve, pilot, scale, restrict, pause, replace, or retire with owners and thresholds.",
-    "required_input": "Local evidence and the prior approved step",
-    "expected_output": "Versioned record for: Issue the decision and conditions",
-    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+    "stage": "Integrate judgement into the AI-HED",
+    "purpose": "Link authoritative specialist records and record the current decision state, conditions, accountable authority, effective date, and next review.",
+    "required_input": "Current, version-matched evidence and the defined decision identity",
+    "expected_output": "A dated institutional record with evidence, conditions, owner, and next review",
+    "decision_or_gate": "Accountable review; no automatic authorization"
   },
   {
     "step": 5,
-    "stage": "Maintain review and archival traceability",
-    "purpose": "Record version, evidence cut-off, next review, trigger events, change log, and final disposition.",
-    "required_input": "Local evidence and the prior approved step",
-    "expected_output": "Versioned record for: Maintain review and archival traceability",
-    "decision_or_gate": "Proceed, revise, escalate, restrict, or stop as appropriate"
+    "stage": "Reassess when conditions change",
+    "purpose": "Use monitoring, incidents, version changes, costs, support, evidence, and alternatives to trigger renewed institutional judgement.",
+    "required_input": "Current, version-matched evidence and the defined decision identity",
+    "expected_output": "A dated institutional record with evidence, conditions, owner, and next review",
+    "decision_or_gate": "Accountable review; no automatic authorization"
   }
 ]

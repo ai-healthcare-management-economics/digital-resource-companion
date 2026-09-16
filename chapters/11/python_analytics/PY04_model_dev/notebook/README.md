@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY04
+# Notebook route — AIHE-PY04
 
 Open `04_predictive_model_comparison.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

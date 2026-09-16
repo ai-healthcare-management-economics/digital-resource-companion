@@ -8,7 +8,7 @@ Resources should be selected according to the decision being addressed. No favou
 
 ## Core institutional records
 
-- [AIHE-A03 — Institutional Readiness Assessment](core/AIHE-A03) — Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and sustainability readiness.
+- [AIHE-A03 — Institutional Readiness Assessment](core/AIHE-A03) — Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and continuing support readiness.
 - [AIHE-A04 — Data Source, Provenance, and Fitness Record](core/AIHE-A04) — Document source and derived data assets, authority, definitions, transformations, quality, lineage, monitoring, and remediation.
 
 ## Worked examples

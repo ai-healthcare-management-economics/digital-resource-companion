@@ -1,4 +1,4 @@
-﻿"""AIHE-PY17 - Supplier claims, dependencies, continuing disclosure, and obligation audit
+"""AIHE-PY17 - Supplier claims, dependencies, continuing disclosure, and obligation audit
 Digital Resource Companion V1.0. Synthetic demonstration only.
 """
 from __future__ import annotations

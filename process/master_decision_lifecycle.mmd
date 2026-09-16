@@ -1,26 +1,21 @@
----
-title: AI Health-System Institutional Decision Lifecycle
----
 flowchart TD
- S1["1. Define the decision\nChapters 1"]
- S2["2. Assess readiness and data\nChapters 2"]
+ S1["1. Define the decision"]
+ S2["2. Assess readiness and data"]
+ S3["3. Establish evidence and quality requirements"]
+ S4["4. Model cost, value, affordability, and HTA"]
+ S5["5. Select the decision model and characterize uncertainty"]
+ S6["6. Assess governance and institutional risk"]
+ S7["7. Procure and contract"]
+ S8["8. Implement, monitor, and control change"]
+ S9["9. Reassess continuing value, affordability, and support"]
+ S10["10. Assemble the decision record and renew or retire"]
  S1 --> S2
- S3["3. Establish evidence and quality requirements\nChapters 5; 11"]
  S2 --> S3
- S4["4. Model cost, value, affordability, and HTA\nChapters 6; 7"]
  S3 --> S4
- S5["5. Select the decision model and characterize uncertainty\nChapters 8"]
  S4 --> S5
- S6["6. Assess governance and institutional risk\nChapters 10"]
  S5 --> S6
- S7["7. Procure and contract\nChapters 9"]
  S6 --> S7
- S8["8. Implement, monitor, and control change\nChapters 4; 12"]
  S7 --> S8
- S9["9. Apply circular and sustainable-value analysis\nChapters 13; 14; 15"]
  S8 --> S9
- S10["10. Assemble the decision record and renew or retire\nChapters 12; 14; 15"]
  S9 --> S10
- S10 -. "renewed decision / organizational learning" .-> S1
- classDef process fill:#fff,stroke:#7A1730,stroke-width:2px,color:#222
- class S1,S2,S3,S4,S5,S6,S7,S8,S9,S10 process
+ S10 -. "New evidence or review trigger" .-> S1

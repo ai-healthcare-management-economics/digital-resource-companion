@@ -1,8 +1,8 @@
-﻿# AIHE-S — Algorithmovigilance Dashboard, Cadence, and Incident Record
+# AIHE-S — Algorithmovigilance Dashboard, Cadence, and Incident Record
 
 **Current canonical resource:** AIHE-D03 — Post-Deployment Monitoring and Algorithmovigilance Cadence 
 **Primary chapter:** 12 — Decision Architecture and Lifecycle Governance 
-**Additional chapters:** 5,11,12
+**Additional chapters:** 5, 11, 12
 
 ## Why this tool is retained
 

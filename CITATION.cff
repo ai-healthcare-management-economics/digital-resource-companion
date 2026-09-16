@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "Please cite this Digital Resource Companion using the version-specific DOI and the resource identifier used."
-title: "Digital Resource Companion for Artificial Intelligence and Healthcare Economics: Evidence, Value, Governance, and Sustainability"
+message: "Cite this package version and the version-specific DOI assigned to its archived release. The identifier below is the persistent companion record, not a version-specific DOI for this package."
+title: "Artificial Intelligence in Healthcare Management and Economics: Digital Resource Companion"
 type: software
 authors:
   - family-names: Zouri
@@ -8,13 +8,14 @@ authors:
   - family-names: Cumpăt
     given-names: Carmen Marinela
 version: "1.0"
-date-released: "2026-09-02"
 repository-code: "https://github.com/ai-healthcare-economics/digital-resource-companion"
-url: "https://ai-healthcare-economics.github.io/digital-resource-companion/"
-doi: "10.5281/zenodo.21753927"
+url: "https://doi.org/10.5281/zenodo.21753927"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21753927"
+    description: "Persistent companion record (Concept DOI identified in the book)"
 license: CC-BY-NC-4.0
 abstract: >-
-  A chapter-aligned companion providing institutional records, workbooks,
-  worked examples, synthetic datasets, decision pathways, reference guides,
-  and reproducible analytical resources for Artificial Intelligence and
-  Healthcare Economics: Evidence, Value, Governance, and Sustainability.
+  Editable institutional records, workbooks, worked examples, reference guides,
+  process maps, and reproducible analytical resources aligned with the revised
+  four-part, twelve-chapter book. Evidence, Value, Governance, and Lifecycle Decision-Making.

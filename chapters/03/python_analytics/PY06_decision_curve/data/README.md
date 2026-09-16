@@ -1,4 +1,4 @@
-﻿# Data files
+# Data files
 
 - `06_decision_curve_analysis_sample.xlsx` is a fully synthetic worked example and is the default input.
 - `06_decision_curve_analysis_template.xlsx` is a blank input wb with the required worksheets and fields.

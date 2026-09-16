@@ -15,7 +15,7 @@
   ],
   "related_case": "AIHE-CASE02",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Shows how complete-case analysis, simple imputation, and best/worst-case assumptions can change estimated outcomes and costs.",

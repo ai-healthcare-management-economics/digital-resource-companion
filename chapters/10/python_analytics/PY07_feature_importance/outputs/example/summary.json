@@ -1,4 +1,4 @@
-﻿{
+{
   "rows_used": 500,
   "test_auc": 0.7037037037037037,
   "top_feature": "age",

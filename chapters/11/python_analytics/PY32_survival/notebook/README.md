@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY32
+# Notebook route — AIHE-PY32
 
 Open `32_survival_time_to_event.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

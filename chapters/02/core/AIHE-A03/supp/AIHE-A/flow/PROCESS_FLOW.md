@@ -1,32 +1,55 @@
-﻿# AIHE-A: AI Readiness Assessment for Health Systems
+# AIHE-A — AI Readiness Assessment for Health Systems
 
-Primary lifecycle stage: Assess readiness and data. Primary book chapter: 2.
+V1.0 · Process support aligned with the revised book.
 
-## Process steps
+## 1. Specify readiness requirements
 
-### 1. Specify readiness requirements
 Define the institutional, data, infrastructure, and governance conditions relevant to AI Readiness Assessment for Health Systems.
 
-### 2. Collect documentary evidence
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Specify readiness requirements
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 2. Collect documentary evidence
+
 Inventory systems, data, interfaces, standards, roles, controls, and capability.
 
-### 3. Assess fitness and critical gaps
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Collect documentary evidence
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 3. Assess fitness and critical gaps
+
 Judge readiness using evidence, not aspiration, and identify non-compensatory deficiencies.
 
-### 4. Assign remediation and owners
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Assess fitness and critical gaps
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 4. Assign remediation and owners
+
 Define resources, actions, due dates, and evidence of completion.
 
-### 5. Authorize readiness status
+**Required input:** Local evidence and the prior approved step
+
+**Expected output:** Versioned record for: Assign remediation and owners
+
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
+
+## 5. Authorize readiness status
+
 Proceed, remediate, restrict scope, use silent validation, or select an alternative.
 
-## Illustrative application
+**Required input:** Local evidence and the prior approved step
 
-Assess strategic, data, infrastructure, workforce, governance, economic, ethical, security, and monitoring readiness at organizational and use-case levels.
+**Expected output:** Versioned record for: Authorize readiness status
 
-## Related resource IDs
+**Decision:** Proceed, revise, escalate, restrict, or stop as appropriate
 
-`AIHE-A03`
-
-## Status and limitations
-
-This process flow is a navigational and decision-support aid. It is not a validated clinical, regulatory, legal, procurement, cybersecurity, accreditation, or HTA instrument. Adapt it to the relevant jurisdiction, institution, population, workflow, technology version, evidence cut-off, and accountable authority.
+A process step is not an institutional permission state. Preserve current authority, conditions, review triggers, and the ability to return to earlier assessment.

@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY25
+# Notebook route — AIHE-PY25
 
 Open `25_procurement_mcda_scorecard.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

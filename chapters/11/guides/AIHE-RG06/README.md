@@ -1,4 +1,4 @@
-﻿# AIHE-RG06 — Diagnostic and Predictive Evidence Appraisal Checklist
+# AIHE-RG06 — Diagnostic and Predictive Evidence Appraisal Checklist
 
 **Primary chapter:** 11 — Evidence, Validation, and Real-World Evaluation 
 **Additional chapter alignment:** 3, 7, 8, 11 

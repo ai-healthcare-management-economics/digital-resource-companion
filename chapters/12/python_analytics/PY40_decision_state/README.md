@@ -2,7 +2,7 @@
 
 **Primary chapter:** 12 - Decision Architecture and Lifecycle Governance  
 **Version:** V1.0  
-**Related resources:** AIHE-D02; AIHE-D03; AIHE-D04; AIHE-D05; AIHE-CASE12; AIHE-CASE09B; AIHE-CASE15
+**Related resources:** AIHE-D02; AIHE-D03; AIHE-D04; AIHE-D05; AIHE-CASE12; AIHE-CASE09B
 
 ## Purpose
 

@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY34
+# Notebook route — AIHE-PY34
 
 Open `34_time_series_forecasting.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

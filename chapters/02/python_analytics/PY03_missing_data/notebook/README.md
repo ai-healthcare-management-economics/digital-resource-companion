@@ -1,4 +1,4 @@
-﻿# Notebook route — AIHE-PY03
+# Notebook route — AIHE-PY03
 
 Open `03_missing_data_sensitivity.ipynb` in JupyterLab, VS Code, or Google Colab. The notebook calls the same implementation used by the standard Python script.
 

@@ -1,7 +1,7 @@
 # AIHE-CASE01 — Emergency-Department Triage Portfolio Decision
 
 **Version:** V1.0 
-**Primary chapter:** 1. AI as a Health-System Intervention 
+**Primary chapter:** 1. AI as a Health System Intervention 
 **Related companion resources:** AIHE-A01, AIHE-W, AIHE-X, AIHE-EX01, AIHE-K, AIHE-H 
 **Related Python applications:** No standalone application is required 
 **Data classification:** Entirely fictional and synthetic

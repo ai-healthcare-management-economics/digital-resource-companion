@@ -1,4 +1,4 @@
-﻿# Data files
+# Data files
 
 - `34_time_series_forecasting_sample.xlsx` is a fully synthetic worked example and is the default input.
 - `34_time_series_forecasting_template.xlsx` is a blank input wb with the required worksheets and fields.

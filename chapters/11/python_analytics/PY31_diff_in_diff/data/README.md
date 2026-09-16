@@ -1,4 +1,4 @@
-﻿# Data files
+# Data files
 
 - `31_difference_in_differences_sample.xlsx` is a fully synthetic worked example and is the default input.
 - `31_difference_in_differences_template.xlsx` is a blank input wb with the required worksheets and fields.

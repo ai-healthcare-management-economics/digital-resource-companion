@@ -1,4 +1,4 @@
-﻿# AIHE-PY34 — Time-series forecasting for demand, capacity, and budget planning
+# AIHE-PY34 — Time-series forecasting for demand, capacity, and budget planning
 
 **Version:** V1.0 
 **Primary chapter:** 3. Human–AI Decision Systems and Managerial Action 

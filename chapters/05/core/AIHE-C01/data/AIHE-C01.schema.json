@@ -1,6 +1,6 @@
-﻿{
+{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.1/AIHE-C01.schema.json",
+  "$id": "https://example.invalid/aihe/1.0/AIHE-C01.schema.json",
   "title": "AIHE-C01 AI Quality-Control and Accreditation Evidence Plan",
   "type": "object",
   "required": [

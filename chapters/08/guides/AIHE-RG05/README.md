@@ -1,4 +1,4 @@
-﻿# AIHE-RG05 — Scenario Planning and Real-Options Worksheet
+# AIHE-RG05 — Scenario Planning and Real-Options Worksheet
 
 **Primary chapter:** 8 — Decision Modelling, Simulation, and the Value of Information 
 **Additional chapter alignment:** 1, 6-9, 12, 15 

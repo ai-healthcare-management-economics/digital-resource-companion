@@ -1,4 +1,4 @@
-﻿{
+{
   "resource_id": "AIHE-PY04",
   "module_number": 4,
   "title": "Predictive model development: logistic regression and random forest",
@@ -14,7 +14,7 @@
   ],
   "related_case": "AIHE-CASE11",
   "version": "V1.0",
-  "release_date": "2026-08-07",
+  "release_date": "2026-09-16",
   "status": "public",
   "data_classification": "synthetic",
   "purpose": "Builds two baseline classifiers, compares test performance, and exports predictions for later validation modules.",
