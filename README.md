@@ -115,9 +115,9 @@ The DOI will resolve after the Zenodo V1.0 record is published. For reproducibil
 
 ## Key links
 
-- [Web Companion](https://ai-healthcare-economics.github.io/digital-resource-companion/)
-- [Canonical GitHub repository](https://github.com/ai-healthcare-economics/digital-resource-companion)
-- [GitHub Releases](https://github.com/ai-healthcare-economics/digital-resource-companion/releases)
+- [Web Companion](https://ai-healthcare-management-economics.github.io/digital-resource-companion/)
+- [Canonical GitHub repository](https://github.com/ai-healthcare-management-economics/digital-resource-companion)
+- [GitHub Releases](https://github.com/ai-healthcare-management-economics/digital-resource-companion/releases)
 - [Zenodo V1.0 DOI](https://doi.org/10.5281/zenodo.21753927)
 
 ## Contributing
