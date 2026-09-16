@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-EX05.schema.json",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-EX05.schema.json",
   "title": "AIHE-EX05 — Local Validation Report Template",
   "description": "Document intended use, local cohort, exact system version, discrimination, calibration, threshold-specific performance, subgroup findings, workflow, clinical utility, uncertainty, and the resulting local decision.",
   "type": "object",

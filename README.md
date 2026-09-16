@@ -5,9 +5,12 @@
 *Evidence, Value, Governance, and Lifecycle Decision-Making*
 
 **Muthana Zouri and Carmen Marinela Cumpăt**  
-Grigore T. Popa University of Medicine and Pharmacy Publishing House, 2026
+Developed and maintained by the authors · 2026
 
 **Current release: V1.0**
+
+The Digital Resource Companion is developed and maintained independently by Muthana Zouri and Carmen Marinela Cumpăt to accompany Artificial Intelligence in Healthcare Management and Economics: Evidence, Value, Governance, and Lifecycle Decision-Making. The authors are responsible for its content, maintenance, and subsequent updates.
+
 
 The **Digital Resource Companion** accompanies *Artificial Intelligence in Healthcare Management and Economics: Evidence, Value, Governance, and Lifecycle Decision-Making*. It extends the book with practical resources for institutional decision-making, health-economic evaluation, implementation, governance, evidence assessment, lifecycle management, and lifecycle stewardship.
 
@@ -77,15 +80,16 @@ The Canonical Source contains 36 chapter-aligned Python modules, with Jupyter no
 
 The V1.0 GitHub Release and Zenodo record are designed to carry the following public assets:
 
+- `AIHE_Reader_Practitioner_V1.0.zip`
+- `AIHE_Core_Tools_V1.0.zip`
+- `AIHE_Canonical_V1.0.zip`
 - `Digital_Resource_Companion_V1.0.pdf`
-- `Digital_Resource_Companion_V1.0.docx`
 - `AIHE_Core_Resource_Forms_V1.0.pdf`
 - `AIHE_Core_Resource_Forms_V1.0.docx`
 - `AIHE_Core_Resource_Workbooks_V1.0.xlsx`
-- `AIHE_Core_Tools_V1.0.zip`
-- `AI_Healthcare_Economics_Digital_Companion_Reader_Practitioner_V1.0.zip`
-- `AI_Healthcare_Economics_Digital_Companion_Canonical_Source_V1.0.zip`
 - `AIHE_V1.0_Release_Checksums_SHA256.txt`
+
+The START HERE guide and editable Word edition of the Digital Resource Companion remain included within the Reader and Practitioner Edition and Canonical Source archives; they are not additional standalone release assets. The checksum file covers the three ZIP distributions and four standalone resource files.
 
 The Reader and Practitioner Edition is the recommended archive for most users. The Canonical Source should be selected when complete editable and technical source material is required.
 

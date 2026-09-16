@@ -8,7 +8,7 @@ authors:
   - family-names: Cumpăt
     given-names: Carmen Marinela
 version: "1.0"
-repository-code: "https://github.com/ai-healthcare-economics/digital-resource-companion"
+repository-code: "https://github.com/ai-healthcare-management-economics/digital-resource-companion"
 url: "https://doi.org/10.5281/zenodo.21753927"
 identifiers:
   - type: doi
@@ -16,6 +16,9 @@ identifiers:
     description: "Persistent companion record (Concept DOI identified in the book)"
 license: CC-BY-NC-4.0
 abstract: >-
+  Author-developed and independently maintained by Muthana Zouri and Carmen
+  Marinela Cumpăt. The authors are responsible for the content, maintenance,
+  and subsequent updates.
   Editable institutional records, workbooks, worked examples, reference guides,
   process maps, and reproducible analytical resources aligned with the revised
   four-part, twelve-chapter book. Evidence, Value, Governance, and Lifecycle Decision-Making.

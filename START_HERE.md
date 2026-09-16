@@ -5,9 +5,12 @@
 *Evidence, Value, Governance, and Lifecycle Decision-Making*
 
 **Muthana Zouri and Carmen Marinela Cumpăt**  
-Grigore T. Popa University of Medicine and Pharmacy Publishing House, 2026
+Developed and maintained by the authors · 2026
 
 **Digital Resource Companion V1.0**
+
+The Digital Resource Companion is developed and maintained independently by Muthana Zouri and Carmen Marinela Cumpăt to accompany Artificial Intelligence in Healthcare Management and Economics: Evidence, Value, Governance, and Lifecycle Decision-Making. The authors are responsible for its content, maintenance, and subsequent updates.
+
 
 The Digital Resource Companion is the applied extension of the book. It provides editable institutional records, structured workbooks, worked examples, decision pathways, reference guides, process maps, and reproducible analytical resources.
 
@@ -65,7 +68,7 @@ Do not enter identifiable patient information, credentials, private keys, confid
 
 ## Key links
 
-- Web Companion: https://ai-healthcare-economics.github.io/digital-resource-companion/
-- Canonical repository: https://github.com/ai-healthcare-economics/digital-resource-companion
-- GitHub Releases: https://github.com/ai-healthcare-economics/digital-resource-companion/releases
+- Web Companion: https://ai-healthcare-management-economics.github.io/digital-resource-companion/
+- Canonical repository: https://github.com/ai-healthcare-management-economics/digital-resource-companion
+- GitHub Releases: https://github.com/ai-healthcare-management-economics/digital-resource-companion/releases
 - Persistent companion record (Concept DOI): https://doi.org/10.5281/zenodo.21753927

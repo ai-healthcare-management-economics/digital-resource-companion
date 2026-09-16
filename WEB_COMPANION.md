@@ -15,4 +15,4 @@ It includes:
 
 Browser forms and demonstrations are learning and drafting aids. Their contents should be transferred to governed institutional records before consequential use.
 
-Online: https://ai-healthcare-economics.github.io/digital-resource-companion/
+Online: https://ai-healthcare-management-economics.github.io/digital-resource-companion/

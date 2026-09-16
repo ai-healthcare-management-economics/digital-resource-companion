@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-A01.schema.json",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-A01.schema.json",
   "title": "AIHE-A01 — Decision and Use-Case Specification",
   "description": "Define the service problem, full intervention, realistic comparators, outcomes, value mechanism, decision rule, and review cycle.",
   "type": "object",

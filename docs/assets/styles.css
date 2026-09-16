@@ -7,7 +7,7 @@
 /* V1.0 reader-navigation additions */
 .hero.compact .hero-inner{padding-top:2.6rem;padding-bottom:2.4rem}.goal-card{border-top:5px solid var(--burgundy)}.pathway-card{margin:1.2rem 0}.advanced-toggle{display:inline-flex;gap:.55rem;align-items:center;background:#fff;padding:.65rem .85rem;border:1px solid var(--line);border-radius:10px;margin-bottom:1rem}.advanced-block{background:#f4f1ea;border:1px solid var(--line);border-radius:14px;padding:1rem}.advanced-block summary{cursor:pointer;color:var(--navy);font-size:1.05rem}.resource-card .eyebrow{font-size:.68rem}.resource-filters{grid-template-columns:2fr 1fr 1fr}.topnav{max-width:760px}.topnav a{white-space:nowrap}.goal-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}@media(max-width:850px){.goal-grid{grid-template-columns:1fr}}
 
-.authors{font-family:Georgia,"Times New Roman",serif;color:#4D1C26;font-weight:600}.publisher{font-size:.9rem;color:var(--muted)}.site-footer .mini{color:#d9d1c5}.cover-rule{height:4px;background:linear-gradient(90deg,var(--burgundy),var(--gold),var(--navy));border:0;margin:1.2rem 0}
+.authors{font-family:Georgia,"Times New Roman",serif;color:#4D1C26;font-weight:600}.maintenance{font-size:.9rem;color:var(--muted)}.site-footer .mini{color:#d9d1c5}.cover-rule{height:4px;background:linear-gradient(90deg,var(--burgundy),var(--gold),var(--navy));border:0;margin:1.2rem 0}
 /* Correct alignment of circular AI brand mark */
 .brand .brand-mark {
     width: 44px;

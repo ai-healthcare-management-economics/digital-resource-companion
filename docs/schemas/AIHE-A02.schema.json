@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-A02.schema.json",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-A02.schema.json",
   "title": "AIHE-A02 — Stakeholders, Decision Rights, and Participation",
   "description": "Identify affected parties, decision rights, participation duties, evidence contributions, and escalation authority.",
   "type": "object",

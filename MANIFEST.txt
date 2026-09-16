@@ -2118,6 +2118,7 @@ docs/assets/resource-browser.js
 docs/assets/site.js
 docs/assets/styles.css
 docs/bundles.html
+docs/chapters.html
 docs/chapters/01.html
 docs/chapters/02.html
 docs/chapters/03.html
@@ -2130,7 +2131,6 @@ docs/chapters/09.html
 docs/chapters/10.html
 docs/chapters/11.html
 docs/chapters/12.html
-docs/chapters.html
 docs/decision-pathways.html
 docs/decision-stages.html
 docs/demos/AIHE-CASE01/index.html

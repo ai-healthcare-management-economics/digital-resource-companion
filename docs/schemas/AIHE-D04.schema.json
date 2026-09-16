@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://ai-healthcare-economics.github.io/AIHE_Canon_V1.0/schemas/AIHE-D04.schema.json",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-D04.schema.json",
   "title": "AIHE-D04 — Incident Classification and Reconstruction",
   "description": "Reconstruct technical, clinical, workflow, privacy, cybersecurity, equity, communication, and economic incidents consistently.",
   "type": "object",
