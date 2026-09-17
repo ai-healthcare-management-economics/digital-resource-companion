@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-RG05.schema.json",
+  "title": "AIHE-RG05 — Scenario Planning and Real-Options Worksheet",
+  "description": "Examine uncertainty through alternative futures, thresholds, staged commitments, learning options, contract flexibility, and explicit exit criteria. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "type": "object",
+  "required": [
+    "resource_id",
+    "title",
+    "version",
+    "exported_at",
+    "records"
+  ],
+  "properties": {
+    "resource_id": {
+      "const": "AIHE-RG05"
+    },
+    "title": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "exported_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Decision option": {
+            "type": "string"
+          },
+          "Scenario": {
+            "type": "string"
+          },
+          "Key uncertainty": {
+            "type": "string"
+          },
+          "Probability or qualitative likelihood": {
+            "type": "string"
+          },
+          "Cost consequence": {
+            "type": "string"
+          },
+          "Outcome consequence": {
+            "type": "string"
+          },
+          "Equity or trust consequence": {
+            "type": "string"
+          },
+          "Decision threshold": {
+            "type": "string"
+          },
+          "Evidence to collect": {
+            "type": "string"
+          },
+          "Reversibility": {
+            "type": "string"
+          },
+          "Contract or technical option": {
+            "type": "string"
+          },
+          "Scale restrict or stop trigger": {
+            "type": "string"
+          },
+          "Owner": {
+            "type": "string"
+          },
+          "Review date": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Decision option",
+          "Scenario",
+          "Key uncertainty",
+          "Probability or qualitative likelihood",
+          "Cost consequence",
+          "Outcome consequence",
+          "Equity or trust consequence",
+          "Decision threshold",
+          "Evidence to collect",
+          "Reversibility",
+          "Contract or technical option",
+          "Scale restrict or stop trigger",
+          "Owner",
+          "Review date"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": true
+}

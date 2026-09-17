@@ -4,12 +4,9 @@
     "chapter": "1",
     "chapter_title": "AI as a Health System Intervention",
     "caption": "Conceptual AI intervention value chain with cross-cutting controls and continuous evaluation",
-    "source_asset": "catalogs/figures/Figure_1_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_1_1.png",
-    "web_asset": "assets/figures/Figure_1_1.png",
     "source_book_page": "10"
   },
   {
@@ -17,12 +14,9 @@
     "chapter": "1",
     "chapter_title": "AI as a Health System Intervention",
     "caption": "Conceptual pathway from technical potential to realized hospital value",
-    "source_asset": "catalogs/figures/Figure_1_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_1_2.png",
-    "web_asset": "assets/figures/Figure_1_2.png",
     "source_book_page": "16"
   },
   {
@@ -30,12 +24,9 @@
     "chapter": "1",
     "chapter_title": "AI as a Health System Intervention",
     "caption": "Conceptual resource allocation frontier illustrating opportunity cost in AI adoption",
-    "source_asset": "catalogs/figures/Figure_1_3.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_1_3.png",
-    "web_asset": "assets/figures/Figure_1_3.png",
     "source_book_page": "18"
   },
   {
@@ -43,12 +34,9 @@
     "chapter": "2",
     "chapter_title": "Institutional Readiness and Digital Foundations",
     "caption": "Layered institutional capabilities supporting AI readiness",
-    "source_asset": "catalogs/figures/Figure_2_1.jpg",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_2_1.jpg",
-    "web_asset": "assets/figures/Figure_2_1.jpg",
     "source_book_page": "37"
   },
   {
@@ -56,12 +44,9 @@
     "chapter": "2",
     "chapter_title": "Institutional Readiness and Digital Foundations",
     "caption": "Health data governance lifecycle for responsible secondary use",
-    "source_asset": "catalogs/figures/Figure_2_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_2_2.png",
-    "web_asset": "assets/figures/Figure_2_2.png",
     "source_book_page": "44"
   },
   {
@@ -69,12 +54,9 @@
     "chapter": "3",
     "chapter_title": "Human–AI Decision Systems and Managerial Action",
     "caption": "AI-mediated decision architecture",
-    "source_asset": "catalogs/figures/Figure_3_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_3_1.png",
-    "web_asset": "assets/figures/Figure_3_1.png",
     "source_book_page": "57"
   },
   {
@@ -82,12 +64,9 @@
     "chapter": "3",
     "chapter_title": "Human–AI Decision Systems and Managerial Action",
     "caption": "Decision latency from signal generation to review and response within a meaningful decision window",
-    "source_asset": "catalogs/figures/Figure_3_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_3_2.png",
-    "web_asset": "assets/figures/Figure_3_2.png",
     "source_book_page": "68"
   },
   {
@@ -95,12 +74,9 @@
     "chapter": "4",
     "chapter_title": "Productivity, Work Redesign, and Implementation",
     "caption": "From gross task time saving to net usable capacity in AI-assisted work",
-    "source_asset": "catalogs/figures/Figure_4_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_4_1.png",
-    "web_asset": "assets/figures/Figure_4_1.png",
     "source_book_page": "78"
   },
   {
@@ -108,12 +84,9 @@
     "chapter": "4",
     "chapter_title": "Productivity, Work Redesign, and Implementation",
     "caption": "VALIDATE-AI staged implementation pathway",
-    "source_asset": "catalogs/figures/Figure_4_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_4_2.png",
-    "web_asset": "assets/figures/Figure_4_2.png",
     "source_book_page": "89"
   },
   {
@@ -121,12 +94,9 @@
     "chapter": "5",
     "chapter_title": "Quality Management, Accreditation, and Organizational Learning",
     "caption": "Illustrative statistical process control chart showing the detection of abnormal variation, investigation, and recovery following corrective action",
-    "source_asset": "catalogs/figures/Figure_5_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_5_1.png",
-    "web_asset": "assets/figures/Figure_5_1.png",
     "source_book_page": "106"
   },
   {
@@ -134,12 +104,9 @@
     "chapter": "5",
     "chapter_title": "Quality Management, Accreditation, and Organizational Learning",
     "caption": "From quality surveillance to organizational learning",
-    "source_asset": "catalogs/figures/Figure_5_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_5_2.png",
-    "web_asset": "assets/figures/Figure_5_2.png",
     "source_book_page": "111"
   },
   {
@@ -147,12 +114,9 @@
     "chapter": "6",
     "chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
     "caption": "Lifecycle cost architecture of AI ownership",
-    "source_asset": "catalogs/figures/Figure_6_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_6_1.png",
-    "web_asset": "assets/figures/Figure_6_1.png",
     "source_book_page": "123"
   },
   {
@@ -160,12 +124,9 @@
     "chapter": "6",
     "chapter_title": "Lifecycle Cost, Pricing, and Benefit Realization",
     "caption": "Illustrative timing of lifecycle costs and recognized financial benefits",
-    "source_asset": "catalogs/figures/Figure_6_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_6_2.png",
-    "web_asset": "assets/figures/Figure_6_2.png",
     "source_book_page": "134"
   },
   {
@@ -173,12 +134,9 @@
     "chapter": "7",
     "chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
     "caption": "Cost-effectiveness plane for incremental costs and outcomes",
-    "source_asset": "catalogs/figures/Figure_7_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_7_1.png",
-    "web_asset": "assets/figures/Figure_7_1.png",
     "source_book_page": "144"
   },
   {
@@ -186,12 +144,9 @@
     "chapter": "7",
     "chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
     "caption": "Illustrative annual and cumulative budget impact following adoption",
-    "source_asset": "catalogs/figures/Figure_7_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_7_2.png",
-    "web_asset": "assets/figures/Figure_7_2.png",
     "source_book_page": "147"
   },
   {
@@ -199,12 +154,9 @@
     "chapter": "7",
     "chapter_title": "Economic Evaluation, Affordability, and Health Technology Assessment",
     "caption": "From economic evidence to an adoption decision",
-    "source_asset": "catalogs/figures/Figure_7_3.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_7_3.png",
-    "web_asset": "assets/figures/Figure_7_3.png",
     "source_book_page": "157"
   },
   {
@@ -212,12 +164,9 @@
     "chapter": "8",
     "chapter_title": "Decision Modelling, Simulation, and the Value of Information",
     "caption": "Illustrative one-way sensitivity analysis for an AI-enabled service",
-    "source_asset": "catalogs/figures/Figure_8_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_8_1.png",
-    "web_asset": "assets/figures/Figure_8_1.png",
     "source_book_page": "173"
   },
   {
@@ -225,12 +174,9 @@
     "chapter": "8",
     "chapter_title": "Decision Modelling, Simulation, and the Value of Information",
     "caption": "From decision uncertainty to research value using value of information analysis",
-    "source_asset": "catalogs/figures/Figure_8_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_8_2.png",
-    "web_asset": "assets/figures/Figure_8_2.png",
     "source_book_page": "177"
   },
   {
@@ -238,12 +184,9 @@
     "chapter": "9",
     "chapter_title": "Problem-First Procurement and Vendor Governance",
     "caption": "Procurement and vendor governance gates from market specification to renewal or exit",
-    "source_asset": "catalogs/figures/Figure_9_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_9_1.png",
-    "web_asset": "assets/figures/Figure_9_1.png",
     "source_book_page": "192"
   },
   {
@@ -251,12 +194,9 @@
     "chapter": "10",
     "chapter_title": "Governance, Accountability, and Institutional Risk",
     "caption": "Institutional accountability architecture for AI-enabled health services",
-    "source_asset": "catalogs/figures/Figure_10_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_10_1.png",
-    "web_asset": "assets/figures/Figure_10_1.png",
     "source_book_page": "219"
   },
   {
@@ -264,12 +204,9 @@
     "chapter": "10",
     "chapter_title": "Governance, Accountability, and Institutional Risk",
     "caption": "Equity assurance matrix for AI-enabled health services",
-    "source_asset": "catalogs/figures/Figure_10_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_10_2.png",
-    "web_asset": "assets/figures/Figure_10_2.png",
     "source_book_page": "226"
   },
   {
@@ -277,12 +214,9 @@
     "chapter": "11",
     "chapter_title": "Evidence, Validation, and Real-World Evaluation",
     "caption": "Escalating evidentiary claims for AI-enabled health services",
-    "source_asset": "catalogs/figures/Figure_11_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_11_1.png",
-    "web_asset": "assets/figures/Figure_11_1.png",
     "source_book_page": "239"
   },
   {
@@ -290,12 +224,9 @@
     "chapter": "11",
     "chapter_title": "Evidence, Validation, and Real-World Evaluation",
     "caption": "Illustrative decision curve analysis for readmission risk prediction",
-    "source_asset": "catalogs/figures/Figure_11_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_11_2.png",
-    "web_asset": "assets/figures/Figure_11_2.png",
     "source_book_page": "246"
   },
   {
@@ -303,12 +234,9 @@
     "chapter": "11",
     "chapter_title": "Evidence, Validation, and Real-World Evaluation",
     "caption": "From model output to causal intervention effect",
-    "source_asset": "catalogs/figures/Figure_11_3.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_11_3.png",
-    "web_asset": "assets/figures/Figure_11_3.png",
     "source_book_page": "252"
   },
   {
@@ -316,12 +244,9 @@
     "chapter": "12",
     "chapter_title": "Decision Architecture and Lifecycle Governance",
     "caption": "AI-HEVG integrative assessment architecture",
-    "source_asset": "catalogs/figures/Figure_12_1.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_12_1.png",
-    "web_asset": "assets/figures/Figure_12_1.png",
     "source_book_page": "274"
   },
   {
@@ -329,12 +254,9 @@
     "chapter": "12",
     "chapter_title": "Decision Architecture and Lifecycle Governance",
     "caption": "AI Health Economics Dossier (AI-HED) as a living decision provenance record",
-    "source_asset": "catalogs/figures/Figure_12_2.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_12_2.png",
-    "web_asset": "assets/figures/Figure_12_2.png",
     "source_book_page": "277"
   },
   {
@@ -342,12 +264,9 @@
     "chapter": "12",
     "chapter_title": "Decision Architecture and Lifecycle Governance",
     "caption": "Institutional decision states and lifecycle transition triggers",
-    "source_asset": "catalogs/figures/Figure_12_3.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_12_3.png",
-    "web_asset": "assets/figures/Figure_12_3.png",
     "source_book_page": "280"
   },
   {
@@ -355,12 +274,9 @@
     "chapter": "12",
     "chapter_title": "Decision Architecture and Lifecycle Governance",
     "caption": "Controlled production pathway for generative and agentic AI",
-    "source_asset": "catalogs/figures/Figure_12_4.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_12_4.png",
-    "web_asset": "assets/figures/Figure_12_4.png",
     "source_book_page": "287"
   },
   {
@@ -368,12 +284,9 @@
     "chapter": "12",
     "chapter_title": "Decision Architecture and Lifecycle Governance",
     "caption": "AI de-adoption, replacement, and retirement pathway",
-    "source_asset": "catalogs/figures/Figure_12_5.png",
-    "status": "Current principal book figure",
+    "status": "Book reference; artwork not redistributed",
     "version": "V1.0",
     "release_date": "2026-09-16",
-    "companion_asset": "catalogs/figures/Figure_12_5.png",
-    "web_asset": "assets/figures/Figure_12_5.png",
     "source_book_page": "289"
   }
 ]

@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-RG03.schema.json",
+  "title": "AIHE-RG03 — Implementation Framework Selection Guide",
+  "description": "Select CFIR, NASSS-CAT, RE-AIM/PRISM, TAM/UTAUT, and mixed-method approaches according to the implementation question rather than name recognition. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "type": "object",
+  "required": [
+    "resource_id",
+    "title",
+    "version",
+    "exported_at",
+    "records"
+  ],
+  "properties": {
+    "resource_id": {
+      "const": "AIHE-RG03"
+    },
+    "title": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "exported_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Implementation question": {
+            "type": "string"
+          },
+          "Candidate framework": {
+            "type": "string"
+          },
+          "Status": {
+            "type": "string"
+          },
+          "Best use": {
+            "type": "string"
+          },
+          "Key constructs": {
+            "type": "string"
+          },
+          "Main limitation": {
+            "type": "string"
+          },
+          "Planned timing": {
+            "type": "string"
+          },
+          "Measure or data source": {
+            "type": "string"
+          },
+          "Owner": {
+            "type": "string"
+          },
+          "Decision triggered": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Implementation question",
+          "Candidate framework",
+          "Status",
+          "Best use",
+          "Key constructs",
+          "Main limitation",
+          "Planned timing",
+          "Measure or data source",
+          "Owner",
+          "Decision triggered"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": true
+}

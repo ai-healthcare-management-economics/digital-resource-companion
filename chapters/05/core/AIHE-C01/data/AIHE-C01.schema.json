@@ -1,84 +1,166 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.invalid/aihe/1.0/AIHE-C01.schema.json",
-  "title": "AIHE-C01 AI Quality-Control and Accreditation Evidence Plan",
-  "type": "object",
-  "required": [
-    "metadata",
-    "records"
-  ],
-  "properties": {
-    "metadata": {
-      "type": "object",
-      "properties": {
-        "resource_id": {
-          "type": "string"
-        },
-        "resource_version": {
-          "type": "string"
-        },
-        "release_date": {
-          "type": "string"
-        },
-        "access_date": {
-          "type": "string"
-        },
-        "evidence_cut_off": {
-          "type": "string"
-        },
-        "local_modifications": {
-          "type": "string"
-        },
-        "organization": {
-          "type": "string"
-        },
-        "intervention": {
-          "type": "string"
-        },
-        "intervention_version": {
-          "type": "string"
-        },
-        "accountable_owner": {
-          "type": "string"
-        },
-        "decision_authority": {
-          "type": "string"
-        },
-        "next_review_date": {
-          "type": "string"
-        }
-      }
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-C01.schema.json",
+  "title": "AIHE-C01 — AI Quality-Control and Accreditation Evidence Plan",
+  "description": "Integrate AI-enabled services into quality control, accreditation evidence, monitoring, thresholds, action, and closure. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "anyOf": [
+    {
+      "$ref": "#/$defs/canonical_record"
     },
-    "records": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "section",
-          "field_or_question",
-          "response_or_evidence"
-        ],
-        "properties": {
-          "section": {
-            "type": "string"
+    {
+      "$ref": "#/$defs/browser_draft"
+    }
+  ],
+  "$defs": {
+    "canonical_record": {
+      "type": "object",
+      "required": [
+        "metadata",
+        "records"
+      ],
+      "properties": {
+        "metadata": {
+          "type": "object",
+          "properties": {
+            "resource_id": {
+              "const": "AIHE-C01"
+            },
+            "resource_version": {
+              "type": "string"
+            },
+            "release_date": {
+              "type": "string"
+            },
+            "access_date": {
+              "type": "string"
+            },
+            "evidence_cut_off": {
+              "type": "string"
+            },
+            "local_modifications": {
+              "type": "string"
+            },
+            "organization": {
+              "type": "string"
+            },
+            "intervention": {
+              "type": "string"
+            },
+            "intervention_version": {
+              "type": "string"
+            },
+            "accountable_owner": {
+              "type": "string"
+            },
+            "decision_authority": {
+              "type": "string"
+            },
+            "next_review_date": {
+              "type": "string"
+            }
           },
-          "field_or_question": {
-            "type": "string"
-          },
-          "guidance": {
-            "type": "string"
-          },
-          "response_or_evidence": {
-            "type": "string"
-          },
-          "owner": {
-            "type": "string"
-          },
-          "due_or_review_date": {
-            "type": "string"
+          "required": [
+            "resource_id"
+          ]
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "section",
+              "field_or_question",
+              "response_or_evidence"
+            ],
+            "properties": {
+              "section": {
+                "type": "string"
+              },
+              "field_or_question": {
+                "type": "string"
+              },
+              "guidance": {
+                "type": "string"
+              },
+              "response_or_evidence": {
+                "type": "string"
+              },
+              "owner": {
+                "type": "string"
+              },
+              "due_or_review_date": {
+                "type": "string"
+              }
+            }
           }
         }
       }
+    },
+    "browser_draft": {
+      "title": "Browser drafting export",
+      "type": "object",
+      "required": [
+        "resource_id",
+        "title",
+        "version",
+        "exported_at",
+        "records"
+      ],
+      "properties": {
+        "resource_id": {
+          "const": "AIHE-C01"
+        },
+        "title": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "exported_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "Quality domain or requirement": {
+                "type": "string"
+              },
+              "Signal, measure, definition, and source": {
+                "type": "string"
+              },
+              "System, data, and workflow version": {
+                "type": "string"
+              },
+              "Review frequency, reviewer, and triage rule": {
+                "type": "string"
+              },
+              "Control, clinical, or institutional threshold": {
+                "type": "string"
+              },
+              "Escalation, investigation, and corrective action": {
+                "type": "string"
+              },
+              "Effectiveness verification, closure authority, and learning": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "Quality domain or requirement",
+              "Signal, measure, definition, and source",
+              "System, data, and workflow version",
+              "Review frequency, reviewer, and triage rule",
+              "Control, clinical, or institutional threshold",
+              "Escalation, investigation, and corrective action",
+              "Effectiveness verification, closure authority, and learning"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": true
     }
   }
 }

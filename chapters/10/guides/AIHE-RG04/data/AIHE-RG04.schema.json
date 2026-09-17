@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-RG04.schema.json",
+  "title": "AIHE-RG04 — Regulatory, Standards, and Policy Update Register",
+  "description": "Maintain date-stamped records for European, Romanian, and global legal, policy, standards, reimbursement, and guidance sources whose scope or implementation status may change. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "type": "object",
+  "required": [
+    "resource_id",
+    "title",
+    "version",
+    "exported_at",
+    "records"
+  ],
+  "properties": {
+    "resource_id": {
+      "const": "AIHE-RG04"
+    },
+    "title": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "exported_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Instrument": {
+            "type": "string"
+          },
+          "Authority and jurisdiction": {
+            "type": "string"
+          },
+          "Status": {
+            "type": "string"
+          },
+          "Version or date": {
+            "type": "string"
+          },
+          "Decision relevance": {
+            "type": "string"
+          },
+          "Implementation phase": {
+            "type": "string"
+          },
+          "Authoritative source": {
+            "type": "string"
+          },
+          "Date checked": {
+            "type": "string"
+          },
+          "Owner": {
+            "type": "string"
+          },
+          "Next review": {
+            "type": "string"
+          },
+          "Change since prior review": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Instrument",
+          "Authority and jurisdiction",
+          "Status",
+          "Version or date",
+          "Decision relevance",
+          "Implementation phase",
+          "Authoritative source",
+          "Date checked",
+          "Owner",
+          "Next review",
+          "Change since prior review"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": true
+}

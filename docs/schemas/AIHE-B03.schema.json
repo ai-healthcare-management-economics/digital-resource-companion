@@ -2,65 +2,157 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-B03.schema.json",
   "title": "AIHE-B03 — Benefit Realization and Capacity Conversion",
-  "description": "Translate claimed benefits into measurable mechanisms, owners, baselines, conversion conditions, and realized results.",
-  "type": "object",
-  "properties": {
-    "resource_id": {
-      "const": "AIHE-B03"
+  "description": "Translate claimed benefits into measurable mechanisms, owners, baselines, conversion conditions, and realized results. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "anyOf": [
+    {
+      "$ref": "#/$defs/canonical_record"
     },
-    "record_version": {
-      "type": "string"
-    },
-    "system_version": {
-      "type": "string"
-    },
-    "evidence_cut_off": {
-      "type": "string"
-    },
-    "accountable_owner": {
-      "type": "string"
-    },
-    "records": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "claimed_benefit": {
-            "type": "string",
-            "title": "Claimed benefit"
-          },
-          "causal_mechanism_and_comparator": {
-            "type": "string",
-            "title": "Causal mechanism and comparator"
-          },
-          "measure_baseline_and_evidence": {
-            "type": "string",
-            "title": "Measure, baseline, and evidence"
-          },
-          "owner_and_timing": {
-            "type": "string",
-            "title": "Owner and timing"
-          },
-          "review_burden_conversion_condition_and_realized_result": {
-            "type": "string",
-            "title": "Review burden, conversion condition, and realized result"
-          }
-        },
-        "additionalProperties": true
-      }
+    {
+      "$ref": "#/$defs/browser_draft"
     }
-  },
-  "required": [
-    "resource_id",
-    "records"
   ],
-  "additionalProperties": true,
-  "x-column-map": {
-    "Claimed benefit": "claimed_benefit",
-    "Causal mechanism and comparator": "causal_mechanism_and_comparator",
-    "Measure, baseline, and evidence": "measure_baseline_and_evidence",
-    "Owner and timing": "owner_and_timing",
-    "Review burden, conversion condition, and realized result": "review_burden_conversion_condition_and_realized_result"
-  },
-  "x-resource-version": "V1.0"
+  "$defs": {
+    "canonical_record": {
+      "type": "object",
+      "required": [
+        "metadata",
+        "records"
+      ],
+      "properties": {
+        "metadata": {
+          "type": "object",
+          "properties": {
+            "resource_id": {
+              "const": "AIHE-B03"
+            },
+            "resource_version": {
+              "type": "string"
+            },
+            "release_date": {
+              "type": "string"
+            },
+            "access_date": {
+              "type": "string"
+            },
+            "evidence_cut_off": {
+              "type": "string"
+            },
+            "local_modifications": {
+              "type": "string"
+            },
+            "organization": {
+              "type": "string"
+            },
+            "intervention": {
+              "type": "string"
+            },
+            "intervention_version": {
+              "type": "string"
+            },
+            "accountable_owner": {
+              "type": "string"
+            },
+            "decision_authority": {
+              "type": "string"
+            },
+            "next_review_date": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "resource_id"
+          ]
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "section",
+              "field_or_question",
+              "response_or_evidence"
+            ],
+            "properties": {
+              "section": {
+                "type": "string"
+              },
+              "field_or_question": {
+                "type": "string"
+              },
+              "guidance": {
+                "type": "string"
+              },
+              "response_or_evidence": {
+                "type": "string"
+              },
+              "owner": {
+                "type": "string"
+              },
+              "due_or_review_date": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "browser_draft": {
+      "title": "Browser drafting export",
+      "type": "object",
+      "required": [
+        "resource_id",
+        "title",
+        "version",
+        "exported_at",
+        "records"
+      ],
+      "properties": {
+        "resource_id": {
+          "const": "AIHE-B03"
+        },
+        "title": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "exported_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "Claimed benefit and comparator": {
+                "type": "string"
+              },
+              "Causal mechanism, affected workflow, and distribution": {
+                "type": "string"
+              },
+              "Measure, baseline, evidence, and attribution": {
+                "type": "string"
+              },
+              "Owner, timing, and capacity-allocation decision": {
+                "type": "string"
+              },
+              "Review burden, conversion condition, realized result, and financial treatment": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "Claimed benefit and comparator",
+              "Causal mechanism, affected workflow, and distribution",
+              "Measure, baseline, evidence, and attribution",
+              "Owner, timing, and capacity-allocation decision",
+              "Review burden, conversion condition, realized result, and financial treatment"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  }
 }

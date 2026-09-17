@@ -2,7 +2,7 @@
 
 **Version:** V1.0 
 **Primary chapter:** 7. Economic Evaluation, Affordability, and Health Technology Assessment 
-**Additional chapter alignment:** 7, 8, 15 
+**Additional chapter alignment:** 7, 8 
 **Related companion resources:** AIHE-B04 
 **Data classification:** Synthetic example data only
 
@@ -31,7 +31,6 @@ Use the notebook when you prefer a stepwise, inspectable workflow for learning, 
 `Strategies` sheet with strategy, cost per patient, effect per patient, and optional subgroup; `Parameters` sheet with willingness-to-pay threshold and eligible population.
 
 - `data/xlsx/` contains the canonical Excel example and blank template.
-- `data/ods/` V1.0 OpenDocument files are retained in the migration archive.
 - All supplied data are synthetic and should be replaced only in a governed project copy.
 
 ## Outputs
@@ -53,3 +52,22 @@ Incremental-analysis table, ICER and NMB summary, cost-effectiveness plane, thre
 ## Limitations
 
 This application is an educational and decision-support example. It is not a validated clinical, legal, regulatory, procurement, accreditation, cybersecurity, quality-certification, or health technology assessment instrument. Institutional use requires local verification, validation, responsible ownership, data protection, and an auditable decision record.
+
+## Notebook and hosted use
+
+Open `notebook/12_cost_effectiveness_icer_nmb.ipynb` from this module in JupyterLab, VS Code, or Google Colab. Retain the complete module folder so that the notebook, input data, environment files, and `src/` implementation remain together.
+
+For a local environment, run the following from this module folder:
+
+```bash
+python -m venv .venv
+# Windows: .venv\Scripts\activate
+# macOS/Linux: source .venv/bin/activate
+pip install -r environment/requirements.txt
+```
+
+Use an installed notebook interface, run the supplied synthetic example, and inspect `outputs/generated/`. The notebook uses the same implementation used by the Python entry point. Preserve input versions, the environment, and outputs before any local adaptation.
+
+[Repository notebook](https://github.com/ai-healthcare-management-economics/digital-resource-companion/blob/main/chapters/07/python_analytics/PY12_cost_effect/notebook/12_cost_effectiveness_icer_nmb.ipynb) · [Open in Google Colab](https://colab.research.google.com/github/ai-healthcare-management-economics/digital-resource-companion/blob/main/chapters/07/python_analytics/PY12_cost_effect/notebook/12_cost_effectiveness_icer_nmb.ipynb)
+
+Do not upload patient identifiers, credentials, private keys, confidential contracts, or restricted institutional information to a public notebook service.

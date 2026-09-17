@@ -31,7 +31,6 @@ Use the notebook when you prefer a stepwise, inspectable workflow for learning, 
 `Data` sheet with outcome, age, risk score, and cost; some cells may be blank.
 
 - `data/xlsx/` contains the canonical Excel example and blank template.
-- `data/ods/` V1.0 OpenDocument files are retained in the migration archive.
 - All supplied data are synthetic and should be replaced only in a governed project copy.
 
 ## Outputs
@@ -53,3 +52,22 @@ Missingness profile, scenario table, sensitivity chart, and summary of the plaus
 ## Limitations
 
 This application is an educational and decision-support example. It is not a validated clinical, legal, regulatory, procurement, accreditation, cybersecurity, quality-certification, or health technology assessment instrument. Institutional use requires local verification, validation, responsible ownership, data protection, and an auditable decision record.
+
+## Notebook and hosted use
+
+Open `notebook/03_missing_data_sensitivity.ipynb` from this module in JupyterLab, VS Code, or Google Colab. Retain the complete module folder so that the notebook, input data, environment files, and `src/` implementation remain together.
+
+For a local environment, run the following from this module folder:
+
+```bash
+python -m venv .venv
+# Windows: .venv\Scripts\activate
+# macOS/Linux: source .venv/bin/activate
+pip install -r environment/requirements.txt
+```
+
+Use an installed notebook interface, run the supplied synthetic example, and inspect `outputs/generated/`. The notebook uses the same implementation used by the Python entry point. Preserve input versions, the environment, and outputs before any local adaptation.
+
+[Repository notebook](https://github.com/ai-healthcare-management-economics/digital-resource-companion/blob/main/chapters/02/python_analytics/PY03_missing_data/notebook/03_missing_data_sensitivity.ipynb) · [Open in Google Colab](https://colab.research.google.com/github/ai-healthcare-management-economics/digital-resource-companion/blob/main/chapters/02/python_analytics/PY03_missing_data/notebook/03_missing_data_sensitivity.ipynb)
+
+Do not upload patient identifiers, credentials, private keys, confidential contracts, or restricted institutional information to a public notebook service.

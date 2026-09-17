@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.org/schemas/AIHE-AA.schema.json",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-AA.schema.json",
   "title": "Cost-Effectiveness and Budget-Impact Tool",
   "description": "Structured exchange schema for this companion resource. Do not store identifiable patient information.",
   "type": "object",
@@ -11,7 +11,10 @@
     "title": {
       "type": "string"
     },
-    "version": "V1.0",
+    "version": {
+      "type": "string",
+      "description": "Resource version, retained with the exported record."
+    },
     "last_reviewed": {
       "type": "string",
       "format": "date"

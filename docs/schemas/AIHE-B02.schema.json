@@ -2,85 +2,173 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-B02.schema.json",
   "title": "AIHE-B02 — Lifecycle Cost and Pricing Record",
-  "description": "Record acquisition through exit costs, resource use, pricing exposure, opportunity cost, residual value, and evidence.",
-  "type": "object",
-  "properties": {
-    "resource_id": {
-      "const": "AIHE-B02"
+  "description": "Record acquisition through exit costs, resource use, pricing exposure, opportunity cost, residual value, and evidence. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "anyOf": [
+    {
+      "$ref": "#/$defs/canonical_record"
     },
-    "record_version": {
-      "type": "string"
-    },
-    "system_version": {
-      "type": "string"
-    },
-    "evidence_cut_off": {
-      "type": "string"
-    },
-    "accountable_owner": {
-      "type": "string"
-    },
-    "records": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "cost_layer": {
-            "type": "string",
-            "title": "Cost layer"
-          },
-          "resource_or_pricing_unit": {
-            "type": "string",
-            "title": "Resource or pricing unit"
-          },
-          "quantity": {
-            "type": "string",
-            "title": "Quantity"
-          },
-          "unit_cost": {
-            "type": "string",
-            "title": "Unit cost"
-          },
-          "year_s": {
-            "type": "string",
-            "title": "Year(s)"
-          },
-          "low": {
-            "type": "string",
-            "title": "Low"
-          },
-          "high": {
-            "type": "string",
-            "title": "High"
-          },
-          "budget_owner": {
-            "type": "string",
-            "title": "Budget owner"
-          },
-          "evidence_and_notes": {
-            "type": "string",
-            "title": "Evidence and notes"
-          }
-        },
-        "additionalProperties": true
-      }
+    {
+      "$ref": "#/$defs/browser_draft"
     }
-  },
-  "required": [
-    "resource_id",
-    "records"
   ],
-  "additionalProperties": true,
-  "x-column-map": {
-    "Cost layer": "cost_layer",
-    "Resource or pricing unit": "resource_or_pricing_unit",
-    "Quantity": "quantity",
-    "Unit cost": "unit_cost",
-    "Year(s)": "year_s",
-    "Low": "low",
-    "High": "high",
-    "Budget owner": "budget_owner",
-    "Evidence and notes": "evidence_and_notes"
-  },
-  "x-resource-version": "V1.0"
+  "$defs": {
+    "canonical_record": {
+      "type": "object",
+      "required": [
+        "metadata",
+        "records"
+      ],
+      "properties": {
+        "metadata": {
+          "type": "object",
+          "properties": {
+            "resource_id": {
+              "const": "AIHE-B02"
+            },
+            "resource_version": {
+              "type": "string"
+            },
+            "release_date": {
+              "type": "string"
+            },
+            "access_date": {
+              "type": "string"
+            },
+            "evidence_cut_off": {
+              "type": "string"
+            },
+            "local_modifications": {
+              "type": "string"
+            },
+            "organization": {
+              "type": "string"
+            },
+            "intervention": {
+              "type": "string"
+            },
+            "intervention_version": {
+              "type": "string"
+            },
+            "accountable_owner": {
+              "type": "string"
+            },
+            "decision_authority": {
+              "type": "string"
+            },
+            "next_review_date": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "resource_id"
+          ]
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "section",
+              "field_or_question",
+              "response_or_evidence"
+            ],
+            "properties": {
+              "section": {
+                "type": "string"
+              },
+              "field_or_question": {
+                "type": "string"
+              },
+              "guidance": {
+                "type": "string"
+              },
+              "response_or_evidence": {
+                "type": "string"
+              },
+              "owner": {
+                "type": "string"
+              },
+              "due_or_review_date": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "browser_draft": {
+      "title": "Browser drafting export",
+      "type": "object",
+      "required": [
+        "resource_id",
+        "title",
+        "version",
+        "exported_at",
+        "records"
+      ],
+      "properties": {
+        "resource_id": {
+          "const": "AIHE-B02"
+        },
+        "title": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "exported_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "Lifecycle layer": {
+                "type": "string"
+              },
+              "Resource or pricing unit": {
+                "type": "string"
+              },
+              "Quantity": {
+                "type": "string"
+              },
+              "Economic cost": {
+                "type": "string"
+              },
+              "Cash expenditure": {
+                "type": "string"
+              },
+              "Accounting expense": {
+                "type": "string"
+              },
+              "Budget owner or incidence": {
+                "type": "string"
+              },
+              "Timing or scenario": {
+                "type": "string"
+              },
+              "Evidence, assumptions, and notes": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "Lifecycle layer",
+              "Resource or pricing unit",
+              "Quantity",
+              "Economic cost",
+              "Cash expenditure",
+              "Accounting expense",
+              "Budget owner or incidence",
+              "Timing or scenario",
+              "Evidence, assumptions, and notes"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  }
 }

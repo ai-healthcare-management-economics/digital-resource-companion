@@ -27,3 +27,22 @@ python python/40_lifecycle_decision_state_and_trigger_review.py --output-dir out
 ## Interpretation and safeguards
 
 The module supports structured analysis and reproducibility. It does not replace clinical, economic, statistical, legal, regulatory, privacy, cybersecurity, procurement, quality, or institutional judgement. Preserve the input version, evidence cut-off, assumptions, code version, output files, and accountable interpretation. A favourable analytical result must not override a mandatory safeguard or eligibility requirement.
+
+## Notebook and hosted use
+
+Open `notebook/40_lifecycle_decision_state_and_trigger_review.ipynb` from this module in JupyterLab, VS Code, or Google Colab. Retain the complete module folder so that the notebook, input data, environment files, and Python entry point remain together.
+
+For a local environment, run the following from this module folder:
+
+```bash
+python -m venv .venv
+# Windows: .venv\Scripts\activate
+# macOS/Linux: source .venv/bin/activate
+pip install -r environment/requirements.txt
+```
+
+Use an installed notebook interface, run the supplied synthetic example, and inspect `outputs/generated/`. The notebook uses the same implementation used by the Python entry point. Preserve input versions, the environment, and outputs before any local adaptation.
+
+[Repository notebook](https://github.com/ai-healthcare-management-economics/digital-resource-companion/blob/main/chapters/12/python_analytics/PY40_decision_state/notebook/40_lifecycle_decision_state_and_trigger_review.ipynb) · [Open in Google Colab](https://colab.research.google.com/github/ai-healthcare-management-economics/digital-resource-companion/blob/main/chapters/12/python_analytics/PY40_decision_state/notebook/40_lifecycle_decision_state_and_trigger_review.ipynb)
+
+Do not upload patient identifiers, credentials, private keys, confidential contracts, or restricted institutional information to a public notebook service.

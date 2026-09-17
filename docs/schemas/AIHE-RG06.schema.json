@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-RG06.schema.json",
+  "title": "AIHE-RG06 — Diagnostic and Predictive Evidence Appraisal Checklist",
+  "description": "Appraise reference standards, index tests, data partitions, calibration, diagnostic accuracy, bias, subgroup performance, clinical utility, and downstream resource consequences. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "type": "object",
+  "required": [
+    "resource_id",
+    "title",
+    "version",
+    "exported_at",
+    "records"
+  ],
+  "properties": {
+    "resource_id": {
+      "const": "AIHE-RG06"
+    },
+    "title": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "exported_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Domain": {
+            "type": "string"
+          },
+          "Appraisal question": {
+            "type": "string"
+          },
+          "Evidence reviewed": {
+            "type": "string"
+          },
+          "Judgement": {
+            "type": "string"
+          },
+          "Material uncertainty": {
+            "type": "string"
+          },
+          "Required local evidence or safeguard": {
+            "type": "string"
+          },
+          "Owner": {
+            "type": "string"
+          },
+          "Decision consequence": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Domain",
+          "Appraisal question",
+          "Evidence reviewed",
+          "Judgement",
+          "Material uncertainty",
+          "Required local evidence or safeguard",
+          "Owner",
+          "Decision consequence"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": true
+}

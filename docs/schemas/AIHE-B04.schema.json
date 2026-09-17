@@ -2,55 +2,149 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-B04.schema.json",
   "title": "AIHE-B04 — Cost-Effectiveness, Budget Impact, and HTA Record",
-  "description": "Summarize cost-effectiveness, affordability, distribution, HTA, reimbursement, adoption conditions, uncertainty, and recommendation.",
-  "type": "object",
-  "properties": {
-    "resource_id": {
-      "const": "AIHE-B04"
+  "description": "Summarize cost-effectiveness, affordability, distribution, HTA, reimbursement, adoption conditions, uncertainty, and recommendation. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "anyOf": [
+    {
+      "$ref": "#/$defs/canonical_record"
     },
-    "record_version": {
-      "type": "string"
-    },
-    "system_version": {
-      "type": "string"
-    },
-    "evidence_cut_off": {
-      "type": "string"
-    },
-    "accountable_owner": {
-      "type": "string"
-    },
-    "records": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "field": {
-            "type": "string",
-            "title": "Field"
-          },
-          "guidance": {
-            "type": "string",
-            "title": "Guidance"
-          },
-          "institutional_response": {
-            "type": "string",
-            "title": "Institutional response"
-          }
-        },
-        "additionalProperties": true
-      }
+    {
+      "$ref": "#/$defs/browser_draft"
     }
-  },
-  "required": [
-    "resource_id",
-    "records"
   ],
-  "additionalProperties": true,
-  "x-column-map": {
-    "Field": "field",
-    "Guidance": "guidance",
-    "Institutional response": "institutional_response"
-  },
-  "x-resource-version": "V1.0"
+  "$defs": {
+    "canonical_record": {
+      "type": "object",
+      "required": [
+        "metadata",
+        "records"
+      ],
+      "properties": {
+        "metadata": {
+          "type": "object",
+          "properties": {
+            "resource_id": {
+              "const": "AIHE-B04"
+            },
+            "resource_version": {
+              "type": "string"
+            },
+            "release_date": {
+              "type": "string"
+            },
+            "access_date": {
+              "type": "string"
+            },
+            "evidence_cut_off": {
+              "type": "string"
+            },
+            "local_modifications": {
+              "type": "string"
+            },
+            "organization": {
+              "type": "string"
+            },
+            "intervention": {
+              "type": "string"
+            },
+            "intervention_version": {
+              "type": "string"
+            },
+            "accountable_owner": {
+              "type": "string"
+            },
+            "decision_authority": {
+              "type": "string"
+            },
+            "next_review_date": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "resource_id"
+          ]
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "section",
+              "field_or_question",
+              "response_or_evidence"
+            ],
+            "properties": {
+              "section": {
+                "type": "string"
+              },
+              "field_or_question": {
+                "type": "string"
+              },
+              "guidance": {
+                "type": "string"
+              },
+              "response_or_evidence": {
+                "type": "string"
+              },
+              "owner": {
+                "type": "string"
+              },
+              "due_or_review_date": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "browser_draft": {
+      "title": "Browser drafting export",
+      "type": "object",
+      "required": [
+        "resource_id",
+        "title",
+        "version",
+        "exported_at",
+        "records"
+      ],
+      "properties": {
+        "resource_id": {
+          "const": "AIHE-B04"
+        },
+        "title": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "exported_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "Field": {
+                "type": "string"
+              },
+              "Guidance": {
+                "type": "string"
+              },
+              "Institutional response": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "Field",
+              "Guidance",
+              "Institutional response"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  }
 }

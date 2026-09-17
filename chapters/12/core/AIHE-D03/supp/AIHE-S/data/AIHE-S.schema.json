@@ -11,7 +11,10 @@
     "resource_id": {
       "const": "AIHE-S"
     },
-    "version": "V1.0",
+    "version": {
+      "type": "string",
+      "description": "Resource version, retained with the exported record."
+    },
     "current_printed_location": {
       "type": "string"
     },
@@ -38,5 +41,6 @@
         }
       }
     }
-  }
+  },
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-S.schema.json"
 }

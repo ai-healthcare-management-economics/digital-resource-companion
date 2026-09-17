@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-RG01.schema.json",
+  "title": "AIHE-RG01 — Framework Status and Selection Guide",
+  "description": "Distinguish legal instruments, standards, guidance, reporting guidelines, appraisal tools, implementation frameworks, and author-developed decision aids; select them according to function and authority. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "type": "object",
+  "required": [
+    "resource_id",
+    "title",
+    "version",
+    "exported_at",
+    "records"
+  ],
+  "properties": {
+    "resource_id": {
+      "const": "AIHE-RG01"
+    },
+    "title": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "exported_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Instrument or family": {
+            "type": "string"
+          },
+          "Status": {
+            "type": "string"
+          },
+          "Primary function": {
+            "type": "string"
+          },
+          "Appropriate use": {
+            "type": "string"
+          },
+          "Important limit": {
+            "type": "string"
+          },
+          "Jurisdiction or setting": {
+            "type": "string"
+          },
+          "Version or date": {
+            "type": "string"
+          },
+          "Owner": {
+            "type": "string"
+          },
+          "Next review": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Instrument or family",
+          "Status",
+          "Primary function",
+          "Appropriate use",
+          "Important limit",
+          "Jurisdiction or setting",
+          "Version or date",
+          "Owner",
+          "Next review"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": true
+}

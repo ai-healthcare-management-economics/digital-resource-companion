@@ -1,5 +1,7 @@
-# Resource Catalogues
+# Resource catalogues
 
-The V1.0 catalogue set is aligned with the current four-part, twelve-chapter book structure. It contains **126 active companion resources**, including 19 core institutional records, 16 worked examples plus the common case-analysis method, 36 Python analytical modules, 29 principal figures, and 38 tables (including two front-matter tables).
+V1.0 contains 126 resource identifiers: 19 core institutional records, 47 specialist tools, 16 worked cases, one common case-analysis method, seven reference guides, and 36 analytical modules. CSV and JSON preserve structured entries; XLSX provides a spreadsheet view.
 
-The CSV and JSON files are the machine-readable sources for generated website and distribution catalogues. The XLSX files provide reader-friendly spreadsheet views. Stable identifiers should be used in preference to printed page numbers.
+Separate figure and table indexes refer to the book's 29 figures and 38 tables, including two front-matter tables. Figure artwork is not redistributed in this collection. Consult the numbered figure in the printed or digital book; page references identify the supplied edition and are not persistent identifiers.
+
+`MASTER_RESOURCE_CATALOG` describes individual resources; `WORKED_CASE_CATALOG` describes cases; `PYTHON_MODULE_CATALOG` identifies executable files and input examples; `RESOURCE_RELATIONSHIP_MAP` records relationships. Preserve stable IDs and verify all paths after a structural change. The Reader Edition contains the six XLSX views rather than duplicate machine-readable exports.

@@ -2,80 +2,169 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-C04.schema.json",
   "title": "AIHE-C04 — Human Oversight and Accountability Matrix",
-  "description": "Assign accountability, responsibility, consultation, information, escalation, pause, update, restart, and retirement authority.",
-  "type": "object",
-  "properties": {
-    "resource_id": {
-      "const": "AIHE-C04"
+  "description": "Assign accountability, responsibility, consultation, information, escalation, pause, update, restart, and retirement authority. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "anyOf": [
+    {
+      "$ref": "#/$defs/canonical_record"
     },
-    "record_version": {
-      "type": "string"
-    },
-    "system_version": {
-      "type": "string"
-    },
-    "evidence_cut_off": {
-      "type": "string"
-    },
-    "accountable_owner": {
-      "type": "string"
-    },
-    "records": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "activity": {
-            "type": "string",
-            "title": "Activity"
-          },
-          "executive": {
-            "type": "string",
-            "title": "Executive"
-          },
-          "clinical": {
-            "type": "string",
-            "title": "Clinical"
-          },
-          "quality": {
-            "type": "string",
-            "title": "Quality"
-          },
-          "data_it": {
-            "type": "string",
-            "title": "Data/IT"
-          },
-          "economics": {
-            "type": "string",
-            "title": "Economics"
-          },
-          "ethics_risk": {
-            "type": "string",
-            "title": "Ethics/risk"
-          },
-          "procurement_vendor": {
-            "type": "string",
-            "title": "Procurement vendor"
-          }
-        },
-        "additionalProperties": true
-      }
+    {
+      "$ref": "#/$defs/browser_draft"
     }
-  },
-  "required": [
-    "resource_id",
-    "records"
   ],
-  "additionalProperties": true,
-  "x-column-map": {
-    "Activity": "activity",
-    "Executive": "executive",
-    "Clinical": "clinical",
-    "Quality": "quality",
-    "Data/IT": "data_it",
-    "Economics": "economics",
-    "Ethics/risk": "ethics_risk",
-    "Procurement vendor": "procurement_vendor"
-  },
-  "x-resource-version": "V1.0"
+  "$defs": {
+    "canonical_record": {
+      "type": "object",
+      "required": [
+        "metadata",
+        "records"
+      ],
+      "properties": {
+        "metadata": {
+          "type": "object",
+          "properties": {
+            "resource_id": {
+              "const": "AIHE-C04"
+            },
+            "resource_version": {
+              "type": "string"
+            },
+            "release_date": {
+              "type": "string"
+            },
+            "access_date": {
+              "type": "string"
+            },
+            "evidence_cut_off": {
+              "type": "string"
+            },
+            "local_modifications": {
+              "type": "string"
+            },
+            "organization": {
+              "type": "string"
+            },
+            "intervention": {
+              "type": "string"
+            },
+            "intervention_version": {
+              "type": "string"
+            },
+            "accountable_owner": {
+              "type": "string"
+            },
+            "decision_authority": {
+              "type": "string"
+            },
+            "next_review_date": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "resource_id"
+          ]
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "section",
+              "field_or_question",
+              "response_or_evidence"
+            ],
+            "properties": {
+              "section": {
+                "type": "string"
+              },
+              "field_or_question": {
+                "type": "string"
+              },
+              "guidance": {
+                "type": "string"
+              },
+              "response_or_evidence": {
+                "type": "string"
+              },
+              "owner": {
+                "type": "string"
+              },
+              "due_or_review_date": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "browser_draft": {
+      "title": "Browser drafting export",
+      "type": "object",
+      "required": [
+        "resource_id",
+        "title",
+        "version",
+        "exported_at",
+        "records"
+      ],
+      "properties": {
+        "resource_id": {
+          "const": "AIHE-C04"
+        },
+        "title": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "exported_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "Activity": {
+                "type": "string"
+              },
+              "Executive": {
+                "type": "string"
+              },
+              "Clinical": {
+                "type": "string"
+              },
+              "Quality": {
+                "type": "string"
+              },
+              "Data/IT": {
+                "type": "string"
+              },
+              "Economics": {
+                "type": "string"
+              },
+              "Ethics/risk": {
+                "type": "string"
+              },
+              "Procurement vendor": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "Activity",
+              "Executive",
+              "Clinical",
+              "Quality",
+              "Data/IT",
+              "Economics",
+              "Ethics/risk",
+              "Procurement vendor"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  }
 }

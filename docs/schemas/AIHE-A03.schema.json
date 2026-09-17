@@ -2,60 +2,153 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-A03.schema.json",
   "title": "AIHE-A03 — Institutional Readiness Assessment",
-  "description": "Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and sustainability readiness.",
-  "type": "object",
-  "properties": {
-    "resource_id": {
-      "const": "AIHE-A03"
+  "description": "Assess strategic, data, infrastructure, workflow, workforce, quality, economic, governance, procurement, and continuing support readiness. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "anyOf": [
+    {
+      "$ref": "#/$defs/canonical_record"
     },
-    "record_version": {
-      "type": "string"
-    },
-    "system_version": {
-      "type": "string"
-    },
-    "evidence_cut_off": {
-      "type": "string"
-    },
-    "accountable_owner": {
-      "type": "string"
-    },
-    "records": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "domain": {
-            "type": "string",
-            "title": "Domain"
-          },
-          "assessment_question": {
-            "type": "string",
-            "title": "Assessment question"
-          },
-          "field_0_4": {
-            "type": "string",
-            "title": "0–4"
-          },
-          "evidence_gap_prerequisite_and_owner": {
-            "type": "string",
-            "title": "Evidence, gap, prerequisite, and owner"
-          }
-        },
-        "additionalProperties": true
-      }
+    {
+      "$ref": "#/$defs/browser_draft"
     }
-  },
-  "required": [
-    "resource_id",
-    "records"
   ],
-  "additionalProperties": true,
-  "x-column-map": {
-    "Domain": "domain",
-    "Assessment question": "assessment_question",
-    "0–4": "field_0_4",
-    "Evidence, gap, prerequisite, and owner": "evidence_gap_prerequisite_and_owner"
-  },
-  "x-resource-version": "V1.0"
+  "$defs": {
+    "canonical_record": {
+      "type": "object",
+      "required": [
+        "metadata",
+        "records"
+      ],
+      "properties": {
+        "metadata": {
+          "type": "object",
+          "properties": {
+            "resource_id": {
+              "const": "AIHE-A03"
+            },
+            "resource_version": {
+              "type": "string"
+            },
+            "release_date": {
+              "type": "string"
+            },
+            "access_date": {
+              "type": "string"
+            },
+            "evidence_cut_off": {
+              "type": "string"
+            },
+            "local_modifications": {
+              "type": "string"
+            },
+            "organization": {
+              "type": "string"
+            },
+            "intervention": {
+              "type": "string"
+            },
+            "intervention_version": {
+              "type": "string"
+            },
+            "accountable_owner": {
+              "type": "string"
+            },
+            "decision_authority": {
+              "type": "string"
+            },
+            "next_review_date": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "resource_id"
+          ]
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "section",
+              "field_or_question",
+              "response_or_evidence"
+            ],
+            "properties": {
+              "section": {
+                "type": "string"
+              },
+              "field_or_question": {
+                "type": "string"
+              },
+              "guidance": {
+                "type": "string"
+              },
+              "response_or_evidence": {
+                "type": "string"
+              },
+              "owner": {
+                "type": "string"
+              },
+              "due_or_review_date": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "browser_draft": {
+      "title": "Browser drafting export",
+      "type": "object",
+      "required": [
+        "resource_id",
+        "title",
+        "version",
+        "exported_at",
+        "records"
+      ],
+      "properties": {
+        "resource_id": {
+          "const": "AIHE-A03"
+        },
+        "title": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "exported_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "Domain": {
+                "type": "string"
+              },
+              "Assessment question": {
+                "type": "string"
+              },
+              "Status": {
+                "type": "string"
+              },
+              "Evidence, gap, prerequisite, and owner": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "Domain",
+              "Assessment question",
+              "Status",
+              "Evidence, gap, prerequisite, and owner"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": true
+    }
+  }
 }

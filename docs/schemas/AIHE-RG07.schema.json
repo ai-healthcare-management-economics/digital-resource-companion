@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-RG07.schema.json",
+  "title": "AIHE-RG07 — Common AI Adoption Failures and Corrective Actions",
+  "description": "Identify recurring technology-led, economic, workflow, evidence, governance, procurement, and lifecycle failures and record preventive controls. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "type": "object",
+  "required": [
+    "resource_id",
+    "title",
+    "version",
+    "exported_at",
+    "records"
+  ],
+  "properties": {
+    "resource_id": {
+      "const": "AIHE-RG07"
+    },
+    "title": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "exported_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Failure pattern": {
+            "type": "string"
+          },
+          "Observed or plausible": {
+            "type": "string"
+          },
+          "Evidence": {
+            "type": "string"
+          },
+          "Current control": {
+            "type": "string"
+          },
+          "Gap": {
+            "type": "string"
+          },
+          "Corrective action": {
+            "type": "string"
+          },
+          "Owner": {
+            "type": "string"
+          },
+          "Due date": {
+            "type": "string"
+          },
+          "Closure evidence": {
+            "type": "string"
+          },
+          "Residual risk": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Failure pattern",
+          "Observed or plausible",
+          "Evidence",
+          "Current control",
+          "Gap",
+          "Corrective action",
+          "Owner",
+          "Due date",
+          "Closure evidence",
+          "Residual risk"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": true
+}

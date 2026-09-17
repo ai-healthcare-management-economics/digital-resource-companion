@@ -1,6 +1,6 @@
 # AIHE-RG05 — Scenario Planning and Real-Options Worksheet
 
-**Aligned chapters:** 1, 6, 7, 8, 9, 12, and 15 
+**Aligned chapters:** 1, 6, 7, 8, 9, and 12 
 **Primary use:** test whether a decision remains defensible across plausible futures and whether staged commitments preserve useful options.
 
 ## Suggested scenarios

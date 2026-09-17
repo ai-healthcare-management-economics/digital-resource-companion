@@ -1,10 +1,13 @@
-# GitHub Pages Web Companion
+# Web Companion
 
-The Digital Resource Companion is developed and maintained independently by Muthana Zouri and Carmen Marinela Cumpăt to accompany Artificial Intelligence in Healthcare Management and Economics: Evidence, Value, Governance, and Lifecycle Decision-Making. The authors are responsible for its content, maintenance, and subsequent updates.
+**V1.0 | September 2026**
 
+The Digital Resource Companion is developed and maintained independently by Muthana Zouri and Carmen Marinela Cumpăt for *Artificial Intelligence in Healthcare Management and Economics: Evidence, Value, Governance, and Lifecycle Decision-Making*.
 
-This directory contains the public V1.0 Web Companion for *Artificial Intelligence in Healthcare Management and Economics: Evidence, Value, Governance, and Lifecycle Decision-Making*.
+`index.html` is the entry page. The site follows the twelve-chapter book and contains navigation for 126 catalogued resources, 19 core records, seven guides, sixteen worked cases plus their common method, and 36 analytical modules. Figure and table pages are reference indexes; numbered book artwork is not redistributed.
 
-The site preserves the cover-derived burgundy, charcoal, cream, and muted gold design while reflecting the current 15-chapter book, 19 core records, 16 worked examples, 36 Python modules, 29 principal figures, and 38 tables (including two front-matter tables).
+`schemas/index.html` lists the available JSON schemas. Current core schemas describe the canonical record and browser-draft representations; reference-guide schemas describe browser drafts. Schemas and form controls are structural aids, not evidence or authorization decisions.
 
-Canonical resource sources are maintained outside `docs/`. The website is a synchronized distribution layer and should be regenerated when source records, catalogues, cases, modules, figures, or tables change.
+Publish this `docs/` directory as the GitHub Pages source. All local site links are relative and `.nojekyll` is retained. The Reader Edition includes an offline website with its document links adjusted to the packaged files. External repository, DOI, Colab, and reference links require internet access.
+
+The live site may evolve after release. Preserve the archived V1.0 files for reproducibility. Source maintenance guidance is in the repository README. No server-side service is required for these browser pages.

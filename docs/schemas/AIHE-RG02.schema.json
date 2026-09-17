@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ai-healthcare-management-economics.github.io/digital-resource-companion/schemas/AIHE-RG02.schema.json",
+  "title": "AIHE-RG02 — Reporting and Appraisal Tool Selection Guide",
+  "description": "Match evidence type and study stage to current reporting and appraisal instruments without treating checklist completion as proof of validity, effectiveness, or regulatory conformity. Schema validation checks record structure only; it does not establish evidence quality or institutional authorization.",
+  "type": "object",
+  "required": [
+    "resource_id",
+    "title",
+    "version",
+    "exported_at",
+    "records"
+  ],
+  "properties": {
+    "resource_id": {
+      "const": "AIHE-RG02"
+    },
+    "title": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "exported_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Evidence or study type": {
+            "type": "string"
+          },
+          "Reporting instrument": {
+            "type": "string"
+          },
+          "Appraisal or complementary approach": {
+            "type": "string"
+          },
+          "Status": {
+            "type": "string"
+          },
+          "What it supports": {
+            "type": "string"
+          },
+          "What it does not establish": {
+            "type": "string"
+          },
+          "Version checked": {
+            "type": "string"
+          },
+          "Reviewer": {
+            "type": "string"
+          },
+          "Local evidence gap": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "Evidence or study type",
+          "Reporting instrument",
+          "Appraisal or complementary approach",
+          "Status",
+          "What it supports",
+          "What it does not establish",
+          "Version checked",
+          "Reviewer",
+          "Local evidence gap"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": true
+}
